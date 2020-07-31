@@ -1,5 +1,6 @@
 import io
 import os
+import sys
 import json
 import twint
 
@@ -25,7 +26,7 @@ if __name__ == '__main__':
         exit('arg is file or accounts')
 
     args = sys.argv
-    if args[1].endswith('.lst'):
+    if args[1].endswith('.lst') and os.path.isfile(args[1]):
         PAGES = [line.strip() for line in open(args[1]) if line.strip()]
     else:
         PAGES = args[1:]
@@ -36,7 +37,10 @@ if __name__ == '__main__':
 
         try:
             config = twint.Config()
-            config.Username = PAGE
+            if ' ' in PAGE:
+                config.Search = PAGE
+            else:
+                config.Username = PAGE
 
             if data:
                 timestamp = data[0]['created_at']
@@ -44,7 +48,7 @@ if __name__ == '__main__':
                 config.Since = timestamp.strftime('%Y-%m-%d %H:%M:%S')
 
             else:
-                config.Since = '2020-03-10'
+                config.Since = '2020-03-10 00:00:01'
 
 
             config.Store_json = True
