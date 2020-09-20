@@ -40,7 +40,7 @@ if __name__ == '__main__':
             if ' ' in PAGE:
                 config.Search = PAGE
             else:
-                config.Username = PAGE
+                config.Search = 'from:PAGE'
 
             if data:
                 timestamp = data[0]['created_at']
