@@ -40,10 +40,11 @@ if __name__ == '__main__':
     for PAGE in PAGES:
         file_name = './facebook/posts/{}.json'.format(PAGE)
         data = load_data(file_name)
+        print(PAGE)
 
         try:
             for post in facebook_scraper.get_posts(
-                PAGE, timeout=10, sleep=5, pages=10000
+                PAGE, timeout=10, pages=1000
             ):
                 if 'time' not in post or post['time'] is None:
                     continue
