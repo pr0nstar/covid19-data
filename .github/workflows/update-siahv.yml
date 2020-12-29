@@ -38,4 +38,3 @@ jobs:
           git add -A
           git commit -m "[ci] actualización"
           git push -q "https://$GH_TOKEN@github.com/pr0nstar/covid19-data.git" master
-©
