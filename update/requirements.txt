@@ -5,3 +5,4 @@ demjson
 unidecode
 numpy
 pandas
+xlrd
