@@ -119,7 +119,7 @@ def build_date(month):
     month = int(month)
     year = '2020'
 
-    if week < 4:
+    if month < 4:
         year = '2021'
 
     return '{}-{}'.format(year, month)
