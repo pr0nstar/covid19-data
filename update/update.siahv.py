@@ -114,7 +114,18 @@ def do_request(soup, cookies, data, raw=False, _try=1):
     return soup
 
 
-def parse_df(data_df, fecha_carga):
+def build_date(month):
+    # Por ahora hasta que agreguen el nuevo anho o corrijan el reportes-siahv
+    month = int(month)
+    year = '2020'
+
+    if week < 4:
+        year = '2021'
+
+    return '{}-{}'.format(year, month)
+
+
+def parse_df(data_df):
     data_df = data_df.loc[3:]
     data_df = data_df.loc[:, ~data_df.T.isna().T.all(axis=0)]
     data_df = data_df.iloc[:,:-1]
@@ -128,9 +139,7 @@ def parse_df(data_df, fecha_carga):
     data_df = data_df[~data_df.iloc[:, 0].str.contains('Total').fillna(False)]
 
     date_index = pd.to_datetime(
-        pd.Series(data_df.iloc[0, 2:]).apply(
-            lambda _: '{}-{}'.format(fecha_carga.split('-')[-1], _)
-        )
+        pd.Series(data_df.iloc[0, 2:]).apply(build_date)
     )
     data_df.iloc[0, 2:] = date_index
 
@@ -173,7 +182,7 @@ def fetch_data(soup, dept_key, dept_code):
     })
 
     fecha_carga = soup.select_one('#ContenidoPrincipal_lbl_fecha').text.split(' ')[-1]
-    fecha_carga
+    fecha_carga = pd.to_datetime(fecha_carga)
 
     content = do_request(soup, cookies, {
         'ContenidoPrincipal_ASPxComboBox1_VI': 1,
@@ -184,7 +193,7 @@ def fetch_data(soup, dept_key, dept_code):
     }, raw=True)
 
     data_df = pd.read_excel(io.BytesIO(content), header=None)
-    data_df = parse_df(data_df, fecha_carga)
+    data_df = parse_df(data_df)
 
     data_df['departamento'] = dept_key
     data_df = data_df.set_index('departamento', append=True)
@@ -192,7 +201,7 @@ def fetch_data(soup, dept_key, dept_code):
     data_df.index.names = ['municipio', 'edad', 'departamento']
     data_df = data_df.reorder_levels(['departamento', 'municipio', 'edad'])
 
-    return fecha_carga , data_df
+    return fecha_carga, data_df
 
 
 if __name__ == '__main__':
@@ -217,5 +226,7 @@ if __name__ == '__main__':
     death_df.columns.names = ['', '']
     death_df = death_df.fillna(0).astype(np.int64)
     death_df.to_csv(
-        './raw/bolivia/snis/siahv/{}.csv'.format(fecha_carga)
+        './raw/bolivia/snis/siahv/{}.csv'.format(
+            fecha_carga.strftime('%Y-%m-%d')
+        )
     )
