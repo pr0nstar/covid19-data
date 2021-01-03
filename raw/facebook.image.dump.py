@@ -54,11 +54,11 @@ if __name__ == '__main__':
             os.mkdir(base_path)
 
         for post in data:
-            image_name = '{}/{}.png'.format(base_path, post['post_id'])
-
-            if os.path.exists(image_name):
+            if os.path.exists('{}/{}_0.png'.format(base_path, post['post_id'])):
                 break
 
-            gpool.spawn(do_download, post['image'], image_name)
+            for idx, image in enumerate(post['images']):
+                image_name = '{}/{}_{}.png'.format(base_path, post['post_id'], idx)
+                gpool.spawn(do_download, image, image_name)
 
         gpool.join()
