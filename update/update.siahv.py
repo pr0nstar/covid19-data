@@ -139,7 +139,8 @@ def parse_df(data_df):
     data_df = data_df[~data_df.iloc[:, 0].str.contains('Total').fillna(False)]
 
     date_index = pd.to_datetime(
-        pd.Series(data_df.iloc[0, 2:]).apply(build_date)
+        pd.Series(data_df.iloc[0, 2:]).apply(build_date),
+        dayfirst=True
     )
     data_df.iloc[0, 2:] = date_index
 
