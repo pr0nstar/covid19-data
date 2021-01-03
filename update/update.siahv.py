@@ -139,8 +139,7 @@ def parse_df(data_df):
     data_df = data_df[~data_df.iloc[:, 0].str.contains('Total').fillna(False)]
 
     date_index = pd.to_datetime(
-        pd.Series(data_df.iloc[0, 2:]).apply(build_date),
-        dayfirst=True
+        pd.Series(data_df.iloc[0, 2:]).apply(build_date)
     )
     data_df.iloc[0, 2:] = date_index
 
@@ -183,7 +182,7 @@ def fetch_data(soup, dept_key, dept_code):
     })
 
     fecha_carga = soup.select_one('#ContenidoPrincipal_lbl_fecha').text.split(' ')[-1]
-    fecha_carga = pd.to_datetime(fecha_carga)
+    fecha_carga = pd.to_datetime(fecha_carga, dayfirst=True)
 
     content = do_request(soup, cookies, {
         'ContenidoPrincipal_ASPxComboBox1_VI': 1,
