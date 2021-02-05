@@ -20,3 +20,4 @@
 * [Seguimiento de contactos](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/contact.tracing.csv)
 * [Pruebas pendientes ministerio de salud](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.pending.csv)
 * [Pruebas descartadas y sospechosos SEDES](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.csv)
+* [Vacunados](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv)
