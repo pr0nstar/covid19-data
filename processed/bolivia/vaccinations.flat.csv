@@ -1,0 +1,107 @@
+fecha,departamento,vacuna_nombre,dosis,cantidad
+2021-02-02,Beni,Sputnik V,1,6
+2021-02-02,Chuquisaca,Sputnik V,1,122
+2021-02-02,Cochabamba,Sputnik V,1,278
+2021-02-02,La Paz,Sputnik V,1,12
+2021-02-02,Oruro,Sputnik V,1,26
+2021-02-02,Pando,Sputnik V,1,270
+2021-02-02,Potosi,Sputnik V,1,138
+2021-02-02,Santa Cruz,Sputnik V,1,647
+2021-02-02,Tarija,Sputnik V,1,90
+2021-02-03,Beni,Sputnik V,1,42
+2021-02-03,Chuquisaca,Sputnik V,1,181
+2021-02-03,Cochabamba,Sputnik V,1,409
+2021-02-03,La Paz,Sputnik V,1,349
+2021-02-03,Oruro,Sputnik V,1,80
+2021-02-03,Pando,Sputnik V,1,118
+2021-02-03,Potosi,Sputnik V,1,65
+2021-02-03,Santa Cruz,Sputnik V,1,617
+2021-02-03,Tarija,Sputnik V,1,110
+2021-02-04,Beni,Sputnik V,1,15
+2021-02-04,Chuquisaca,Sputnik V,1,1
+2021-02-04,Cochabamba,Sputnik V,1,357
+2021-02-04,La Paz,Sputnik V,1,669
+2021-02-04,Oruro,Sputnik V,1,89
+2021-02-04,Pando,Sputnik V,1,100
+2021-02-04,Potosi,Sputnik V,1,90
+2021-02-04,Santa Cruz,Sputnik V,1,129
+2021-02-04,Tarija,Sputnik V,1,162
+2021-02-05,Beni,Sputnik V,1,91
+2021-02-05,Chuquisaca,Sputnik V,1,225
+2021-02-05,Cochabamba,Sputnik V,1,325
+2021-02-05,La Paz,Sputnik V,1,753
+2021-02-05,Oruro,Sputnik V,1,105
+2021-02-05,Pando,Sputnik V,1,62
+2021-02-05,Potosi,Sputnik V,1,103
+2021-02-05,Santa Cruz,Sputnik V,1,245
+2021-02-05,Tarija,Sputnik V,1,349
+2021-02-06,Beni,Sputnik V,1,16
+2021-02-06,Chuquisaca,Sputnik V,1,1
+2021-02-06,La Paz,Sputnik V,1,76
+2021-02-06,Oruro,Sputnik V,1,112
+2021-02-06,Tarija,Sputnik V,1,1
+2021-02-07,Beni,Sputnik V,1,29
+2021-02-07,Oruro,Sputnik V,1,87
+2021-02-08,Beni,Sputnik V,1,209
+2021-02-08,Chuquisaca,Sputnik V,1,160
+2021-02-08,Cochabamba,Sputnik V,1,156
+2021-02-08,La Paz,Sputnik V,1,79
+2021-02-08,Oruro,Sputnik V,1,201
+2021-02-08,Potosi,Sputnik V,1,36
+2021-02-08,Santa Cruz,Sputnik V,1,241
+2021-02-08,Tarija,Sputnik V,1,71
+2021-02-09,Beni,Sputnik V,1,162
+2021-02-09,Chuquisaca,Sputnik V,1,86
+2021-02-09,Cochabamba,Sputnik V,1,141
+2021-02-09,La Paz,Sputnik V,1,49
+2021-02-09,Oruro,Sputnik V,1,15
+2021-02-09,Potosi,Sputnik V,1,31
+2021-02-09,Santa Cruz,Sputnik V,1,321
+2021-02-09,Tarija,Sputnik V,1,42
+2021-02-10,Beni,Sputnik V,1,17
+2021-02-10,Cochabamba,Sputnik V,1,8
+2021-02-10,La Paz,Sputnik V,1,19
+2021-02-10,Potosi,Sputnik V,1,353
+2021-02-10,Santa Cruz,Sputnik V,1,18
+2021-02-20,Beni,Sputnik V,1,16
+2021-02-20,Chuquisaca,Sputnik V,1,105
+2021-02-20,La Paz,Sputnik V,1,3
+2021-02-20,La Paz,Sputnik V,2,12
+2021-02-20,Potosi,Sputnik V,1,10
+2021-02-22,Chuquisaca,Sputnik V,2,10
+2021-02-22,Cochabamba,Sputnik V,2,24
+2021-02-22,Pando,Sputnik V,2,85
+2021-02-22,Potosi,Sputnik V,2,54
+2021-02-22,Tarija,Sputnik V,2,25
+2021-02-23,Beni,Sputnik V,2,6
+2021-02-23,Chuquisaca,Sputnik V,2,112
+2021-02-23,Cochabamba,Sputnik V,2,142
+2021-02-23,La Paz,Sputnik V,2,19
+2021-02-23,Oruro,Sputnik V,2,25
+2021-02-23,Pando,Sputnik V,2,154
+2021-02-23,Potosi,Sputnik V,2,69
+2021-02-23,Santa Cruz,Sputnik V,2,244
+2021-02-23,Tarija,Sputnik V,2,49
+2021-02-24,Beni,Sputnik V,2,36
+2021-02-24,Chuquisaca,Sputnik V,2,154
+2021-02-24,Cochabamba,Sputnik V,2,422
+2021-02-24,La Paz,Sputnik V,2,233
+2021-02-24,Oruro,Sputnik V,2,74
+2021-02-24,Pando,Sputnik V,2,110
+2021-02-24,Potosi,Sputnik V,2,50
+2021-02-24,Santa Cruz,Sputnik V,2,375
+2021-02-24,Tarija,Sputnik V,2,150
+2021-02-25,Beni,Sputnik V,2,1
+2021-02-25,Chuquisaca,Sputnik V,2,23
+2021-02-25,Cochabamba,Sputnik V,2,732
+2021-02-25,La Paz,Sputnik V,1,24
+2021-02-25,La Paz,Sputnik V,2,1654
+2021-02-25,La Paz,Sinopharm,1,10
+2021-02-25,Oruro,Sputnik V,2,182
+2021-02-25,Oruro,Sinopharm,1,202
+2021-02-25,Pando,Sputnik V,2,90
+2021-02-25,Potosi,Sputnik V,2,92
+2021-02-25,Santa Cruz,Sputnik V,2,1045
+2021-02-25,Santa Cruz,Sinopharm,1,1411
+2021-02-25,Tarija,Sputnik V,2,177
+2021-02-25,Tarija,Sinopharm,1,31
