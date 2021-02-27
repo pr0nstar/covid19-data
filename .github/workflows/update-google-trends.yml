@@ -1,7 +1,7 @@
-name: Update siahv data
+name: Update google trends
 on:
   schedule:
-    - cron: '0 0/6 * * *'
+    - cron: '0 0/12 * * *'
 jobs:
   update:
     name: update data
@@ -23,7 +23,7 @@ jobs:
       - name: run update script
         id: run_update_script
         run: |
-          python update/update.siahv.py
+          python update/update.google.trends.py
       - name: git status
         id: git-status
         run: |
@@ -36,5 +36,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git add -A
-          git commit -m "[ci] actualización siahv"
+          git commit -m "[ci] actualización google trends"
           git push -q "https://$GH_TOKEN@github.com/pr0nstar/covid19-data.git" master

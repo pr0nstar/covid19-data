@@ -6,3 +6,4 @@ unidecode
 numpy
 pandas
 xlrd
+pytrends

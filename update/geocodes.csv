@@ -1,0 +1,201 @@
+country,geoName,geo,geoCode
+Bolivia,Beni Department,BO,BO-B
+Bolivia,Chuquisaca Department,BO,BO-H
+Bolivia,Cochabamba Department,BO,BO-C
+Bolivia,La Paz Department,BO,BO-L
+Bolivia,Oruro Department,BO,BO-O
+Bolivia,Pando Department,BO,BO-N
+Bolivia,Potosi Department,BO,BO-P
+Bolivia,Santa Cruz,BO,BO-S
+Bolivia,Tarija Department,BO,BO-T
+Brasil,Federal District,BR,BR-DF
+Brasil,State of Acre,BR,BR-AC
+Brasil,State of Alagoas,BR,BR-AL
+Brasil,State of Amapá,BR,BR-AP
+Brasil,State of Amazonas,BR,BR-AM
+Brasil,State of Bahia,BR,BR-BA
+Brasil,State of Ceará,BR,BR-CE
+Brasil,State of Espírito Santo,BR,BR-ES
+Brasil,State of Goiás,BR,BR-GO
+Brasil,State of Maranhão,BR,BR-MA
+Brasil,State of Mato Grosso,BR,BR-MT
+Brasil,State of Mato Grosso do Sul,BR,BR-MS
+Brasil,State of Minas Gerais,BR,BR-MG
+Brasil,State of Paraná,BR,BR-PR
+Brasil,State of Paraíba,BR,BR-PB
+Brasil,State of Pará,BR,BR-PA
+Brasil,State of Pernambuco,BR,BR-PE
+Brasil,State of Piauí,BR,BR-PI
+Brasil,State of Rio Grande do Norte,BR,BR-RN
+Brasil,State of Rio Grande do Sul,BR,BR-RS
+Brasil,State of Rio de Janeiro,BR,BR-RJ
+Brasil,State of Rondônia,BR,BR-RO
+Brasil,State of Roraima,BR,BR-RR
+Brasil,State of Santa Catarina,BR,BR-SC
+Brasil,State of Sergipe,BR,BR-SE
+Brasil,State of São Paulo,BR,BR-SP
+Brasil,State of Tocantins,BR,BR-TO
+Peru,Amazonas,PE,PE-AMA
+Peru,Ancash,PE,PE-ANC
+Peru,Apurimac,PE,PE-APU
+Peru,Arequipa,PE,PE-ARE
+Peru,Ayacucho,PE,PE-AYA
+Peru,Cajamarca,PE,PE-CAJ
+Peru,Callao,PE,PE-CAL
+Peru,Cusco,PE,PE-CUS
+Peru,Huancavelica,PE,PE-HUV
+Peru,Huanuco,PE,PE-HUC
+Peru,Ica,PE,PE-ICA
+Peru,Junin,PE,PE-JUN
+Peru,La Libertad,PE,PE-LAL
+Peru,Lambayeque,PE,PE-LAM
+Peru,Lima Region,PE,PE-LIM
+Peru,Loreto,PE,PE-LOR
+Peru,Madre de Dios,PE,PE-MDD
+Peru,Moquegua,PE,PE-MOQ
+Peru,Pasco,PE,PE-PAS
+Peru,Piura,PE,PE-PIU
+Peru,Puno,PE,PE-PUN
+Peru,San Martin,PE,PE-SAM
+Peru,Tacna,PE,PE-TAC
+Peru,Tumbes,PE,PE-TUM
+Peru,Ucayali,PE,PE-UCA
+Chile,Antofagasta Region,CL,CL-AN
+Chile,Araucania,CL,CL-AR
+Chile,Arica y Parinacota Region,CL,CL-AP
+Chile,Atacama Region,CL,CL-AT
+Chile,Bío Bío Region,CL,CL-BI
+Chile,Coquimbo Region,CL,CL-CO
+Chile,Los Lagos Region,CL,CL-LL
+Chile,Los Ríos Region,CL,CL-LR
+Chile,Magallanes y la Antártica Chilena Region,CL,CL-MA
+Chile,Maule Region,CL,CL-ML
+Chile,O'Higgins Region,CL,CL-LI
+Chile,Santiago Metropolitan Region,CL,CL-RM
+Chile,Tarapacá Region,CL,CL-TA
+Chile,Valparaiso Region,CL,CL-VS
+Chile,XI Región,CL,CL-AI
+Argentina,Autonomous City of Buenos Aires,AR,AR-C
+Argentina,Buenos Aires Province,AR,AR-B
+Argentina,Catamarca Province,AR,AR-K
+Argentina,Chaco Province,AR,AR-H
+Argentina,Chubut Province,AR,AR-U
+Argentina,Cordoba,AR,AR-X
+Argentina,Corrientes Province,AR,AR-W
+Argentina,Entre Rios,AR,AR-E
+Argentina,Formosa Province,AR,AR-P
+Argentina,Jujuy,AR,AR-Y
+Argentina,La Pampa Province,AR,AR-L
+Argentina,La Rioja Province,AR,AR-F
+Argentina,Mendoza Province,AR,AR-M
+Argentina,Misiones Province,AR,AR-N
+Argentina,Neuquen,AR,AR-Q
+Argentina,Río Negro,AR,AR-R
+Argentina,Salta Province,AR,AR-A
+Argentina,San Juan Province,AR,AR-J
+Argentina,San Luis Province,AR,AR-D
+Argentina,Santa Cruz Province,AR,AR-Z
+Argentina,Santa Fe Province,AR,AR-S
+Argentina,Santiago del Estero Province,AR,AR-G
+Argentina,Tierra del Fuego Province,AR,AR-V
+Argentina,Tucumán,AR,AR-T
+Paraguay,Alto Paraguay,PY,PY-16
+Paraguay,Alto Parana,PY,PY-10
+Paraguay,Amambay Department,PY,PY-13
+Paraguay,Asunción,PY,PY-ASU
+Paraguay,Boqueron,PY,PY-19
+Paraguay,Caaguazu,PY,PY-5
+Paraguay,Caazapa,PY,PY-6
+Paraguay,Canindeyu,PY,PY-14
+Paraguay,Central,PY,PY-11
+Paraguay,Concepcion,PY,PY-1
+Paraguay,Cordillera,PY,PY-3
+Paraguay,Guaira,PY,PY-4
+Paraguay,Itapua,PY,PY-7
+Paraguay,Misiones,PY,PY-8
+Paraguay,Neembucu,PY,PY-12
+Paraguay,Paraguari,PY,PY-9
+Paraguay,Presidente Hayes Department,PY,PY-15
+Paraguay,San Pedro,PY,PY-2
+Ecuador,Azuay,EC,EC-A
+Ecuador,Bolívar Province,EC,EC-B
+Ecuador,Carchi Province,EC,EC-C
+Ecuador,Cañar Province,EC,EC-F
+Ecuador,Chimborazo Province,EC,EC-H
+Ecuador,Cotopaxi Province,EC,EC-X
+Ecuador,El Oro,EC,EC-O
+Ecuador,Esmeraldas Province,EC,EC-E
+Ecuador,Galápagos Islands,EC,EC-W
+Ecuador,Guayas,EC,EC-G
+Ecuador,Imbabura Province,EC,EC-I
+Ecuador,Loja,EC,EC-L
+Ecuador,Los Ríos Province,EC,EC-R
+Ecuador,Manabí Province,EC,EC-M
+Ecuador,Morona-Santiago Province,EC,EC-S
+Ecuador,Orellana Province,EC,EC-D
+Ecuador,Pastaza Province,EC,EC-Y
+Ecuador,Pichincha,EC,EC-P
+Ecuador,Provincia de Napo,EC,EC-N
+Ecuador,Santa Elena Province,EC,EC-SE
+Ecuador,Santo Domingo de los Tsáchilas Province,EC,EC-SD
+Ecuador,Sucumbíos Province,EC,EC-U
+Ecuador,Tungurahua,EC,EC-T
+Ecuador,Zamora-Chinchipe Province,EC,EC-Z
+Colombia,Amazonas Department,CO,CO-AMA
+Colombia,Antioquia,CO,CO-ANT
+Colombia,Arauca,CO,CO-ARA
+Colombia,Atlantico,CO,CO-ATL
+Colombia,Bogota,CO,CO-DC
+Colombia,Bolivar,CO,CO-BOL
+Colombia,Boyaca,CO,CO-BOY
+Colombia,Caldas,CO,CO-CAL
+Colombia,Caquetá,CO,CO-CAQ
+Colombia,Casanare,CO,CO-CAS
+Colombia,Cauca Department,CO,CO-CAU
+Colombia,Cesar,CO,CO-CES
+Colombia,Choco,CO,CO-CHO
+Colombia,Cordoba,CO,CO-COR
+Colombia,Cundinamarca,CO,CO-CUN
+Colombia,Guainia,CO,CO-GUA
+Colombia,Guaviare,CO,CO-GUV
+Colombia,Huila,CO,CO-HUI
+Colombia,La Guajira,CO,CO-LAG
+Colombia,Magdalena,CO,CO-MAG
+Colombia,Meta,CO,CO-MET
+Colombia,Narino,CO,CO-NAR
+Colombia,North Santander,CO,CO-NSA
+Colombia,Putumayo,CO,CO-PUT
+Colombia,Quindio,CO,CO-QUI
+Colombia,Risaralda,CO,CO-RIS
+Colombia,San Andrés and Providencia,CO,CO-SAP
+Colombia,Santander Department,CO,CO-SAN
+Colombia,Sucre,CO,CO-SUC
+Colombia,Tolima,CO,CO-TOL
+Colombia,Valle del Cauca,CO,CO-VAC
+Colombia,Vaupes,CO,CO-VAU
+Colombia,Vichada,CO,CO-VID
+Venezuela,Amazonas,VE,VE-Z
+Venezuela,Anzoategui,VE,VE-B
+Venezuela,Apure,VE,VE-C
+Venezuela,Aragua,VE,VE-D
+Venezuela,Barinas,VE,VE-E
+Venezuela,Bolívar,VE,VE-F
+Venezuela,Capital District,VE,VE-A
+Venezuela,Carabobo,VE,VE-G
+Venezuela,Cojedes,VE,VE-H
+Venezuela,Delta Amacuro,VE,VE-Y
+Venezuela,Falcón,VE,VE-I
+Venezuela,Federal Dependencies,VE,VE-W
+Venezuela,Guárico,VE,VE-J
+Venezuela,Lara,VE,VE-K
+Venezuela,Miranda,VE,VE-M
+Venezuela,Monagas,VE,VE-N
+Venezuela,Mérida,VE,VE-L
+Venezuela,Nueva Esparta,VE,VE-O
+Venezuela,Portuguesa,VE,VE-P
+Venezuela,Sucre,VE,VE-R
+Venezuela,Trujillo,VE,VE-T
+Venezuela,Táchira,VE,VE-S
+Venezuela,Vargas,VE,VE-X
+Venezuela,Yaracuy,VE,VE-U
+Venezuela,Zulia,VE,VE-V
