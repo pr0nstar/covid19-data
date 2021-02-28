@@ -19,9 +19,13 @@ RETRY_M = 2
 SLEEP_T = 3
 
 
-COL_GROUP = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader14'
+COL_ADD_1 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader14'
+COL_ADD_2 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader16'
+
+COL_BEFORE_1 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_sortedpgHeader13'
+COL_BEFORE_2 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_sortedpgHeader14'
+
 COL_GROUP_ID = 'ctl00$ContenidoPrincipal$pivotReporteCovid'
-COL_ADD = 'ctl00_ContenidoPrincipal_pivotReporteCovid_sortedpgHeader13'
 
 
 DEPTS = {
@@ -114,33 +118,24 @@ def do_request(soup, cookies, data, raw=False, _try=1):
     return soup
 
 
-def build_date(month):
-    # Por ahora hasta que agreguen el nuevo anho o corrijan el reportes-siahv
-    month = int(month)
-    year = '2020'
-
-    if month < 3:
-        year = '2021'
-
-    return '{}-{}'.format(year, month)
-
-
 def parse_df(data_df):
     data_df = data_df.loc[3:]
     data_df = data_df.loc[:, ~data_df.T.isna().T.all(axis=0)]
     data_df = data_df.iloc[:,:-1]
 
-    data_df.iloc[0] = data_df.iloc[0].fillna(method='ffill')
-    data_df = data_df[data_df.columns[
-        ~data_df.iloc[0].str.contains('Total').fillna(False)
-    ]]
+    data_df.iloc[:2] = data_df.iloc[:2].fillna(method='ffill', axis=1)
+    data_df = data_df[data_df.columns[~(
+        data_df.iloc[0].astype(str).str.contains('Total').fillna(False) |
+        data_df.iloc[1].str.contains('Total').fillna(False)
+    )]]
 
     data_df.iloc[:, 0] = data_df.iloc[:, 0].fillna(method='ffill')
     data_df = data_df[~data_df.iloc[:, 0].str.contains('Total').fillna(False)]
 
-    date_index = pd.to_datetime(
-        pd.Series(data_df.iloc[0, 2:]).apply(build_date)
-    )
+    date_index = data_df.iloc[:2].apply(lambda _: '{}-{}'.format(_.iloc[0], _.iloc[1]))
+    date_index = pd.to_datetime(date_index.iloc[2:])
+
+    data_df = data_df.iloc[1:]
     data_df.iloc[0, 2:] = date_index
 
     data_df.columns = pd.MultiIndex.from_frame(data_df.iloc[:2].T)
@@ -214,7 +209,13 @@ if __name__ == '__main__':
     # Agrega columna `mesDefuncion`
     soup = do_request(soup, cookies, {
         '__CALLBACKID': COL_GROUP_ID,
-        '__CALLBACKPARAM': '|'.join(['c0:D', COL_GROUP, COL_ADD, 'true'])
+        '__CALLBACKPARAM': '|'.join(['c0:D', COL_ADD_1, COL_BEFORE_1, 'true'])
+    })
+
+    # Agrega columna `Gestion`
+    soup = do_request(soup, cookies, {
+        '__CALLBACKID': COL_GROUP_ID,
+        '__CALLBACKPARAM': '|'.join(['c0:D', COL_ADD_2, COL_BEFORE_2, 'true'])
     })
 
     death_df = pd.DataFrame([])

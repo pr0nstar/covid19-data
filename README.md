@@ -21,4 +21,7 @@
 * [Pruebas pendientes ministerio de salud](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.pending.csv)
 * [Pruebas descartadas y sospechosos SEDES](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.csv)
 * [Vacunados acumulado](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv)
-* [Vacunados por vacuna](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.flat.csv) 
+* [Vacunados por vacuna](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.flat.csv)
+
+##### Extra:
+* [Google Trends "sintomas covid"](https://github.com/pr0nstar/covid19-data/blob/master/raw/google/trends)
