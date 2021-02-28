@@ -94,14 +94,28 @@ fecha,departamento,vacuna_nombre,dosis,cantidad
 2021-02-25,Beni,Sputnik V,2,1
 2021-02-25,Chuquisaca,Sputnik V,2,23
 2021-02-25,Cochabamba,Sputnik V,2,732
+2021-02-25,La Paz,Sinopharm,1,10
 2021-02-25,La Paz,Sputnik V,1,24
 2021-02-25,La Paz,Sputnik V,2,1654
-2021-02-25,La Paz,Sinopharm,1,10
-2021-02-25,Oruro,Sputnik V,2,182
 2021-02-25,Oruro,Sinopharm,1,202
+2021-02-25,Oruro,Sputnik V,2,182
 2021-02-25,Pando,Sputnik V,2,90
 2021-02-25,Potosi,Sputnik V,2,92
-2021-02-25,Santa Cruz,Sputnik V,2,1045
 2021-02-25,Santa Cruz,Sinopharm,1,1411
-2021-02-25,Tarija,Sputnik V,2,177
+2021-02-25,Santa Cruz,Sputnik V,2,1045
 2021-02-25,Tarija,Sinopharm,1,31
+2021-02-25,Tarija,Sputnik V,2,177
+2021-02-27,Beni,Sinopharm,1,46
+2021-02-27,Beni,Sputnik V,2,178
+2021-02-27,Chuquisaca,Sinopharm,1,994
+2021-02-27,Chuquisaca,Sputnik V,2,225
+2021-02-27,La Paz,Sinopharm,1,1674
+2021-02-27,Oruro,Sinopharm,1,3146
+2021-02-27,Oruro,Sputnik V,2,121
+2021-02-27,Pando,Sinopharm,1,183
+2021-02-27,Pando,Sputnik V,2,76
+2021-02-27,Potosi,Sinopharm,1,1
+2021-02-27,Potosi,Sputnik V,2,100
+2021-02-27,Santa Cruz,Sinopharm,1,3824
+2021-02-27,Tarija,Sinopharm,1,365
+2021-02-27,Tarija,Sputnik V,2,271
