@@ -95,7 +95,7 @@ def pickle_data(country_data):
 
             dept_path = os.path.join(country_path, dept_name)
 
-            dept = dept.T.drop_duplicates().T
+            dept = dept.T.drop_duplicates()
             dept.to_csv(dept_path + '.csv')
 
 
@@ -107,7 +107,11 @@ def unpickle_data():
 
         for dept_path in glob.glob(country_path + '/*.csv'):
             depth_name = os.path.basename(dept_path).rsplit('.', 1)[0]
-            country[depth_name] = pd.read_csv(dept_path, parse_dates=True, index_col='fecha')
+
+            dept_df = pd.read_csv(dept_path, index_col=0)
+            dept_df.columns = pd.to_datetime(dept_df.columns)
+
+            country[depth_name] = dept_df.T
 
         country_data[country_name] = country
 
@@ -118,7 +122,8 @@ if __name__ == '__main__':
     COUNTRIES = pd.read_csv('./update/geocodes.csv', index_col=['country', 'geoName'])
     country_data = unpickle_data()
 
-    for country in COUNTRIES.index.get_level_values(0).unique():
+    # for country in COUNTRIES.index.get_level_values(0).unique():
+    for country in ['Bolivia']:
         print(country)
         country_params = COUNTRIES.loc[country]
 
