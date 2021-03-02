@@ -36,7 +36,9 @@ def fetch_geo_sample(pytrend, geo_code, allow_partial):
         return
 
     if not allow_partial:
-        sample_df = sample_df[sample_df['isPartial'] == 'False']
+        sample_df = sample_df[
+            (sample_df['isPartial'] == 'False')|(sample_df['isPartial'] == False)
+        ]
 
     sample_df = sample_df[QUERY]
 
@@ -90,12 +92,12 @@ def pickle_data(country_data):
 
         for dept_name in country.keys():
             dept = country[dept_name]
-            dept.index.name = 'fecha'
-            dept.columns = [*range(len(dept.columns))]
+            dept = dept.T.drop_duplicates().dropna(how='all')
+
+            dept.columns.name = 'fecha'
+            dept.index = [*range(len(dept.index))]
 
             dept_path = os.path.join(country_path, dept_name)
-
-            dept = dept.T.drop_duplicates()
             dept.to_csv(dept_path + '.csv')
 
 
@@ -127,7 +129,9 @@ if __name__ == '__main__':
         country_params = COUNTRIES.loc[country]
 
         data = country_data.get(country, {})
-        data = fetch_dept_samples(country_params['geoCode'], data, allow_partial=False)
+        data = fetch_dept_samples(
+            country_params['geoCode'], data, allow_partial=False
+        )
 
         country_data[country] = data
 
