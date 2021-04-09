@@ -7,7 +7,7 @@ import sys
 from datetime import datetime as dt
 
 def get_auth_data():
-    with io.open('../../../../gente/twitter.data') as f:
+    with io.open('../../../../../gente/twitter.data') as f:
         data = [_.strip().split(':') for _ in f if _]
 
     return dict(data)

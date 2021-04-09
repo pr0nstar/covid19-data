@@ -14,10 +14,10 @@
 
 ##### SNIS:
 * [Fallecidos en la base de datos de Vigilancia Epidemiologica 2017-2020](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/estadisticas.reportes_dinamicos) ([*](https://estadisticas.minsalud.gob.bo/Reportes_Dinamicos/Menu_rep_dinamicos.aspx))
-* [Fallecidos en la base de datos de Hechos Vitales 2020-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
+* [Fallecidos COVID-19 en la base de datos de Hechos Vitales 2020-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
 
 ##### Procesados:
-* [Seguimiento de contactos](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/contact.tracing.csv)
+* [Seguimiento de contactos](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/contact.tracing.csv) (Archivado)
 * [Pruebas pendientes ministerio de salud](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.pending.csv)
 * [Pruebas descartadas y sospechosos SEDES](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.csv)
 * [Vacunados por dosis](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv)
@@ -25,5 +25,6 @@
 ### Datos+ Covid-19 - Extra
 
 * [Google Trends "sintomas covid"](https://github.com/pr0nstar/covid19-data/blob/master/raw/google/trends)
-* [PAHO Casos (subdivision administrativa de primer nivel)](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/confirmed.timeline.csv)([*](https://paho-covid19-response-who.hub.arcgis.com/datasets/uvw-daily-reports-amro-adm1-output-new-view))
-* [PAHO Fallecidos (subdivision administrativa de primer nivel)](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/deaths.timeline.csv)
+* PAHO COVID-19 response ([*](https://paho-covid19-response-who.hub.arcgis.com/datasets/uvw-daily-reports-amro-adm1-output-new-view))
+  * [Casos](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/confirmed.timeline.csv)
+  * [Fallecidos](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/deaths.timeline.csv)
