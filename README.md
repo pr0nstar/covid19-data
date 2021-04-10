@@ -14,7 +14,8 @@
 
 ##### SNIS:
 * [Fallecidos en la base de datos de Vigilancia Epidemiologica 2017-2020](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/estadisticas.reportes_dinamicos) ([*](https://estadisticas.minsalud.gob.bo/Reportes_Dinamicos/Menu_rep_dinamicos.aspx))
-* [Fallecidos COVID-19 en la base de datos de Hechos Vitales 2020-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
+* [Fallecidos COVID-19 en la base de datos de Hechos Vitales 2020-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv/covid) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
+* [Fallecidos en la base de datos de Hechos Vitales 2015-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv/defuncion.general) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
 
 ##### Procesados:
 * [Seguimiento de contactos](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/contact.tracing.csv) (Archivado)

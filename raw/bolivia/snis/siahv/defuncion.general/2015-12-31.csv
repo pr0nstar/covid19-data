@@ -1,0 +1,680 @@
+departamento,municipio,establecimiento,cie 10 a,cie 10 b,cie 10 c,cie 10 d,cie 10 e,cie 10 f,dato total
+CHUQUISACA,SUCRE,GINECO OBSTETRICO (CHQ),R57.1-Choque hipovolemico,K66.1-Hemoperitoneo,O71.0-Ruptura del utero antes del inicio del trabajo de parto,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,0-NINGUNO,"I50.9-Insuficiencia cardiaca, no especificada","N18.9-Insuficiencia renal cronica, no especificada","D68.9-Defecto de la coagulacion, no especificado",0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,I50  -Insuficiencia cardiaca,"I42.9-Cardiomiopatia, no especificada",0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,0-NINGUNO,"N17.9-Insuficiencia renal aguda, no especificada",J80  -Sindrome de dificultad respiratoria del adulto,"K72.9-Insuficiencia hepatica, no especificada",E87.2-Acidosis,K65  -Peritonitis,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,"A40.9-Septicemia estreptococica, no especificada","Q43.9-Malformacion congenita del intestino, no especificada",R10.0-Abdomen agudo,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,"A41.9-Septicemia, no especificada","A40.9-Septicemia estreptococica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,"A41.9-Septicemia, no especificada",S06  -Traumatismo intracraneal,L89  -Ulcera de decubito,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,D13.4-Tumor benigno del higado,K83.0-Colangitis,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,J80  -Sindrome de dificultad respiratoria del adulto,J80  -Sindrome de dificultad respiratoria del adulto,"A41.9-Septicemia, no especificada","A40.9-Septicemia estreptococica, no especificada",K56.6-Otras obstrucciones intestinales y las no especificadas,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,J96.0-Insuficiencia respiratoria aguda,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,R57.0-Choque cardiogenico,I50  -Insuficiencia cardiaca,I27.0-Hipertension pulmonar primaria,I42.0-Cardiomiopatia dilatada,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,R57.1-Choque hipovolemico,E86  -Deplecion del volumen,K56.4-Otras obstrucciones del intestino,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,HOSP. GASTROENTEROLOGICO,R99  -Otras causas mal definidas y las no especificadas de mortalidad,"A41.9-Septicemia, no especificada",R99  -Otras causas mal definidas y las no especificadas de mortalidad,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,1
+LA PAZ,LA PAZ,ALTO MIRAFLORES,I22  -Infarto subsecuente del miocardio,"J40  -Bronquitis, no especificada como aguda o cronica",E44  -Desnutricion proteicocalorica de grado moderado y leve,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+LA PAZ,EL ALTO,CLINICA FIDES,0-NINGUNO,J85.0-Gangrena y necrosis del pulmon,"E14.9-Diabetes mellitus, no especificada, sin mencion de complicacion",K85  -Pancreatitis aguda,"K27.9-Ulcera peptica, no especificada como aguda ni cronica, sin hemorragia ni perforacion",0-NINGUNO,1
+LA PAZ,LA PAZ,HOSPITAL MATERNO INFANTIL,"A41.9-Septicemia, no especificada","N39.0-Infeccion de vias urinarias, sitio no especificado","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+LA PAZ,LA PAZ,HOSPITAL METODISTA,"J98.9-Trastorno respiratorio, no especificado","U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. OBRERO N° 2 CNS,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,I50.0-Insuficiencia cardiaca congestiva,"Q24.9-Malformacion congenita del corazon, no especificada",C21  -Tumor maligno del ano y del conducto anal,C80  -Tumor maligno de sitios no especificados,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,POLICONSULTORIO C.S. BANCA PRIVADA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,C.S. DISP. SANTA JOAQUINA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,CENTRO DE SALUD EPIDEMIOLOGICO,X78  -Lesion autoinfligida intencionalmente por objeto cortante,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,CLINICA URME,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+ORURO,CORQUE,HOSPITAL SAN JUAN BAUTISTA CORQUE,0-NINGUNO,"N41.9-Enfermedad inflamatoria de la prostata, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,CORQUE,HUAYLLAPACHA,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,CARACOLLO,HUERTA PAMPA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,MACHACAMARCA,MACHACAMARCA HNA. MONICA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ANDAMARCA,ORINOCA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+ORURO,ANDAMARCA,ORINOCA,"V49.0-Conductor de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,"POLICONSULTORIO ""SAN JUAN DE DIOS""",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,SORACACHI,SORACACHI,"W79.0-Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias, en vivienda",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,VINTO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+POTOSI,UYUNI,HOSP. OBRERO C.N.S.,"J18.9-Neumonia, no especificada",J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+TARIJA,YACUIBA,CAIZA,0-NINGUNO,0-NINGUNO,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,1
+TARIJA,YACUIBA,CAIZA,0-NINGUNO,0-NINGUNO,C79.8-Tumor maligno secundario de otros sitios especificados,0-NINGUNO,A06.0-Disenteria amebiana aguda,0-NINGUNO,1
+TARIJA,TARIJA,CLINICA CIES TARIJA,R09.2-Paro respiratorio,C19  -Tumor maligno de la union rectosigmoidea,K56.2-Volvulo,"K45.8-Otras hernias de la cavidad abdominal especificadas, sin obstruccion ni gangrena",0-NINGUNO,0-NINGUNO,1
+TARIJA,YACUIBA,TIERRAS NUEVAS,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","I50.9-Insuficiencia cardiaca, no especificada",I98.1-Trastornos cardiovasculares en otras enfermedades infecciosas y parasitarias clasificadas en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,18 DE MARZO,S06  -Traumatismo intracraneal,V98  -Otros accidentes de transporte especificados,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,"C71.0-Tumor maligno del cerebro, excepto lobulos y ventriculos","C50.9-Tumor maligno de la mama, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSP.  DE NIÑOS,"A41.9-Septicemia, no especificada",R99  -Otras causas mal definidas y las no especificadas de mortalidad,I27.0-Hipertension pulmonar primaria,Q90  -Sindrome de Down,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,0-NINGUNO,C01  -Tumor maligno de la base de la lengua,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,0-NINGUNO,R57.2-Choque séptico,0-NINGUNO,"C82.9-Linfoma no Hodgkin folicular, sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,D61  -Otras anemias aplasticas,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,LA REFORMA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,LAS BARRERAS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,VIRGEN DE COTOCA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,WILLE LEMAITRE,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,YAPACANI,YAPACANI,0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada",B57  -Enfermedad de Chagas,"E11.3-Diabetes mellitus no insulinodependiente, con complicaciones oftalmicas",0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,0-NINGUNO,E44.0-Desnutricion proteicocalorica moderada,"J15  -Neumonia bacteriana, no clasificada en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,0-NINGUNO,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,0-NINGUNO,"I50.9-Insuficiencia cardiaca, no especificada","J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,0-NINGUNO,J96.1-Insuficiencia respiratoria cronica,K56  -Ileo paralitico y obstruccion intestinal sin hernia,R18  -Ascitis,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,I10  -Hipertension esencial (primaria),N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,"I49.9-Arritmia cardiaca, no especificada","J15.9-Neumonia bacteriana, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,I50.0-Insuficiencia cardiaca congestiva,I11.0-Enfermedad cardiaca hipertensiva con insuficiencia cardiaca (congestiva),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,J43  -Enfisema,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,J96.1-Insuficiencia respiratoria cronica,I50.0-Insuficiencia cardiaca congestiva,D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,J96.1-Insuficiencia respiratoria cronica,I50.0-Insuficiencia cardiaca congestiva,I10  -Hipertension esencial (primaria),L08  -Otras infecciones locales de la piel y del tejido subcutaneo,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,"J96.9-Insuficiencia respiratoria, no especificada","I50.9-Insuficiencia cardiaca, no especificada","F03  -Demencia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,N17  -Insuficiencia renal aguda,D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,N18.0-Insuficiencia renal terminal,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,P29.0-Insuficiencia cardiaca neonatal,J96.1-Insuficiencia respiratoria cronica,G93.4-Encefalopatia no especificada,P27.1-Displasia broncopulmonar originada en el periodo perinatal,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,S06  -Traumatismo intracraneal,V29.9-Motociclista [cualquiera] lesionado en accidente de transito no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SAN IGNACIO,CENTRO DE SALUD INTEGRAL 3 DE NOVIEMBRE,V99  -Accidente de transporte no especificado,"W70.4-Ahogamiento y sumersion posterior a caida en aguas naturales, en calles y carreteras",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,CLINICA 4 DE DICIEMBRE,E11  -Diabetes mellitus no insulinodependiente,E11  -Diabetes mellitus no insulinodependiente,E11  -Diabetes mellitus no insulinodependiente,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,CLINICA 4 DE DICIEMBRE,"K46.0-Hernia abdominal no especificada, con obstruccion, sin gangrena","K46.0-Hernia abdominal no especificada, con obstruccion, sin gangrena","K46.0-Hernia abdominal no especificada, con obstruccion, sin gangrena","K46.0-Hernia abdominal no especificada, con obstruccion, sin gangrena",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,CLINICA 4 DE DICIEMBRE,T71  -Asfixia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,CLINICA 4 DE DICIEMBRE,"X70  -Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,C46.1-Sarcoma de Kaposi del tejido blando,0-NINGUNO,"C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,I22  -Infarto subsecuente del miocardio,D53  -Otras anemias nutricionales,"C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,I50  -Insuficiencia cardiaca,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,0-NINGUNO,N18  -Insuficiencia renal cronica,0-NINGUNO,C53.0-Tumor maligno del endocervix,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,"E46  -Desnutricion proteicocalorica, no especificada",A09  -Diarrea y gastroenteritis de presunto origen infeccioso,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A19  -Tuberculosis miliar,0-NINGUNO,0-NINGUNO,0-NINGUNO,F78  -Otros tipos de retraso mental,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A19  -Tuberculosis miliar,A87.8-Otras meningitis virales,A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,E86  -Deplecion del volumen,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,A41.8-Otras septicemias especificadas,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,"E14  -Diabetes mellitus, no especificada",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,E77.8-Otros trastornos del metabolismo de las glucoproteinas,K86.1-Otras pancreatitis cronicas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,"G03.9-Meningitis, no especificada",J98.4-Otros trastornos del pulmon,0-NINGUNO,E86  -Deplecion del volumen,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,"I27.9-Enfermedad pulmonar del corazon, no especificada","J18  -Neumonia, organismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,K56.4-Otras obstrucciones del intestino,C54  -Tumor maligno del cuerpo del utero,0-NINGUNO,"N18.9-Insuficiencia renal cronica, no especificada",D64  -Otras anemias,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,K56.6-Otras obstrucciones intestinales y las no especificadas,C54  -Tumor maligno del cuerpo del utero,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,K65  -Peritonitis,K63.1-Perforacion del intestino (no traumatica),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,"K72.9-Insuficiencia hepatica, no especificada",C22  -Tumor maligno del higado y de las vias biliares intrahepaticas,0-NINGUNO,R18  -Ascitis,"K92.2-Hemorragia gastrointestinal, no especificada",1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,M32  -Lupus eritematoso sistemico,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,L95.8-Otras vasculitis limitadas a la piel,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,"M86.9-Osteomielitis, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A40  -Septicemia estreptococica,"R02  -Gangrena, no clasificada en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A40.1-Septicemia debida a estreptococo, grupo B",I48  -Fibrilacion y aleteo auricular,E87.2-Acidosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A41  -Otras septicemias,C54  -Tumor maligno del cuerpo del utero,D53  -Otras anemias nutricionales,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A41  -Otras septicemias,E13  -Otras diabetes mellitus especificadas,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A41  -Otras septicemias,E13  -Otras diabetes mellitus especificadas,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,A41  -Otras septicemias,K35.0-Apendicitis aguda con peritonitis generalizada,K63.1-Perforacion del intestino (no traumatica),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada",A40  -Septicemia estreptococica,N15.1-Absceso renal y perirrenal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada",A41.8-Otras septicemias especificadas,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada",C79.8-Tumor maligno secundario de otros sitios especificados,B97.7-Papilomavirus como causa de enfermedades clasificadas en otros capitulos,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada","G04.9-Encefalitis, mielitis y encefalomielitis, no especificadas",N18.0-Insuficiencia renal terminal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada","J18.9-Neumonia, no especificada","A15.3-Tuberculosis del pulmon, confirmada por medios no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada","L02  -Absceso cutaneo, furunculo y antrax",D64  -Otras anemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada","M72.9-Trastorno fibroblastico, no especificado",M33.2-Polimiositis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"A41.9-Septicemia, no especificada",N18  -Insuficiencia renal cronica,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C16  -Tumor maligno del estomago,D53  -Otras anemias nutricionales,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C19.9-Unión rectosigmoidea,R09.2-Paro respiratorio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C22.0-Carcinoma de celulas hepaticas,A40  -Septicemia estreptococica,R18  -Ascitis,C22.0-Carcinoma de celulas hepaticas,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C32  -Tumor maligno de la laringe,"J96.9-Insuficiencia respiratoria, no especificada",J85.3-Absceso del mediastino,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada","J18.0-Bronconeumonia, no especificada","C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada","C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C53  -Tumor maligno del cuello del utero,N17  -Insuficiencia renal aguda,A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C61  -Tumor maligno de la prostata,C61  -Tumor maligno de la prostata,C61  -Tumor maligno de la prostata,C61  -Tumor maligno de la prostata,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"C64  -Tumor maligno del riñon, excepto de la pelvis renal",N17  -Insuficiencia renal aguda,"C64  -Tumor maligno del riñon, excepto de la pelvis renal","C64  -Tumor maligno del riñon, excepto de la pelvis renal",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,C78.0-Tumor maligno secundario del pulmon,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,"I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,D64  -Otras anemias,J44  -Otras enfermedades pulmonares obstructivas cronicas,C17.0-Tumor maligno del duodeno,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E13  -Otras diabetes mellitus especificadas,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E13  -Otras diabetes mellitus especificadas,E86  -Deplecion del volumen,R50  -Fiebre de origen desconocido,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"E46  -Desnutricion proteicocalorica, no especificada","A15  -Tuberculosis respiratoria, confirmada bacteriologica e histologicamente",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"E46  -Desnutricion proteicocalorica, no especificada",D64  -Otras anemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"E46  -Desnutricion proteicocalorica, no especificada",L89  -Ulcera de decubito,"E46  -Desnutricion proteicocalorica, no especificada","E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,A40  -Septicemia estreptococica,A02  -Otras infecciones debidas a Salmonella,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,A40  -Septicemia estreptococica,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,A40  -Septicemia estreptococica,"N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,A41  -Otras septicemias,K65  -Peritonitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,"A41.9-Septicemia, no especificada",E16.8-Otros trastornos especificados de la secrecion interna del pancreas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,"A41.9-Septicemia, no especificada",L89  -Ulcera de decubito,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,E13  -Otras diabetes mellitus especificadas,A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E77.8-Otros trastornos del metabolismo de las glucoproteinas,T34.4-Congelamiento con necrosis tisular del brazo,I74.9-Embolia y trombosis de arteria no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E86  -Deplecion del volumen,D53  -Otras anemias nutricionales,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E86  -Deplecion del volumen,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E87.2-Acidosis,A40  -Septicemia estreptococica,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E87.2-Acidosis,E86  -Deplecion del volumen,N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,E87.2-Acidosis,N17  -Insuficiencia renal aguda,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,G12.2-Enfermedades de las neuronas motoras,G93.2-Hipertension intracraneal benigna,S06.4-Hemorragia epidural,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,G12.2-Enfermedades de las neuronas motoras,G93.2-Hipertension intracraneal benigna,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RIBERALTA,H.B. RIBERALTA,G12.2-Enfermedades de las neuronas motoras,"I61.5-Hemorragia intraencefalica, intraventricular",0-NINGUNO,I11  -Enfermedad cardiaca hipertensiva,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,G12.2-Enfermedades de las neuronas motoras,"S06.9-Traumatismo intracraneal, no especificado","T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,G12.2-Enfermedades de las neuronas motoras,"T00.9-Traumatismos superficiales multiples, no especificados",S06.8-Otros traumatismos intracraneales,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,G93.2-Hipertension intracraneal benigna,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I10  -Hipertension esencial (primaria),"I21.9-Infarto agudo del miocardio, sin otra especificacion",I20.0-Angina inestable,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I10  -Hipertension esencial (primaria),N18  -Insuficiencia renal cronica,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I10  -Hipertension esencial (primaria),R18  -Ascitis,C22  -Tumor maligno del higado y de las vias biliares intrahepaticas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I20.0-Angina inestable,J81  -Edema pulmonar,R57.0-Choque cardiogenico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I21  -Infarto agudo del miocardio,A40  -Septicemia estreptococica,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I21.9-Infarto agudo del miocardio, sin otra especificacion","I21.9-Infarto agudo del miocardio, sin otra especificacion","I21.9-Infarto agudo del miocardio, sin otra especificacion","I21.9-Infarto agudo del miocardio, sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I25.8-Otras formas de enfermedad isquemica cronica del corazon,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,E87.2-Acidosis,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,I50  -Insuficiencia cardiaca,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,"J18.0-Bronconeumonia, no especificada",E87.2-Acidosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,"J18.0-Bronconeumonia, no especificada",N11.1-Pielonefritis cronica obstructiva,0-NINGUNO,M62.3-Sindrome de inmovilidad (paraplejico),0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,"J18.9-Neumonia, no especificada","M05.9-Artritis reumatoidea seropositiva, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,K45  -Otras hernias de la cavidad abdominal,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I31.9-Enfermedad del pericardio, no especificada",I31.1-Pericarditis constrictiva cronica,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I46  -Paro cardiaco,E87.2-Acidosis,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I46  -Paro cardiaco,I50  -Insuficiencia cardiaca,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I46  -Paro cardiaco,"S00.9-Traumatismo superficial de la cabeza, parte no especificada","S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I46.9-Paro cardiaco, no especificado",I48  -Fibrilacion y aleteo auricular,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I46.9-Paro cardiaco, no especificado",N19  -Insuficiencia renal no especificada,E87.2-Acidosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I46.9-Paro cardiaco, no especificado",R10.0-Abdomen agudo,"I21.9-Infarto agudo del miocardio, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I46.9-Paro cardiaco, no especificado","S06.9-Traumatismo intracraneal, no especificado","I62.9-Hemorragia intracraneal (no traumatica), no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I47.0-Arritmia por reentrada ventricular,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I49  -Otras arritmias cardiacas,"I51.9-Enfermedad cardiaca, no especificada",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I49.8-Otras arritmias cardiacas especificadas,E86  -Deplecion del volumen,"A41.9-Septicemia, no especificada",0-NINGUNO,E13  -Otras diabetes mellitus especificadas,"K29.5-Gastritis cronica, no especificada",1
+BENI,RIBERALTA,H.B. RIBERALTA,I50  -Insuficiencia cardiaca,0-NINGUNO,"M79.2-Neuralgia y neuritis, no especificadas",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I50  -Insuficiencia cardiaca,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I50  -Insuficiencia cardiaca,N18  -Insuficiencia renal cronica,E77.8-Otros trastornos del metabolismo de las glucoproteinas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I50.9-Insuficiencia cardiaca, no especificada","J06.9-Infeccion aguda de las vias respiratorias superiores, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I60  -Hemorragia subaracnoidea,0-NINGUNO,0-NINGUNO,0-NINGUNO,K35  -Apendicitis aguda,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I61.9-Hemorragia intraencefalica, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","A41.9-Septicemia, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,E13  -Otras diabetes mellitus especificadas,E78.2-Hiperlipidemia mixta,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),I48  -Fibrilacion y aleteo auricular,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),S06  -Traumatismo intracraneal,S06  -Traumatismo intracraneal,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I48  -Fibrilacion y aleteo auricular,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","I61.0-Hemorragia intracerebral en hemisferio, subcortical",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",N18  -Insuficiencia renal cronica,"G81.9-Hemiplejia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,I82  -Otras embolias y trombosis venosas,"J18  -Neumonia, organismo no especificado",K43.9-Hernia ventral sin obstruccion ni gangrena,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J06  -Infecciones agudas de las vias respiratorias superiores, de sitios multiples o no especificados","A16.2-Tuberculosis del pulmon, sin mencion de confirmacion bacteriologica o histologica",K29.6-Otras gastritis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J06  -Infecciones agudas de las vias respiratorias superiores, de sitios multiples o no especificados","I46.9-Paro cardiaco, no especificado",D73.3-Absceso del bazo,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J06  -Infecciones agudas de las vias respiratorias superiores, de sitios multiples o no especificados",N17  -Insuficiencia renal aguda,K65  -Peritonitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18  -Neumonia, organismo no especificado",N18.0-Insuficiencia renal terminal,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,N39  -Otros trastornos del sistema urinario,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.0-Bronconeumonia, no especificada","I61.9-Hemorragia intraencefalica, no especificada",I11  -Enfermedad cardiaca hipertensiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.0-Bronconeumonia, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.0-Bronconeumonia, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,S79  -Otros traumatismos y los no especificados de la cadera y del muslo,A41  -Otras septicemias,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.0-Bronconeumonia, no especificada","K92.2-Hemorragia gastrointestinal, no especificada",I63  -Infarto cerebral,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.0-Bronconeumonia, no especificada",N18  -Insuficiencia renal cronica,T88.9-Complicaciones no especificadas de la atencion medica y quirurgica,0-NINGUNO,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.9-Neumonia, no especificada","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada","A15  -Tuberculosis respiratoria, confirmada bacteriologica e histologicamente",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J18.9-Neumonia, no especificada",J90  -Derrame pleural no clasificado en otra parte,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J44  -Otras enfermedades pulmonares obstructivas cronicas,"J18.0-Bronconeumonia, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J44  -Otras enfermedades pulmonares obstructivas cronicas,"J18.0-Bronconeumonia, no especificada",J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J44  -Otras enfermedades pulmonares obstructivas cronicas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J44  -Otras enfermedades pulmonares obstructivas cronicas,J44  -Otras enfermedades pulmonares obstructivas cronicas,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J81  -Edema pulmonar,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,N39  -Otros trastornos del sistema urinario,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,C78  -Tumor maligno secundario de los organos respiratorios y digestivos,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J86.9-Piotorax sin fistula,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J93.0-Neumotorax espontaneo a presion,"J18.9-Neumonia, no especificada","E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J94.8-Otras afecciones especificadas de la pleura,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,J94.8-Otras afecciones especificadas de la pleura,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","I42.9-Cardiomiopatia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J96.9-Insuficiencia respiratoria, no especificada","J18.9-Neumonia, no especificada",A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J96.9-Insuficiencia respiratoria, no especificada","J18.9-Neumonia, no especificada",J85.2-Absceso del pulmon sin neumonia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J96.9-Insuficiencia respiratoria, no especificada",J44  -Otras enfermedades pulmonares obstructivas cronicas,A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"J96.9-Insuficiencia respiratoria, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,J98.4-Otros trastornos del pulmon,Z03.0-Observacion por sospecha de tuberculosis,I24.0-Trombosis coronaria que no resulta en infarto del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K14.0-Glositis,A40  -Septicemia estreptococica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K29.0-Gastritis aguda hemorragica,D64  -Otras anemias,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K56.6-Otras obstrucciones intestinales y las no especificadas,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","G83.3-Monoplejia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K72.0-Insuficiencia hepatica aguda o subaguda,N17  -Insuficiencia renal aguda,C43  -Melanoma maligno de la piel,0-NINGUNO,G06.0-Absceso y granuloma intracraneal,J85.2-Absceso del pulmon sin neumonia,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K72.9-Insuficiencia hepatica, no especificada","F44.9-Trastorno disociativo [de conversion], no especificado",K74  -Fibrosis y cirrosis del higado,0-NINGUNO,D53  -Otras anemias nutricionales,I85  -Varices esofagicas,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K72.9-Insuficiencia hepatica, no especificada",I10  -Hipertension esencial (primaria),K74.6-Otras cirrosis del higado y las no especificadas,0-NINGUNO,C34  -Tumor maligno de los bronquios y del pulmon,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K72.9-Insuficiencia hepatica, no especificada",J85.1-Absceso del pulmon con neumonia,C22  -Tumor maligno del higado y de las vias biliares intrahepaticas,E86  -Deplecion del volumen,"J18.9-Neumonia, no especificada",0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K72.9-Insuficiencia hepatica, no especificada",N17.8-Otras insuficiencias renales agudas,C18  -Tumor maligno del colon,0-NINGUNO,K72.0-Insuficiencia hepatica aguda o subaguda,E13  -Otras diabetes mellitus especificadas,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K72.9-Insuficiencia hepatica, no especificada",N39  -Otros trastornos del sistema urinario,C16  -Tumor maligno del estomago,0-NINGUNO,E77.8-Otros trastornos del metabolismo de las glucoproteinas,D53  -Otras anemias nutricionales,1
+BENI,RIBERALTA,H.B. RIBERALTA,K74.6-Otras cirrosis del higado y las no especificadas,C18.3-Tumor maligno del angulo hepatico,E86  -Deplecion del volumen,0-NINGUNO,A40  -Septicemia estreptococica,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K74.6-Otras cirrosis del higado y las no especificadas,I85  -Varices esofagicas,D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),E64.0-Secuelas de la desnutricion proteicocalorica,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K80.0-Calculo de la vesicula biliar con colecistitis aguda,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",K80.0-Calculo de la vesicula biliar con colecistitis aguda,K80.0-Calculo de la vesicula biliar con colecistitis aguda,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,K86.1-Otras pancreatitis cronicas,N19  -Insuficiencia renal no especificada,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K92.2-Hemorragia gastrointestinal, no especificada",C61  -Tumor maligno de la prostata,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"K92.2-Hemorragia gastrointestinal, no especificada",K25  -Ulcera gastrica,"K92.2-Hemorragia gastrointestinal, no especificada","K92.2-Hemorragia gastrointestinal, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,N18  -Insuficiencia renal cronica,I50.0-Insuficiencia cardiaca congestiva,G93.4-Encefalopatia no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,N18  -Insuficiencia renal cronica,"N18.9-Insuficiencia renal cronica, no especificada",D64  -Otras anemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,N18  -Insuficiencia renal cronica,N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,N18.0-Insuficiencia renal terminal,"N18.1-Enfermedad renal crónica, etapa 1",D64  -Otras anemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,N18.0-Insuficiencia renal terminal,"N34.3-Sindrome uretral, no especificado",C54  -Tumor maligno del cuerpo del utero,0-NINGUNO,N13.5-Torsion y estrechez del ureter sin hidronefrosis,"K72.9-Insuficiencia hepatica, no especificada",1
+BENI,RIBERALTA,H.B. RIBERALTA,N18.0-Insuficiencia renal terminal,R18  -Ascitis,"A41.9-Septicemia, no especificada","E16.2-Hipoglicemia, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"N18.9-Insuficiencia renal cronica, no especificada","K72.9-Insuficiencia hepatica, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"N28  -Otros trastornos del riñon y del ureter, no clasificados en otra parte","K92.2-Hemorragia gastrointestinal, no especificada",A40  -Septicemia estreptococica,0-NINGUNO,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R09.2-Paro respiratorio,J96.1-Insuficiencia respiratoria cronica,"J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R10  -Dolor abdominal y pelvico,A41  -Otras septicemias,K56.6-Otras obstrucciones intestinales y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R10  -Dolor abdominal y pelvico,N17  -Insuficiencia renal aguda,E86  -Deplecion del volumen,0-NINGUNO,E87.2-Acidosis,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RIBERALTA,H.B. RIBERALTA,"R56  -Convulsiones, no clasificadas en otra parte",0-NINGUNO,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.0-Choque cardiogenico,I25.2-Infarto antiguo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.0-Choque cardiogenico,I25.2-Infarto antiguo del miocardio,E87.2-Acidosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.0-Choque cardiogenico,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,"A41.9-Septicemia, no especificada",N40  -Hiperplasia de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,"D38.1-Tumor de comportamiento incierto o desconocido de la traquea, de los bronquios y del pulmon",M90.4-Osteonecrosis debida a hemoglobinopatia (D50-D64+),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,D53  -Otras anemias nutricionales,S24  -Traumatismo de nervios y de la medula espinal a nivel del torax,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,E77.8-Otros trastornos del metabolismo de las glucoproteinas,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,E86  -Deplecion del volumen,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,J94.2-Hemotorax,S22.3-Fractura de costilla,0-NINGUNO,"F10.0-Trastornos mentales y del comportamiento debidos al uso de alcohol, intoxicacion aguda",0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,R57.1-Choque hipovolemico,K55.0-Trastorno vascular agudo de los intestinos,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"S06.9-Traumatismo intracraneal, no especificado",S06  -Traumatismo intracraneal,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,"S39.7-Otros traumatismos multiples del abdomen, de la region lumbosacra y de la pelvis","S39.7-Otros traumatismos multiples del abdomen, de la region lumbosacra y de la pelvis",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,V02  -Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas,V02  -Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas,V02  -Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas,V02  -Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,H.B. RIBERALTA,W76  -Otros estrangulamientos y ahorcamientos accidentales,T71  -Asfixia,W76  -Otros estrangulamientos y ahorcamientos accidentales,W76  -Otros estrangulamientos y ahorcamientos accidentales,0-NINGUNO,0-NINGUNO,1
+BENI,SAN JOAQUIN,HENRY K. BEYE,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,16
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,4
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,0-NINGUNO,R57.1-Choque hipovolemico,E11  -Diabetes mellitus no insulinodependiente,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,"G93.1-Lesion cerebral anoxica, no clasificada en otra parte",J81  -Edema pulmonar,"E14  -Diabetes mellitus, no especificada",N17  -Insuficiencia renal aguda,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,"J96.9-Insuficiencia respiratoria, no especificada",J90  -Derrame pleural no clasificado en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,"K72  -Insuficiencia hepatica, no clasificada en otra parte",D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,R57.2-Choque séptico,"K46.0-Hernia abdominal no especificada, con obstruccion, sin gangrena","J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,R57.2-Choque séptico,R10.0-Abdomen agudo,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,"R65.9-Síndrome de respuesta inflamatoria sistématica, no especificado","S89.9-Traumatismo de la pierna, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,0-NINGUNO,"S39.9-Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis","T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A15.3-Tuberculosis del pulmon, confirmada por medios no especificados",D64.9-Anemia de tipo no especificado,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A16.2-Tuberculosis del pulmon, sin mencion de confirmacion bacteriologica o histologica",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A16.9-Tuberculosis respiratoria no especificada, sin mencion de confirmacion bacteriologica o histologica",R99  -Otras causas mal definidas y las no especificadas de mortalidad,I51.7-Cardiomegalia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,A19  -Tuberculosis miliar,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada",A09  -Diarrea y gastroenteritis de presunto origen infeccioso,D64.9-Anemia de tipo no especificado,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","C95.9-Leucemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","E43  -Desnutricion proteicocalorica severa, no especificada","D38.1-Tumor de comportamiento incierto o desconocido de la traquea, de los bronquios y del pulmon",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada",E87.2-Acidosis,K40  -Hernia inguinal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","J18.9-Neumonia, no especificada",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","J96.9-Insuficiencia respiratoria, no especificada","J18.9-Neumonia, no especificada",D48.7-Tumor de comportamiento incierto o desconocido de otros sitios especificados,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada",K65  -Peritonitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada",K65.0-Peritonitis aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","L02.2-Absceso cutaneo, furunculo y antrax del tronco",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","L02.4-Absceso cutaneo, furunculo y antrax de miembro",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada","M72.9-Trastorno fibroblastico, no especificado","J18  -Neumonia, organismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"A41.9-Septicemia, no especificada",N18  -Insuficiencia renal cronica,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion","A15.3-Tuberculosis del pulmon, confirmada por medios no especificados","B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"C18.9-Tumor maligno del colon, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,C75.1-Tumor maligno de la hipofisis,I49.0-Fibrilacion y aleteo ventricular,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,C80  -Tumor maligno de sitios no especificados,D37.7-Tumor de comportamiento incierto o desconocido de otros organos digestivos especificados,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"D17.9-Tumor benigno lipomatoso, de sitio no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"D37.6-Tumor de comportamiento incierto o desconocido del higado, de la vesicula biliar y del conducto biliar",0-NINGUNO,"D37.6-Tumor de comportamiento incierto o desconocido del higado, de la vesicula biliar y del conducto biliar",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,D39.0-Tumor de comportamiento incierto o desconocido del utero,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,D39.0-Tumor de comportamiento incierto o desconocido del utero,D64.9-Anemia de tipo no especificado,K56.6-Otras obstrucciones intestinales y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,D39.0-Tumor de comportamiento incierto o desconocido del utero,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,D48.7-Tumor de comportamiento incierto o desconocido de otros sitios especificados,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,D64.9-Anemia de tipo no especificado,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"D68.9-Defecto de la coagulacion, no especificado",I74  -Embolia y trombosis arteriales,I10  -Hipertension esencial (primaria),"E46  -Desnutricion proteicocalorica, no especificada",E86  -Deplecion del volumen,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,"N18.5-Enfermedad renal crónica, etapa 5",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E11  -Diabetes mellitus no insulinodependiente,L03  -Celulitis,E86  -Deplecion del volumen,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"E11.0-Diabetes mellitus no insulinodependiente, con coma",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"E14  -Diabetes mellitus, no especificada",N18  -Insuficiencia renal cronica,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"E46  -Desnutricion proteicocalorica, no especificada",E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"E46  -Desnutricion proteicocalorica, no especificada",R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E87.2-Acidosis,"E14  -Diabetes mellitus, no especificada",I10  -Hipertension esencial (primaria),I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E87.2-Acidosis,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",A09  -Diarrea y gastroenteritis de presunto origen infeccioso,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E87.2-Acidosis,N17  -Insuficiencia renal aguda,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,E87.2-Acidosis,R39.2-Uremia extrarrenal,"N18.9-Insuficiencia renal cronica, no especificada",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"G93.1-Lesion cerebral anoxica, no clasificada en otra parte",J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"G93.1-Lesion cerebral anoxica, no clasificada en otra parte",R57.1-Choque hipovolemico,S06.8-Otros traumatismos intracraneales,I10  -Hipertension esencial (primaria),"E14  -Diabetes mellitus, no especificada",0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,G93.4-Encefalopatia no especificada,R09.0-Asfixia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I10  -Hipertension esencial (primaria),I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,4
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,"D37.6-Tumor de comportamiento incierto o desconocido del higado, de la vesicula biliar y del conducto biliar",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,3
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,"I25.9-Enfermedad isquemica cronica del corazon, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,I50.0-Insuficiencia cardiaca congestiva,N19  -Insuficiencia renal no especificada,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I21  -Infarto agudo del miocardio,"M79.0-Reumatismo, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I21.9-Infarto agudo del miocardio, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I24.9-Enfermedad isquemica aguda del corazon, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,"M00.9-Artritis piogena, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I46  -Paro cardiaco,"E11.8-Diabetes mellitus no insulinodependiente, con complicaciones no especificadas",E66.8-Otros tipos de obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I46  -Paro cardiaco,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I46  -Paro cardiaco,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,0-NINGUNO,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,A41  -Otras septicemias,K75.0-Absceso del higado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"E14.1-Diabetes mellitus, no especificada, con cetoacidosis",A09.9-Gastroenteritis y colitis de origen no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,I48  -Fibrilacion y aleteo auricular,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"I51.9-Enfermedad cardiaca, no especificada",I60  -Hemorragia subaracnoidea,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","E14.6-Diabetes mellitus, no especificada, con otras complicaciones especificadas",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,J80  -Sindrome de dificultad respiratoria del adulto,R57.2-Choque séptico,I46.0-Paro cardiaco con resucitacion exitosa,"J18.9-Neumonia, no especificada","E14  -Diabetes mellitus, no especificada",1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,J96.0-Insuficiencia respiratoria aguda,N18  -Insuficiencia renal cronica,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada","A41.9-Septicemia, no especificada",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada",I21  -Infarto agudo del miocardio,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada",I63  -Infarto cerebral,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada",J81  -Edema pulmonar,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"J96.9-Insuficiencia respiratoria, no especificada","R56  -Convulsiones, no clasificadas en otra parte",T60.0-Envenenamiento por Insecticidas organofosforados y carbamatos,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,"K72.9-Insuficiencia hepatica, no especificada",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,R57.1-Choque hipovolemico,K92  -Otras enfermedades del sistema digestivo,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,R57.2-Choque séptico,A41  -Otras septicemias,"N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I49.0-Fibrilacion y aleteo ventricular,R57.2-Choque séptico,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I49.9-Arritmia cardiaca, no especificada",I50.0-Insuficiencia cardiaca congestiva,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I49.9-Arritmia cardiaca, no especificada",I50.0-Insuficiencia cardiaca congestiva,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I49.9-Arritmia cardiaca, no especificada","J96.9-Insuficiencia respiratoria, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I50.0-Insuficiencia cardiaca congestiva,D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I50.0-Insuficiencia cardiaca congestiva,"E16.2-Hipoglicemia, no especificada",K81.0-Colecistitis aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,I50.0-Insuficiencia cardiaca congestiva,I49.0-Fibrilacion y aleteo ventricular,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,"D59.9-Anemia hemolitica adquirida, sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte","E11.2-Diabetes mellitus no insulinodependiente, con complicaciones renales",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),I21  -Infarto agudo del miocardio,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I70.9-Aterosclerosis generalizada y la no especificada,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",S06.8-Otros traumatismos intracraneales,G20  -Enfermedad de Parkinson,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"I67.1-Aneurisma cerebral, sin ruptura","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J18.9-Neumonia, no especificada",E86  -Deplecion del volumen,"M19.9-Artrosis, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J81  -Edema pulmonar,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J81  -Edema pulmonar,I50.0-Insuficiencia cardiaca congestiva,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J81  -Edema pulmonar,"I50.9-Insuficiencia cardiaca, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J81  -Edema pulmonar,J80  -Sindrome de dificultad respiratoria del adulto,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J93.0-Neumotorax espontaneo a presion,"I31.9-Enfermedad del pericardio, no especificada","S29.9-Traumatismo del torax, no especificado","S39.9-Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96  -Insuficiencia respiratoria, no clasificada en otra parte","A15.3-Tuberculosis del pulmon, confirmada por medios no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96  -Insuficiencia respiratoria, no clasificada en otra parte","A16.5-Pleuresia tuberculosa, sin mencion de confirmacion bacteriologica o histologica",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",G93  -Otros trastornos del encefalo,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,A19.8-Otras tuberculosis miliares,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,C78.0-Tumor maligno secundario del pulmon,"C64  -Tumor maligno del riñon, excepto de la pelvis renal",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,I21  -Infarto agudo del miocardio,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",N18  -Insuficiencia renal cronica,"E11.6-Diabetes mellitus no insulinodependiente, con otras complicaciones especificadas",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,J81  -Edema pulmonar,I50.0-Insuficiencia cardiaca congestiva,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,J81  -Edema pulmonar,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,K70  -Enfermedad alcoholica del higado,K70  -Enfermedad alcoholica del higado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,K76.7-Sindrome hepatorrenal,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,R18  -Ascitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,R99  -Otras causas mal definidas y las no especificadas de mortalidad,"J18.2-Neumonia hipostatica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,R99  -Otras causas mal definidas y las no especificadas de mortalidad,K85  -Pancreatitis aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,"S06.9-Traumatismo intracraneal, no especificado","G93.1-Lesion cerebral anoxica, no clasificada en otra parte","J18.9-Neumonia, no especificada","T07  -Traumatismos multiples, no especificados",0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.0-Insuficiencia respiratoria aguda,S27.3-Otros traumatismos del pulmon,"T07  -Traumatismos multiples, no especificados","T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.1-Insuficiencia respiratoria cronica,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte","A16.2-Tuberculosis del pulmon, sin mencion de confirmacion bacteriologica o histologica",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J96.1-Insuficiencia respiratoria cronica,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,"S72.9-Fractura del femur, parte no especificada",V29.9-Motociclista [cualquiera] lesionado en accidente de transito no especificado,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada","A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",D48.7-Tumor de comportamiento incierto o desconocido de otros sitios especificados,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada","G82.2-Paraplejia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada","J18.9-Neumonia, no especificada",D44.0-Tumor de comportamiento incierto o desconocido de la glandula tiroides,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,J47  -Bronquiectasia,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J96.9-Insuficiencia respiratoria, no especificada",J90  -Derrame pleural no clasificado en otra parte,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J98  -Otros trastornos respiratorios,J44  -Otras enfermedades pulmonares obstructivas cronicas,N18  -Insuficiencia renal cronica,M32  -Lupus eritematoso sistemico,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"J98.0-Enfermedades de la traquea y de los bronquios, no clasificadas en otra parte","J45.9-Asma, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J98.4-Otros trastornos del pulmon,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,J98.4-Otros trastornos del pulmon,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"K28.9-Ulcera gastroyeyunal, no especificada como aguda ni cronica, sin hemorragia ni perforacion","K72.9-Insuficiencia hepatica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,K56.6-Otras obstrucciones intestinales y las no especificadas,J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,K65  -Peritonitis,A41  -Otras septicemias,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"K72.9-Insuficiencia hepatica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"K72.9-Insuficiencia hepatica, no especificada","A16.5-Pleuresia tuberculosa, sin mencion de confirmacion bacteriologica o histologica",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"K72.9-Insuficiencia hepatica, no especificada",D64.9-Anemia de tipo no especificado,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"K72.9-Insuficiencia hepatica, no especificada","K72.9-Insuficiencia hepatica, no especificada",K72.0-Insuficiencia hepatica aguda o subaguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,K80  -Colelitiasis,0-NINGUNO,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,N17  -Insuficiencia renal aguda,"K72.9-Insuficiencia hepatica, no especificada",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,N18  -Insuficiencia renal cronica,"E11.8-Diabetes mellitus no insulinodependiente, con complicaciones no especificadas","A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"O14.9-Preeclampsia, no especificada","O82.9-Parto por cesarea, sin otra especificacion","O14.9-Preeclampsia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R04.8-Hemorragia de otros sitios de las vias respiratorias,J96.0-Insuficiencia respiratoria aguda,D69.6-Trombocitopenia no especificada,"M32.9-Lupus eritematoso sistemico, sin otra especificacion","I61.9-Hemorragia intraencefalica, no especificada",0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R09.0-Asfixia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"R50.9-Fiebre, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,8
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,0-NINGUNO,D48.7-Tumor de comportamiento incierto o desconocido de otros sitios especificados,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,"F10.2-Trastornos mentales y del comportamiento debidos al uso de alcohol, sindrome de dependencia",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,I21  -Infarto agudo del miocardio,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,I48  -Fibrilacion y aleteo auricular,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,"I49.9-Arritmia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,I50  -Insuficiencia cardiaca,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,I50.0-Insuficiencia cardiaca congestiva,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,I50.0-Insuficiencia cardiaca congestiva,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,"I60.9-Hemorragia subaracnoidea, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,J81  -Edema pulmonar,"N18.9-Insuficiencia renal cronica, no especificada",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,K76.7-Sindrome hepatorrenal,K74  -Fibrosis y cirrosis del higado,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.0-Choque cardiogenico,T63.0-Envenenamiento por Veneno de serpiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.1-Choque hipovolemico,0-NINGUNO,P74.0-Acidosis metabolica tardia del recien nacido,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.1-Choque hipovolemico,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.1-Choque hipovolemico,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.1-Choque hipovolemico,I85  -Varices esofagicas,K76.7-Sindrome hepatorrenal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.1-Choque hipovolemico,"K92.2-Hemorragia gastrointestinal, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.1-Choque hipovolemico,"N18.9-Insuficiencia renal cronica, no especificada",I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,A41  -Otras septicemias,"J18.9-Neumonia, no especificada","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",D64.9-Anemia de tipo no especificado,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,A41  -Otras septicemias,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,A41  -Otras septicemias,M16  -Coxartrosis [artrosis de la cadera],0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,A41  -Otras septicemias,N18  -Insuficiencia renal cronica,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,"A41.9-Septicemia, no especificada","N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,"E14.0-Diabetes mellitus, no especificada, con coma","A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,"E46  -Desnutricion proteicocalorica, no especificada","B20.3-Enfermedad por VIH, resultante en otras infecciones virales",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,K75.0-Absceso del higado,N19  -Insuficiencia renal no especificada,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,"K92.2-Hemorragia gastrointestinal, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R57.2-Choque séptico,R10.0-Abdomen agudo,0-NINGUNO,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R65  -Síndrome de respuesta inflamatoria sistématica,"E43  -Desnutricion proteicocalorica severa, no especificada",N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R96.0-Muerte instantanea,0-NINGUNO,"A15.9-Tuberculosis respiratoria no especificada, confirmada bacteriologica e histologicamente",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R96.0-Muerte instantanea,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,"A41.9-Septicemia, no especificada",K56.6-Otras obstrucciones intestinales y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,D48.0-Tumor de comportamiento incierto o desconocido del hueso y cartilago articular,D43.4-Tumor de comportamiento incierto o desconocido de la medula espinal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,"I50.9-Insuficiencia cardiaca, no especificada","I61.9-Hemorragia intraencefalica, no especificada",V29.9-Motociclista [cualquiera] lesionado en accidente de transito no especificado,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,K56.6-Otras obstrucciones intestinales y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,"K59.3-Megacolon, no clasificado en otra parte","E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,K91.5-Sindrome postcolecistectomia,I48  -Fibrilacion y aleteo auricular,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,N19  -Insuficiencia renal no especificada,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,R54  -Senilidad,R54  -Senilidad,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,R57.2-Choque séptico,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,R57.2-Choque séptico,"X59.9-Exposicion a factores no especificados, en lugar no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,R99  -Otras causas mal definidas y las no especificadas de mortalidad,R65  -Síndrome de respuesta inflamatoria sistématica,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,S06  -Traumatismo intracraneal,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"S06.9-Traumatismo intracraneal, no especificado",S06.4-Hemorragia epidural,"I61.5-Hemorragia intraencefalica, intraventricular","I63.9-Infarto cerebral, no especificado",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,"S06.9-Traumatismo intracraneal, no especificado","T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. GERMAN BUSCH,W87  -Exposicion a corriente electrica no especificada,I48  -Fibrilacion y aleteo auricular,"S39.9-Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,0-NINGUNO,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,"J18  -Neumonia, organismo no especificado",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,A41  -Otras septicemias,J91  -Derrame pleural en afecciones clasificadas en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,A41  -Otras septicemias,"R56  -Convulsiones, no clasificadas en otra parte",E86  -Deplecion del volumen,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,A41  -Otras septicemias,T60.3-Envenenamiento por Herbicidas y fungicidas,"R56  -Convulsiones, no clasificadas en otra parte",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,D62  -Anemia posthemorragica aguda,K22.6-Sindrome de laceracion y hemorragia gastroesofagicas,T65.9-Envenenamiento por Efecto toxico de sustancia no especificada,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,T65.2-Envenenamiento por Tabaco y nicotina,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,"J18  -Neumonia, organismo no especificado",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,"R56  -Convulsiones, no clasificadas en otra parte",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",R09.0-Asfixia,D59.8-Otras anemias hemoliticas adquiridas,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,J90  -Derrame pleural no clasificado en otra parte,0-NINGUNO,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,P77  -Enterocolitis necrotizante del feto y del recien nacido,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,R57.1-Choque hipovolemico,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,0-NINGUNO,R57.1-Choque hipovolemico,P36  -Sepsis bacteriana del recien nacido,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,"I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"A40.9-Septicemia estreptococica, no especificada","Q86  -Sindromes de malformaciones congenitas debidos a causas exogenas conocidas, no  clasificados en otra parte","Q24.9-Malformacion congenita del corazon, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,A41  -Otras septicemias,Q24  -Otras malformaciones congenitas del corazon,D64  -Otras anemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E43  -Desnutricion proteicocalorica severa, no especificada",A41  -Otras septicemias,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E43  -Desnutricion proteicocalorica severa, no especificada",A41  -Otras septicemias,E87.7-Sobrecarga de liquidos,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E43  -Desnutricion proteicocalorica severa, no especificada","E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",A09  -Diarrea y gastroenteritis de presunto origen infeccioso,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E43  -Desnutricion proteicocalorica severa, no especificada",N19  -Insuficiencia renal no especificada,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,E86  -Deplecion del volumen,A41  -Otras septicemias,0-NINGUNO,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,E86  -Deplecion del volumen,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte","E43  -Desnutricion proteicocalorica severa, no especificada",D64.9-Anemia de tipo no especificado,A41  -Otras septicemias,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,E87.2-Acidosis,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte","E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,G03.0-Meningitis apiogena,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,"R56  -Convulsiones, no clasificadas en otra parte",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"G91.9-Hidrocefalo, no especificado","G00  -Meningitis bacteriana, no clasificada en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,I46  -Paro cardiaco,J99  -Trastornos respiratorios en enfermedades clasificadas en otra parte,0-NINGUNO,R57.1-Choque hipovolemico,0-NINGUNO,E86  -Deplecion del volumen,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"J18  -Neumonia, organismo no especificado",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"J18  -Neumonia, organismo no especificado","E43  -Desnutricion proteicocalorica severa, no especificada",E87.2-Acidosis,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,J86.0-Piotorax con fistula,T79.7-Enfisema subcutaneo traumatico,J86.9-Piotorax sin fistula,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"J96.9-Insuficiencia respiratoria, no especificada","J18  -Neumonia, organismo no especificado",Q24  -Otras malformaciones congenitas del corazon,"Q90.9-Sindrome de Down, no especificado",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"N15.9-Enfermedad renal tubulointersticial, no especificada",R57.2-Choque séptico,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,N19  -Insuficiencia renal no especificada,E87.2-Acidosis,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"P21.0-Asfixia del nacimiento, severa",P36  -Sepsis bacteriana del recien nacido,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,P22  -Dificultad respiratoria del recien nacido,P36  -Sepsis bacteriana del recien nacido,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,P22.0-Sindrome de dificultad respiratoria del recien nacido,P36  -Sepsis bacteriana del recien nacido,P07.2-Inmaturidad extrema,P74.0-Acidosis metabolica tardia del recien nacido,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,P22.8-Otras dificultades respiratorias del recien nacido,P07.2-Inmaturidad extrema,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,P28.5-Insuficiencia respiratoria del recien nacido,P74.0-Acidosis metabolica tardia del recien nacido,"J18  -Neumonia, organismo no especificado",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,P36  -Sepsis bacteriana del recien nacido,Q24  -Otras malformaciones congenitas del corazon,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,Q24  -Otras malformaciones congenitas del corazon,J21  -Bronquiolitis aguda,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"Q24.9-Malformacion congenita del corazon, no especificada",N19  -Insuficiencia renal no especificada,A41.2-Septicemia debida a estafilococo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,R09.2-Paro respiratorio,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,R57.1-Choque hipovolemico,A41  -Otras septicemias,"A15  -Tuberculosis respiratoria, confirmada bacteriologica e histologicamente",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,R57.1-Choque hipovolemico,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,R11  -Nausea y vomito,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,"R58  -Hemorragia, no clasificada en otra parte",A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,R99  -Otras causas mal definidas y las no especificadas de mortalidad,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSP. MATERNO REIDUM ROINE,T71  -Asfixia,J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,17
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"A16.2-Tuberculosis del pulmon, sin mencion de confirmacion bacteriologica o histologica","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"A41.9-Septicemia, no especificada",G63.2-Polineuropatia diabetica (E10-E14+ con cuarto caracter comun .4),E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"A41.9-Septicemia, no especificada",N49.8-Otros trastornos inflamatorios de los organos genitales masculinos,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,A46  -Erisipela,E12  -Diabetes mellitus asociada con desnutricion,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,C26.9-Tumor maligno de sitios mal definidos de los organos digestivos,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,C79.8-Tumor maligno secundario de otros sitios especificados,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"D06.9-Carcinoma in situ del cuello del utero, parte no especificada",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,D38.0-Tumor de comportamiento incierto o desconocido de laringe,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"D38.1-Tumor de comportamiento incierto o desconocido de la traquea, de los bronquios y del pulmon","E46  -Desnutricion proteicocalorica, no especificada",C79.8-Tumor maligno secundario de otros sitios especificados,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,D70  -Agranulocitosis,C78  -Tumor maligno secundario de los organos respiratorios y digestivos,"I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,"I73.9-Enfermedad vascular periferica, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,"N18.9-Insuficiencia renal cronica, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"I21.9-Infarto agudo del miocardio, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"I24.9-Enfermedad isquemica aguda del corazon, no especificada",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"J18.0-Bronconeumonia, no especificada",T17.5-Cuerpo extraño en bronquios,"G80.9-Paralisis cerebral infantil, sin otra especificacion",Q02  -Microcefalia,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"J40  -Bronquitis, no especificada como aguda o cronica","J96  -Insuficiencia respiratoria, no clasificada en otra parte",E86  -Deplecion del volumen,J46  -Estado asmatico,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,J81  -Edema pulmonar,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,J81  -Edema pulmonar,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,J90  -Derrame pleural no clasificado en otra parte,"I50.9-Insuficiencia cardiaca, no especificada",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"J96.9-Insuficiencia respiratoria, no especificada","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,3
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,L89  -Ulcera de decubito,E87.2-Acidosis,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"N18.9-Insuficiencia renal cronica, no especificada",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,"N39.0-Infeccion de vias urinarias, sitio no especificado",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,R10.0-Abdomen agudo,"N18.9-Insuficiencia renal cronica, no especificada","E14.0-Diabetes mellitus, no especificada, con coma",E86  -Deplecion del volumen,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,0-NINGUNO,S06  -Traumatismo intracraneal,"D69.9-Afeccion hemorragica, no especificada","T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,0-NINGUNO,"K76.9-Enfermedad del higado, no especificada",R18  -Ascitis,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"A41.9-Septicemia, no especificada",A91  -Fiebre del dengue hemorragico,J80  -Sindrome de dificultad respiratoria del adulto,D65  -Coagulacion intravascular diseminada [sindrome de desfibrinacion],K76.7-Sindrome hepatorrenal,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"A41.9-Septicemia, no especificada","N18.5-Enfermedad renal crónica, etapa 5",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,TRINIDAD,HOSP. OBRERO # 8,"A41.9-Septicemia, no especificada",R69  -Causas de morbilidad desconocidas y no especificadas,D48.6-Tumor de comportamiento incierto o desconocido de la mama,"E46  -Desnutricion proteicocalorica, no especificada","E46  -Desnutricion proteicocalorica, no especificada","B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",N39  -Otros trastornos del sistema urinario,N13.3-Otras hidronefrosis y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"B25.9-Enfermedad por virus citomegalico, no especificada","B85.2-Pediculosis, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,C78.7-Tumor maligno secundario del higado,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,"A16.2-Tuberculosis del pulmon, sin mencion de confirmacion bacteriologica o histologica",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,C78.8-Tumor maligno secundario de otros organos digestivos y de los no especificados,J10  -Influenza debida a virus de la influenza identificado,"J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"D06.9-Carcinoma in situ del cuello del utero, parte no especificada",R69  -Causas de morbilidad desconocidas y no especificadas,D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I21.9-Infarto agudo del miocardio, sin otra especificacion","R58  -Hemorragia, no clasificada en otra parte",0-NINGUNO,C79.8-Tumor maligno secundario de otros sitios especificados,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado",0-NINGUNO,"T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado",E11  -Diabetes mellitus no insulinodependiente,"N18.5-Enfermedad renal crónica, etapa 5",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado",E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado","J96.9-Insuficiencia respiratoria, no especificada",D48.0-Tumor de comportamiento incierto o desconocido del hueso y cartilago articular,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado","J96.9-Insuficiencia respiratoria, no especificada","I24.9-Enfermedad isquemica aguda del corazon, no especificada",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado","J96.9-Insuficiencia respiratoria, no especificada","M34.9-Esclerosis sistemica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado","N18.5-Enfermedad renal crónica, etapa 5","E11.2-Diabetes mellitus no insulinodependiente, con complicaciones renales",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I46.9-Paro cardiaco, no especificado","N18.9-Insuficiencia renal cronica, no especificada",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I60.9-Hemorragia subaracnoidea, no especificada",N19  -Insuficiencia renal no especificada,E11  -Diabetes mellitus no insulinodependiente,"J18.9-Neumonia, no especificada",E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada","J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"J18.9-Neumonia, no especificada","A41.9-Septicemia, no especificada",A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"J44.9-Enfermedad pulmonar obstructiva cronica, no especificada","J18.0-Bronconeumonia, no especificada","I46.9-Paro cardiaco, no especificado",J81  -Edema pulmonar,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"J96.9-Insuficiencia respiratoria, no especificada",D38  -Tumor de comportamiento incierto o desconocido del oido medio y de los organos respiratorios e intratoracicos,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"J96.9-Insuficiencia respiratoria, no especificada","I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"J96.9-Insuficiencia respiratoria, no especificada","J44.9-Enfermedad pulmonar obstructiva cronica, no especificada","A16.9-Tuberculosis respiratoria no especificada, sin mencion de confirmacion bacteriologica o histologica",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"J96.9-Insuficiencia respiratoria, no especificada",J90  -Derrame pleural no clasificado en otra parte,"N18.9-Insuficiencia renal cronica, no especificada",E12  -Diabetes mellitus asociada con desnutricion,I50.0-Insuficiencia cardiaca congestiva,"J18.0-Bronconeumonia, no especificada",1
+BENI,TRINIDAD,HOSP. OBRERO # 8,K74.6-Otras cirrosis del higado y las no especificadas,R18  -Ascitis,"S39.9-Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis",K80.5-Calculo de conducto biliar sin colangitis ni colecistitis,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"P36.9-Sepsis bacteriana del recien nacido, no especificada",P77  -Enterocolitis necrotizante del feto y del recien nacido,P07.3-Otros recien nacidos pretermino,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,Q21.3-Tetralogia de Fallot,"Q24.9-Malformacion congenita del corazon, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,"Q24.9-Malformacion congenita del corazon, no especificada","Q89.7-Malformaciones congenitas multiples, no clasificadas en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R57.0-Choque cardiogenico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R57.0-Choque cardiogenico,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R57.0-Choque cardiogenico,I81  -Trombosis de la vena porta,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R57.1-Choque hipovolemico,E86  -Deplecion del volumen,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,R56.0-Convulsiones febriles,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R96  -Otras muertes subitas de causa desconocida,E86  -Deplecion del volumen,N19  -Insuficiencia renal no especificada,"E14  -Diabetes mellitus, no especificada",J10  -Influenza debida a virus de la influenza identificado,0-NINGUNO,1
+BENI,TRINIDAD,HOSP. OBRERO # 8,R99  -Otras causas mal definidas y las no especificadas de mortalidad,I47.2-Taquicardia ventricular,"E03.9-Hipotiroidismo, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,SANTA ANA,HOSPITAL MUNICIPAL DR. JACOBO ABULARACH ABULARACH,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,50
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,0-NINGUNO,"C53.9-Tumor maligno del cuello del utero, sin otra especificacion","C53.9-Tumor maligno del cuello del utero, sin otra especificacion","C53.9-Tumor maligno del cuello del utero, sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,0-NINGUNO,I10  -Hipertension esencial (primaria),N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,"E14  -Diabetes mellitus, no especificada","E14  -Diabetes mellitus, no especificada","E14  -Diabetes mellitus, no especificada","E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,G61.0-Sindrome de Guillain-Barre,K29  -Gastritis y duodenitis,F41.2-Trastorno mixto de ansiedad y depresion,G61.0-Sindrome de Guillain-Barre,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,J96.1-Insuficiencia respiratoria cronica,I27.0-Hipertension pulmonar primaria,J96.1-Insuficiencia respiratoria cronica,J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,K56.2-Volvulo,"A41.9-Septicemia, no especificada",N17  -Insuficiencia renal aguda,K56.2-Volvulo,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,R00  -Anormalidades del latido cardiaco,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RIBERALTA,HOSPITAL OBRERO NO 69,R57.1-Choque hipovolemico,N17  -Insuficiencia renal aguda,0-NINGUNO,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,1
+BENI,SANTA ROSA,JUAN EVO MORALES AYMA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RIBERALTA,LA ESPERANZA,0-NINGUNO,R09.2-Paro respiratorio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"A15.0-Tuberculosis del pulmon, confirmada por hallazgo microscopico del bacilo tuberculoso en esputo, con o sin cultivo",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,D53.8-Otras anemias nutricionales especificadas,J44.0-Enfermedad pulmonar obstructiva cronica con infeccion aguda de las vias respiratorias inferiores,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,I22.0-Infarto subsecuente del miocardio de la pared anterior,I25.1-Enfermedad aterosclerotica del corazon,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"J18.8-Otras neumonias, de microorganismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,J44.0-Enfermedad pulmonar obstructiva cronica con infeccion aguda de las vias respiratorias inferiores,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,S06.2-Traumatismo cerebral difuso,Y85  -Secuelas de accidentes de transporte,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"V23  -Motociclista lesionado por colision con automovil, camioneta o furgoneta",F10  -Trastornos mentales y del comportamiento debidos al uso de alcohol,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"X70  -Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"Y84  -Otros procedimientos medicos como la causa de reaccion anormal del paciente o de complicacion posterior, sin mencion de incidente en el momento de efectuar el procedimiento",P36  -Sepsis bacteriana del recien nacido,"Z38.1-Producto unico, nacido fuera de hospital",0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,Y85  -Secuelas de accidentes de transporte,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+BENI,RURRENABAQUE,RURRENABAQUE,A41  -Otras septicemias,D63.0-Anemia en enfermedad neoplasica (C00-D48+),C16  -Tumor maligno del estomago,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,I21  -Infarto agudo del miocardio,I11  -Enfermedad cardiaca hipertensiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,"I22.9-Infarto subsecuente del miocardio, de parte no especificada",I11.0-Enfermedad cardiaca hipertensiva con insuficiencia cardiaca (congestiva),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,I26  -Embolia pulmonar,I69.3-Secuelas de infarto cerebral,I24.0-Trombosis coronaria que no resulta en infarto del miocardio,D53.8-Otras anemias nutricionales especificadas,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,I50.0-Insuficiencia cardiaca congestiva,I42.0-Cardiomiopatia dilatada,I07.1-Insuficiencia tricuspide,I05.0-Estenosis mitral,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,"I62.9-Hemorragia intracraneal (no traumatica), no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,"J18  -Neumonia, organismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,J96.0-Insuficiencia respiratoria aguda,"J18.8-Otras neumonias, de microorganismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,J96.0-Insuficiencia respiratoria aguda,J91  -Derrame pleural en afecciones clasificadas en otra parte,"J84.9-Enfermedad pulmonar intersticial, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,K85  -Pancreatitis aguda,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,"K92.2-Hemorragia gastrointestinal, no especificada",W19  -Caida no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,N17  -Insuficiencia renal aguda,N04  -Sindrome nefrotico,N30  -Cistitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,N18.0-Insuficiencia renal terminal,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,R09.0-Asfixia,"X70  -Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion",F19  -Trastornos mentales y del comportamiento debidos al uso de multiples drogas y al uso de otras sustancias psicoactivas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,R57.1-Choque hipovolemico,S88.1-Amputacion traumatica en algun nivel entre la rodilla y el tobillo,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,"R96.1-Muerte que ocurre en menos de 24 horas del inicio de los sintomas, no explicada de otra forma",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,R98  -Muerte sin asistencia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,S06.2-Traumatismo cerebral difuso,S06  -Traumatismo intracraneal,0-NINGUNO,J44  -Otras enfermedades pulmonares obstructivas cronicas,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,S06.2-Traumatismo cerebral difuso,Y85  -Secuelas de accidentes de transporte,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,S27.1-Hemotorax traumatico,W19  -Caida no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,T60  -Envenenamiento por Efecto toxico de plaguicidas [pesticidas],"X69  -Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,T79.2-Hemorragia traumatica secundaria y recurrente,S06.2-Traumatismo cerebral difuso,W19  -Caida no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,X54  -Privacion de agua,K58.0-Sindrome del colon irritable con diarrea,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,11
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada",R53  -Malestar y fatiga,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,I20.1-Angina de pecho con espasmo documentado,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,D50  -Anemias por deficiencia de hierro,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,I50  -Insuficiencia cardiaca,I11  -Enfermedad cardiaca hipertensiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,I50  -Insuficiencia cardiaca,J93  -Neumotorax,I46  -Paro cardiaco,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,I50.0-Insuficiencia cardiaca congestiva,J46  -Estado asmatico,L03  -Celulitis,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I80  -Flebitis y tromboflebitis,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),J45  -Asma,1
+BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,J47  -Bronquiectasia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,"J18.9-Neumonia, no especificada",R54  -Senilidad,J44  -Otras enfermedades pulmonares obstructivas cronicas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,REYES,SAN JUAN DE DIOS,S36  -Traumatismo de organos intraabdominales,S27.2-Hemoneumotorax traumatico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,CD-VIR / PANDO,J81  -Edema pulmonar,"I50.9-Insuficiencia cardiaca, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,SENA,EL SENA,0-NINGUNO,0-NINGUNO,0-NINGUNO,"X95.0-Agresion con disparo de otras armas de fuego, y las no especificadas, en vivienda",0-NINGUNO,0-NINGUNO,1
+PANDO,SENA,EL SENA,"S06.9-Traumatismo intracraneal, no especificado",V29.9-Motociclista [cualquiera] lesionado en accidente de transito no especificado,"I62.9-Hemorragia intracraneal (no traumatica), no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,SENA,EL SENA,T75.1-Ahogamiento y sumersion no mortal,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,SENA,EL SENA,T75.1-Ahogamiento y sumersion no mortal,T75.1-Ahogamiento y sumersion no mortal,"W70.9-Ahogamiento y sumersion posterior a caida en aguas naturales, en lugar no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada","C63.9-Tumor maligno de organo genital masculino, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,0-NINGUNO,"I25.9-Enfermedad isquemica cronica del corazon, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,I50.0-Insuficiencia cardiaca congestiva,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,"P21.9-Asfixia del nacimiento, no especificada",P95  -Muerte fetal de causa no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,R57.1-Choque hipovolemico,"E43  -Desnutricion proteicocalorica severa, no especificada","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,R68.8-Otros sintomas y signos generales especificados,"R40.2-Coma, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,HOSPITAL BOLIVIANO JAPONES DR. ROBERTO GALINDO TERAN,"S06.9-Traumatismo intracraneal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,PUERTO GONZALO MORENO,LAS PIEDRAS,T75.1-Ahogamiento y sumersion no mortal,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,COBIJA,NUEVA ESPERANZA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+PANDO,NACEBE (SANTA ROSA DEL ABUNA),SANTA ROSA - PANDO,"P24.9-Sindrome de aspiracion neonatal, sin otra especificacion","P50.9-Perdida de sangre fetal, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+PANDO,SAN PEDRO(PND),VALPARAISO,"N18.9-Insuficiencia renal cronica, no especificada",I10  -Hipertension esencial (primaria),R60.1-Edema generalizado,D50.9-Anemia por deficiencia de hierro sin otra especificacion,D50.9-Anemia por deficiencia de hierro sin otra especificacion,"B82.9-Parasitosis intestinal, sin otra especificacion",1

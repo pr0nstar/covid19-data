@@ -74,7 +74,7 @@ def do_save(paho_df):
 if __name__ == '__main__':
     paho_df = do_fetch()
 
-    if paho_df is None:
+    if paho_df is None or len(paho_df) < 1:
         raise('No data')
 
     paho_df = do_format(paho_df)
