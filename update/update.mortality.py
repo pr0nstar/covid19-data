@@ -320,7 +320,7 @@ def update_paraguay():
     }
     cdata = requests.post(PARAGUAY_URL, data=data)
 
-    df = pd.read_html(io.BytesIO(cdata.content), flavor='lxml', encoding='utf-8')[0]
+    df = pd.read_html(io.BytesIO(cdata.content), flavor='bs4', encoding='utf-8')[0]
     df = df.drop(0)
 
     # Parse HTML format
@@ -399,7 +399,11 @@ def update_bolivia():
 
 def do_update(fn):
     print(fn.__name__)
-    df = fn()
+    try:
+        df = fn()
+    except Exception as e:
+        print(e)
+        return
 
     # >= 2021
     df = df[df['date'] > '2020-12-31']
