@@ -1,7 +1,7 @@
 name: Update mortality data
 on:
   schedule:
-    - cron: '0 4/12 * * *'
+    - cron: '0/15 * * * *'
 jobs:
   update:
     name: update data
