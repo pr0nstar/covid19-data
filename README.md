@@ -19,7 +19,7 @@
 
 ##### SERECI (Registro civil):
 * [Fallecimientos mensuales por fecha de registro 2019-2020](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sereci/sereci.by.registration.date.csv)
-* [Fallecimientos mensuales 2019-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sereci/sereci.by.registration.date.csv)
+* [Fallecimientos mensuales 2019-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sereci/sereci.by.death.date.csv)
 
 ##### Procesados:
 * [Seguimiento de contactos](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/contact.tracing.csv) (Archivado)
