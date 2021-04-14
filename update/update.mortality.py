@@ -396,7 +396,7 @@ def update_bolivia():
         country_name='Bolivia'
     )
 
-    df['adm1_name'] = df_bolivia_storage['adm1_name'].str.replace(
+    df['adm1_name'] = df['adm1_name'].str.replace(
         'El Beni', 'Beni'
     )
 
