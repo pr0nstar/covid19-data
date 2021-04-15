@@ -334,7 +334,7 @@ def update_paraguay():
     df = df.drop(['Total', 'EXTRANJERO'])
     df = df.iloc[:, :-1]
 
-    df = df.astype(int)
+    df = df.applymap(lambda _: int(str(_).replace('.', '')))
     df = df[df.columns[df.sum() > 0]]
 
     df = df.unstack().reset_index()
@@ -405,11 +405,11 @@ def update_bolivia():
 
 def do_update(fn):
     print(fn.__name__)
-    try:
-        df = fn()
-    except Exception as e:
-        print(e)
-        return
+    # try:
+    df = fn()
+    # except Exception as e:
+        # print(e)
+        # return
 
     # >= 2021
     df = df[df['date'] > '2020-12-31']
