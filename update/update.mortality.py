@@ -405,11 +405,11 @@ def update_bolivia():
 
 def do_update(fn):
     print(fn.__name__)
-    # try:
-    df = fn()
-    # except Exception as e:
-        # print(e)
-        # return
+    try:
+        df = fn()
+    except Exception as e:
+        print(e)
+        return
 
     # >= 2021
     df = df[df['date'] > '2020-12-31']
