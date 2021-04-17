@@ -13,7 +13,8 @@ from bs4 import BeautifulSoup
 from itertools import chain, product
 
 
-URL = 'http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx'
+BASE_URL = 'http://reportes-siahv.minsalud.gob.bo/'
+URL = BASE_URL + 'Reporte_Dinamico_Covid.aspx'
 TIMEOUT = 180
 RETRY_M = 2
 SLEEP_T = 3
@@ -199,6 +200,10 @@ def fetch_data(soup, dept_key, dept_code):
 
 
 if __name__ == '__main__':
+    # Test Connection
+    req = requests.get(BASE_URL, timeout=TIMEOUT * 2)
+
+    # Get Cookie
     req = requests.get(URL, timeout=TIMEOUT * 2)
     soup = BeautifulSoup(req.content, 'html.parser')
 
