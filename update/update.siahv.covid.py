@@ -14,7 +14,7 @@ from itertools import chain, product
 
 
 URL = 'http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx'
-TIMEOUT = 61
+TIMEOUT = 180
 RETRY_M = 2
 SLEEP_T = 3
 
@@ -199,7 +199,7 @@ def fetch_data(soup, dept_key, dept_code):
 
 
 if __name__ == '__main__':
-    req = requests.get(URL, timeout=TIMEOUT)
+    req = requests.get(URL, timeout=TIMEOUT * 2)
     soup = BeautifulSoup(req.content, 'html.parser')
 
     cookies = req.headers['Set-Cookie']
