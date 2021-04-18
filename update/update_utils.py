@@ -9,7 +9,7 @@ import demjson
 from bs4 import BeautifulSoup
 
 
-TIMEOUT = 180
+TIMEOUT = 90
 RETRY_M = 5
 SLEEP_T = 2
 
@@ -77,12 +77,13 @@ def setup_connection(BASE_URL):
     ) for _ in  proxies if _['type'] in PROXY_TYPES.keys()]
 
     random.shuffle(proxies)
+    print('testing {} proxies'.format(len(proxies)))
 
     for proxy in proxies:
         proxy = dict([proxy])
 
         try:
-            requests.get(BASE_URL, timeout=10, proxies=proxy)
+            requests.get(BASE_URL, timeout=30, proxies=proxy)
         except:
             continue
 
