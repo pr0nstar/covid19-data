@@ -95,7 +95,6 @@ def setup_connection(BASE_URL):
         try:
             requests.get(BASE_URL, timeout=30, proxies=proxy)
         except Exception as e:
-            print(e)
             continue
 
         return proxy
