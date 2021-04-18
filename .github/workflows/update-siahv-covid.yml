@@ -1,7 +1,7 @@
 name: Update siahv covid data
 on:
   schedule:
-    - cron: '0 5/12 * * *'
+    - cron: '0 5 * * *'
 jobs:
   update:
     name: update data

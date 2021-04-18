@@ -16,6 +16,7 @@ SLEEP_T = 2
 
 # connections stuff
 
+
 def do_request(URL, data=None, _try=0, **kwargs):
     if data is not None:
         req_fn = requests.post
@@ -99,7 +100,9 @@ def setup_connection(BASE_URL):
 
         return proxy
 
+
 # snis asp.net
+
 
 def get_inputs(soup):
     form_inputs = soup.select('input')
