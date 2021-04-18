@@ -131,13 +131,15 @@ def fetch_data(soup, dept_key, dept_code, cookies, proxy=None):
 
 if __name__ == '__main__':
     # Busca un proxy que funcione
-    if len(sys.argv) > 1 and sys.argv[1] == '--direct':
+    if len(sys.argv) > 1 and '--direct' in sys.argv:
         proxy = None
     else:
         proxy = setup_connection(BASE_URL)
 
     if not proxy:
         print('No available proxy')
+        if '--no-fail' not in sys.argv:
+            exit(1)
     else:
         print(proxy)
 

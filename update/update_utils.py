@@ -52,25 +52,35 @@ def setup_connection(BASE_URL):
         '4': 'socks5'
     }
 
-    req = requests.post(
-        'https://www.proxydocker.com/es/api/proxylist/',
-        data={
-            'token': token,
-            'country': 'Bolivia',
-            'city': 'all',
-            'state': 'all',
-            'port': 'all',
-            'type': 'all',
-            'anonymity': 'all',
-            'need': 'all',
-            'page': 1
-        },
-        headers={
-            'Cookie': ';'.join(cookies)
-        }
-    )
+    proxy_data = {
+        'token': token,
+        'country': 'Bolivia',
+        'city': 'all',
+        'state': 'all',
+        'port': 'all',
+        'type': 'all',
+        'anonymity': 'all',
+        'need': 'all',
+        'page': 1
+    }
+    proxies = []
 
-    proxies = req.json()['proxies']
+    for page in range(1, 3):
+        proxy_data['page'] = page
+        req = requests.post(
+            'https://www.proxydocker.com/es/api/proxylist/',
+            data=proxy_data,
+            headers={
+                'Cookie': ';'.join(cookies)
+            }
+        )
+
+        payload = req.json()
+        if 'proxies' in payload and len(payload['proxies']) > 0:
+            proxies.extend(payload['proxies'])
+        else:
+            break
+
     proxies = [(
         'https' if '2' in _['type'] else 'http',
         '{}://{}:{}'.format(PROXY_TYPES[_['type']], _['ip'], _['port'])
