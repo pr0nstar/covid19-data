@@ -33,4 +33,6 @@
 * PAHO COVID-19 response ([*](https://paho-covid19-response-who.hub.arcgis.com/datasets/uvw-daily-reports-amro-adm1-output-new-view))
   * [Casos](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/confirmed.timeline.csv)
   * [Fallecidos](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/deaths.timeline.csv)
+  * [Entregas de vacunas COVAX](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/vaccines.covax.delivery.csv)
+  * [Acuerdos de suministro de vacunas](https://github.com/pr0nstar/covid19-data/blob/master/raw/paho/vaccines.supply.deals.csv)
 * [Mortalidad en sudamerica a nivel subnacional](https://github.com/pr0nstar/covid19-data/blob/master/raw/mortality/south.america.subnational.mortality.csv) ([BO](https://twitter.com/atila07619), [BR](https://github.com/capyvara/brazil-civil-registry-data), [CL](https://github.com/MinCiencia/Datos-COVID19/), [CO](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19), [EC](https://github.com/andrab/ecuacovid/), [PY](http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/multireporte_defuncion.php), [PE](https://cloud.minsa.gob.pe/s/nqF2irNbFomCLaa/download))
