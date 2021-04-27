@@ -8,8 +8,8 @@
 * [Oruro](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SEDESOR) ([*](https://www.facebook.com/SEDESOR))
 * [Potosi](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/Sheila%20Arispe%20(from:elpotosinet)%20-filter:replies) ([*](https://twitter.com/search?q=Sheila%20Arispe%20(from%3Aelpotosinet)%20-filter%3Areplies&src=typed_query&f=live))
 * [Tarija](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/Tarija.SEDES) ([*](https://www.facebook.com/Tarija.SEDES/))
-* Chuquisaca [I](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/GobernacionCh) ([*](https://twitter.com/GobernacionCh)) y [II](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SEDESChuquisaca2025) ([*](https://www.facebook.com/SEDESChuquisaca2025))
-* [Beni](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SEDES-BENI-2020-517750071766113) ([*](https://www.facebook.com/SEDES-BENI-2020-517750071766113)) ([*](https://www.facebook.com/SEDESCh))
+* Chuquisaca [I](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/GobernacionCh) ([*](https://twitter.com/GobernacionCh)) [II](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SEDESChuquisaca2025) ([*](https://www.facebook.com/SEDESChuquisaca2025)) [III](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SEDESCh) ([*](https://www.facebook.com/SEDESCh))
+* [Beni](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SEDES-BENI-2020-517750071766113) ([*](https://www.facebook.com/SEDES-BENI-2020-517750071766113))
 * [Pando](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SaludDePando) ([*](https://www.facebook.com/SaludDePando))
 
 ##### SNIS:
