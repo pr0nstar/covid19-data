@@ -198,16 +198,21 @@ def update_ecuador():
 
     return df
 
-COLOMBIA_URL = 'https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19'
+BASE_COLOMBIA_URL = 'https://www.dane.gov.co'
+COLOMBIA_URL = BASE_COLOMBIA_URL + '/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19'
 def update_colombia():
     cdata = requests.get(COLOMBIA_URL, verify=False)
     cdata = BeautifulSoup(cdata.text, 'html.parser')
 
     cdata_docs = cdata.findChild('div', {'class': 'docs-tecnicos'})
     cdata_btns = cdata_docs.find_all('tr')
+
     download_url = next(
         _ for _ in cdata_btns if 'departamento y sexo' in _.text
     ).findChild('a').attrs['href']
+
+    if download_url.startswith('/'):
+        download_url = BASE_COLOMBIA_URL + download_url
 
     cdata = requests.get(download_url, verify=False)
 
