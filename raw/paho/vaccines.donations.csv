@@ -22,12 +22,12 @@ Equatorial Guinea,GNQ,BBIBP-CorV,CNBG,https://www.reuters.com/article/us-health-
 Bosnia,BIH,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-bosnia-vaccines/bosnia-begins-covid-19-vaccination-roll-out-with-russian-vaccine-idUSL8N2KI2RI,Gamaleya Research Institute,Russia,RUS,2021-02-12,5000.0
 Philippines,PHL,CoronaVac,Sinovac,https://www.reuters.com/article/us-health-coronavirus-philippines/philippines-to-get-china-donated-vaccines-this-month-for-troops-medical-staff-idUSKBN2AB0IT,Sinovac,China,CHN,2021-02-15,600000.0
 Palestine,PSE,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,Gamaleya Research Institute,Russia,RUS,2021-02-19,2000.0
-North Macedonia,MKD,Comirnaty/BNT-162,Pfizer/BioNTech,https://www.usnews.com/news/health-news/articles/2021-02-14/serbia-donates-pfizer-covid-19-vaccines-to-north-macedonia,Pfizer/BioNTech,Serbia,SRB,2021-02-19,8000.0
+North Macedonia,MKD,Comirnaty,Pfizer/BioNTech,https://www.usnews.com/news/health-news/articles/2021-02-14/serbia-donates-pfizer-covid-19-vaccines-to-north-macedonia,Pfizer/BioNTech,Serbia,SRB,2021-02-19,8000.0
 Sierra Leone,SLE,BBIBP-CorV,CNBG,http://en.nhc.gov.cn/2021-02/26/c_83062.htm,CNBG,China,CHN,2021-02-26,200000.0
 Honduras,HND,mRNA-1273,Moderna,https://www.reuters.com/article/healthcoronavirus-honduras/honduras-orders-70000-doses-of-russias-sputnik-v-covid-19-vaccine-idUSL1N2KU28H,Moderna,Israel,ISR,2021-02-26,5000.0
 Guatemala,GTM,mRNA-1273,Moderna,https://www.aa.com.tr/en/americas/1st-vaccines-arrive-in-honduras-guatemala-from-israel/2157560,Moderna,Israel,ISR,2021-02-26,5000.0
 Dominica,DMA,Covishield,Serum Institute of India,https://www.republicworld.com/india-news/general-news/thank-you-india-dominica-pm-extends-gratitude-for-70000-doses-of-covid-19-vaccine.html,AstraZeneca/University of Oxford,India,IND,2021-02-26,70000.0
-Czech Rep.,CZE,Comirnaty/BNT-162,Pfizer/BioNTech,https://www.barrons.com/news/france-to-ship-vaccines-to-hard-hit-czechs-report-01614276018?tesla=y,Pfizer/BioNTech,Israel,ISR,2021-02-26,5000.0
+Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://www.barrons.com/news/france-to-ship-vaccines-to-hard-hit-czechs-report-01614276018?tesla=y,Pfizer/BioNTech,Israel,ISR,2021-02-26,5000.0
 Suriname,SUR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,AstraZeneca/University of Oxford,India,IND,2021-02-26,50000.0
 Palestine,PSE,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,Gamaleya Research Institute,UAE,ARE,2021-02-26,20000.0
 Barbados,BRB,Covishield,Serum Institute of India,https://www.caribbeannationalweekly.com/caribbean-breaking-news-featured/india-to-give-barbados-100000-covid-19-vaccines/,AstraZeneca/University of Oxford,India,IND,2021-02-26,100000.0
@@ -83,7 +83,7 @@ Nigeria,NGA,--,--,https://www.mea.gov.in/vaccine-supply.htm,--,India,IND,2021-03
 Togo,TGO,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,AstraZeneca/University of Oxford,MTN Group/African Union,ISR,2021-03-26,5000.0
 --,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,MTN Group/African Union,IND,2021-03-26,100000.0
 Bhutan,BTN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,AstraZeneca/University of Oxford,India,IND,2021-03-26,400000.0
-Mauritania,MRT,Comirnaty/BNT-162,Pfizer/BioNTech,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Pfizer/BioNTech,UAE,ARE,2021-03-26,5000.0
+Mauritania,MRT,Comirnaty,Pfizer/BioNTech,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Pfizer/BioNTech,UAE,ARE,2021-03-26,5000.0
 Mauritania,MRT,BBIBP-CorV,CNBG,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,CNBG,China,CHN,2021-03-26,50000.0
 --,--,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,AstraZeneca/University of Oxford,MTN Group/African Union,CHN,2021-03-26,200000.0
 Gambia,GMB,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,AstraZeneca/University of Oxford,MTN Group/African Union,CHN,2021-03-26,300000.0
@@ -95,8 +95,8 @@ Albania,ALB,Sputnik V,Gamaleya Research Institute,http://www.xinhuanet.com/engli
 Palestine,PSE,BBIBP-CorV,CNBG,https://www.france24.com/en/live-news/20210329-palestinians-get-100-000-chinese-covid-vaccine-doses,CNBG,China,CHN,2021-03-29,100000.0
 Papua New Guinea,PNG,AZD1222,AstraZeneca,https://www.theguardian.com/world/2021/mar/30/png-prime-minister-first-to-be-vaccinated-with-australian-supplied-doses-to-show-its-safe,AstraZeneca,Australia,AUS,2021-04-01,8000.0
 Ethiopia,ETH,BBIBP-CorV,CNBG,https://www.aviationpros.com/ground-handling/press-release/21216763/ethiopian-airlines-ethiopian-transports-more-than-1-million-covid-19-vaccine-doses-from-beijing-to-harare,CNBG,China,CHN,2021-04-01,300000.0
-Azerbaijan,AZE,CoronaVac,Sinovac,https://en.trend.az/azerbaijan/society/3402510.html,Sinovac,China,CHN,2021-04-01,150000.0
 Moldova,MDA,Sputnik V,Gamaleya Research Institute,https://tass.com/world/1273247,Gamaleya Research Institute,Russia,RUS,2021-04-01,180000.0
+Azerbaijan,AZE,CoronaVac,Sinovac,https://en.trend.az/azerbaijan/society/3402510.html,Sinovac,China,CHN,2021-04-01,150000.0
 Sudan,SDN,BBIBP-CorV,CNBG,https://www.reuters.com/article/health-coronavirus-sudan-china/sudan-to-receive-first-batch-of-sinopharm-vaccines-suna-reports-idUSL1N2LM243,CNBG,China,CHN,2021-04-01,250000.0
 Kyrgyzstan,KGZ,BBIBP-CorV,CNBG,https://www.barrons.com/news/kyrgyzstan-begins-vaccine-rollout-with-china-s-sinopharm-01617012906?tesla=y,CNBG,China,CHN,2021-04-01,150000.0
 Sri Lanka,LKA,BBIBP-CorV,CNBG,https://colombogazette.com/2021/03/31/chinese-sinopharm-vaccines-arrive-in-sri-lanka/,CNBG,China,CHN,2021-04-01,600000.0
@@ -115,7 +115,7 @@ Nepal,NPL,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-sup
 Nepal,NPL,BBIBP-CorV,CNBG,https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,CNBG,China,CHN,2021-04-08,800000.0
 Nauru,NRU,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,AstraZeneca/University of Oxford,India,IND,2021-04-08,10000.0
 Montenegro,MNE,BBIBP-CorV,CNBG,https://seenews.com/news/montenegro-receives-30000-doses-of-chinas-covid-19-vaccine-733151,CNBG,China,CHN,2021-04-08,30000.0
-Moldova,MDA,AZD1222,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,200000.0
+Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,200000.0
 Libya,LBY,Sputnik V,Gamaleya Research Institute,http://www.xinhuanet.com/english/africa/2021-04/05/c_139858648.htm,Gamaleya Research Institute,UAE,ARE,2021-04-08,101250.0
 Lebanon,LBN,BBIBP-CorV,CNBG,https://www.reuters.com/article/health-coronavirus-lebanon-china-int/china-to-give-lebanon-50000-covid-19-vaccine-doses-ambassador-idUSKBN2AT35Q,CNBG,China,CHN,2021-04-08,50000.0
 Pakistan,PAK,BBIBP-CorV,CNBG,https://www.reuters.com/article/idUSL1N2K21I1;https://www.aa.com.tr/en/asia-pacific/pakistan-half-million-gift-vaccines-due-from-china/2207773,CNBG,China,CHN,2021-04-08,1500000.0
@@ -134,7 +134,7 @@ Guinea,GIN,BBIBP-CorV,CNBG,https://www.reuters.com/business/healthcare-pharmaceu
 Bosnia,BIH,CoronaVac,Sinovac,https://www.aa.com.tr/en/health/turkey-donates-10-000-more-vaccine-doses-to-bosnia/2212159,Sinovac,Turkey,TUR,2021-04-19,40000.0
 Cyprus,CYP,CoronaVac,Sinovac,https://www.dailysabah.com/turkey/turkey-sends-40000-more-covid-19-vaccine-doses-to-turkish-cyprus/news,Sinovac,Turkey,TUR,2021-04-22,40000.0
 Cyprus,CYP,CoronaVac,Sinovac,https://www.dailysabah.com/politics/diplomacy/turkey-sends-20000-coronavirus-vaccine-doses-to-turkish-cyprus,Sinovac,Turkey,TUR,2021-04-22,20000.0
-COVAX,CIV,AZD1222,AstraZeneca,https://www.reuters.com/world/europe/france-kicks-off-europes-vaccine-donations-poorer-states-2021-04-21/,AstraZeneca,France,FRA,2021-04-22,100000.0
+COVAX,CIV,Vaxzevria,AstraZeneca,https://www.reuters.com/world/europe/france-kicks-off-europes-vaccine-donations-poorer-states-2021-04-21/,AstraZeneca,France,FRA,2021-04-22,100000.0
 Mauritius,MUS,BBIBP-CorV,CNBG,https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,CNBG,China,CHN,2021-04-22,100000.0
 Bangladesh,BGD,BBIBP-CorV,CNBG,https://www.dhakatribune.com/bangladesh/2021/04/22/no-need-to-worry-over-vaccine-says-momen,CNBG,China,CHN,2021-04-22,600000.0
 Albania,ALB,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,AstraZeneca/University of Oxford,India,IND,2021-04-22,50000.0
