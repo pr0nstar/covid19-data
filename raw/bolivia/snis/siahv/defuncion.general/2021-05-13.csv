@@ -20,6 +20,7 @@ CHUQUISACA,ICLA,CANDELARIA,I63  -Infarto cerebral,"S06.9-Traumatismo intracranea
 CHUQUISACA,YAMPARAEZ,CARAMA,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,YAMPARAEZ,CARAMA,"I50.9-Insuficiencia cardiaca, no especificada",G40  -Epilepsia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,YAMPARAEZ,CARAMA,M80  -Osteoporosis con fractura patologica,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,MACHARETI,CARANDAYTI,G97.8-Otros trastornos del sistema nervioso consecutivos a procedimientos,0-NINGUNO,R09.0-Asfixia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,MACHARETI,CARANDAYTI,I46  -Paro cardiaco,I49  -Otras arritmias cardiacas,E86  -Deplecion del volumen,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,MACHARETI,CARANDAYTI,I99  -Otros trastornos y los no especificados del sistema circulatorio,A41  -Otras septicemias,I80  -Flebitis y tromboflebitis,0-NINGUNO,D50  -Anemias por deficiencia de hierro,0-NINGUNO,1
 CHUQUISACA,YAMPARAEZ,CARDENAL MAURER,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -38,7 +39,10 @@ CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"I50.9-I
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"I61.9-Hemorragia intraencefalica, no especificada",J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"J18.9-Neumonia, no especificada",G93.4-Encefalopatia no especificada,"G62.9-Polineuropatia, no especificada","E14.9-Diabetes mellitus, no especificada, sin mencion de complicacion",N19  -Insuficiencia renal no especificada,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"J18.9-Neumonia, no especificada","K72.9-Insuficiencia hepatica, no especificada",K74.6-Otras cirrosis del higado y las no especificadas,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"K65.9-Peritonitis, no especificada",K74.6-Otras cirrosis del higado y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"K92.2-Hemorragia gastrointestinal, no especificada",L89  -Ulcera de decubito,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,0-NINGUNO,"N17.9-Insuficiencia renal aguda, no especificada",K56.6-Otras obstrucciones intestinales y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,A41.8-Otras septicemias especificadas,I66.9-Oclusion y estenosis de arteria cerebral no especificada,"E14.9-Diabetes mellitus, no especificada, sin mencion de complicacion",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,A41.8-Otras septicemias especificadas,"J18.9-Neumonia, no especificada","E46  -Desnutricion proteicocalorica, no especificada",R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,"A41.9-Septicemia, no especificada","J18.9-Neumonia, no especificada",I10  -Hipertension esencial (primaria),I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,"A41.9-Septicemia, no especificada","J18.9-Neumonia, no especificada",K80.3-Calculo de conducto biliar con colangitis,K82.8-Otras enfermedades especificadas de la vesicula biliar,"N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,1
@@ -66,6 +70,7 @@ CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,J96.0-Insuficienci
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,J96.0-Insuficiencia respiratoria aguda,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,I42.8-Otras cardiomiopatias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado","I50.9-Insuficiencia cardiaca, no especificada",I42.0-Cardiomiopatia dilatada,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,J96.1-Insuficiencia respiratoria cronica,A41.8-Otras septicemias especificadas,0-NINGUNO,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,"K72.9-Insuficiencia hepatica, no especificada",K74.6-Otras cirrosis del higado y las no especificadas,R17  -Ictericia no especificada,C76.2-Tumor maligno del abdomen,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,"K72.9-Insuficiencia hepatica, no especificada",K76.8-Otras enfermedades especificadas del higado,K74.6-Otras cirrosis del higado y las no especificadas,D64.9-Anemia de tipo no especificado,K74.6-Otras cirrosis del higado y las no especificadas,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,K92.8-Otras enfermedades especificadas del sistema digestivo,K56.6-Otras obstrucciones intestinales y las no especificadas,K59.0-Constipacion,B57.3-Enfermedad de Chagas (cronica) que afecta al sistema digestivo,0-NINGUNO,0-NINGUNO,1
@@ -75,9 +80,11 @@ CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.0-Choque cardi
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.0-Choque cardiogenico,Z95.0-Presencia de marcapaso cardiaco,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,I42.8-Otras cardiomiopatias,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.1-Choque hipovolemico,"C16.9-Tumor maligno del estomago, parte no especificada","K92.2-Hemorragia gastrointestinal, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.1-Choque hipovolemico,"K92.2-Hemorragia gastrointestinal, no especificada","C16.9-Tumor maligno del estomago, parte no especificada",D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),A41.8-Otras septicemias especificadas,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.1-Choque hipovolemico,"K92.2-Hemorragia gastrointestinal, no especificada",I10  -Hipertension esencial (primaria),Z95.0-Presencia de marcapaso cardiaco,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.1-Choque hipovolemico,"K92.2-Hemorragia gastrointestinal, no especificada",I85  -Varices esofagicas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.1-Choque hipovolemico,"N93.9-Hemorragia vaginal y uterina anormal, no especificada","D06.9-Carcinoma in situ del cuello del utero, parte no especificada","N39.0-Infeccion de vias urinarias, sitio no especificado","E14.9-Diabetes mellitus, no especificada, sin mencion de complicacion","N18.9-Insuficiencia renal cronica, no especificada",1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,A09.9-Gastroenteritis y colitis de origen no especificado,E86  -Deplecion del volumen,"N17.9-Insuficiencia renal aguda, no especificada",I42.0-Cardiomiopatia dilatada,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,A41.8-Otras septicemias especificadas,K65.8-Otras peritonitis,K56.6-Otras obstrucciones intestinales y las no especificadas,"N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,"C53.9-Tumor maligno del cuello del utero, sin otra especificacion",N18.0-Insuficiencia renal terminal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,"J18.9-Neumonia, no especificada",C22.0-Carcinoma de celulas hepaticas,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,"J18.9-Neumonia, no especificada","C43.9-Melanoma maligno de piel, sitio no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -90,7 +97,9 @@ CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque sépt
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,J80  -Sindrome de dificultad respiratoria del adulto,"J18.9-Neumonia, no especificada",J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,J96.0-Insuficiencia respiratoria aguda,K74.6-Otras cirrosis del higado y las no especificadas,K76.6-Hipertension portal,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,K56.4-Otras obstrucciones del intestino,R10.0-Abdomen agudo,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,"K72.9-Insuficiencia hepatica, no especificada",K76.7-Sindrome hepatorrenal,"N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,"K92.2-Hemorragia gastrointestinal, no especificada","E14.9-Diabetes mellitus, no especificada, sin mencion de complicacion",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.2-Choque séptico,"N39.0-Infeccion de vias urinarias, sitio no especificado",L89  -Ulcera de decubito,"C71.9-Tumor maligno del encefalo, parte no especificada",0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,CNS HOSPITAL OBRERO Nº 6  DR. JAIME MENDOZA,R57.8-Otras formas de choque,I50.0-Insuficiencia cardiaca congestiva,K80.3-Calculo de conducto biliar con colangitis,0-NINGUNO,"K72.9-Insuficiencia hepatica, no especificada","N17.9-Insuficiencia renal aguda, no especificada",1
 CHUQUISACA,PADILLA,COREY,R68.8-Otros sintomas y signos generales especificados,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,TOMINA,CORSO,"Y20  -Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -543,6 +552,7 @@ CHUQUISACA,SUCRE,SEDES-CH,"I42.9-Cardiomiopatia, no especificada","B57.0-Enferme
 CHUQUISACA,SUCRE,SEDES-CH,"I46.1-Muerte cardiaca subita, asi descrita",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,SEDES-CH,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,SEDES-CH,J80  -Sindrome de dificultad respiratoria del adulto,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+CHUQUISACA,SUCRE,SEDES-CH,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,SEDES-CH,R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,SUCRE,SEDES-CH,"W76.7-Otros estrangulamientos y ahorcamientos accidentales, en granja",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 CHUQUISACA,POROMA,SIJCHA BAJA,E10  -Diabetes mellitus insulinodependiente,C61  -Tumor maligno de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -905,6 +915,7 @@ LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,E13  -Otras diabetes mellitus especificadas,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,D59.3-Sindrome hemolitico-uremico,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,"E10.1-Diabetes mellitus insulinodependiente, con cetoacidosis",0-NINGUNO,1
+LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,E66  -Obesidad,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,E87.2-Acidosis,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,N17.1-Insuficiencia renal aguda con necrosis cortical aguda,I10  -Hipertension esencial (primaria),1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,"D84.9-Inmunodeficiencia, no especificada",D69.6-Trombocitopenia no especificada,0-NINGUNO,1
@@ -916,11 +927,13 @@ LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada","U
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada","U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"J18.9-Neumonia, no especificada","U07.2-COVID-19, virus no identificado",J80  -Sindrome de dificultad respiratoria del adulto,J96.0-Insuficiencia respiratoria aguda,E66  -Obesidad,1
-LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,9
+LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,10
+LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,"E66.9-Obesidad, no especificada",1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,K72.1-Insuficiencia hepatica cronica,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,"I73.9-Enfermedad vascular periferica, no especificada",0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,N17.1-Insuficiencia renal aguda con necrosis cortical aguda,E13  -Otras diabetes mellitus especificadas,E87.2-Acidosis,1
+LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,"U07.1-COVID-19, virus identificado",A41.8-Otras septicemias especificadas,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,7
@@ -949,6 +962,7 @@ LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"U04.9-Síndrome respiratorio agudo 
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,D75.0-Eritrocitosis familiar,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,0-NINGUNO,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+LA PAZ,EL ALTO,HOSPITAL DEL NORTE,A41.8-Otras septicemias especificadas,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,A41.8-Otras septicemias especificadas,"U07.1-COVID-19, virus identificado",0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,"G00.9-Meningitis bacteriana, no especificada",R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 LA PAZ,EL ALTO,HOSPITAL DEL NORTE,G97.8-Otros trastornos del sistema nervioso consecutivos a procedimientos,"U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -1296,6 +1310,12 @@ COCHABAMBA,COCHABAMBA,C.S. SEÑOR DE BURGOS,R57.1-Choque hipovolemico,"K92.2-Hem
 COCHABAMBA,COCHABAMBA,C.S. SEÑOR DE BURGOS,R57.2-Choque séptico,N17  -Insuficiencia renal aguda,"N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,R54  -Senilidad,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,C.S. SEÑOR DE BURGOS,R57.2-Choque séptico,"N39.0-Infeccion de vias urinarias, sitio no especificado",C20  -Tumor maligno del recto,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCAPATA,CALIENTES,J96.0-Insuficiencia respiratoria aguda,R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+COCHABAMBA,QUILLACOLLO,CALVARIO,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",K82.0-Obstruccion de la vesicula biliar,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CALVARIO,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CALVARIO,"I46.9-Paro cardiaco, no especificado","E43  -Desnutricion proteicocalorica severa, no especificada",R68.8-Otros sintomas y signos generales especificados,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CALVARIO,J69.0-Neumonitis debida a aspiracion de alimento o vomito,"U07.1-COVID-19, virus identificado","C22.9-Tumor maligno del higado, no especificado",C23  -Tumor maligno de la vesicula biliar,"C67.9-Tumor maligno de la vejiga urinaria, parte no especificada",0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CALVARIO,"R16.0-Hepatomegalia, no clasificada en otra parte","C79.9-Tumor maligno secundario, sitio no especificado",C23  -Tumor maligno de la vesicula biliar,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CALVARIO,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,E66.8-Otros tipos de obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COLCAPIRHUA,CAPACACHI,"I21.9-Infarto agudo del miocardio, sin otra especificacion",E66.0-Obesidad debida a exceso de calorias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COLCAPIRHUA,CAPACACHI,"I21.9-Infarto agudo del miocardio, sin otra especificacion",E66.8-Otros tipos de obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COLCAPIRHUA,CAPACACHI,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",E86  -Deplecion del volumen,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -1324,7 +1344,9 @@ COCHABAMBA,COCHABAMBA,CLINICA ARANJUEZ,R57.8-Otras formas de choque,K65.8-Otras 
 COCHABAMBA,QUILLACOLLO,CLÍNICA EL CARMEN,0-NINGUNO,I50.0-Insuficiencia cardiaca congestiva,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",R54  -Senilidad,L03.1-Celulitis de otras partes de los miembros,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,CLÍNICA EL CARMEN,"I50.9-Insuficiencia cardiaca, no especificada",I10  -Hipertension esencial (primaria),"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,CLÍNICA EL CARMEN,"J18.9-Neumonia, no especificada",R18  -Ascitis,"F03  -Demencia, no especificada","E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CLÍNICA EL CARMEN,J96.0-Insuficiencia respiratoria aguda,J42  -Bronquitis cronica no especificada,R54  -Senilidad,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,CLÍNICA EL CARMEN,J96.1-Insuficiencia respiratoria cronica,"J44.9-Enfermedad pulmonar obstructiva cronica, no especificada","I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,CLÍNICA EL CARMEN,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,"J96.9-Insuficiencia respiratoria, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,I10  -Hipertension esencial (primaria),D75.1-Policitemia secundaria,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"A41.9-Septicemia, no especificada","B87.9-Miasis, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"A41.9-Septicemia, no especificada",D75  -Otras enfermedades de la sangre y de los organos hematopoyeticos,"D46.9-Sindrome mielodisplasico, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"A41.9-Septicemia, no especificada","J15.9-Neumonia bacteriana, no especificada",C90.0-Mieloma multiple,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -1337,6 +1359,7 @@ COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,I26  -Embolia pulmonar,R54  -Seni
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"I31.9-Enfermedad del pericardio, no especificada",I30  -Pericarditis aguda,"C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,I48  -Fibrilacion y aleteo auricular,0-NINGUNO,0-NINGUNO,0-NINGUNO,G30  -Enfermedad de Alzheimer,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,I50.0-Insuficiencia cardiaca congestiva,C34.0-Tumor maligno del bronquio principal,"E14.0-Diabetes mellitus, no especificada, con coma",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,I60  -Hemorragia subaracnoidea,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"I62.9-Hemorragia intracraneal (no traumatica), no especificada",J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,I63.4-Infarto cerebral debido a embolia de arterias cerebrales,I10  -Hipertension esencial (primaria),J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J13  -Neumonia debida a Streptococcus pneumoniae,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,3
@@ -1347,7 +1370,7 @@ COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"J18.9-Neumonia, no especificada"
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,"K65.9-Peritonitis, no especificada",K62  -Otras enfermedades del ano y del recto,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,"K72  -Insuficiencia hepatica, no clasificada en otra parte","C24.9-Tumor maligno de las vias biliares, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",R57.0-Choque cardiogenico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -1358,6 +1381,7 @@ COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.0-Insuficiencia respiratoria 
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.0-Insuficiencia respiratoria aguda,"J18.8-Otras neumonias, de microorganismo no especificado",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,J15.8-Otras neumonias bacterianas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,J96.1-Insuficiencia respiratoria cronica,C97  -Tumores malignos (primarios) de sitios multiples independientes,C78.6-Tumor maligno secundario del peritoneo y del retroperitoneo,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,"J96.9-Insuficiencia respiratoria, no especificada",J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,N17  -Insuficiencia renal aguda,"J84.9-Enfermedad pulmonar intersticial, no especificada",1
@@ -1373,6 +1397,7 @@ COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,R57.2-Choque séptico,A09  -Diarr
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,R57.2-Choque séptico,J80  -Sindrome de dificultad respiratoria del adulto,J13  -Neumonia debida a Streptococcus pneumoniae,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,"N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,R57.2-Choque séptico,J80  -Sindrome de dificultad respiratoria del adulto,J84  -Otras enfermedades pulmonares intersticiales,"J18.9-Neumonia, no especificada",N17  -Insuficiencia renal aguda,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,R57.2-Choque séptico,J80  -Sindrome de dificultad respiratoria del adulto,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,R57.2-Choque séptico,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA LOS ANGELES S.A.,R57.2-Choque séptico,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J80  -Sindrome de dificultad respiratoria del adulto,"J18.8-Otras neumonias, de microorganismo no especificado",N18.8-Otras insuficiencias renales cronicas,J84  -Otras enfermedades pulmonares intersticiales,1
 COCHABAMBA,COCHABAMBA,CLINICA S.A.P.U. NORTE S.R.L.,0-NINGUNO,"B22.0-Enfermedad por VIH, resultante en encefalopatia",0-NINGUNO,0-NINGUNO,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,CLINICA S.A.P.U. NORTE S.R.L.,0-NINGUNO,C24.0-Tumor maligno de las vias biliares extrahepaticas,0-NINGUNO,0-NINGUNO,J65  -Neumoconiosis asociada con tuberculosis,0-NINGUNO,1
@@ -1400,6 +1425,7 @@ COCHABAMBA,COLCAPIRHUA,COLCAPIRHUA,I50.0-Insuficiencia cardiaca congestiva,C22.0
 COCHABAMBA,COLCAPIRHUA,COLCAPIRHUA,I50.0-Insuficiencia cardiaca congestiva,J80  -Sindrome de dificultad respiratoria del adulto,"U07.2-COVID-19, virus no identificado",J13  -Neumonia debida a Streptococcus pneumoniae,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,1
 COCHABAMBA,COCAPATA,COLORADO,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,"N17.9-Insuficiencia renal aguda, no especificada",E45  -Retardo del desarrollo debido a desnutricion proteicocalorica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCAPATA,COLQUECHACA,"S06.9-Traumatismo intracraneal, no especificado",R99  -Otras causas mal definidas y las no especificadas de mortalidad,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,TOTORA(CBBA),COPACHUNCHO,"I21.9-Infarto agudo del miocardio, sin otra especificacion","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),COPACHUNCHO,R09.0-Asfixia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,AIQUILE,ELVIRA,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",I50.0-Insuficiencia cardiaca congestiva,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,ENTRE RIOS CBBA,ENTRE RIOS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -1413,6 +1439,7 @@ COCHABAMBA,TOTORA(CBBA),EPIZANA,"E46  -Desnutricion proteicocalorica, no especif
 COCHABAMBA,TOTORA(CBBA),EPIZANA,"E46  -Desnutricion proteicocalorica, no especificada","C43.9-Melanoma maligno de piel, sitio no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),EPIZANA,"E46  -Desnutricion proteicocalorica, no especificada",M19.2-Artrosis secundaria de otras articulaciones,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),EPIZANA,"J18.9-Neumonia, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,TOTORA(CBBA),EPIZANA,J96.0-Insuficiencia respiratoria aguda,"K70.9-Enfermedad hepatica alcoholica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),EPIZANA,"K35.9-Apendicitis aguda, no especificada",J90  -Derrame pleural no clasificado en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),EPIZANA,K56.0-Ileo paralitico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),EPIZANA,K81.1-Colecistitis cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -1832,7 +1859,7 @@ COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia
 COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",E66.8-Otros tipos de obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",E66.8-Otros tipos de obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,"J96.9-Insuficiencia respiratoria, no especificada",I50  -Insuficiencia cardiaca,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,HOSP. DR. BENIGNO SANCHEZ QUILLACOLLO,"J96.9-Insuficiencia respiratoria, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -2337,16 +2364,19 @@ COCHABAMBA,PUNATA,HOSP. PUNATA (MANUEL A.VILLAR),"U07.1-COVID-19, virus identifi
 COCHABAMBA,PUNATA,HOSP. PUNATA (MANUEL A.VILLAR),"U07.2-COVID-19, virus no identificado",R17  -Ictericia no especificada,"K73.9-Hepatitis cronica, no especificada","K72.9-Insuficiencia hepatica, no especificada","N00.9-Sindrome nefritico agudo, no especificada",0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"C18.9-Tumor maligno del colon, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,D64.8-Otras anemias especificadas,"K92.2-Hemorragia gastrointestinal, no especificada",C22.2-Hepatoblastoma,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,E87.2-Acidosis,J15.0-Neumonia debida a Klebsiella pneumoniae,"C71.0-Tumor maligno del cerebro, excepto lobulos y ventriculos",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,I10  -Hipertension esencial (primaria),I05.0-Estenosis mitral,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"I49.9-Arritmia cardiaca, no especificada",R09.0-Asfixia,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,I60.8-Otras hemorragias subaracnoideas,S06.1-Edema cerebral traumatico,R04.0-Epistaxis,"U07.2-COVID-19, virus no identificado","I05.9-Enfermedad valvular mitral, no especificada",S06.1-Edema cerebral traumatico,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"J12.9-Neumonia viral, no especificada",J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,0-NINGUNO,S42.3-Fractura de la diafisis del humero,J69.0-Neumonitis debida a aspiracion de alimento o vomito,1
-COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado","E88.9-Trastorno metabolico, no especificado",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte","E03.9-Hipotiroidismo, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J96.0-Insuficiencia respiratoria aguda,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion","E03.9-Hipotiroidismo, no especificado","M06.9-Artritis reumatoide, no especificada",0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada",J90  -Derrame pleural no clasificado en otra parte,C91.0-Leucemia linfoblastica aguda,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J96.0-Insuficiencia respiratoria aguda,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,I27.2-Otras hipertensiones pulmonares secundarias,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),"J45.9-Asma, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado","I71.4-Aneurisma de la aorta abdominal, sin mencion de ruptura","E10.9-Diabetes mellitus insulinodependiente, sin mencion de complicacion",I10  -Hipertension esencial (primaria),0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"J96.9-Insuficiencia respiratoria, no especificada","J93.9-Neumotorax, no especificado",C90.0-Mieloma multiple,"N00.9-Sindrome nefritico agudo, no especificada","N18.9-Insuficiencia renal cronica, no especificada",R70.1-Viscosidad plasmatica anormal,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"J96.9-Insuficiencia respiratoria, no especificada",R57.2-Choque séptico,"J18.9-Neumonia, no especificada",I82.9-Embolia y trombosis de vena no especificada,0-NINGUNO,0-NINGUNO,1
@@ -2354,6 +2384,7 @@ COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,"K92.2-Hemorragia gastroin
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,Q25.3-Estenosis de la aorta,I10  -Hipertension esencial (primaria),"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion","E78.9-Trastorno del metabolismo de las lipoproteinas, no especificado",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,R09.0-Asfixia,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,R09.0-Asfixia,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,R57.0-Choque cardiogenico,I35.0-Estenosis (de la valvula) aortica,"I51.9-Enfermedad cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,R57.0-Choque cardiogenico,I50.0-Insuficiencia cardiaca congestiva,"I13.9-Enfermedad cardiorrenal hipertensiva, no especificada","N18.9-Insuficiencia renal cronica, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,R57.2-Choque séptico,"J18.9-Neumonia, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,"M32.9-Lupus eritematoso sistemico, sin otra especificacion",N19  -Insuficiencia renal no especificada,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. SEGURO UNIVERSITARIO UMSS,R57.2-Choque séptico,"J18.9-Neumonia, no especificada","M32.9-Lupus eritematoso sistemico, sin otra especificacion",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,1
@@ -2370,15 +2401,18 @@ COCHABAMBA,TIQUIPAYA,HOSP. TIQUIPAYA,I50  -Insuficiencia cardiaca,"E46  -Desnutr
 COCHABAMBA,TIQUIPAYA,HOSP. TIQUIPAYA,J96.0-Insuficiencia respiratoria aguda,"P23.9-Neumonia congenita, organismo no especificado","U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TIQUIPAYA,HOSP. TIQUIPAYA,W94  -Exposicion a presion de aire alta y baja y a cambios en la presion del aire,0-NINGUNO,"E13.1-Diabetes mellitus especificada, con cetoacidosis","E13.1-Diabetes mellitus especificada, con cetoacidosis",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,0-NINGUNO,"R57.9-Choque, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"C22.9-Tumor maligno del higado, no especificado",N19  -Insuficiencia renal no especificada,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"C25.9-Tumor maligno del pancreas, parte no especificada",J69.0-Neumonitis debida a aspiracion de alimento o vomito,0-NINGUNO,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"C34.9-Tumor maligno de los bronquios o del pulmon, parte no especificada","J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"E46  -Desnutricion proteicocalorica, no especificada",D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I34.0-Insuficiencia (de la valvula) mitral,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,4
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,J96.0-Insuficiencia respiratoria aguda,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,J96.0-Insuficiencia respiratoria aguda,"R57.9-Choque, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,K56.2-Volvulo,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,N19  -Insuficiencia renal no especificada,"I50.9-Insuficiencia cardiaca, no especificada","J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,TOTORA(CBBA),HOSP. TOTORA,"S09.9-Traumatismo de la cabeza, no especificado","T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,C61  -Tumor maligno de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"E11.1-Diabetes mellitus no insulinodependiente, con cetoacidosis",0-NINGUNO,I10  -Hipertension esencial (primaria),E66.0-Obesidad debida a exceso de calorias,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,E42  -Kwashiorkor marasmatico,C82  -Linfoma no Hodgkin folicular [nodular],0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -2393,6 +2427,7 @@ COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,I47.0-Arritmia por reentrada ventricular,R5
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,I49  -Otras arritmias cardiacas,J80  -Sindrome de dificultad respiratoria del adulto,J13  -Neumonia debida a Streptococcus pneumoniae,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,I50.0-Insuficiencia cardiaca congestiva,I42.0-Cardiomiopatia dilatada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"I61.0-Hemorragia intracerebral en hemisferio, subcortical",R57.2-Choque séptico,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",N17.8-Otras insuficiencias renales agudas,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,I61.3-Hemorragia intraencefalica en tallo cerebral,"I15.9-Hipertension secundaria, no especificada",I42.0-Cardiomiopatia dilatada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"I61.9-Hemorragia intraencefalica, no especificada",Z54.0-Convalecencia consecutiva a cirugia,I46  -Paro cardiaco,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"J15.9-Neumonia bacteriana, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,1
@@ -2402,6 +2437,7 @@ COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J80  -Sindrome de dificultad respiratoria d
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J80  -Sindrome de dificultad respiratoria del adulto,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado","A41.9-Septicemia, no especificada",N17.2-Insuficiencia renal aguda con necrosis medular,I47.2-Taquicardia ventricular,I49.0-Fibrilacion y aleteo ventricular,1
+COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J96.0-Insuficiencia respiratoria aguda,"I51.9-Enfermedad cardiaca, no especificada",0-NINGUNO,0-NINGUNO,G41.8-Otros estados epilepticos,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J96.0-Insuficiencia respiratoria aguda,"J15.9-Neumonia bacteriana, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,"E13.9-Diabetes mellitus especificada, sin mencion de complicacion","N17.9-Insuficiencia renal aguda, no especificada",1
@@ -2421,7 +2457,7 @@ COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"R57.9-Choque, no especificado",J80  -Sindr
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,"R57.9-Choque, no especificado","N17.9-Insuficiencia renal aguda, no especificada","N18.9-Insuficiencia renal cronica, no especificada","E10.1-Diabetes mellitus insulinodependiente, con cetoacidosis","E14  -Diabetes mellitus, no especificada","U07.2-COVID-19, virus no identificado",1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,R68.8-Otros sintomas y signos generales especificados,"K72.9-Insuficiencia hepatica, no especificada",K70.1-Hepatitis alcoholica,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. UNIVALLE,S06.6-Hemorragia subaracnoidea traumatica,"S06.9-Traumatismo intracraneal, no especificado",S22.4-Fracturas multiples de costillas,"V03.1-Peaton lesionado por colision con automovil, camioneta o furgoneta, accidente de transito",0-NINGUNO,0-NINGUNO,1
-COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,0-NINGUNO,0-NINGUNO,"E66.9-Obesidad, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,A41.8-Otras septicemias especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,A41.8-Otras septicemias especificadas,0-NINGUNO,B90.9-Secuelas de tuberculosis respiratoria y de tuberculosis no especificada,0-NINGUNO,0-NINGUNO,1
@@ -2456,6 +2492,7 @@ COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respir
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado","N18.5-Enfermedad renal crónica, etapa 5","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"N17.9-Insuficiencia renal aguda, no especificada",A09  -Diarrea y gastroenteritis de presunto origen infeccioso,T31.5-Quemaduras que afectan del 50 al 59% de la superficie del cuerpo,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",I10  -Hipertension esencial (primaria),0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,"N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,N19  -Insuficiencia renal no especificada,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,0-NINGUNO,J90  -Derrame pleural no clasificado en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -2663,6 +2700,7 @@ COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,L89  -Ulcera de decubit
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,N19  -Insuficiencia renal no especificada,"N18.9-Insuficiencia renal cronica, no especificada",M31.0-Angiitis debida a hipersensibilidad,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,"N39.0-Infeccion de vias urinarias, sitio no especificado","I63.9-Infarto cerebral, no especificado","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,R57.1-Choque hipovolemico,"S29.9-Traumatismo del torax, no especificado",S36.1-Traumatismo del higado y de la vesicula biliar,"S39.9-Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis",S36.2-Traumatismo del pancreas,1
+COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,R68.8-Otros sintomas y signos generales especificados,K63.1-Perforacion del intestino (no traumatica),"M32.9-Lupus eritematoso sistemico, sin otra especificacion",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,R68.8-Otros sintomas y signos generales especificados,R10.0-Abdomen agudo,"A18.3-Tuberculosis de los intestinos, el peritoneo y los ganglios mesentericos",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,R68.8-Otros sintomas y signos generales especificados,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,R57.2-Choque séptico,"T09  -Otros traumatismos de la columna vertebral y del tronco, nivel no especificado","S06.9-Traumatismo intracraneal, no especificado","S39.9-Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis","N17.9-Insuficiencia renal aguda, no especificada",D69.6-Trombocitopenia no especificada,1
@@ -2681,7 +2719,7 @@ COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado","E11.9-D
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado","I63.9-Infarto cerebral, no especificado","N17.9-Insuficiencia renal aguda, no especificada","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,1
-COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,"J18.9-Neumonia, no especificada",E66.8-Otros tipos de obesidad,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,HOSP. VIEDMA,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,J96.0-Insuficiencia respiratoria aguda,I10  -Hipertension esencial (primaria),0-NINGUNO,1
@@ -2858,9 +2896,11 @@ COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras s
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,K56.4-Otras obstrucciones del intestino,J96.0-Insuficiencia respiratoria aguda,J98.1-Colapso pulmonar,Z93.2-Ileostomia,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,"K65.9-Peritonitis, no especificada",K55.0-Trastorno vascular agudo de los intestinos,C17.0-Tumor maligno del duodeno,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,"K65.9-Peritonitis, no especificada","K72.9-Insuficiencia hepatica, no especificada","K92.2-Hemorragia gastrointestinal, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada","J18.9-Neumonia, no especificada",1
+COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,"K72.9-Insuficiencia hepatica, no especificada","N17.9-Insuficiencia renal aguda, no especificada",G20  -Enfermedad de Parkinson,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,K85  -Pancreatitis aguda,I50.0-Insuficiencia cardiaca congestiva,I48  -Fibrilacion y aleteo auricular,E87.2-Acidosis,"N17.9-Insuficiencia renal aguda, no especificada",1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,"K92.2-Hemorragia gastrointestinal, no especificada",J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion","U07.1-COVID-19, virus identificado",1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,R57.1-Choque hipovolemico,"K92.2-Hemorragia gastrointestinal, no especificada",K22.1-Ulcera del esofago,"J18.9-Neumonia, no especificada",0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,A41.8-Otras septicemias especificadas,R68.8-Otros sintomas y signos generales especificados,"N17.9-Insuficiencia renal aguda, no especificada","B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion","K92.2-Hemorragia gastrointestinal, no especificada",D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"C16.9-Tumor maligno del estomago, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"C18.9-Tumor maligno del colon, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,C20  -Tumor maligno del recto,Z93.3-Colostomia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -2871,6 +2911,7 @@ COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"C25.9-Tumor 
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"C25.9-Tumor maligno del pancreas, parte no especificada",J90  -Derrame pleural no clasificado en otra parte,T79.6-Isquemia traumatica de musculo,"E43  -Desnutricion proteicocalorica severa, no especificada",T73.0-Efectos del hambre,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"G93.1-Lesion cerebral anoxica, no clasificada en otra parte",I49.0-Fibrilacion y aleteo ventricular,"I50.9-Insuficiencia cardiaca, no especificada",I20.0-Angina inestable,"K92.2-Hemorragia gastrointestinal, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada",1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,I26.9-Embolia pulmonar sin mencion de corazon pulmonar agudo,"N17.9-Insuficiencia renal aguda, no especificada",I46.0-Paro cardiaco con resucitacion exitosa,A41.8-Otras septicemias especificadas,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"I46.9-Paro cardiaco, no especificado","K72.9-Insuficiencia hepatica, no especificada",R56.8-Otras convulsiones y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,I47.0-Arritmia por reentrada ventricular,"E11.1-Diabetes mellitus no insulinodependiente, con cetoacidosis",K85  -Pancreatitis aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"I49.9-Arritmia cardiaca, no especificada",D64.9-Anemia de tipo no especificado,"K25.9-Ulcera gastrica, no especificada como aguda ni cronica, sin hemorragia ni perforacion","N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"I49.9-Arritmia cardiaca, no especificada",I50.0-Insuficiencia cardiaca congestiva,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",I48  -Fibrilacion y aleteo auricular,I49.4-Otros tipos de despolarizacion prematura y los no especificados,"K92.2-Hemorragia gastrointestinal, no especificada",1
@@ -2881,6 +2922,7 @@ COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,J80  -Sindrom
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,J81  -Edema pulmonar,"K72.9-Insuficiencia hepatica, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada",J12.8-Neumonia debida a otros virus,R18  -Ascitis,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,J96.0-Insuficiencia respiratoria aguda,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,J96.0-Insuficiencia respiratoria aguda,"I49.9-Arritmia cardiaca, no especificada","J18.9-Neumonia, no especificada","K92.2-Hemorragia gastrointestinal, no especificada",0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,C78.0-Tumor maligno secundario del pulmon,"K92.2-Hemorragia gastrointestinal, no especificada",R56.8-Otras convulsiones y las no especificadas,D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,J96.1-Insuficiencia respiratoria cronica,J12.8-Neumonia debida a otros virus,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",I10  -Hipertension esencial (primaria),E66.8-Otros tipos de obesidad,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K70.9-Enfermedad hepatica alcoholica, no especificada","K92.2-Hemorragia gastrointestinal, no especificada","K72.9-Insuficiencia hepatica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,K72.0-Insuficiencia hepatica aguda o subaguda,"K70.9-Enfermedad hepatica alcoholica, no especificada",K76.7-Sindrome hepatorrenal,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,"E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte","K72.9-Insuficiencia hepatica, no especificada",1
@@ -2890,6 +2932,7 @@ COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insufi
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada","F03  -Demencia, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada",R18  -Ascitis,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada",J12.8-Neumonia debida a otros virus,"K76.9-Enfermedad del higado, no especificada",R18  -Ascitis,K56.4-Otras obstrucciones del intestino,"N17.9-Insuficiencia renal aguda, no especificada",1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada",J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada",K76.7-Sindrome hepatorrenal,"K76.9-Enfermedad del higado, no especificada",0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada","K65.9-Peritonitis, no especificada","N17.9-Insuficiencia renal aguda, no especificada","K72.9-Insuficiencia hepatica, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada",0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada","J18.9-Neumonia, no especificada",K76.7-Sindrome hepatorrenal,E86  -Deplecion del volumen,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada",K56.4-Otras obstrucciones del intestino,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. GASTROENTEROLÓGICO BOLIVIANO JAPONÉS,"K72.9-Insuficiencia hepatica, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada","K70.9-Enfermedad hepatica alcoholica, no especificada","K92.2-Hemorragia gastrointestinal, no especificada","N17.9-Insuficiencia renal aguda, no especificada",D64.9-Anemia de tipo no especificado,1
@@ -2923,6 +2966,7 @@ COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,"E46  -Desnutricion 
 COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,"A41.9-Septicemia, no especificada",N17  -Insuficiencia renal aguda,"C25.9-Tumor maligno del pancreas, parte no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,C25  -Tumor maligno del pancreas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,C44.0-Tumor maligno de la piel del labio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,C44.3-Tumor maligno de la piel de otras partes y de las no especificadas de la cara,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,"C49.2-Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,C61  -Tumor maligno de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,INST. ONCOLÓGICO NACIONAL COCHABAMBA,J96.0-Insuficiencia respiratoria aguda,C71  -Tumor maligno del encefalo,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -2942,6 +2986,7 @@ COCHABAMBA,COLCAPIRHUA,KAMI,"I21.9-Infarto agudo del miocardio, sin otra especif
 COCHABAMBA,COLCAPIRHUA,KAMI,"I46.1-Muerte cardiaca subita, asi descrita",D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),E11  -Diabetes mellitus no insulinodependiente,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COLCAPIRHUA,KAMI,"I46.1-Muerte cardiaca subita, asi descrita",D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"C18.9-Tumor maligno del colon, parte no especificada","N18.9-Insuficiencia renal cronica, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,"C53.9-Tumor maligno del cuello del utero, sin otra especificacion","E43  -Desnutricion proteicocalorica severa, no especificada","D53.9-Anemia nutricional, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"C53.9-Tumor maligno del cuello del utero, sin otra especificacion","N17.9-Insuficiencia renal aguda, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,C61  -Tumor maligno de la prostata,"E43  -Desnutricion proteicocalorica severa, no especificada",N40  -Hiperplasia de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,C61  -Tumor maligno de la prostata,N40  -Hiperplasia de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -2949,21 +2994,27 @@ COCHABAMBA,QUILLACOLLO,KAUSAY,"D53.9-Anemia nutricional, no especificada","E43  
 COCHABAMBA,QUILLACOLLO,KAUSAY,"D53.9-Anemia nutricional, no especificada","E43  -Desnutricion proteicocalorica severa, no especificada",K74.6-Otras cirrosis del higado y las no especificadas,"F10.2-Trastornos mentales y del comportamiento debidos al uso de alcohol, sindrome de dependencia",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"D53.9-Anemia nutricional, no especificada","N17.9-Insuficiencia renal aguda, no especificada",K74.6-Otras cirrosis del higado y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"D59.9-Anemia hemolitica adquirida, sin otra especificacion","C91.9-Leucemia linfoide, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,"I21.9-Infarto agudo del miocardio, sin otra especificacion","E43  -Desnutricion proteicocalorica severa, no especificada","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I25.5-Cardiomiopatia isquemica,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I25.5-Cardiomiopatia isquemica,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"I21.9-Infarto agudo del miocardio, sin otra especificacion","I25.9-Enfermedad isquemica cronica del corazon, no especificada","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,I25  -Enfermedad isquemica cronica del corazon,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,I25.5-Cardiomiopatia isquemica,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,"I25.9-Enfermedad isquemica cronica del corazon, no especificada","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,I42.8-Otras cardiomiopatias,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,I42.8-Otras cardiomiopatias,"M06.9-Artritis reumatoide, no especificada","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,I50.0-Insuficiencia cardiaca congestiva,"N17.9-Insuficiencia renal aguda, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"I50.9-Insuficiencia cardiaca, no especificada","E43  -Desnutricion proteicocalorica severa, no especificada","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"I50.9-Insuficiencia cardiaca, no especificada",I42.8-Otras cardiomiopatias,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,K74.6-Otras cirrosis del higado y las no especificadas,R10  -Dolor abdominal y pelvico,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,K85  -Pancreatitis aguda,"D53.9-Anemia nutricional, no especificada","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"K92.2-Hemorragia gastrointestinal, no especificada","D53.9-Anemia nutricional, no especificada","C16.9-Tumor maligno del estomago, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,QUILLACOLLO,KAUSAY,"N18.5-Enfermedad renal crónica, etapa 5",K74.6-Otras cirrosis del higado y las no especificadas,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,"N18.5-Enfermedad renal crónica, etapa 5",N13.3-Otras hidronefrosis y las no especificadas,N40  -Hiperplasia de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,R57.0-Choque cardiogenico,"I25.9-Enfermedad isquemica cronica del corazon, no especificada","B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,QUILLACOLLO,KAUSAY,R57.0-Choque cardiogenico,"I27.9-Enfermedad pulmonar del corazon, no especificada",I50.0-Insuficiencia cardiaca congestiva,"J45.9-Asma, no especificada",0-NINGUNO,0-NINGUNO,1
@@ -3036,11 +3087,16 @@ COCHABAMBA,CHIMORE,SAN JUAN DE DIOS CHIMORE,"J44.9-Enfermedad pulmonar obstructi
 COCHABAMBA,CHIMORE,SAN JUAN DE DIOS CHIMORE,"K65.9-Peritonitis, no especificada","K35.9-Apendicitis aguda, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,CHIMORE,SAN JUAN DE DIOS CHIMORE,R10.0-Abdomen agudo,R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,TACOPAYA,SAN MIGUEL DE AQUERANA,R09.0-Asfixia,"W80.9-Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias, en lugar no especificado",0-NINGUNO,0-NINGUNO,Q36  -Labio leporino,Q03  -Hidrocefalo congenito,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"A16.0-Tuberculosis del pulmon, con examen bacteriologico e histologico negativos",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I11.0-Enfermedad cardiaca hipertensiva con insuficiencia cardiaca (congestiva),J80  -Sindrome de dificultad respiratoria del adulto,D53.0-Anemia por deficiencia de proteinas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I13.2-Enfermedad cardiorrenal hipertensiva con insuficiencia cardiaca (congestiva) e insuficiencia renal,"E14.1-Diabetes mellitus, no especificada, con cetoacidosis","N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion",C39.9-Tumor maligno de sitios mal definidos del sistema respiratorio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion",G93.5-Compresion del encefalo,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I11.0-Enfermedad cardiaca hipertensiva con insuficiencia cardiaca (congestiva),0-NINGUNO,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada",1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I12.9-Enfermedad renal hipertensiva sin insuficiencia renal,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion","I13.9-Enfermedad cardiorrenal hipertensiva, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I21.9-Infarto agudo del miocardio, sin otra especificacion","I13.9-Enfermedad cardiorrenal hipertensiva, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I49.9-Arritmia cardiaca, no especificada","C55  -Tumor maligno del utero, parte no especificada","N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,"E43  -Desnutricion proteicocalorica severa, no especificada",E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,E86  -Deplecion del volumen,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -3048,8 +3104,10 @@ COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,K70.3-Cirrosis hepatica alcoholica,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,"N18.9-Insuficiencia renal cronica, no especificada",N40  -Hiperplasia de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,I50.0-Insuficiencia cardiaca congestiva,R50.0-Fiebre con escalofrio,0-NINGUNO,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"I50.9-Insuficiencia cardiaca, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,K70.3-Cirrosis hepatica alcoholica,N17.8-Otras insuficiencias renales agudas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,K74.6-Otras cirrosis del higado y las no especificadas,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"N18.9-Insuficiencia renal cronica, no especificada","C16.9-Tumor maligno del estomago, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"N39.0-Infeccion de vias urinarias, sitio no especificado","N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,R57.0-Choque cardiogenico,"A41.9-Septicemia, no especificada","C24.9-Tumor maligno de las vias biliares, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,R57.0-Choque cardiogenico,"C18.9-Tumor maligno del colon, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -3060,6 +3118,8 @@ COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,R57.0-Choque cardiogenico,"N18.9-Insufic
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,R57.0-Choque cardiogenico,N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,R57.0-Choque cardiogenico,"N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,COCHABAMBA,SEBASTIAN PAGADOR,"W80.9-Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias, en lugar no especificado",J42  -Bronquitis cronica no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SENNFELD,"A41.9-Septicemia, no especificada",K56.4-Otras obstrucciones del intestino,"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+COCHABAMBA,COCHABAMBA,SENNFELD,J96.0-Insuficiencia respiratoria aguda,R57.2-Choque séptico,"J18.9-Neumonia, no especificada","C18.9-Tumor maligno del colon, parte no especificada",0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,SIPE SIPE,SENOR DE LOS MILAGROS,0-NINGUNO,"E14.1-Diabetes mellitus, no especificada, con cetoacidosis",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,SIPE SIPE,SENOR DE LOS MILAGROS,"J18.0-Bronconeumonia, no especificada","E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 COCHABAMBA,SACABA,SOLOMON KLEIN,0-NINGUNO,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -3948,12 +4008,19 @@ ORURO,ORURO,HOSP. OBRERO N° 4,"W79.0-Inhalacion e ingestion de alimento que cau
 ORURO,CHALLAPATA,HOSP. SAN JUAN DE DIOS,0-NINGUNO,"N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 ORURO,CHALLAPATA,HOSP. SAN JUAN DE DIOS,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 ORURO,CHALLAPATA,HOSP. SAN JUAN DE DIOS,"E10.1-Diabetes mellitus insulinodependiente, con cetoacidosis","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,HOSP. WALTER KHON,0-NINGUNO,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 ORURO,ORURO,HOSP. WALTER KHON,0-NINGUNO,"J12.9-Neumonia viral, no especificada","U07.1-COVID-19, virus identificado",I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,1
 ORURO,ORURO,HOSP. WALTER KHON,0-NINGUNO,"N39.0-Infeccion de vias urinarias, sitio no especificado","J12.9-Neumonia viral, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,"B24  -Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificacion",1
+ORURO,ORURO,HOSP. WALTER KHON,0-NINGUNO,"U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado","U07.1-COVID-19, virus identificado","J12.9-Neumonia viral, no especificada",0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,HOSP. WALTER KHON,G71.0-Distrofia muscular,"E46  -Desnutricion proteicocalorica, no especificada",A09.9-Gastroenteritis y colitis de origen no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 ORURO,ORURO,HOSP. WALTER KHON,"I21.9-Infarto agudo del miocardio, sin otra especificacion","U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado","U07.1-COVID-19, virus identificado","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,I10  -Hipertension esencial (primaria),1
+ORURO,ORURO,HOSP. WALTER KHON,"I21.9-Infarto agudo del miocardio, sin otra especificacion","U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado","U07.1-COVID-19, virus identificado","J12.9-Neumonia viral, no especificada",0-NINGUNO,0-NINGUNO,1
 ORURO,ORURO,HOSP. WALTER KHON,"I21.9-Infarto agudo del miocardio, sin otra especificacion","U04.9-Síndrome respiratorio agudo grave, [SRAG] no especificado","U07.1-COVID-19, virus identificado","J12.9-Neumonia viral, no especificada",I10  -Hipertension esencial (primaria),N40  -Hiperplasia de la prostata,1
 ORURO,ORURO,HOSP. WALTER KHON,"I46.9-Paro cardiaco, no especificado",J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,HOSP. WALTER KHON,"I50.9-Insuficiencia cardiaca, no especificada","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I11.9-Enfermedad cardiaca hipertensiva sin insuficiencia cardiaca (congestiva),"N39.0-Infeccion de vias urinarias, sitio no especificado",D50.0-Anemia por deficiencia de hierro secundaria a perdida de sangre (cronica),0-NINGUNO,1
+ORURO,ORURO,HOSP. WALTER KHON,"J18.9-Neumonia, no especificada","U07.2-COVID-19, virus no identificado","R65.1-Síndrome de respuesta inflamatoria sistématica de origen infeccioso, con falla orgánica",E86  -Deplecion del volumen,"N39.0-Infeccion de vias urinarias, sitio no especificado",0-NINGUNO,1
 ORURO,ORURO,HOSP. WALTER KHON,"J96.9-Insuficiencia respiratoria, no especificada","J12.9-Neumonia viral, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+ORURO,ORURO,HOSP. WALTER KHON,"J96.9-Insuficiencia respiratoria, no especificada","N12  -Nefritis tubulointersticial, no especificada como aguda o cronica","J18.9-Neumonia, no especificada","D53.9-Anemia nutricional, no especificada","M06.9-Artritis reumatoide, no especificada",0-NINGUNO,1
 ORURO,HUAYLLAMARCA,HUAYLLAMARCA,"E46  -Desnutricion proteicocalorica, no especificada","E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 ORURO,ORURO,NSTA.SRA. DE CANDELARIA,0-NINGUNO,"J12.9-Neumonia viral, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 ORURO,ORURO,NSTA.SRA. DE CANDELARIA,0-NINGUNO,R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -3985,6 +4052,7 @@ POTOSI,POTOSI,CENTRO FERIAL COVID19,J80  -Sindrome de dificultad respiratoria de
 POTOSI,POTOSI,CENTRO FERIAL COVID19,"J96  -Insuficiencia respiratoria, no clasificada en otra parte","A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 POTOSI,POTOSI,CENTRO FERIAL COVID19,J96.0-Insuficiencia respiratoria aguda,E87.2-Acidosis,"U07.1-COVID-19, virus identificado","N18.9-Insuficiencia renal cronica, no especificada",0-NINGUNO,0-NINGUNO,1
 POTOSI,POTOSI,CENTRO FERIAL COVID19,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,"J18.8-Otras neumonias, de microorganismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+POTOSI,POTOSI,CENTRO FERIAL COVID19,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,"J18.8-Otras neumonias, de microorganismo no especificado","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 POTOSI,POTOSI,CENTRO FERIAL COVID19,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado","E66.9-Obesidad, no especificada","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",1
 POTOSI,POTOSI,CENTRO FERIAL COVID19,J96.0-Insuficiencia respiratoria aguda,J80  -Sindrome de dificultad respiratoria del adulto,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 POTOSI,POTOSI,CENTRO FERIAL COVID19,J96.0-Insuficiencia respiratoria aguda,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,"E11.6-Diabetes mellitus no insulinodependiente, con otras complicaciones especificadas","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
@@ -4320,7 +4388,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especif
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,I49  -Otras arritmias cardiacas,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,E66  -Obesidad,0-NINGUNO,1
-TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,7
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,8
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,N17  -Insuficiencia renal aguda,"E14  -Diabetes mellitus, no especificada",1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,N17  -Insuficiencia renal aguda,I48  -Fibrilacion y aleteo auricular,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,"N17.9-Insuficiencia renal aguda, no especificada",0-NINGUNO,1
@@ -4340,7 +4408,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especif
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,E66  -Obesidad,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,I10  -Hipertension esencial (primaria),E66  -Obesidad,1
-TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,2
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,3
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,I10  -Hipertension esencial (primaria),0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,J84  -Otras enfermedades pulmonares intersticiales,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,L03  -Celulitis,E13  -Otras diabetes mellitus especificadas,E66  -Obesidad,1
@@ -4353,6 +4421,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especif
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N17  -Insuficiencia renal aguda,D09.0-Carcinoma in situ de la vejiga,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N17  -Insuficiencia renal aguda,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N17  -Insuficiencia renal aguda,J17  -Neumonia en enfermedades clasificadas en otra parte,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,I10  -Hipertension esencial (primaria),0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N17  -Insuficiencia renal aguda,K56  -Ileo paralitico y obstruccion intestinal sin hernia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N18  -Insuficiencia renal cronica,C53  -Tumor maligno del cuello del utero,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,A41.8-Otras septicemias especificadas,N18  -Insuficiencia renal cronica,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4378,6 +4447,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,I44.2-Bloqueo auriculoventricul
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,I46  -Paro cardiaco,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,I46  -Paro cardiaco,I50  -Insuficiencia cardiaca,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,I46  -Paro cardiaco,R57.1-Choque hipovolemico,"K72  -Insuficiencia hepatica, no clasificada en otra parte",K70.4-Insuficiencia hepatica alcoholica,"K92.2-Hemorragia gastrointestinal, no especificada",F10  -Trastornos mentales y del comportamiento debidos al uso de alcohol,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,I50  -Insuficiencia cardiaca,R57.2-Choque séptico,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"I62.9-Hemorragia intracraneal (no traumatica), no especificada",I60  -Hemorragia subaracnoidea,D53  -Otras anemias nutricionales,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,I63.8-Otros infartos cerebrales,"R57  -Choque, no clasificado en otra parte",J93  -Neumotorax,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",0-NINGUNO,J84  -Otras enfermedades pulmonares intersticiales,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4417,6 +4487,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respirator
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,"E14  -Diabetes mellitus, no especificada",I10  -Hipertension esencial (primaria),1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,E66  -Obesidad,I10  -Hipertension esencial (primaria),2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,0-NINGUNO,0-NINGUNO,N17  -Insuficiencia renal aguda,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,A41.8-Otras septicemias especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,"E14  -Diabetes mellitus, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
@@ -4424,6 +4495,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respirator
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,E66  -Obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,I10  -Hipertension esencial (primaria),"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",E66  -Obesidad,0-NINGUNO,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,"I50.9-Insuficiencia cardiaca, no especificada",R57.0-Choque cardiogenico,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,J84  -Otras enfermedades pulmonares intersticiales,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,J84  -Otras enfermedades pulmonares intersticiales,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"J96  -Insuficiencia respiratoria, no clasificada en otra parte",J17.8-Neumonia en otras enfermedades clasificadas en otra parte,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4442,6 +4514,7 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,K65  -Peritonitis,0-NINGUNO,R57
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,K65  -Peritonitis,A41  -Otras septicemias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,K65  -Peritonitis,K35  -Apendicitis aguda,N17  -Insuficiencia renal aguda,I48  -Fibrilacion y aleteo auricular,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,K70.3-Cirrosis hepatica alcoholica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,K70.3-Cirrosis hepatica alcoholica,F10  -Trastornos mentales y del comportamiento debidos al uso de alcohol,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"K72  -Insuficiencia hepatica, no clasificada en otra parte",C22.7-Otros carcinomas especificados del higado,C23  -Tumor maligno de la vesicula biliar,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"K72  -Insuficiencia hepatica, no clasificada en otra parte",K76.6-Hipertension portal,K71.6-Enfermedad toxica del higado con hepatitis no clasificada en otra parte,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",B57.3-Enfermedad de Chagas (cronica) que afecta al sistema digestivo,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"K72  -Insuficiencia hepatica, no clasificada en otra parte",N17  -Insuficiencia renal aguda,K70.3-Cirrosis hepatica alcoholica,E88  -Otros trastornos metabolicos,I46  -Paro cardiaco,0-NINGUNO,1
@@ -4480,7 +4553,9 @@ TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,J17.8-Neu
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,N17  -Insuficiencia renal aguda,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,J17.8-Neumonia en otras enfermedades clasificadas en otra parte,N17.2-Insuficiencia renal aguda con necrosis medular,0-NINGUNO,0-NINGUNO,E66  -Obesidad,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,"J18  -Neumonia, organismo no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,K56  -Ileo paralitico y obstruccion intestinal sin hernia,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,"L02.8-Absceso cutaneo, furunculo y antrax de otros sitios",K65  -Peritonitis,"M72.5-Fascitis, no clasificada en otra parte",0-NINGUNO,E66  -Obesidad,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,N05  -Sindrome nefritico no especificado,K51.8-Otras colitis ulcerativas,0-NINGUNO,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,R57.2-Choque séptico,N39  -Otros trastornos del sistema urinario,E13  -Otras diabetes mellitus especificadas,I10  -Hipertension esencial (primaria),N17  -Insuficiencia renal aguda,0-NINGUNO,1
 TARIJA,TARIJA,HOSPITAL REGIONAL SAN JUAN DE DIOS,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4680,10 +4755,12 @@ SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I10  -Hipertension esencial (primari
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I10  -Hipertension esencial (primaria),I61  -Hemorragia intraencefalica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I21  -Infarto agudo del miocardio,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I46.0-Paro cardiaco con resucitacion exitosa,I63  -Infarto cerebral,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,"I50.9-Insuficiencia cardiaca, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,"I50.9-Insuficiencia cardiaca, no especificada",J90  -Derrame pleural no clasificado en otra parte,"I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I63  -Infarto cerebral,I50  -Insuficiencia cardiaca,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I63  -Infarto cerebral,I74  -Embolia y trombosis arteriales,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,I67  -Otras enfermedades cerebrovasculares,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I15  -Hipertension secundaria,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GENERAL SAAVEDRA,ABELARDO SUAREZ,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4703,6 +4780,7 @@ SANTA CRUZ,ROBORE,AGUAS CALIENTES,I21  -Infarto agudo del miocardio,D50  -Anemia
 SANTA CRUZ,ROBORE,AGUAS CALIENTES,I21  -Infarto agudo del miocardio,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,ROBORE,AGUAS CALIENTES,T17.8-Cuerpo extraño en otras y en multiples partes de las vias respiratorias,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,ANITA SUAREZ DE LEIGUE,I21  -Infarto agudo del miocardio,K38.1-Concreciones apendiculares,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,ANITA SUAREZ DE LEIGUE,I61  -Hemorragia intraencefalica,J96.0-Insuficiencia respiratoria aguda,I77  -Otros trastornos arteriales o arteriolares,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,ANITA SUAREZ DE LEIGUE,J86  -Piotorax,J42  -Bronquitis cronica no especificada,G80  -Paralisis cerebral infantil,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,ANITA SUAREZ DE LEIGUE,"J96.9-Insuficiencia respiratoria, no especificada",A90  -Fiebre del dengue [dengue clasico],B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,ANITA SUAREZ DE LEIGUE,N18  -Insuficiencia renal cronica,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4796,6 +4874,7 @@ SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I21  -Infarto agudo del miocardio,B57  
 SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I21  -Infarto agudo del miocardio,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I21  -Infarto agudo del miocardio,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I25.2-Infarto antiguo del miocardio,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I25.2-Infarto antiguo del miocardio,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I50.0-Insuficiencia cardiaca congestiva,I46.0-Paro cardiaco con resucitacion exitosa,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,I61  -Hemorragia intraencefalica,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,C.S. VILLA COCHABAMBA,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico","I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4838,10 +4917,12 @@ SANTA CRUZ,BUENA VISTA,CARANDA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CENTRO MÉDICO SAN SALVADOR,I50  -Insuficiencia cardiaca,"J12  -Neumonia viral, no clasificada en otra parte",I15.8-Otros tipos de hipertension secundaria,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CENTRO MÉDICO SAN SALVADOR,"J18.9-Neumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,5
+SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,0-NINGUNO,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,0-NINGUNO,I11  -Enfermedad cardiaca hipertensiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,E87.2-Acidosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,"I67.9-Enfermedad cerebrovascular, no especificada",I10  -Hipertension esencial (primaria),E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,"J18.0-Bronconeumonia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,0-NINGUNO,Q03  -Hidrocefalo congenito,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,B15  -Hepatitis aguda tipo A,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CONCEPCION,CESAR BANZER,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -4923,6 +5004,7 @@ SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,J96.0-Insuficiencia respiratoria aguda,J
 SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","U07.2-COVID-19, virus no identificado",0-NINGUNO,N17  -Insuficiencia renal aguda,0-NINGUNO,1
+SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,J96.0-Insuficiencia respiratoria aguda,T60.0-Envenenamiento por Insecticidas organofosforados y carbamatos,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,K55  -Trastornos vasculares de los intestinos,I48  -Fibrilacion y aleteo auricular,0-NINGUNO,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,R57.0-Choque cardiogenico,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",K91.5-Sindrome postcolecistectomia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA CARDIO SALUD,R57.1-Choque hipovolemico,D53  -Otras anemias nutricionales,O14.2-Síndrome HELLP,O14.1-Preeclampsia severa,0-NINGUNO,0-NINGUNO,1
@@ -5030,7 +5112,9 @@ SANTA CRUZ,WARNES,CLÍNICA JEHOVÁ RAPHA,R57.1-Choque hipovolemico,0-NINGUNO,C91
 SANTA CRUZ,WARNES,CLÍNICA JEHOVÁ RAPHA,R57.1-Choque hipovolemico,E63.1-Desequilibrio de los constituyentes en la dieta,Z93.3-Colostomia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CLÍNICA JEHOVÁ RAPHA,R57.2-Choque séptico,A04  -Otras infecciones intestinales bacterianas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,D59.3-Sindrome hemolitico-uremico,N18  -Insuficiencia renal cronica,A41.8-Otras septicemias especificadas,"J18.0-Bronconeumonia, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,1
+SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,I21  -Infarto agudo del miocardio,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,I82.8-Embolia y trombosis de otras venas especificadas,A41  -Otras septicemias,"J96.9-Insuficiencia respiratoria, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,"J18.9-Neumonia, no especificada",J96.0-Insuficiencia respiratoria aguda,B90  -Secuelas de tuberculosis,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,5
 SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,L03.1-Celulitis de otras partes de los miembros,"N18.9-Insuficiencia renal cronica, no especificada","I46.9-Paro cardiaco, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,CLINICA LASER ARGERICH,R57.1-Choque hipovolemico,"K92.2-Hemorragia gastrointestinal, no especificada",C61  -Tumor maligno de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5054,6 +5138,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGU
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,J12.1-Neumonia debida a virus sincitial respiratorio,"U07.1-COVID-19, virus identificado",K56  -Ileo paralitico y obstruccion intestinal sin hernia,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,J15.8-Otras neumonias bacterianas,N18  -Insuficiencia renal cronica,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,"J15.9-Neumonia bacteriana, no especificada","N18.5-Enfermedad renal crónica, etapa 5",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,"J18.0-Bronconeumonia, no especificada",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,0-NINGUNO,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
@@ -5066,6 +5151,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I21  -I
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I21  -Infarto agudo del miocardio,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I21  -Infarto agudo del miocardio,J96.0-Insuficiencia respiratoria aguda,J17.1-Neumonia en enfermedades virales clasificadas en otra parte,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I21  -Infarto agudo del miocardio,J96.0-Insuficiencia respiratoria aguda,P23.5-Neumonia congenita debida a Pseudomonas,0-NINGUNO,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I21  -Infarto agudo del miocardio,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I21  -Infarto agudo del miocardio,"J96.9-Insuficiencia respiratoria, no especificada",R57.2-Choque séptico,"E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I50.0-Insuficiencia cardiaca congestiva,I51.7-Cardiomegalia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,I61  -Hemorragia intraencefalica,"I49.9-Arritmia cardiaca, no especificada",R57.0-Choque cardiogenico,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5079,6 +5165,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,J96.0-I
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,J96.0-Insuficiencia respiratoria aguda,R57.2-Choque séptico,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,J96.0-Insuficiencia respiratoria aguda,R57.2-Choque séptico,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,3
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,J45  -Asma,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,R57.0-Choque cardiogenico,G93.4-Encefalopatia no especificada,I50.0-Insuficiencia cardiaca congestiva,"K70.2-Fibrosis y esclerosis del higado, alcoholica",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,R57.0-Choque cardiogenico,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA MEDICA MANANTIAL DE VIDA SRL.,R57.0-Choque cardiogenico,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5133,6 +5220,7 @@ SANTA CRUZ,MONTERO,CLINICA NORTE,"I46.9-Paro cardiaco, no especificado","J18.9-N
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,0-NINGUNO,"U07.2-COVID-19, virus no identificado",N18  -Insuficiencia renal cronica,"I15.9-Hipertension secundaria, no especificada",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,I46  -Paro cardiaco,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,J15.6-Neumonia debida a otras bacterias aerobicas gramnegativas,"U07.1-COVID-19, virus identificado",J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,J90  -Derrame pleural no clasificado en otra parte,"J12.9-Neumonia viral, no especificada","U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,J96.0-Insuficiencia respiratoria aguda,I42.1-Cardiomiopatia hipertrofica obstructiva,N17  -Insuficiencia renal aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,J96.0-Insuficiencia respiratoria aguda,P23.0-Neumonia congenita debida a agente viral,"U07.1-COVID-19, virus identificado",Z83.3-Historia familiar de diabetes mellitus,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLINICA RAMIREZ,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5246,6 +5334,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLÍNICA VIRGEN DE COTOCA,K70.3-Cirrosis hepa
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLÍNICA VIRGEN DE COTOCA,R57.1-Choque hipovolemico,C54.0-Tumor maligno del istmo uterino,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLÍNICA VIRGEN DE COTOCA,R57.2-Choque séptico,"E11.8-Diabetes mellitus no insulinodependiente, con complicaciones no especificadas",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CLÍNICA VIRGEN DE COTOCA,R57.2-Choque séptico,"J15.9-Neumonia bacteriana, no especificada","J96.9-Insuficiencia respiratoria, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SAN PEDRO,COLONIA PIRAI,I21  -Infarto agudo del miocardio,J96.0-Insuficiencia respiratoria aguda,J98  -Otros trastornos respiratorios,K71  -Enfermedad toxica del higado,"N28  -Otros trastornos del riñon y del ureter, no clasificados en otra parte",0-NINGUNO,1
 SANTA CRUZ,COMARAPA,COMARAPA,0-NINGUNO,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,COMARAPA,COMARAPA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,CONS. MEDICO DE NEFROLOGIA Y DIALISIS,I21  -Infarto agudo del miocardio,J81  -Edema pulmonar,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5270,6 +5359,7 @@ SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,C02  -Tumor maligno de otras partes 
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,C16  -Tumor maligno del estomago,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,C53  -Tumor maligno del cuello del utero,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,"D52.9-Anemia por deficiencia de folatos, sin otra especificacion",K25  -Ulcera gastrica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,0-NINGUNO,Z93.0-Traqueostomia,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,E44.0-Desnutricion proteicocalorica moderada,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,E44.1-Desnutricion proteicocalorica leve,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,E63.1-Desequilibrio de los constituyentes en la dieta,D50  -Anemias por deficiencia de hierro,0-NINGUNO,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
@@ -5286,6 +5376,7 @@ SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I21  -Infarto agudo del miocardio,"I
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I21  -Infarto agudo del miocardio,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I46  -Paro cardiaco,0-NINGUNO,E63.1-Desequilibrio de los constituyentes en la dieta,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I46  -Paro cardiaco,0-NINGUNO,"I49.9-Arritmia cardiaca, no especificada",R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I46  -Paro cardiaco,I27.0-Hipertension pulmonar primaria,0-NINGUNO,R54  -Senilidad,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I50  -Insuficiencia cardiaca,0-NINGUNO,J63.3-Fibrosis (del pulmon) debida a grafito,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I50  -Insuficiencia cardiaca,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,Y85  -Secuelas de accidentes de transporte,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,I50  -Insuficiencia cardiaca,"I49.9-Arritmia cardiaca, no especificada",0-NINGUNO,Z45.0-Asistencia y ajuste de marcapaso cardiaco,0-NINGUNO,0-NINGUNO,1
@@ -5304,8 +5395,9 @@ SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,J96.0-Insuficiencia respiratoria agu
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,J45  -Asma,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,J96.1-Insuficiencia respiratoria cronica,E44.0-Desnutricion proteicocalorica moderada,"A15.0-Tuberculosis del pulmon, confirmada por hallazgo microscopico del bacilo tuberculoso en esputo, con o sin cultivo",0-NINGUNO,D50  -Anemias por deficiencia de hierro,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,K70.3-Cirrosis hepatica alcoholica,0-NINGUNO,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,K72.1-Insuficiencia hepatica cronica,0-NINGUNO,K70.3-Cirrosis hepatica alcoholica,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,K72.1-Insuficiencia hepatica cronica,0-NINGUNO,K70.3-Cirrosis hepatica alcoholica,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",0-NINGUNO,0-NINGUNO,3
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,K72.1-Insuficiencia hepatica cronica,E63.1-Desequilibrio de los constituyentes en la dieta,K70.3-Cirrosis hepatica alcoholica,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,N17  -Insuficiencia renal aguda,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,N17  -Insuficiencia renal aguda,E63.1-Desequilibrio de los constituyentes en la dieta,"A15.0-Tuberculosis del pulmon, confirmada por hallazgo microscopico del bacilo tuberculoso en esputo, con o sin cultivo",0-NINGUNO,E44.0-Desnutricion proteicocalorica moderada,D50  -Anemias por deficiencia de hierro,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,3
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,N18  -Insuficiencia renal cronica,E63.1-Desequilibrio de los constituyentes en la dieta,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,A31  -Infecciones debidas a otras micobacterias,0-NINGUNO,1
@@ -5321,6 +5413,7 @@ SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,R57.2-Choque séptico,C24  -Tumor ma
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,R57.2-Choque séptico,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,R57.2-Choque séptico,K80.0-Calculo de la vesicula biliar con colecistitis aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,CONSULTORIO FAMILIAR ESTE,T79.2-Hemorragia traumatica secundaria y recurrente,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,CHARAGUA,COPERE LOMA,0-NINGUNO,0-NINGUNO,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN CARLOS,CSCI SANTA FE,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada","A15.2-Tuberculosis del pulmon, confirmada histologicamente",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN CARLOS,CSCI SANTA FE,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada",C22.1-Carcinoma de vias biliares intrahepaticas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN CARLOS,CSCI SANTA FE,0-NINGUNO,"E46  -Desnutricion proteicocalorica, no especificada","E10.3-Diabetes mellitus insulinodependiente, con complicaciones oftalmicas",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5483,7 +5576,7 @@ SANTA CRUZ,ROBORE,GERMAN VACA DIEZ,"X70.1-Lesion autoinfligida intencionalmente 
 SANTA CRUZ,VALLEGRANDE,GUADALUPE,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,GUAJOJO,I21  -Infarto agudo del miocardio,0-NINGUNO,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,GUAJOJO,I21  -Infarto agudo del miocardio,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
-SANTA CRUZ,ASCENCION DE GUARAYOS,GUARAYOS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,21
+SANTA CRUZ,ASCENCION DE GUARAYOS,GUARAYOS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,25
 SANTA CRUZ,ASCENCION DE GUARAYOS,GUARAYOS,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,"U07.2-COVID-19, virus no identificado",1
 SANTA CRUZ,CAMIRI,GUIRARAPO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,GUTIERREZ,GUTIERREZ,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5818,6 +5911,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA NIÑO JESUS SUC1,"U07.1-COVID-19
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA NIÑO JESUS SUC1,"U07.1-COVID-19, virus identificado","O10  -Hipertension preexistente que complica el embarazo, el parto y el puerperio",E66  -Obesidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PEREYRA,0-NINGUNO,N18  -Insuficiencia renal cronica,0-NINGUNO,"O10.3-Enfermedad cardiorrenal hipertensiva preexistente que complica el embarazo, el parto y el puerperio",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,A17.0-Meningitis tuberculosa (G01*),Q03.8-Otros hidrocefalos congenitos,"T85.7-Infeccion y reaccion inflamatoria debidas a otros dispositivos protesicos, implantes e injertos internos","T85.9-Complicacion no especificada de dispositivo protesico, implante e injerto interno",Z93.0-Traqueostomia,Z93.1-Gastrostomia,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,"E10.1-Diabetes mellitus insulinodependiente, con cetoacidosis",R57.1-Choque hipovolemico,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,"G00.9-Meningitis bacteriana, no especificada",A17.0-Meningitis tuberculosa (G01*),"E11.2-Diabetes mellitus no insulinodependiente, con complicaciones renales",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,G93.2-Hipertension intracraneal benigna,I62.0-Hemorragia subdural (aguda) (no traumatica),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,I21  -Infarto agudo del miocardio,I10  -Hipertension esencial (primaria),E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5833,6 +5927,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,M62.8-Otros trastornos 
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,N17.2-Insuficiencia renal aguda con necrosis medular,J81  -Edema pulmonar,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,P96.0-Insuficiencia renal congenita,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,P96.0-Insuficiencia renal congenita,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","E14  -Diabetes mellitus, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,P96.0-Insuficiencia renal congenita,J81  -Edema pulmonar,I50.0-Insuficiencia cardiaca congestiva,"R03.0-Lectura elevada de la presion sanguinea, sin diagnostico de hipertension",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,Q23.3-Insuficiencia mitral congenita,S72.0-Fractura del cuello de femur,"N23  -Colico renal, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,R57.0-Choque cardiogenico,I21  -Infarto agudo del miocardio,"R03.0-Lectura elevada de la presion sanguinea, sin diagnostico de hipertension",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA PROSALUD,R57.0-Choque cardiogenico,J96.0-Insuficiencia respiratoria aguda,"I46.1-Muerte cardiaca subita, asi descrita",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5876,6 +5971,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,I21  -Infarto agudo del m
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,I46  -Paro cardiaco,"A41.9-Septicemia, no especificada",0-NINGUNO,P96.0-Insuficiencia renal congenita,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,J96.0-Insuficiencia respiratoria aguda,"J44.1-Enfermedad pulmonar obstructiva cronica con exacerbacion aguda, no especificada",0-NINGUNO,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,J96.0-Insuficiencia respiratoria aguda,P23  -Neumonia congenita,"U07.2-COVID-19, virus no identificado",I48  -Fibrilacion y aleteo auricular,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,"J96.9-Insuficiencia respiratoria, no especificada","T78.2-Choque anafilactico, no especificado",C73  -Tumor maligno de la glandula tiroides,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,K55.0-Trastorno vascular agudo de los intestinos,R57.2-Choque séptico,Z55.2-Problemas relacionados con la falla en los examenes,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. CLINICA SIRANI,"K72  -Insuficiencia hepatica, no clasificada en otra parte",K76.7-Sindrome hepatorrenal,K72.1-Insuficiencia hepatica cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -5901,9 +5997,9 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,P23.0-Neumonia congen
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,R57.2-Choque séptico,"E11.0-Diabetes mellitus no insulinodependiente, con coma","N18.1-Enfermedad renal crónica, etapa 1",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,S36.7-Traumatismo de multiples organos intraabdominales,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,0-NINGUNO,Z83.3-Historia familiar de diabetes mellitus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,0-NINGUNO,"N28.9-Trastorno del riñon y del ureter, no especificado",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","N28.9-Trastorno del riñon y del ureter, no especificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",I50.0-Insuficiencia cardiaca congestiva,I51.7-Cardiomegalia,"E14  -Diabetes mellitus, no especificada",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,"E14  -Diabetes mellitus, no especificada",G93.4-Encefalopatia no especificada,0-NINGUNO,D64.9-Anemia de tipo no especificado,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.B. GRUMEDSO,"G00.9-Meningitis bacteriana, no especificada","A41.9-Septicemia, no especificada","E87.8-Otros trastornos del equilibrio de los electrolitos y de los liquidos, no clasificados en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -6102,6 +6198,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificad
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada","E46  -Desnutricion proteicocalorica, no especificada","I63.9-Infarto cerebral, no especificado","F03  -Demencia, no especificada",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada",E87.2-Acidosis,C77.2-Tumor maligno de los ganglios linfaticos intraabdominales,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada",I26  -Embolia pulmonar,"R89.7-Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos, hallazgos histologicos anormales",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada","I49.9-Arritmia cardiaca, no especificada",C61  -Tumor maligno de la prostata,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada","J12  -Neumonia viral, no clasificada en otra parte",N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada",J15.6-Neumonia debida a otras bacterias aerobicas gramnegativas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,"A41.9-Septicemia, no especificada","J18.0-Bronconeumonia, no especificada",N18.0-Insuficiencia renal terminal,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -6159,6 +6256,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria 
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,C47  -Tumor maligno de los nervios perifericos y del sistema nervioso autonomo,C50  -Tumor maligno de la mama,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,G93.4-Encefalopatia no especificada,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,"I47.9-Taquicardia paroxistica, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,J12.0-Neumonia debida a adenovirus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,J12.0-Neumonia debida a adenovirus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,J12.0-Neumonia debida a adenovirus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,H.G. C.P.S.,J96.0-Insuficiencia respiratoria aguda,J12.1-Neumonia debida a virus sincitial respiratorio,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
@@ -6520,6 +6618,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HAMACAS,R57.2-Choque séptico,A41.8-Otras sep
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HAMACAS,R96.0-Muerte instantanea,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,I10  -Hipertension esencial (primaria),1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HAMACAS,"U07.1-COVID-19, virus identificado","F01.9-Demencia vascular, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,HARDEMAN,I21  -Infarto agudo del miocardio,I50.0-Insuficiencia cardiaca congestiva,"J18.9-Neumonia, no especificada",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SAN PEDRO,HARDEMAN,I21  -Infarto agudo del miocardio,I50.0-Insuficiencia cardiaca congestiva,Z80.0-Historia familiar de tumor maligno de organos digestivos,D25  -Leiomioma del utero,D53  -Otras anemias nutricionales,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,HARDEMAN,I46  -Paro cardiaco,"J96.9-Insuficiencia respiratoria, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,HARDEMAN,"J84.9-Enfermedad pulmonar intersticial, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,B57  -Enfermedad de Chagas,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,HARDEMAN,S06  -Traumatismo intracraneal,T71  -Asfixia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -6620,7 +6719,7 @@ SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,"E13.1-Diabetes mellitus especificad
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,E87.2-Acidosis,"A41.9-Septicemia, no especificada",N19  -Insuficiencia renal no especificada,K83.0-Colangitis,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,G93.2-Hipertension intracraneal benigna,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,G93.4-Encefalopatia no especificada,"N28.9-Trastorno del riñon y del ureter, no especificado",J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,I21  -Infarto agudo del miocardio,B57  -Enfermedad de Chagas,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,I21  -Infarto agudo del miocardio,D64.9-Anemia de tipo no especificado,"C16.9-Tumor maligno del estomago, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,I21  -Infarto agudo del miocardio,K74.6-Otras cirrosis del higado y las no especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -6642,6 +6741,7 @@ SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria agu
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,A35  -Otros tetanos,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,"A41.9-Septicemia, no especificada",N19  -Insuficiencia renal no especificada,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,C56  -Tumor maligno del ovario,I81  -Trombosis de la vena porta,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado","E66.9-Obesidad, no especificada",0-NINGUNO,0-NINGUNO,2
@@ -6691,7 +6791,9 @@ SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,R57.2-Choque séptico,"K65.9-Periton
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,R57.2-Choque séptico,"K92.2-Hemorragia gastrointestinal, no especificada","K76.9-Enfermedad del higado, no especificada","E43  -Desnutricion proteicocalorica severa, no especificada",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,R57.2-Choque séptico,"N18.9-Insuficiencia renal cronica, no especificada",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,"R57.9-Choque, no especificado",K83.0-Colangitis,K80.8-Otras colelitiasis,K74.6-Otras cirrosis del higado y las no especificadas,G93.4-Encefalopatia no especificada,"N17.9-Insuficiencia renal aguda, no especificada",1
+SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,R98  -Muerte sin asistencia,V99  -Accidente de transporte no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,S06  -Traumatismo intracraneal,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,"S06.9-Traumatismo intracraneal, no especificado",S07  -Traumatismo por aplastamiento de la cabeza,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,"S06.9-Traumatismo intracraneal, no especificado",S20.2-Contusion del torax,"T07  -Traumatismos multiples, no especificados",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL ALFONSO GUMUCIO,"S09.9-Traumatismo de la cabeza, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
@@ -6733,7 +6835,7 @@ SANTA CRUZ,SAN JOSE DE CHIQUITOS,HOSPITAL BERNARDINO GIL JULIO.,"V87  -Accidente
 SANTA CRUZ,SAN JOSE DE CHIQUITOS,HOSPITAL BERNARDINO GIL JULIO.,V99  -Accidente de transporte no especificado,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN JOSE DE CHIQUITOS,HOSPITAL BERNARDINO GIL JULIO.,V99  -Accidente de transporte no especificado,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN JOSE DE CHIQUITOS,HOSPITAL BERNARDINO GIL JULIO.,V99  -Accidente de transporte no especificado,R98  -Muerte sin asistencia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,34
+SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,42
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,0-NINGUNO,I63  -Infarto cerebral,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,0-NINGUNO,"I67.9-Enfermedad cerebrovascular, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,0-NINGUNO,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
@@ -6742,6 +6844,7 @@ SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,I46  -Paro cardiaco,U04  -Síndrome respirator
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,I46  -Paro cardiaco,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,"J18.0-Bronconeumonia, no especificada","U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,K70.3-Cirrosis hepatica alcoholica,K70.1-Hepatitis alcoholica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,"R65.3-Síndrome de respuesta inflamatoria sistématica de origen no infeccioso, con falla orgánica",J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,R68.8-Otros sintomas y signos generales especificados,"J18.0-Bronconeumonia, no especificada",J96.0-Insuficiencia respiratoria aguda,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,CAMIRI,HOSPITAL CAMIRI,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,3
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL CATOLICO S.M.- HCSM,0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
@@ -6853,6 +6956,7 @@ SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,D63
 SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,5
 SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,B57  -Enfermedad de Chagas,0-NINGUNO,1
 SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,2
+SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,1
 SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,J45  -Asma,1
 SANTA CRUZ,EL TORNO,HOSPITAL EL TORNO,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,B57  -Enfermedad de Chagas,0-NINGUNO,1
@@ -7093,6 +7197,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"I64  
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"J12  -Neumonia viral, no clasificada en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"J12  -Neumonia viral, no clasificada en otra parte",0-NINGUNO,G93.4-Encefalopatia no especificada,"Q24.8-Otras malformaciones congenitas del corazon, especificadas",0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"J12  -Neumonia viral, no clasificada en otra parte","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"J12.9-Neumonia viral, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"J12.9-Neumonia viral, no especificada",0-NINGUNO,0-NINGUNO,"N18.2-Enfermedad renal crónica, etapa 2",0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL PLAN 3000,0-NINGUNO,"J12.9-Neumonia viral, no especificada",0-NINGUNO,"E11.2-Diabetes mellitus no insulinodependiente, con complicaciones renales",0-NINGUNO,0-NINGUNO,1
@@ -7294,6 +7399,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL VILLA 1RO DE MAYO,R96  -Ot
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL VILLA 1RO DE MAYO,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL VILLA 1RO DE MAYO,R99  -Otras causas mal definidas y las no especificadas de mortalidad,J69.8-Neumonitis debida a aspiracion de otros solidos y liquidos,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL VILLA 1RO DE MAYO,S06  -Traumatismo intracraneal,"I61.9-Hemorragia intraencefalica, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL VILLA 1RO DE MAYO,"U07.1-COVID-19, virus identificado",J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL MUNICIPAL VILLA 1RO DE MAYO,"U07.2-COVID-19, virus no identificado",0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,E11  -Diabetes mellitus no insulinodependiente,I10  -Hipertension esencial (primaria),1
 SANTA CRUZ,COTOCA,HOSPITAL MUNICIPAL VIRGEN DE COTOCA,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,91
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,0-NINGUNO,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
@@ -7309,12 +7415,14 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,A41  -Otras sept
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,A41  -Otras septicemias,"J18.0-Bronconeumonia, no especificada",J96.0-Insuficiencia respiratoria aguda,C25  -Tumor maligno del pancreas,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,A41  -Otras septicemias,J90  -Derrame pleural no clasificado en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,A41  -Otras septicemias,J96.0-Insuficiencia respiratoria aguda,"E46  -Desnutricion proteicocalorica, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,A41.8-Otras septicemias especificadas,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",0-NINGUNO,"I49.9-Arritmia cardiaca, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",0-NINGUNO,"K92.2-Hemorragia gastrointestinal, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",A69.0-Estomatitis ulcerativa necrotizante,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",C50  -Tumor maligno de la mama,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",D59.4-Otras anemias hemoliticas no autoinmunes,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",E11  -Diabetes mellitus no insulinodependiente,N18  -Insuficiencia renal cronica,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",I98.8-Otros trastornos especificados del aparato circulatorio en enfermedades clasificadas en otra parte,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,E11  -Diabetes mellitus no insulinodependiente,I10  -Hipertension esencial (primaria),"U07.1-COVID-19, virus identificado",0-NINGUNO,1
@@ -7323,7 +7431,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemi
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,N18  -Insuficiencia renal cronica,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,N18  -Insuficiencia renal cronica,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,2
-SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada","J12.9-Neumonia viral, no especificada",I21  -Infarto agudo del miocardio,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada","J12.9-Neumonia viral, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J13  -Neumonia debida a Streptococcus pneumoniae,J80  -Sindrome de dificultad respiratoria del adulto,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,1
@@ -7344,6 +7452,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemi
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J80  -Sindrome de dificultad respiratoria del adulto,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J80  -Sindrome de dificultad respiratoria del adulto,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J84.1-Otras enfermedades pulmonares intersticiales con fibrosis,I10  -Hipertension esencial (primaria),"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J93  -Neumotorax,0-NINGUNO,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada","J96  -Insuficiencia respiratoria, no clasificada en otra parte",I10  -Hipertension esencial (primaria),"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"A41.9-Septicemia, no especificada",J96.0-Insuficiencia respiratoria aguda,E11  -Diabetes mellitus no insulinodependiente,E66  -Obesidad,"U07.1-COVID-19, virus identificado",0-NINGUNO,1
@@ -7398,6 +7507,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,I46  -Paro cardi
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,I46  -Paro cardiaco,"J18  -Neumonia, organismo no especificado","C53.9-Tumor maligno del cuello del utero, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,I46  -Paro cardiaco,"J18.0-Bronconeumonia, no especificada",N18  -Insuficiencia renal cronica,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,I46  -Paro cardiaco,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"I49.9-Arritmia cardiaca, no especificada",J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I42  -Cardiomiopatia,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"I49.9-Arritmia cardiaca, no especificada",J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,I50  -Insuficiencia cardiaca,N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -7429,6 +7539,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"J18.0-Bronconeu
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"J18.0-Bronconeumonia, no especificada",J90  -Derrame pleural no clasificado en otra parte,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"J18.0-Bronconeumonia, no especificada","U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J80  -Sindrome de dificultad respiratoria del adulto,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,E11  -Diabetes mellitus no insulinodependiente,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,E11  -Diabetes mellitus no insulinodependiente,Z45  -Asistencia y ajuste de dispositivos implantados,"U07.1-COVID-19, virus identificado",0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,M32  -Lupus eritematoso sistemico,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J80  -Sindrome de dificultad respiratoria del adulto,J12.8-Neumonia debida a otros virus,N18  -Insuficiencia renal cronica,I10  -Hipertension esencial (primaria),E11  -Diabetes mellitus no insulinodependiente,"U07.1-COVID-19, virus identificado",1
@@ -7511,7 +7622,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficien
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,J90  -Derrame pleural no clasificado en otra parte,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,N18  -Insuficiencia renal cronica,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,42
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,49
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,N18  -Insuficiencia renal cronica,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,2
@@ -7608,6 +7719,8 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque sé
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,D69.5-Tombocitopenia secundaria,"C16.5-Tumor maligno de la curvatura menor del estomago, sin otra especificacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,E10  -Diabetes mellitus insulinodependiente,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,E11  -Diabetes mellitus no insulinodependiente,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,I35.0-Estenosis (de la valvula) aortica,N18  -Insuficiencia renal cronica,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,"I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,I99  -Otros trastornos y los no especificados del sistema circulatorio,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,"J12  -Neumonia viral, no clasificada en otra parte",I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,R57.2-Choque séptico,"J12  -Neumonia viral, no clasificada en otra parte",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -7657,6 +7770,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"R57.9-Choque, n
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,S06  -Traumatismo intracraneal,T14.5-Traumatismo de vaso(s) sanguineo(s) de region no especificada del cuerpo,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"U07.1-COVID-19, virus identificado",J12.8-Neumonia debida a otros virus,J80  -Sindrome de dificultad respiratoria del adulto,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,HOSPITAL OBRERO Nº 3 C.N.S.,"U07.2-COVID-19, virus no identificado",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL RENE BALDERAS,R57.2-Choque séptico,"J18.9-Neumonia, no especificada",A09.9-Gastroenteritis y colitis de origen no especificado,"E46  -Desnutricion proteicocalorica, no especificada",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,HOSPITAL RENE BALDERAS,R57.2-Choque séptico,P74.1-Deshidratacion del recien nacido,E87.2-Acidosis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -7779,6 +7893,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,C22.0-Carcinoma de celul
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,"C22.9-Tumor maligno del higado, no especificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,"C22.9-Tumor maligno del higado, no especificado","J96.9-Insuficiencia respiratoria, no especificada",E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,"C24.9-Tumor maligno de las vias biliares, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,"C24.9-Tumor maligno de las vias biliares, parte no especificada","U07.2-COVID-19, virus no identificado",K83.0-Colangitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,C25  -Tumor maligno del pancreas,N17  -Insuficiencia renal aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,"C25.9-Tumor maligno del pancreas, parte no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,INSTITUTO ONCOLOGICO,C50  -Tumor maligno de la mama,R99  -Otras causas mal definidas y las no especificadas de mortalidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -8020,7 +8135,7 @@ SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,E13  -Otras diabetes mellitus especific
 SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,G40  -Epilepsia,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,I46  -Paro cardiaco,I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,"I46.1-Muerte cardiaca subita, asi descrita",I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
+SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,"I46.1-Muerte cardiaca subita, asi descrita",I50.0-Insuficiencia cardiaca congestiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,4
 SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,I50.0-Insuficiencia cardiaca congestiva,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,"J12.9-Neumonia viral, no especificada","U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MINEROS,MARIO DAZA CRONENBOLD,J96.0-Insuficiencia respiratoria aguda,"J12  -Neumonia viral, no clasificada en otra parte",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -8057,6 +8172,7 @@ SANTA CRUZ,CABEZAS,MORA,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NING
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,0-NINGUNO,"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,0-NINGUNO,I10  -Hipertension esencial (primaria),E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,0-NINGUNO,I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,0-NINGUNO,J96.0-Insuficiencia respiratoria aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,I21  -Infarto agudo del miocardio,N18  -Insuficiencia renal cronica,"O24.1-Diabetes mellitus preexistente no insulinodependiente, en el embarazo",I11  -Enfermedad cardiaca hipertensiva,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I50.0-Insuficiencia cardiaca congestiva,B57  -Enfermedad de Chagas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,MUNICIPAL DM-12,I25.2-Infarto antiguo del miocardio,I50  -Insuficiencia cardiaca,B57  -Enfermedad de Chagas,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,0-NINGUNO,1
@@ -8159,6 +8275,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PALMAR DEL ORATORIO,Z85.2-Historia personal d
 SANTA CRUZ,SAN IGNACIO DE VELASCO,PALMARITO,0-NINGUNO,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN IGNACIO DE VELASCO,PALMARITO,0-NINGUNO,O71.1-Ruptura del utero durante el trabajo de parto,N85.5-Inversion del utero,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,A41  -Otras septicemias,Z98  -Otros estados postquirurgicos,E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,"A41.9-Septicemia, no especificada",J12.8-Neumonia debida a otros virus,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,E87.2-Acidosis,"A41.9-Septicemia, no especificada",J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,I21.0-Infarto transmural agudo del miocardio de la pared anterior,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,I21.0-Infarto transmural agudo del miocardio de la pared anterior,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",I10  -Hipertension esencial (primaria),1
@@ -8182,6 +8299,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respirat
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","E14  -Diabetes mellitus, no especificada",I10  -Hipertension esencial (primaria),0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","E14.0-Diabetes mellitus, no especificada, con coma",0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",E66.8-Otros tipos de obesidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",I50  -Insuficiencia cardiaca,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","I64  -Accidente vascular encefalico agudo, no especificado como hemorragico o  isquemico",I10  -Hipertension esencial (primaria),"I49.9-Arritmia cardiaca, no especificada",1
@@ -8197,6 +8315,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respirat
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,J96.0-Insuficiencia respiratoria aguda,"U07.1-COVID-19, virus identificado","E66.9-Obesidad, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,"N18.9-Insuficiencia renal cronica, no especificada",I15.1-Hipertension secundaria a otros trastornos renales,D64.9-Anemia de tipo no especificado,0-NINGUNO,"M06.9-Artritis reumatoide, no especificada",0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,R57.1-Choque hipovolemico,"U07.1-COVID-19, virus identificado",J80  -Sindrome de dificultad respiratoria del adulto,0-NINGUNO,D61.0-Anemia aplastica constitucional,0-NINGUNO,1
+SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,R57.2-Choque séptico,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,R57.2-Choque séptico,J12.8-Neumonia debida a otros virus,0-NINGUNO,"U07.1-COVID-19, virus identificado",E10  -Diabetes mellitus insulinodependiente,N17  -Insuficiencia renal aguda,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,R57.2-Choque séptico,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,4
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,PAMPA DE LA ISLA,R57.2-Choque séptico,J12.8-Neumonia debida a otros virus,"U07.1-COVID-19, virus identificado","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,1
@@ -8378,6 +8497,7 @@ SANTA CRUZ,LA GUARDIA,SAN JOSE,I21  -Infarto agudo del miocardio,N18  -Insuficie
 SANTA CRUZ,LA GUARDIA,SAN JOSE,I46  -Paro cardiaco,I60  -Hemorragia subaracnoidea,I10  -Hipertension esencial (primaria),"B57.0-Enfermedad de Chagas aguda que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,LA GUARDIA,SAN JOSE,R57.2-Choque séptico,"L08.9-Infeccion local de la piel y del tejido subcutaneo, no especificada","E14.5-Diabetes mellitus, no especificada, con complicaciones circulatorias perifericas",E13  -Otras diabetes mellitus especificadas,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,URUBICHA,SAN JOSE,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,3
+SANTA CRUZ,SAN PEDRO,SAN JOSE DEL NORTE,S06  -Traumatismo intracraneal,"X84.0-Lesion autoinfligida intencionalmente por medios no especificados, en vivienda",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,PORTACHUELO,SAN JOSE OBRERO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,PORTACHUELO,SAN JOSE OBRERO,I20  -Angina de pecho,0-NINGUNO,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,PORTACHUELO,SAN JOSE OBRERO,R57.0-Choque cardiogenico,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -8423,6 +8543,7 @@ SANTA CRUZ,LAGUNILLAS,SAN LUIS (LAGUNILLAS),"J18.0-Bronconeumonia, no especifica
 SANTA CRUZ,COMARAPA,SAN MARTIN DE PORRES,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,10
 SANTA CRUZ,MONTERO,SAN MARTIN DE PORREZ,"E43  -Desnutricion proteicocalorica severa, no especificada",D53  -Otras anemias nutricionales,A09  -Diarrea y gastroenteritis de presunto origen infeccioso,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,SAN MARTIN DE PORREZ,"E43  -Desnutricion proteicocalorica severa, no especificada",D53.8-Otras anemias nutricionales especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,MONTERO,SAN MARTIN DE PORREZ,I21  -Infarto agudo del miocardio,I10  -Hipertension esencial (primaria),"B57.2-Enfermedad de Chagas (cronica) que afecta al corazon (I41.2*, I98.1*)",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,SAN MARTIN DE PORREZ,I21  -Infarto agudo del miocardio,I11  -Enfermedad cardiaca hipertensiva,"I49.9-Arritmia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,MONTERO,SAN MARTIN DE PORREZ,K70.4-Insuficiencia hepatica alcoholica,K70.3-Cirrosis hepatica alcoholica,R18  -Ascitis,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,SAN MARTIN DE PORREZ,I46  -Paro cardiaco,N17  -Insuficiencia renal aguda,0-NINGUNO,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,1
@@ -8445,6 +8566,7 @@ SANTA CRUZ,SANTA CRUZ DE LA SIERRA,SAN PANTALEON,"I64  -Accidente vascular encef
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,SAN PANTALEON,"J12  -Neumonia viral, no clasificada en otra parte",J81  -Edema pulmonar,0-NINGUNO,I15  -Hipertension secundaria,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,SAN PANTALEON,S06.2-Traumatismo cerebral difuso,V09.3-Peaton lesionado en accidente de transito no especificado,0-NINGUNO,0-NINGUNO,F20  -Esquizofrenia,0-NINGUNO,1
 SANTA CRUZ,SANTA CRUZ DE LA SIERRA,SAN PANTALEON,S06.2-Traumatismo cerebral difuso,V28  -Motociclista lesionado en accidente de transporte sin colision,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,SAN PEDRO,SAN PEDRO,E12  -Diabetes mellitus asociada con desnutricion,R57.2-Choque séptico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,SAN PEDRO,J96.0-Insuficiencia respiratoria aguda,"J18.9-Neumonia, no especificada","U07.1-COVID-19, virus identificado",K22.0-Acalasia del cardias,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,SAN PEDRO,R57.1-Choque hipovolemico,I21  -Infarto agudo del miocardio,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,SAN PEDRO,SAN PEDRO,R57.2-Choque séptico,D53  -Otras anemias nutricionales,"J44.9-Enfermedad pulmonar obstructiva cronica, no especificada",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,1
@@ -8511,7 +8633,7 @@ SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,0-NINGUNO,I10  -Hipertension esencial
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,"A31.9-Infeccion por micobacteria, no especificada",N40  -Hiperplasia de la prostata,0-NINGUNO,E44.0-Desnutricion proteicocalorica moderada,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,A48.0-Gangrena gaseosa,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,"C09.9-Tumor maligno de la amigdala, parte no especificada",0-NINGUNO,D50  -Anemias por deficiencia de hierro,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,C18  -Tumor maligno del colon,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,C18  -Tumor maligno del colon,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,C61  -Tumor maligno de la prostata,R54  -Senilidad,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,D52  -Anemia por deficiencia de folatos,C91  -Leucemia linfoide,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,E63.1-Desequilibrio de los constituyentes en la dieta,C08.1-Tumor maligno de la glandula sublingual,0-NINGUNO,R54  -Senilidad,0-NINGUNO,1
@@ -8534,7 +8656,7 @@ SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,"X70.0-Lesion autoinfligida intencion
 SANTA CRUZ,WARNES,SATELITE NORTE,0-NINGUNO,Y83.5-Amputacion de miembro(s),E10  -Diabetes mellitus insulinodependiente,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,"B22  -Enfermedad por virus de la inmunodeficiencia humana [VIH], resultante en otras enfermedades especificadas",R57.1-Choque hipovolemico,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,R54  -Senilidad,1
-SANTA CRUZ,WARNES,SATELITE NORTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,E44.1-Desnutricion proteicocalorica leve,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,SATELITE NORTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,E44.1-Desnutricion proteicocalorica leve,R54  -Senilidad,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,SATELITE NORTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,K93.1-Megacolon en la enfermedad de Chagas (B57.3+),R54  -Senilidad,0-NINGUNO,E44.1-Desnutricion proteicocalorica leve,1
 SANTA CRUZ,WARNES,SATELITE NORTE,E63.1-Desequilibrio de los constituyentes en la dieta,0-NINGUNO,Z22.3-Portador de otras enfermedades bacterianas especificadas,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,E63.1-Desequilibrio de los constituyentes en la dieta,A32.7-Septicemia listeriana,J85.1-Absceso del pulmon con neumonia,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -8559,6 +8681,7 @@ SANTA CRUZ,WARNES,SATELITE NORTE,I21  -Infarto agudo del miocardio,"I49.9-Arritm
 SANTA CRUZ,WARNES,SATELITE NORTE,"I21.9-Infarto agudo del miocardio, sin otra especificacion",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,I46  -Paro cardiaco,0-NINGUNO,I27.0-Hipertension pulmonar primaria,0-NINGUNO,G40.8-Otras epilepsias,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,I46  -Paro cardiaco,0-NINGUNO,I27.0-Hipertension pulmonar primaria,E44.1-Desnutricion proteicocalorica leve,R54  -Senilidad,0-NINGUNO,1
+SANTA CRUZ,WARNES,SATELITE NORTE,I46  -Paro cardiaco,0-NINGUNO,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",F41.2-Trastorno mixto de ansiedad y depresion,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,I46  -Paro cardiaco,J85.1-Absceso del pulmon con neumonia,T90.2-Secuelas de fractura del craneo y de huesos faciales,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,I46  -Paro cardiaco,R04  -Hemorragias de las vias respiratorias,0-NINGUNO,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,"I46.9-Paro cardiaco, no especificado",K70.3-Cirrosis hepatica alcoholica,K70.4-Insuficiencia hepatica alcoholica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
@@ -8598,13 +8721,17 @@ SANTA CRUZ,WARNES,SATELITE NORTE,J85.1-Absceso del pulmon con neumonia,"U07.2-CO
 SANTA CRUZ,WARNES,SATELITE NORTE,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,0-NINGUNO,0-NINGUNO,E11  -Diabetes mellitus no insulinodependiente,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,J96.0-Insuficiencia respiratoria aguda,J12.8-Neumonia debida a otros virus,"U07.2-COVID-19, virus no identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,J96.0-Insuficiencia respiratoria aguda,J85.1-Absceso del pulmon con neumonia,J20  -Bronquitis aguda,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,SATELITE NORTE,J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,J21  -Bronquiolitis aguda,0-NINGUNO,R54  -Senilidad,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,J96.1-Insuficiencia respiratoria cronica,0-NINGUNO,"R40.2-Coma, no especificado",Y85  -Secuelas de accidentes de transporte,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,"K29.9-Gastroduodenitis, no especificada",Q76.1-Sindrome de Klippel-Feil,M06  -Otras artritis reumatoides,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,K72.1-Insuficiencia hepatica cronica,0-NINGUNO,K70.3-Cirrosis hepatica alcoholica,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",0-NINGUNO,0-NINGUNO,2
+SANTA CRUZ,WARNES,SATELITE NORTE,K72.1-Insuficiencia hepatica cronica,K70.3-Cirrosis hepatica alcoholica,"Y91.9-Alcoholismo, nivel de intoxicacion no especificado",0-NINGUNO,D50  -Anemias por deficiencia de hierro,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N17  -Insuficiencia renal aguda,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,K72.1-Insuficiencia hepatica cronica,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N17  -Insuficiencia renal aguda,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,R54  -Senilidad,0-NINGUNO,1
+SANTA CRUZ,WARNES,SATELITE NORTE,N17  -Insuficiencia renal aguda,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N17  -Insuficiencia renal aguda,I27.0-Hipertension pulmonar primaria,E10  -Diabetes mellitus insulinodependiente,R54  -Senilidad,0-NINGUNO,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,6
+SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,I27.0-Hipertension pulmonar primaria,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,"I49.9-Arritmia cardiaca, no especificada",I27.0-Hipertension pulmonar primaria,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,K29.1-Otras gastritis agudas,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,K72.1-Insuficiencia hepatica cronica,0-NINGUNO,1
@@ -8612,7 +8739,7 @@ SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,E63.1-Desequilibrio de los constituyentes en la dieta,R54  -Senilidad,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,E10  -Diabetes mellitus insulinodependiente,I27.0-Hipertension pulmonar primaria,R54  -Senilidad,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,0-NINGUNO,J20  -Bronquitis aguda,J45  -Asma,0-NINGUNO,0-NINGUNO,1
-SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,E63.1-Desequilibrio de los constituyentes en la dieta,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,E63.1-Desequilibrio de los constituyentes en la dieta,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,0-NINGUNO,0-NINGUNO,2
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,E63.1-Desequilibrio de los constituyentes en la dieta,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,I27.0-Hipertension pulmonar primaria,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,E63.1-Desequilibrio de los constituyentes en la dieta,E10  -Diabetes mellitus insulinodependiente,0-NINGUNO,N40  -Hiperplasia de la prostata,0-NINGUNO,1
 SANTA CRUZ,WARNES,SATELITE NORTE,N18  -Insuficiencia renal cronica,E63.1-Desequilibrio de los constituyentes en la dieta,E10  -Diabetes mellitus insulinodependiente,I27.0-Hipertension pulmonar primaria,0-NINGUNO,0-NINGUNO,1
@@ -9321,12 +9448,16 @@ BENI,SAN IGNACIO,PARROQUIAL VINARASIRARE,"U07.1-COVID-19, virus identificado",A4
 BENI,SAN IGNACIO,PARROQUIAL VINARASIRARE,"U07.1-COVID-19, virus identificado",J44.0-Enfermedad pulmonar obstructiva cronica con infeccion aguda de las vias respiratorias inferiores,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,TRINIDAD,PEDRO MARBAN,T78.0-Choque anafilactico debido a reaccion adversa a alimentos,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,I13  -Enfermedad cardiorrenal hipertensiva,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"J18.9-Neumonia, no especificada",N18  -Insuficiencia renal cronica,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,N17.2-Insuficiencia renal aguda con necrosis medular,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,0-NINGUNO,"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,"A15.0-Tuberculosis del pulmon, confirmada por hallazgo microscopico del bacilo tuberculoso en esputo, con o sin cultivo",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,"E14.0-Diabetes mellitus, no especificada, con coma",N18.8-Otras insuficiencias renales cronicas,"E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,"I50.9-Insuficiencia cardiaca, no especificada",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,J12.8-Neumonia debida a otros virus,I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,"J16  -Neumonia debida a otros microorganismos infecciosos, no clasificados en otra parte","E11.9-Diabetes mellitus no insulinodependiente, sin mencion de complicacion",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
+BENI,RURRENABAQUE,RURRENABAQUE,U04  -Síndrome respiratorio agudo grave [SRAG],"U07.1-COVID-19, virus identificado",0-NINGUNO,0-NINGUNO,0-NINGUNO,0-NINGUNO,1
 BENI,RURRENABAQUE,RURRENABAQUE,"U07.1-COVID-19, virus identificado","J15  -Neumonia bacteriana, no clasificada en otra parte","E10.2-Diabetes mellitus insulinodependiente, con complicaciones renales",I10  -Hipertension esencial (primaria),0-NINGUNO,0-NINGUNO,1
 BENI,REYES,SAN JUAN DE DIOS,0-NINGUNO,R09.2-Paro respiratorio,0-NINGUNO,0-NINGUNO,G63.4-Polineuropatia en deficiencia nutricional (E40-E64+),0-NINGUNO,1
 BENI,REYES,SAN JUAN DE DIOS,E10  -Diabetes mellitus insulinodependiente,"E10.0-Diabetes mellitus insulinodependiente, con coma","E10.1-Diabetes mellitus insulinodependiente, con cetoacidosis",0-NINGUNO,0-NINGUNO,0-NINGUNO,1
