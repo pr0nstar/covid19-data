@@ -1,7 +1,7 @@
 ### Datos+ Covid-19 - Bolivia
 
 ##### Imagenes:
-* Ministerio de Salud [I](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/minsaludbolivia) ([*](http://twitter.com/minsaludbolivia)) y [II](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/SaludDeportesBo) ([*](https://twitter.com/SaludDeportesBo))
+* Ministerio de Salud [I](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/minsaludbolivia) ([*](http://twitter.com/minsaludbolivia)) [II](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/SaludDeportesBo) ([*](https://twitter.com/SaludDeportesBo)) [III](https://www.facebook.com/SaludDeportesBo) ([*](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SaludDeportesBo))
 * La Paz [I](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/SEDES_La_Paz) ([*](http://twitter.com/SEDES_La_Paz)) y [II](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/Sedeslp) ([*](https://facebook.com/Sedeslp))
 * [Cochabamba](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/web/cochabamba) ([*](http://www.sedescochabamba.gob.bo/))
 * [Santa Cruz](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/twitter/images/GobSantaCruz) ([*](https://twitter.com/GobSantaCruz))
