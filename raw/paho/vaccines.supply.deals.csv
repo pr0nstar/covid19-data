@@ -10,7 +10,7 @@ Manufacturer,Recipient,ISO,Source URL,Deal Date,Vaccine Name,Committed $,Secured
 --,United States,USA,https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-selected-for-operation-warp-speed-to-supply-united-states-government-with-100-million-doses-of-covid-19-vaccine/,2020-07-31,--,2100000000,100000000,500000000,--,--,Bilateral,--
 Pfizer/BioNTech,Canada,CAN,https://www.canada.ca/en/public-services-procurement/services/procuring-vaccines-covid19.html#agreements,2020-08-05,BNT-162,--,48000000,28000000,Formalized,Pfizer/BioNTech,Bilateral,--
 --,United States,USA,https://www.jnj.com/johnson-johnson-announces-agreement-with-u-s-government-for-100-million-doses-of-investigational-covid-19-vaccine,2020-08-05,--,1000000000,100000000,200000000,--,--,--,--
---,COVAX AMC,COVAX AMC,https://www.who.int/news/item/18-12-2020-covax-announces-additional-deals-to-access-promising-covid-19-vaccine-candidates-plans-global-rollout-starting-q1-2021,2020-08-06,Covavax,150000000,100000000,450000000,--,Novavax,Multilateral,Beximco Pharmaceuticals
+--,COVAX AMC,COVAX AMC,https://www.gavi.org/sites/default/files/covid/covax/COVAX%20Supply%20Forecast.pdf,2020-08-06,Covavax,150000000,2000000,550000000,--,Novavax,Multilateral,--
 --,Switzerland,CHE,https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-82224.html,2020-08-07,--,--,13500000,--,--,--,--,GC Pharma
 --,Japan,JPN,https://www.reuters.com/article/idUSKBN29X0AK,2020-08-07,--,--,30000000,50000000,--,--,--,--
 --,United States,USA,https://www.bloomberg.com/news/articles/2021-02-11/u-s-clinches-deal-with-moderna-for-another-100-million-doses,2020-08-11,--,3191598000,300000000,300000000,--,--,--,GC Pharma
@@ -41,15 +41,15 @@ Sanofi/GSK,Canada,CAN,https://www.gsk.com/en-gb/media/press-releases/sanofi-and-
 AstraZeneca,Canada,CAN,https://www.reuters.com/article/idUST5N2FK009,2020-09-25,AZD1222,--,20000000,180000000,--,AstraZeneca,Bilateral,--
 --,Uzbekistan,UZB,https://rdif.ru/Eng_fullNews/5940/,2020-09-25,--,--,35000000,--,Formalized,--,Licensing deal,Laxisam
 ReiThera,European Commission,CAN,https://www.reuters.com/article/health-coronavirus-eu-vaccines/exclusive-eu-in-early-talks-with-italys-reithera-over-potential-vaccine-supply-deal-source-idUSKCN26C1JC,2020-09-28,GRAd-COV2,--,2000000,--,In discussion,ReiThera,Multilateral,--
---,COVAX AMC,COVAX AMC,https://www.who.int/news/item/18-12-2020-covax-announces-additional-deals-to-access-promising-covid-19-vaccine-candidates-plans-global-rollout-starting-q1-2021,2020-09-29,Covishield,150000000,100000000,450000000,--,AstraZeneca,Multilateral,Beximco Pharmaceuticals
+--,COVAX AMC,COVAX AMC,https://www.gavi.org/sites/default/files/covid/covax/COVAX%20Supply%20Forecast.pdf,2020-09-29,Covishield,150000000,240000000,310000000,--,AstraZeneca,Multilateral,--
 --,Nepal,NPL,https://www.reuters.com/article/us-health-coronavirus-vaccine-russia-nep/russia-to-supply-25-million-covid-19-vaccine-doses-to-nepal-idUSKBN26K15R,2020-09-29,--,--,25000000,--,--,--,--,Landsteiner Scientific
 --,Qatar,QAT,https://www.albawaba.com/business/pr/pfizer-and-biontech-supply-qatar-their-bnt162-mrna-based-vaccine-candidate-against-0,2020-09-29,--,--,15000000,--,--,--,--,--
 --,Egypt,EGY,https://www.prnewswire.com/ae/news-releases/rdif-and-pharco-agree-to-supply-25-million-doses-of-sputnik-v-vaccine-to-egypt-823006786.html,2020-09-30,--,--,25000000,--,Formalized,--,Licensing deal,Pharco
---,COVAX,COL,https://www.who.int/news/item/18-12-2020-covax-announces-additional-deals-to-access-promising-covid-19-vaccine-candidates-plans-global-rollout-starting-q1-2021,2020-09-30,--,--,500000000,--,--,--,Multilateral,--
+--,COVAX,COL,https://www.gavi.org/news/media-room/gavi-signs-agreement-johnson-johnson-supply-its-covid-19-vaccine-covax,2020-09-30,--,--,200000000,300000000,--,--,Multilateral,--
 --,Saudi Arabia,SAU,https://www.reuters.com/article/idUSL4N2GS24X,2020-09-30,--,--,7500,--,Unconfirmed,--,Licensing deal,Saudi Chemicals
 --,Costa Rica,CRI,https://www.reuters.com/article/health-coronavirus-costa-rica/costa-rica-boosts-pfizer-contract-to-4-mln-covid-19-vaccine-doses-idUSL1N2LD1HL,2020-10-01,--,--,4000000,30000000,--,--,--,--
 Instituto Butantan,Brazil,BRA,https://agenciabrasil.ebc.com.br/en/saude/noticia/2021-02/brazil-buys-another-54-mi-doses-vaccine-against-covid-19,2020-10-04,CoronaVac,--,100000000,--,--,Sinovac,--,Laxisam
---,European Commission,COL,https://www.reuters.com/article/health-coronavirus-eu-jj/eu-snubs-extra-300-mln-jj-astra-shots-in-bet-on-pfizer-source-idUSL1N2MD1HT,2020-10-08,--,--,200000000,--,--,--,Multilateral,--
+--,European Commission,--,https://www.reuters.com/article/health-coronavirus-eu-jj/eu-snubs-extra-300-mln-jj-astra-shots-in-bet-on-pfizer-source-idUSL1N2MD1HT,2020-10-08,--,--,--,300000000,--,--,--,--
 --,New Zealand,NZL,https://www.reuters.com/article/us-health-coronavirus-newzealand/new-zealand-to-buy-enough-pfizer-covid-19-vaccines-for-entire-population-idUSKBN2B008J,2020-10-11,--,--,10000000,--,--,--,--,--
 --,Taiwan,TWN,https://www.taiwannews.com.tw/en/news/4028446,2020-10-12,--,--,30000000,--,Formalized,--,Licensing deal,TTY Biopharm
 --,Indonesia,IDN,https://www.kemkes.go.id/article/view/21010200001/1-8-juta-vaksin-covid-19-tambahan-tiba-di-tanah-air-bukti-nyata-komitmen-pemerintah-lindungi-masyara.html,2020-10-14,--,--,50000000,50000000,Formalized,--,Bilateral,--
@@ -83,7 +83,7 @@ AstraZeneca,Dominican Rep.,DOM,https://dominicantoday.com/dr/economy/2020/11/23/
 --,--,--,https://www.reuters.com/article/idUSKBN28S1S0,2020-11-24,--,--,160000000,150000000,--,--,--,--
 --,Turkey,TUR,https://asia.nikkei.com/Spotlight/Coronavirus/Coronavirus-Free-to-read/Coronavirus-latest-Biden-seeks-all-the-facts-on-China-s-initial-response,2020-11-25,--,--,100000000,30000000,Formalized,--,Bilateral,Pharmaniaga
 --,Philippines,PHL,https://www.bloomberg.com/news/articles/2020-11-27/philippines-signs-deal-with-astrazeneca-for-2-6-million-doses,2020-11-25,--,4300000,2600000,--,--,--,Private purchase,--
---,El Salvador,SLV,https://www.dinero.com.sv/en/breaking-news/government-of-el-salvador-signs-agreement-to-buy-2-million-covid-%E2%80%9319-vaccines.html,2020-11-25,--,150000000,2000000,450000000,--,--,Bilateral,--
+--,El Salvador,SLV,https://www.dinero.com.sv/en/breaking-news/government-of-el-salvador-signs-agreement-to-buy-2-million-covid-%E2%80%9319-vaccines.html,2020-11-25,--,150000000,2000000,310000000,--,--,Bilateral,--
 COVAXX,"Brazil, Ecuador, Peru and others",--,https://covaxx.reportablenews.com/pr/covaxx-to-deliver-2-8-billion-in-vaccine-advance-purchase-commitments-110-million-doses-to-emerging-countries,2020-11-25,UB-612,2800000000,140000000,1000000000,Formalized,COVAXX,Bilateral,--
 --,Panama,PAN,https://www.reuters.com/world/americas/panama-buy-2-million-more-doses-pfizers-covid-19-vaccine-2021-04-21/,2020-11-25,--,--,7000000,--,--,--,--,--
 Siam Bioscience,Thailand,THA,https://www.reuters.com/article/health-coronavirus-thailand/update-1-thailand-on-track-to-distribute-locally-made-covid-19-vaccines-in-june-idUSL1N2K40FF,2020-11-26,AZD1222,198000000,61000000,--,--,AstraZeneca,--,--
@@ -100,7 +100,7 @@ Pfizer/BioNTech,Brazil,BRA,https://www.gov.br/saude/pt-br/assuntos/noticias/mini
 --,Hong Kong,HKG,https://www.reuters.com/article/idUSL1N2IR0G0,2020-12-11,--,15000000,7500000,--,--,--,--,--
 --,Indonesia,IDN,https://www.kemkes.go.id/article/view/21010200001/1-8-juta-vaksin-covid-19-tambahan-tiba-di-tanah-air-bukti-nyata-komitmen-pemerintah-lindungi-masyara.html,2020-12-14,--,--,50000000,80000000,Formalized,--,Bilateral,--
 --,Singapore,SGP,https://investors.modernatx.com/news-releases/news-release-details/moderna-confirms-supply-agreement-ministry-health-supply,2020-12-14,--,--,7000000,--,--,--,Bilateral,--
---,Mexico,MEX,https://www.reuters.com/article/health-coronavirus-mexico-vaccine/mexico-weighing-vaccine-proposals-from-moderna-four-other-companies-idUSKBN28P23K,2020-12-15,--,--,22000000,--,In discussion,--,Bilateral,--
+--,Mexico,MEX,https://www.reuters.com/article/health-coronavirus-mexico-vaccine/mexico-weighing-vaccine-proposals-from-moderna-four-other-companies-idUSKBN28P23K,2020-12-15,--,--,22000000,300000000,In discussion,--,Bilateral,--
 --,Mexico,MEX,https://www.reuters.com/article/health-coronavirus-mexico-vaccine/mexico-weighing-vaccine-proposals-from-moderna-four-other-companies-idUSKBN28P23K,2020-12-15,--,--,39000000,--,In discussion,--,--,Bio Farma
 --,Tunisia,TUN,https://www.forbesmiddleeast.com/industry/healthcare/tunisia-to-get-2m-doses-of-covid-vaccine-from-pfizer,2020-12-15,--,--,2000000,--,Formalized,--,Bilateral,TTY Biopharm
 CureVac,Mexico,MEX,https://www.reuters.com/article/health-coronavirus-mexico-vaccine/mexico-weighing-vaccine-proposals-from-moderna-four-other-companies-idUSKBN28P23K,2020-12-15,CVnCoV,2800000000,35000000,--,In discussion,CureVac,--,--
@@ -166,7 +166,7 @@ SK Bioscience,South Korea,KOR,https://www.reuters.com/article/health-coronavirus
 --,COVAX,CIV,https://www.unicef.org/press-releases/covax-announces-new-agreement-plans-first-deliveries,2021-01-22,--,--,40000000,--,--,--,Multilateral,--
 --,Cote d'Ivoire,CIV,https://www.reuters.com/article/uk-health-coronavirus-ivorycoast/ivory-coast-says-delivery-of-its-first-doses-of-pfizer-vaccine-delayed-to-mid-feb-idUSKBN29Q0TU,2021-01-22,--,--,100000,30000000,--,--,--,--
 --,Morocco,MAR,https://www.reuters.com/article/idUSKBN29R1O0,2021-01-22,--,--,12500000,--,Formalized,--,Bilateral,--
---,Egypt,EGY,https://www.arabnews.com/node/1797771/middle-east,2021-01-24,--,150000000,20000000,450000000,--,--,Bilateral,--
+--,Egypt,EGY,https://www.arabnews.com/node/1797771/middle-east,2021-01-24,--,150000000,20000000,310000000,--,--,Bilateral,--
 --,Saudi Arabia,SAU,https://www.reuters.com/article/health-coronavirus-india-saudi-exclusive/exclusive-saudi-arabia-to-get-three-million-astrazeneca-shots-in-about-a-week-from-india-idUSKBN29V0DE,2021-01-25,Covishield,--,3000000,--,--,AstraZeneca,--,Faberco Life Sciences
 --,Uruguay,URY,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/gobierno-adquirio-375-millones-vacunas-contra-covid-19-aspira-inocular-28,2021-01-26,--,--,1750000,--,--,--,--,Lekhim
 --,Uruguay,URY,https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/gobierno-adquirio-375-millones-vacunas-contra-covid-19-aspira-inocular-28,2021-01-26,--,3961282500,2000000,400000000,--,--,--,--
@@ -203,10 +203,10 @@ Providence Therapeutics,Canada,CAN,https://www.providencetherapeutics.com/provid
 --,Philippines,PHL,https://www.bloomberg.com/news/articles/2021-02-16/philippines-says-covid-vaccine-orders-enough-to-hit-2021-goal,2021-02-15,--,--,15000000,--,--,--,--,--
 --,Philippines,PHL,https://www.bloomberg.com/news/articles/2021-02-16/philippines-says-covid-vaccine-orders-enough-to-hit-2021-goal,2021-02-15,--,--,5000000,3000000,Formalized,--,--,--
 --,Nepal,NPL,https://kathmandupost.com/health/2021/02/16/cabinet-clears-way-for-procuring-2-million-doses-of-covid-19-vaccine-from-india,2021-02-16,--,--,2000000,--,Formalized,--,Bilateral,--
---,Dominican Rep.,DOM,https://www.reuters.com/article/health-coronavirus-dominicanrepublic-vac/dominican-republic-launches-covid-19-vaccination-campaign-idUSL8N2KM77N,2021-02-16,--,150000000,110000,450000000,--,--,Bilateral,--
+--,Dominican Rep.,DOM,https://www.reuters.com/article/health-coronavirus-dominicanrepublic-vac/dominican-republic-launches-covid-19-vaccination-campaign-idUSL8N2KM77N,2021-02-16,--,150000000,110000,310000000,--,--,Bilateral,--
 --,Uzbekistan,UZB,https://www.reuters.com/article/healthcoronavirus-uzbekistan-russia-vacc/uzbekistan-to-buy-russian-covid-19-vaccine-produce-chinese-one-idUSL8N2KN2YJ,2021-02-17,--,--,1000000,--,Formalized,--,Bilateral,Laxisam
 --,European Commission,COL,https://investors.modernatx.com/news-releases/news-release-details/european-commission-purchases-additional-150-million-doses-covid,2021-02-17,--,--,150000000,150000000,--,--,Multilateral,--
---,COVAX,CAN,https://www.gavi.org/news/media-room/gavi-signs-memorandum-understanding-novavax-behalf-covax-facility,2021-02-18,--,--,52000000,550000000,--,--,Multilateral,--
+--,COVAX,CAN,https://www.gavi.org/news/media-room/gavi-signs-agreement-novavax-secure-doses-behalf-covax-facility,2021-02-18,--,--,350000000,24000000,--,--,Multilateral,--
 --,Cambodia,KHM,https://www.khmertimeskh.com/50815733/cambodia-negotiating-purchase-of-indian-vaccines/,2021-02-19,--,--,100000,--,--,--,--,Beximco Pharmaceuticals
 --,Sri Lanka,LKA,https://www.livemint.com/news/india/sri-lanka-to-procure-10mn-doses-of-astrazeneca-covid-vaccine-from-india-official-11613730946366.html;http://www.dailymirror.lk/breaking_news/First-consignment-of-COVAX-vaccine-to-arrive-on-Sunday/108-206943,2021-02-19,--,52500000,10000000,--,--,--,--,Biovac
 Gamaleya Research Institute,African Union,IDN,https://www.reuters.com/article/health-coronavirus-africa/update-2-african-union-says-russia-offers-300-mln-doses-of-sputnik-v-vaccine-idUSL8N2KP2TH,2021-02-19,Sputnik V,--,300000000,--,--,Gamaleya Research Institute,Multilateral,Bio Farma
