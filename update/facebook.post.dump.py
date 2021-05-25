@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
         try:
             for post in facebook_scraper.get_posts(
-                PAGE, timeout=10, pages=1000
+                PAGE, timeout=10, pages=20
             ):
                 if 'time' not in post or post['time'] is None:
                     continue
