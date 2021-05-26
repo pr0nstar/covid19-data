@@ -16,6 +16,9 @@ import pandas as pd
 warnings.filterwarnings('ignore', category=urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings('ignore', category=FutureWarning)
 
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)'
+}
 
 PREFIX = [
     'departamento', 'departament',
@@ -272,7 +275,7 @@ def update_colombia():
     df = df.sort_index()
 
     # Patch Drop Locations: Extranjero
-    df = df.drop('Extranjero')
+    df = df.drop('Extranjero', level=0)
 
     df = storage_format(
         df,
@@ -285,7 +288,12 @@ def update_colombia():
 
 PERU_URL = 'https://cloud.minsa.gob.pe/s/nqF2irNbFomCLaa/download'
 def update_peru():
-    df = pd.read_csv(PERU_URL, delimiter=';', encoding='unicode_escape')
+    cdata = requests.get(PERU_URL, headers=HEADERS)
+    df = pd.read_csv(
+        io.BytesIO(cdata.content),
+        delimiter=';',
+        encoding='unicode_escape'
+    )
 
     df.columns = df.iloc[1]
     df = df.iloc[2:, :-4]
@@ -302,8 +310,8 @@ def update_peru():
     df = df.sort_index()
 
     # Patch Drop Locations: EXTRANJERO/SIN REGISTRO
-    df = df.drop('EXTRANJERO')
-    df = df.drop('SIN REGISTRO')
+    df = df.drop('EXTRANJERO', level=0)
+    df = df.drop('SIN REGISTRO', level=0)
 
     df = storage_format(
         df,
