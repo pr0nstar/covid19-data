@@ -22,9 +22,13 @@ def load_data(file_name):
     return data
 
 def write_data(file_name, data):
+    def default(_):
+        if isinstance(_, (datetime.date, datetime.datetime)):
+            return _.isoformat()
+
     with io.open(file_name, mode='a', encoding='utf-8') as f:
         f.write(u'{}\n'.format(
-            json.dumps(data, ensure_ascii=False)
+            json.dumps(data, ensure_ascii=False, default=default)
         ))
 
 if __name__ == '__main__':
@@ -55,4 +59,5 @@ if __name__ == '__main__':
 
                 write_data(file_name, post)
         except Exception as e:
+            print(e)
             pass
