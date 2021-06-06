@@ -124,7 +124,7 @@ if __name__ == '__main__':
     COUNTRIES = pd.read_csv('./update/geocodes.csv', index_col=['country', 'geoName'])
     country_data = unpickle_data()
 
-    for country in COUNTRIES.index.get_level_values(0).unique()[:1]:
+    for country in COUNTRIES.index.get_level_values(0).unique():
         print(country)
         country_params = COUNTRIES.loc[country]
 
