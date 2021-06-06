@@ -299,7 +299,7 @@ def update_peru():
         encoding='ISO-8859-1'
     )
 
-    df['FECHA'] = pd.to_datetime(df['FECHA'])
+    df['FECHA'] = pd.to_datetime(df['FECHA'], dayfirst=True)
     df = df.sort_values('FECHA')
 
     df = df.groupby([
@@ -456,13 +456,13 @@ def do_merge(df):
 
 
 UPDATE_FNS = [
-    update_chile,
-    update_brazil,
-    update_ecuador,
-    update_colombia,
+    # update_chile,
+    # update_brazil,
+    # update_ecuador,
+    # update_colombia,
     update_peru,
-    update_paraguay,
-    update_bolivia
+    # update_paraguay,
+    # update_bolivia
 ]
 if __name__ == '__main__':
     iso_geo_names, geo_names = fetch_geocodes()
