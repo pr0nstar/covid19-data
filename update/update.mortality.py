@@ -138,6 +138,7 @@ def update_chile():
 
     return df
 
+
 BRAZIL_STATES_URL = 'https://raw.githubusercontent.com/datasets-br/state-codes/master/data/br-state-codes.csv'
 BRAZIL_URL = 'https://github.com/capyvara/brazil-civil-registry-data/blob/master/civil_registry_covid_states.csv?raw=true'
 def update_brazil():
@@ -167,6 +168,7 @@ def update_brazil():
     )
 
     return df
+
 
 ECUADOR_URL = 'https://github.com/andrab/ecuacovid/raw/master/datos_crudos/defunciones/por_fecha/provincias_por_dia.csv'
 def update_ecuador():
@@ -200,6 +202,7 @@ def update_ecuador():
     )
 
     return df
+
 
 BASE_COLOMBIA_URL = 'https://www.dane.gov.co'
 COLOMBIA_URL = BASE_COLOMBIA_URL + '/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19'
@@ -286,24 +289,22 @@ def update_colombia():
 
     return df
 
+
 PERU_URL = 'https://cloud.minsa.gob.pe/s/nqF2irNbFomCLaa/download'
 def update_peru():
     cdata = requests.get(PERU_URL, headers=HEADERS)
     df = pd.read_csv(
         io.BytesIO(cdata.content),
         delimiter=';',
-        encoding='unicode_escape'
+        encoding='ISO-8859-1'
     )
-
-    df.columns = df.iloc[1]
-    df = df.iloc[2:, :-4]
 
     df['FECHA'] = pd.to_datetime(df['FECHA'])
     df = df.sort_values('FECHA')
 
     df = df.groupby([
         'DEPARTAMENTO DOMICILIO', 'FECHA'
-    ])['Nº'].count().reset_index()
+    ])[df.columns[0]].count().reset_index()
 
     df.columns = ['adm1_name', 'date', 'deaths']
     df = df.set_index(['adm1_name', 'date'])
@@ -321,6 +322,7 @@ def update_peru():
     )
 
     return df
+
 
 PARAGUAY_URL = 'http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/lista_multireporte_defuncion.php'
 def update_paraguay():
@@ -391,6 +393,7 @@ def update_paraguay():
     )
 
     return df
+
 
 BOLIVIA_URL = 'https://raw.githubusercontent.com/pr0nstar/covid19-data/master/raw/bolivia/sereci/sereci.by.death.date.csv'
 def update_bolivia():
