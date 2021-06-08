@@ -13,7 +13,7 @@
 * [Pando](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/sedes/facebook/images/SaludDePando) ([*](https://www.facebook.com/SaludDePando))
 
 ##### SNIS:
-* [Fallecidos en la base de datos de Vigilancia Epidemiologica 2017-2020](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/estadisticas.reportes_dinamicos/mortalidad) ([*](https://estadisticas.minsalud.gob.bo/Reportes_Dinamicos/Menu_rep_dinamicos.aspx))
+* [Fallecidos en la base de datos de Vigilancia Epidemiologica 2017-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/estadisticas.reportes_dinamicos/mortalidad) ([*](https://estadisticas.minsalud.gob.bo/Reportes_Dinamicos/Menu_rep_dinamicos.aspx))
 * [Fallecidos COVID-19 en la base de datos de Hechos Vitales 2020-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv/covid) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
 * [Fallecidos en la base de datos de Hechos Vitales 2015-2021](https://github.com/pr0nstar/covid19-data/tree/master/raw/bolivia/snis/siahv/defuncion.general) ([*](http://reportes-siahv.minsalud.gob.bo/Reporte_Dinamico_Covid.aspx))
 
@@ -23,7 +23,7 @@
 
 ##### Procesados:
 * [Seguimiento de contactos](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/contact.tracing.csv) (Archivado)
-* [Pruebas pendientes ministerio de salud](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.pending.csv)
+* [Pruebas pendientes ministerio de salud](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.pending.csv) (Archivado)
 * [Pruebas descartadas y sospechosos SEDES](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.csv)
 * [Vacunados por dosis](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv)
 
