@@ -295,11 +295,11 @@ def update_peru():
     cdata = requests.get(PERU_URL, headers=HEADERS)
     df = pd.read_csv(
         io.BytesIO(cdata.content),
-        delimiter=';',
+        delimiter='|',
         encoding='ISO-8859-1'
     )
 
-    df['FECHA'] = pd.to_datetime(df['FECHA'], dayfirst=True)
+    df['FECHA'] = pd.to_datetime(df['FECHA'])
     df = df.sort_values('FECHA')
 
     df = df.groupby([
