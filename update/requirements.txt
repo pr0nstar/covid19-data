@@ -9,3 +9,6 @@ pandas
 xlrd==1.2.0
 pytrends
 html5lib
+pantab
+hist
+aghast
