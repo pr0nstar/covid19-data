@@ -2,12 +2,13 @@
 # coding: utf-8
 
 import io
-import json
 import requests
 import warnings
 import urllib3
 import datetime
 import unidecode
+
+import update_utils
 
 from bs4 import BeautifulSoup
 
@@ -16,53 +17,10 @@ import pandas as pd
 warnings.filterwarnings('ignore', category=urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings('ignore', category=FutureWarning)
 
+
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)'
 }
-
-PREFIX = [
-    'departamento', 'departament',
-    'provincia', 'province',
-    'estado', 'state',
-    'region'
-]
-RE_PREFIX = r'\b(?:{})\b'.format('|'.join(PREFIX))
-GEO_URL = 'https://raw.githubusercontent.com/esosedi/3166/master/data/iso3166-2.json'
-def fetch_geocodes():
-    geo_data = requests.get(GEO_URL)
-    geo_data = json.loads(geo_data.content)
-
-    # Patch Ñuble
-    geo_data['CL']['regions'].append(
-        {'name': 'Ñuble Region', 'iso': 'NB', 'names': {'geonames': 'Ñuble'}}
-    )
-
-    iso_geo_names = pd.DataFrame([])
-
-    for geo_key in geo_data.keys():
-        geo_names = {
-            '{}-{}'.format(geo_key, _['iso']): [*_['names'].values()] for _ in geo_data[geo_key]['regions']
-        }
-        geo_names = pd.DataFrame.from_dict(geo_names, orient='index')
-        geo_names = geo_names.fillna('')
-
-        iso_geo_names = pd.concat([iso_geo_names, geo_names])
-
-    iso_geo_names = iso_geo_names.fillna('')
-    geo_names = iso_geo_names.stack().droplevel(1).reset_index()
-
-    geo_names.columns = ['geocode', 'name']
-    geo_names['name'] = geo_names['name'].map(
-        unidecode.unidecode
-    ).str.lower().str.replace(
-        RE_PREFIX, ''
-    ).str.replace(
-        r'^ *(de|del) ', ''
-    ).str.strip()
-
-    geo_names = geo_names[geo_names['name'] != ''].set_index('name')
-
-    return iso_geo_names, geo_names
 
 
 def get_iso3166(adm1_df, iso):
@@ -394,6 +352,10 @@ def update_paraguay():
 
     return df
 
+ARGENTINA_URL = 'https://raw.githubusercontent.com/akarlinsky/world_mortality/main/local_mortality/local_mortality.csv'
+def update_argentina():
+    pass
+
 
 BOLIVIA_URL = 'https://raw.githubusercontent.com/pr0nstar/covid19-data/master/raw/bolivia/sereci/sereci.by.death.date.csv'
 def update_bolivia():
@@ -465,7 +427,7 @@ UPDATE_FNS = [
     update_bolivia
 ]
 if __name__ == '__main__':
-    iso_geo_names, geo_names = fetch_geocodes()
+    iso_geo_names, geo_names = update_utils.fetch_geocodes()
     final_df = pd.DataFrame([])
 
     for update_fn in UPDATE_FNS:

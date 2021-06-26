@@ -1,17 +1,85 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import re
 import time
+import json
 import random
 import requests
 import demjson
+import unidecode
 
 from bs4 import BeautifulSoup
+import pandas as pd
 
 
 TIMEOUT = 90
 RETRY_M = 5
 SLEEP_T = 2
+
+# Geo
+
+
+PREFIX = [
+    'departamento', 'departament',
+    'provincia', 'province',
+    'estado', 'state',
+    'region'
+]
+RE_PREFIX = re.compile(r'\b(?:{})\b'.format('|'.join(PREFIX)))
+GEO_URL = 'https://raw.githubusercontent.com/esosedi/3166/master/data/iso3166-2.json'
+def fetch_geocodes():
+    geo_data = requests.get(GEO_URL)
+    geo_data = json.loads(geo_data.content)
+
+    # Patch Ñuble
+    geo_data['CL']['regions'].append(
+        {'name': 'Ñuble Region', 'iso': 'NB', 'names': {'geonames': 'Ñuble'}}
+    )
+    # Patch CABA - AR
+    caba_region = next(_ for _ in geo_data['AR']['regions'] if _['iso'] == 'C')
+    caba_region['names'] = {
+        'geonames': 'CABA',
+        'es': 'Ciudad Autonoma de Buenos Aires',
+        'en': 'Autonomous City of Buenos Aires'
+    }
+    # Patch Lima - PE
+    lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LMA')
+    lima_region['names'] = {
+        'geonames': 'Lima Metropolitana',
+        'es': 'Lima Area Metropolitana',
+        'en': 'Lima Metropolitan'
+    }
+
+    lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LIM')
+    lima_region['names']['geonames'] = 'Lima'
+
+    iso_geo_names = pd.DataFrame([])
+
+    for geo_key in geo_data.keys():
+        geo_names = {
+            '{}-{}'.format(geo_key, _['iso']): [*_['names'].values()] for _ in geo_data[geo_key]['regions']
+        }
+        geo_names = pd.DataFrame.from_dict(geo_names, orient='index')
+        geo_names = geo_names.fillna('')
+
+        iso_geo_names = pd.concat([iso_geo_names, geo_names])
+
+    iso_geo_names = iso_geo_names.fillna('')
+    geo_names = iso_geo_names.stack().droplevel(1).reset_index()
+
+    geo_names.columns = ['geocode', 'name']
+    geo_names['name'] = geo_names['name'].map(
+        unidecode.unidecode
+    ).str.lower().str.replace(
+        RE_PREFIX, ''
+    ).str.replace(
+        r'^ *(de|del) ', ''
+    ).str.strip()
+
+    geo_names = geo_names[geo_names['name'] != ''].set_index('name')
+
+    return iso_geo_names, geo_names
 
 
 # connections stuff
