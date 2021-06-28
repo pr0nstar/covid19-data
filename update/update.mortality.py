@@ -406,12 +406,6 @@ def do_merge(df):
     base_df = base_df.set_index(DF_INDEX_COLS)
 
     df = df.set_index(DF_INDEX_COLS)
-
-    df = df.xs(
-        slice(pd.to_datetime('2021'), None),
-        level='date',
-        drop_level=False
-    )
     df = pd.concat([base_df, df])
 
     df = df[~df.index.duplicated(keep='last')]
