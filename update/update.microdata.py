@@ -768,7 +768,7 @@ def do_merge(result_dict):
             drop_level=False
         )
         df = pd.concat([base_df, df])
-        
+
         df = df[~df.index.duplicated(keep='last')]
         df = df.sort_index()
         df = df.astype(int)
@@ -790,7 +790,7 @@ if __name__ == '__main__':
 
     try:
         print(sys.argv[1])
-        iso_geo_names, geo_names = update_utils.fetch_geocodes()
+        iso_level_0, iso_geo_names, geo_names = update_utils.fetch_geocodes()
 
         if sys.argv[1] in UPDATE_FNS:
             result_dict = UPDATE_FNS[sys.argv[1]]()

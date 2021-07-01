@@ -27,8 +27,9 @@ PREFIX = [
     'region'
 ]
 RE_PREFIX = re.compile(r'\b(?:{})\b'.format('|'.join(PREFIX)))
+RE_ARTICLE = re.compile(r'^ *(de|del|of) ')
 GEO_URL = 'https://raw.githubusercontent.com/esosedi/3166/master/data/iso3166-2.json'
-def fetch_geocodes():
+def fetch_geocodes(trim_admin_level=True):
     geo_data = requests.get(GEO_URL)
     geo_data = json.loads(geo_data.content)
 
@@ -47,39 +48,47 @@ def fetch_geocodes():
     lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LMA')
     lima_region['names'] = {
         'geonames': 'Lima Metropolitana',
-        'es': 'Lima Area Metropolitana',
-        'en': 'Lima Metropolitan'
+        'es': 'Provincia de Lima',
+        'en': 'Lima Province'
     }
 
     lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LIM')
     lima_region['names']['geonames'] = 'Lima'
 
-    iso_geo_names = pd.DataFrame([])
+    iso_level_0 = {}
+    iso_level_1 = pd.DataFrame([])
 
     for geo_key in geo_data.keys():
-        geo_names = {
+        iso_level_0[geo_key] = geo_data[geo_key]['names'].values()
+
+        geo_names_level_1 = {
             '{}-{}'.format(geo_key, _['iso']): [*_['names'].values()] for _ in geo_data[geo_key]['regions']
         }
-        geo_names = pd.DataFrame.from_dict(geo_names, orient='index')
-        geo_names = geo_names.fillna('')
+        geo_names_level_1 = pd.DataFrame.from_dict(geo_names_level_1, orient='index')
+        geo_names_level_1 = geo_names_level_1.fillna('')
 
-        iso_geo_names = pd.concat([iso_geo_names, geo_names])
+        iso_level_1 = pd.concat([iso_level_1, geo_names_level_1])
 
-    iso_geo_names = iso_geo_names.fillna('')
+    iso_level_0 = pd.DataFrame.from_dict(iso_level_0, orient='index')
+    iso_geo_names = iso_level_1.fillna('')
     geo_names = iso_geo_names.stack().droplevel(1).reset_index()
 
     geo_names.columns = ['geocode', 'name']
     geo_names['name'] = geo_names['name'].map(
         unidecode.unidecode
-    ).str.lower().str.replace(
-        RE_PREFIX, ''
-    ).str.replace(
-        r'^ *(de|del) ', ''
-    ).str.strip()
+    ).str.lower()
 
+    if trim_admin_level:
+        geo_names['name'] = geo_names['name'].str.replace(
+            RE_PREFIX, ''
+        ).str.replace(
+            RE_ARTICLE, ''
+        )
+
+    geo_names['name'] = geo_names['name'].str.strip()
     geo_names = geo_names[geo_names['name'] != ''].set_index('name')
 
-    return iso_geo_names, geo_names
+    return iso_level_0, iso_geo_names, geo_names
 
 
 # connections stuff

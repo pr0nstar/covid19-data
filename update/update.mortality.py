@@ -427,7 +427,7 @@ UPDATE_FNS = [
     update_bolivia
 ]
 if __name__ == '__main__':
-    iso_geo_names, geo_names = update_utils.fetch_geocodes()
+    iso_level_0, iso_geo_names, geo_names = update_utils.fetch_geocodes()
     final_df = pd.DataFrame([])
 
     for update_fn in UPDATE_FNS:
