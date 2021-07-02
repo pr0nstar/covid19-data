@@ -243,7 +243,9 @@ if __name__ == '__main__':
     store_data = resolve_iso3166(store_data)
 
     store_data['date_created'] = store_data['date_created'].astype('datetime64[D]')
-    store_data = store_data.set_index('date_created')
+    store_data = store_data.set_index([
+        'date_created', 'prevalence_estimate_name'
+    ])
     store_data = store_data.sort_index()
 
     store_data.to_csv(STORAGE_FILE, quoting=csv.QUOTE_NONNUMERIC)
