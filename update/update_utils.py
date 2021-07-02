@@ -45,12 +45,17 @@ def fetch_geocodes(trim_admin_level=True):
         'en': 'Autonomous City of Buenos Aires'
     }
     # Patch Lima - PE
-    lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LMA')
-    lima_region['names'] = {
+    geo_data_pe = geo_data['PE']
+    lima_province_idx = next(
+        _ for _, __ in enumerate(geo_data_pe['regions']) if __['iso'] == 'LMA'
+    )
+    lima_province = geo_data_pe['regions'].pop(lima_province_idx)
+    lima_province['names'] = {
         'geonames': 'Lima Metropolitana',
         'es': 'Provincia de Lima',
         'en': 'Lima Province'
     }
+    geo_data_pe['regions'].append(lima_province)
 
     lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LIM')
     lima_region['names']['geonames'] = 'Lima'
