@@ -99,6 +99,19 @@ def fetch_data():
         lambda _: pd.to_datetime(_).dt.tz_localize(None)
     )
 
+    store_data['date_created'] = store_data['date_created'].astype('datetime64[D]')
+    store_data['test_manufacturer'] = store_data['test_manufacturer'].fillna('NR')
+
+    string_columns = [_ for _ in store_data.columns if hasattr(store_data[_], 'str')]
+
+    for column in string_columns:
+        store_data[column] = store_data[column].str.strip()
+        store_data[column] = store_data[column].str.replace(
+            r'(\r\n)+', '; ', regex=True
+        ).str.replace(
+            r'[\n]+', '; ', regex=True
+        )
+
     return store_data
 
 
@@ -242,7 +255,6 @@ if __name__ == '__main__':
     store_data = fetch_data()
     store_data = resolve_iso3166(store_data)
 
-    store_data['date_created'] = store_data['date_created'].astype('datetime64[D]')
     store_data = store_data.set_index([
         'date_created', 'prevalence_estimate_name'
     ])
