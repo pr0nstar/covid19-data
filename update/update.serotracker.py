@@ -228,24 +228,41 @@ def resolve_iso3166(store_data):
     specific_geography = specific_geography.T.replace('', np.nan)
 
     specific_geography[0] = specific_geography[0].replace(level0_patch)
+    specific_geography[0] = specific_geography[0].replace(r'(.*),.*', r'\1', regex=True)
 
     iso_level_0 = iso_level_0.stack().droplevel(1)
     iso_level_0 = iso_level_0.reset_index().drop_duplicates().set_index(0)
-    store_data['adm0_isocode'] = iso_level_0.loc[specific_geography[0]].values
+    specific_geography[0] = iso_level_0.loc[specific_geography[0]].values
 
-    data_adm1 = specific_geography[1].replace('NR', np.nan).dropna()
-    data_adm1 = data_adm1.apply(unidecode.unidecode).str.lower()
+    for key, group_geography in specific_geography.groupby(0):
+        if key is np.nan:
+            continue
 
-    missing = data_adm1[~data_adm1.isin(geo_names.index)]
-    missing = missing.str.replace(
-        update_utils.RE_PREFIX, ''
-    ).str.replace(
-        update_utils.RE_ARTICLE, ''
-    ).str.strip()
-    missing = missing.replace(level1_patch).str.lower()
+        data_adm1 = group_geography[1].replace('NR', np.nan).dropna()
 
-    data_adm1.loc[missing.index] = missing
-    store_data['adm1_isocode'] = data_adm1.map(geo_names['geocode'].to_dict())
+        if len(data_adm1) < 1:
+            continue
+
+        data_adm1 = data_adm1.apply(unidecode.unidecode).str.lower()
+        country_geo_names = geo_names[geo_names['geocode'].str.startswith(key)]
+
+        missing = data_adm1[~data_adm1.isin(country_geo_names.index)]
+        missing = missing.str.replace(
+            update_utils.RE_PREFIX, ''
+        ).str.replace(
+            update_utils.RE_ARTICLE, ''
+        ).str.strip()
+        missing = missing.replace(level1_patch).str.lower()
+
+        data_adm1.loc[missing.index] = missing
+        data_adm1 = data_adm1.map(country_geo_names['geocode'].to_dict())
+
+        specific_geography.loc[data_adm1.index, 1] = data_adm1
+
+    specific_geography[1] = specific_geography[1].replace('NR', np.nan)
+
+    store_data['adm0_isocode'] = specific_geography[0]
+    store_data['adm1_isocode'] = specific_geography[1]
 
     return store_data
 
