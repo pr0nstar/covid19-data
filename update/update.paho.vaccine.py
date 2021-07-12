@@ -4,6 +4,7 @@
 import json
 import requests
 import random
+import traceback
 
 import pandas as pd
 import numpy as np
@@ -164,7 +165,7 @@ def paho_covax():
         'model_id': 3867677
     }
 
-    TABLE = "Table Final"
+    TABLE = "Purchase Orders"
     FROM_TABLES = [{
       "Name": "t", "Entity": TABLE, "Type": 0
     }]
@@ -174,7 +175,7 @@ def paho_covax():
     ]
     SELECT_COLUMNS = [build_where(TABLE, _) for _ in COLUMNS]
     SELECT_COLUMNS.append(
-        build_where(TABLE, 'Qty PO', 'Sum')
+        build_where(TABLE, 'Quantity', 'Sum')
     )
 
     QUERY = build_query(
@@ -216,7 +217,7 @@ def unicef_supply_deals(headers):
         'model_id': 12516632
     }
 
-    TABLE = "Supply Deals - Table"
+    TABLE = "mod Supply Deals View Table"
     FROM_TABLES = [{
       "Name": "t", "Entity": TABLE, "Type": 0
     }]
@@ -264,14 +265,14 @@ def unicef_donations(headers):
         'model_id': 12516632
     }
 
-    TABLE = "Donations"
+    TABLE = "mod Donation Deliveries View Table"
     FROM_TABLES = [{
       "Name": "t", "Entity": TABLE, "Type": 0
     }]
 
     COLUMNS = [
         'Recipient', 'Recipient ISO', 'Vaccine Name', 'Manufacturer',
-        'Source', 'Vaccine Developer', 'Donor', 'Donor ISO', 'Update Date', 'Doses'
+        'Source URL', 'Vaccine Developer', 'Donor', 'Donor ISO', 'Update Date', 'Doses'
     ]
     SELECT_COLUMNS = [build_where(TABLE, _) for _ in COLUMNS]
 
@@ -322,8 +323,9 @@ FNS = [
 ]
 if __name__ == '__main__':
     for fn in FNS:
+        print(fn.__name__)
+
         try:
             fn()
         except Exception as e:
-            print(fn.__name__)
-            print(e)
+            traceback.print_exc()
