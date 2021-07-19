@@ -1,4 +1,5 @@
 update/__pycache__/
+update/update.mortality.tests.py
 *.py[cod]
 *$py.class
 hyperd.log

@@ -7,15 +7,18 @@ import warnings
 import urllib3
 import datetime
 import unidecode
+import traceback
 
 import update_utils
 
 from bs4 import BeautifulSoup
 
 import pandas as pd
+import numpy as np
 
 warnings.filterwarnings('ignore', category=urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings('ignore', category=FutureWarning)
+warnings.filterwarnings('ignore', category=pd.errors.PerformanceWarning)
 
 
 HEADERS = {
@@ -44,10 +47,36 @@ def get_iso3166(adm1_df, iso):
     return adm1_index
 
 
-DF_ORDER_COLS = [
+def get_population():
+    geo_sa_df = pd.read_csv('./update/south.america.population.csv')
+    geo_sa_df_ = geo_sa_df.groupby([
+        'name_0', 'name_1', 'name_2'
+    ])['population'].sum()
+
+    # All adm level 2 with population over 100k or biggest for each adm level 1
+    sa_cities = pd.DataFrame([
+        *geo_sa_df_[geo_sa_df_ > 1e5].index.to_list(),
+        *geo_sa_df_.groupby(level=['name_0', 'name_1']).idxmax().values
+    ]).drop_duplicates()
+
+    sa_cities.columns = ['name_0', 'name_1', 'name_2']
+    sa_cities = sa_cities.sort_values(['name_0', 'name_1', 'name_2'])
+
+    geo_sa_df = geo_sa_df.set_index(['name_0', 'name_1', 'name_2', 'name_3'])
+
+    return geo_sa_df, sa_cities
+
+
+DF_ADM1_COLS = [
     'iso_code', 'country_name', 'adm1_isocode',
     'adm1_name', 'frequency', 'date', 'deaths'
 ]
+DF_ADM2_COLS = [
+    'iso_code', 'country_name', 'adm1_isocode',
+    'adm1_name', 'adm2_name', 'frequency',
+    'date', 'deaths'
+]
+
 def storage_format(df, iso_code=None, **kwargs):
     df = df.reset_index()
     df['iso_code'] = iso_code
@@ -69,8 +98,6 @@ def storage_format(df, iso_code=None, **kwargs):
 
     df['deaths'] = df['deaths'].astype(int)
 
-    df = df[DF_ORDER_COLS]
-
     return df
 
 
@@ -83,33 +110,77 @@ def update_chile():
     df = df.stack()
     df = df.reset_index()
 
-    df = df[['Region', 'level_4', 0]]
-    df.columns = ['adm1_name', 'date', 'deaths']
+    df = df[['Region', 'Comuna', 'level_4', 0]]
+    df.columns = ['adm1_name', 'adm3_name', 'date', 'deaths']
 
-    df = df.sort_index().groupby(['adm1_name', 'date']).sum()
-    df = storage_format(
-        df,
+    df['adm3_name'] = df['adm3_name'].replace({'Coihaique': 'Coyhaique'})
+    df = df.sort_index().groupby(['adm1_name', 'adm3_name', 'date']).sum()
+    df = df.reset_index()
+
+    global geo_sa_df, sa_cities
+
+    geo_sa_df_ = geo_sa_df.loc['Chile'].reset_index(['name_2'])['name_2']
+    geo_sa_df_ = geo_sa_df_.reset_index('name_1', drop=True)
+    geo_sa_df_.index = geo_sa_df_.index.map(unidecode.unidecode).str.lower()
+
+    df['adm2_name'] = geo_sa_df_[
+        df['adm3_name'].str.lower().apply(unidecode.unidecode)
+    ].values
+
+    df_deaths = df[['adm1_name', 'date', 'deaths']]
+    df_deaths = df_deaths.groupby(['adm1_name', 'date']).sum()
+    df_deaths = df_deaths.sort_index()
+    df_deaths = storage_format(
+        df_deaths,
         iso_code='CL',
         frequency='daily',
         country_name='Chile'
     )
+    df_deaths = df_deaths[DF_ADM1_COLS]
+
+    df_cities = df.drop('adm3_name', axis=1)
+    df_cities = df_cities.groupby(['adm1_name', 'adm2_name', 'date']).sum()
+
+    cities = sa_cities[sa_cities['name_0'] == 'Chile']['name_2']
+    cities = pd.concat([cities, cities.apply(unidecode.unidecode)]).drop_duplicates()
+    df_cities = df_cities.loc[pd.IndexSlice[:, cities], :]
+
+    df_cities = df_cities.sort_index()
+    df_cities = storage_format(
+        df_cities,
+        iso_code='CL',
+        frequency='daily',
+        country_name='Chile'
+    )
+    df_cities = df_cities[DF_ADM2_COLS]
+
+    return {
+        'south.america.subnational.mortality': df_deaths,
+        'south.america.cities.mortality': df_cities
+    }
+
+
+def do_download_brazil(URL, fields):
+    df = pd.read_csv(URL)
+    df['date'] = pd.to_datetime(df['date'])
+
+    drop_columns = [_ + '_ibge_code' for _ in fields]
+    df = df.drop(drop_columns + ['place'], axis=1)
+
+    df = df.groupby(fields + ['date']).sum().sum(axis=1)
+    df = df.reset_index()
 
     return df
 
 
 BRAZIL_STATES_URL = 'https://raw.githubusercontent.com/datasets-br/state-codes/master/data/br-state-codes.csv'
 BRAZIL_URL = 'https://github.com/capyvara/brazil-civil-registry-data/blob/master/civil_registry_covid_states.csv?raw=true'
+BRAZIL_CITIES_URL = 'https://github.com/capyvara/brazil-civil-registry-data/blob/master/civil_registry_covid_cities.csv?raw=true'
 def update_brazil():
     state_codes = pd.read_csv(BRAZIL_STATES_URL)
     state_codes = state_codes.set_index('subdivision')
 
-    df = pd.read_csv(BRAZIL_URL)
-    df['date'] = pd.to_datetime(df['date'])
-
-    df = df.drop(['state_ibge_code', 'place'], axis=1)
-    df = df.groupby(['state', 'date']).sum().sum(axis=1)
-
-    df = df.reset_index()
+    df = do_download_brazil(BRAZIL_URL, ['state'])
     df.columns = ['adm1_name', 'date', 'deaths']
 
     df['adm1_name'] = df['adm1_name'].map(
@@ -118,48 +189,95 @@ def update_brazil():
 
     df = df.set_index(['adm1_name', 'date'])
     df = df.sort_index()
-    df = storage_format(
+
+    df_deaths = storage_format(
         df,
         iso_code='BR',
         frequency='daily',
         country_name='Brazil'
     )
+    df_deaths = df_deaths[DF_ADM1_COLS]
 
-    return df
+    df = do_download_brazil(BRAZIL_CITIES_URL, ['state', 'city'])
+    df.columns = ['adm1_name', 'adm2_name', 'date', 'deaths']
+
+    df['adm1_name'] = df['adm1_name'].map(
+        state_codes['name'].to_dict()
+    )
+
+    df = df.set_index(['adm1_name', 'adm2_name', 'date'])
+    df = df.sort_index()
+
+    df_cities = storage_format(
+        df,
+        iso_code='BR',
+        frequency='daily',
+        country_name='Brazil'
+    )
+    df_cities = df_cities[DF_ADM2_COLS]
+
+    return {
+        'south.america.subnational.mortality': df_deaths,
+        'south.america.cities.mortality': df_cities
+    }
 
 
-ECUADOR_URL = 'https://github.com/andrab/ecuacovid/raw/master/datos_crudos/defunciones/por_fecha/provincias_por_dia.csv'
+
+ECUADOR_URL = 'https://github.com/andrab/ecuacovid/raw/master/datos_crudos/defunciones/por_fecha/cantones_por_dia.csv'
 def update_ecuador():
     df = pd.read_csv(ECUADOR_URL)
-    df = df.set_index('provincia')
+    df = df.set_index(['provincia', 'canton'])
 
-    if 'Otro' in df.index:
-        df = df.drop('Otro')
+    df = df.drop('Otro', level=0, errors='ignore')
 
-    df = df.drop(['lat', 'lng', 'poblacion'], axis=1)
+    df = df.drop([
+        'lat', 'lng', 'provincia_poblacion', 'canton_poblacion'
+    ], axis=1)
 
     df = df.astype(int).T
     df.index = pd.to_datetime(df.index, dayfirst=True)
 
     df = df.unstack().to_frame()
     df = df.reset_index()
-    df.columns = ['adm1_name', 'date', 'deaths']
+    df.columns = ['adm1_name', 'adm2_name', 'date', 'deaths']
 
     # Patch name format
     df['adm1_name'] = df['adm1_name'].str.replace(
         'Sto. Domingo Tsáchilas', 'Santo Domingo de los Tsáchilas'
     )
 
-    df = df.set_index(['adm1_name', 'date'])
-    df = df.sort_index()
-    df = storage_format(
-        df,
+    df_deaths = df.groupby(['adm1_name', 'date']).sum()
+    df_deaths = df_deaths.sort_index()
+    df_deaths = storage_format(
+        df_deaths,
         iso_code='EC',
         frequency='daily',
         country_name='Ecuador'
     )
+    df_deaths = df_deaths[DF_ADM1_COLS]
 
-    return df
+    global sa_cities
+
+    cities = sa_cities[sa_cities['name_0'] == 'Ecuador']['name_2']
+    cities = pd.concat([cities, cities.apply(unidecode.unidecode)]).drop_duplicates()
+
+    df_cities = df.set_index(['adm1_name', 'adm2_name'])
+    df_cities = df_cities.loc[pd.IndexSlice[:, cities], :]
+
+    df_cities = df_cities.set_index('date', append=True)
+    df_cities = df_cities.sort_index()
+    df_cities = storage_format(
+        df_cities,
+        iso_code='EC',
+        frequency='daily',
+        country_name='Ecuador'
+    )
+    df_cities = df_cities[DF_ADM2_COLS]
+
+    return {
+        'south.america.subnational.mortality': df_deaths,
+        'south.america.cities.mortality': df_cities
+    }
 
 
 BASE_COLOMBIA_URL = 'https://www.dane.gov.co'
@@ -245,7 +363,9 @@ def update_colombia():
         country_name='Colombia'
     )
 
-    return df
+    return {
+        'south.america.subnational.mortality': df,
+    }
 
 
 PERU_URL = 'https://cloud.minsa.gob.pe/s/nqF2irNbFomCLaa/download'
@@ -254,42 +374,92 @@ def update_peru():
     df = pd.read_csv(
         io.BytesIO(cdata.content),
         delimiter='|',
-        encoding='ISO-8859-1'
+        encoding='utf-8'
     )
 
     df['FECHA'] = pd.to_datetime(df['FECHA'])
     df = df.sort_values('FECHA')
 
     df = df.groupby([
-        'DEPARTAMENTO DOMICILIO', 'FECHA'
+        'DEPARTAMENTO DOMICILIO', 'PROVINCIA DOMICILIO', 'FECHA'
     ])[df.columns[0]].count().reset_index()
+    df.columns = ['adm1_name', 'adm2_name', 'date', 'deaths']
 
-    df.columns = ['adm1_name', 'date', 'deaths']
-    df = df.set_index(['adm1_name', 'date'])
-    df = df.sort_index()
+    df_deaths = df.groupby(['adm1_name', 'date'])['deaths'].sum()
+    df_deaths = df_deaths.sort_index()
 
     # Patch Drop Locations: EXTRANJERO/SIN REGISTRO
-    df = df.drop('EXTRANJERO', level=0)
-    df = df.drop('SIN REGISTRO', level=0)
+    df_deaths = df_deaths.drop('EXTRANJERO', level=0)
+    df_deaths = df_deaths.drop('SIN REGISTRO', level=0)
 
-    df = storage_format(
-        df,
+    df_deaths = storage_format(
+        df_deaths,
         iso_code='PE',
         frequency='daily',
         country_name='Peru'
     )
+    df_deaths = df_deaths[DF_ADM1_COLS]
 
-    return df
+    global sa_cities
+    cities = sa_cities[sa_cities['name_0'] == 'Peru']['name_2']
+    cities = pd.concat([cities, cities.apply(unidecode.unidecode)]).drop_duplicates()
+
+    df['adm2_name'] = df['adm2_name'].str.lower().str.title()
+
+    df_cities = df.set_index(['adm1_name', 'adm2_name'])
+    df_cities = df_cities.loc[pd.IndexSlice[:, cities], :]
+
+    df_cities = df_cities.set_index('date', append=True)
+    df_cities = df_cities.sort_index()
+    df_cities = storage_format(
+        df_cities,
+        iso_code='PE',
+        frequency='daily',
+        country_name='Peru'
+    )
+    df_cities = df_cities[DF_ADM2_COLS]
+
+    return {
+        'south.america.subnational.mortality': df_deaths,
+        'south.america.cities.mortality': df_cities
+    }
 
 
+PARAGUAY_DEPTS = {
+  '01': 'Concepción',
+  '02': 'San Pedro',
+  '03': 'Cordillera',
+  '04': 'Guairá',
+  '05': 'Caaguazú',
+  '06': 'Caazapá',
+  '07': 'Itapúa',
+  '08': 'Misiones',
+  '09': 'Paraguarí',
+  '10': 'Alto Paraná',
+  '11': 'Central',
+  '12': 'Ñeembucú',
+  '13': 'Amambay',
+  '14': 'Canindeyú',
+  '15': 'Presidente Hayes',
+  '16': 'Boquerón',
+  '17': 'Alto Paraguay',
+  '18': 'Asunción'
+}
 PARAGUAY_URL = 'http://ssiev.mspbs.gov.py/20170426/defuncion_reportes/lista_multireporte_defuncion.php'
-def update_paraguay():
+PARAGUAY_DATA = {
+    'elegido': 2,
+    'xfila': 'coddist',
+    'xcolumna': 'EXTRACT(MONTH FROM  fechadef)',
+    'anio1': 2021,
+    'anio2': 2021,
+    'coddpto': None
+}
+def do_download_paraguay(dept_code, year=2021):
     data = {
-        'elegido': 2,
-        'xfila': 'coddpto',
-        'xcolumna': 'EXTRACT(MONTH FROM  fechadef)',
-        'anio1': 2021,
-        'anio2': 2021
+        **PARAGUAY_DATA,
+        'anio1': year,
+        'anio2': year,
+        'coddpto': dept_code
     }
     cdata = requests.post(PARAGUAY_URL, data=data)
 
@@ -303,8 +473,9 @@ def update_paraguay():
     df.columns = df.iloc[0]
     df = df.iloc[1:]
 
-    df = df.set_index('Lugar de Defunción/Dpto.')
-    df = df.drop(['Total', 'EXTRANJERO'])
+    df = df.set_index('Lugar de Defunción/Distrito')
+    df = df.drop(['Total', 'EXTRANJERO'], errors='ignore')
+
     df = df.iloc[:, :-1]
 
     df = df.applymap(lambda _: int(str(_).replace('.', '')))
@@ -313,7 +484,7 @@ def update_paraguay():
     df = df.unstack().reset_index()
     df.columns = ['month', 'lugar', 'deaths']
 
-    df['year'] = 2021
+    df['year'] = year
     df = df[['lugar', 'year', 'month', 'deaths']]
 
     df['month'] = df['month'].replace({
@@ -332,25 +503,69 @@ def update_paraguay():
 
     df = df.groupby(['lugar', 'date'])['deaths'].sum()
     df = df.reset_index()
-    df.columns = ['adm1_name', 'date', 'deaths']
 
-    # Patch name format
-    df['adm1_name'] = df['adm1_name'].str.replace(
-        'PTE. HAYES', 'PRESIDENTE HAYES'
+    df.columns = ['adm2_name', 'date', 'deaths']
+    df['adm2_name'] = df['adm2_name'].str.lower().str.title()
+    df['adm2_name'] = df['adm2_name'].str.replace(
+        ' De ', ' de '
     ).str.replace(
-        'CAPITAL', 'ASUNCION'
+        ' Del ', ' del '
+    ).str.replace(
+        ' El ', ' el ',
+    ).str.replace(
+        ' La ', ' la ',
     )
 
-    df = df.set_index(['adm1_name', 'date'])
-    df = df.sort_index()
-    df = storage_format(
-        df,
+    return df
+
+
+def update_paraguay():
+    df = pd.DataFrame([])
+
+    for dept_code, adm1_name in PARAGUAY_DEPTS.items():
+        dept_df = do_download_paraguay(dept_code, year=2021)
+        dept_df['adm1_name'] = adm1_name
+
+        df = pd.concat([df, dept_df])
+
+    df['adm2_name'] = df['adm2_name'].replace({
+        'Mariscal Estigarribia': 'Mariscal Jose Felix Estigarribia'
+    })
+    df = df[np.roll(df.columns, 1)]
+
+
+    df_deaths = df.groupby(['adm1_name', 'date']).sum()
+    df_deaths = df_deaths.sort_index()
+    df_deaths = storage_format(
+        df_deaths,
         iso_code='PY',
         frequency='monthly',
         country_name='Paraguay'
     )
+    df_deaths = df_deaths[DF_ADM1_COLS]
 
-    return df
+    global sa_cities
+    cities = sa_cities[sa_cities['name_0'] == 'Paraguay']['name_2']
+    cities = pd.concat([cities, cities.apply(unidecode.unidecode)]).drop_duplicates()
+
+    df_cities = df.set_index(['adm1_name', 'adm2_name'])
+    df_cities = df_cities.loc[pd.IndexSlice[:, cities], :]
+
+    df_cities = df_cities.set_index('date', append=True)
+    df_cities = df_cities.sort_index()
+    df_cities = storage_format(
+        df_cities,
+        iso_code='PY',
+        frequency='monthly',
+        country_name='Paraguay'
+    )
+    df_cities = df_cities[DF_ADM2_COLS]
+
+    return {
+        'south.america.subnational.mortality': df_deaths,
+        'south.america.cities.mortality': df_cities
+    }
+
 
 ARGENTINA_URL = 'https://raw.githubusercontent.com/akarlinsky/world_mortality/main/local_mortality/local_mortality.csv'
 def update_argentina():
@@ -378,43 +593,53 @@ def update_bolivia():
         'El Beni', 'Beni'
     )
 
-    return df
+    return {
+        'south.america.subnational.mortality': df,
+    }
 
 
 def do_update(fn):
     print(fn.__name__)
     try:
-        df = fn()
+        df_objs = fn()
     except Exception as e:
-        print(e)
+        traceback.print_exc()
         return
 
     # >= 2021
-    df = df[df['date'] > '2020-12-31']
+    for key, df in df_objs.items():
+        df = df[df['date'] > '2020-12-31'].copy()
 
-    df['deaths'] = df['deaths'].astype(int)
-    df['date'] = pd.to_datetime(df['date'])
+        df['deaths'] = df['deaths'].astype(int)
+        df['date'] = pd.to_datetime(df['date'])
 
-    return df
+        df_objs[key] = df
+
+    return df_objs
 
 
-STORAGE_FILE = './raw/mortality/south.america.subnational.mortality.csv'
-DF_INDEX_COLS = ['iso_code', 'adm1_name', 'date']
-def do_merge(df):
-    base_df = pd.read_csv(STORAGE_FILE)
+STORAGE_FILE = './raw/mortality/{}.csv'
+DF_NON_INDEX_COLS = ['country_name', 'adm1_isocode', 'frequency', 'deaths']
+def do_merge(df, path):
+    file_name = STORAGE_FILE.format(path)
+    base_df = pd.read_csv(file_name)
+
+    order_cols = base_df.columns
+    index_cols = [_ for _ in order_cols if _ not in DF_NON_INDEX_COLS]
+
     base_df['date'] = pd.to_datetime(base_df['date'])
-    base_df = base_df.set_index(DF_INDEX_COLS)
+    base_df = base_df.set_index(index_cols)
 
-    df = df.set_index(DF_INDEX_COLS)
+    df = df.set_index(index_cols)
     df = pd.concat([base_df, df])
 
     df = df[~df.index.duplicated(keep='last')]
     df = df.sort_index()
 
     df = df.reset_index()
-    df = df[DF_ORDER_COLS]
+    df = df[order_cols]
 
-    df.to_csv(STORAGE_FILE, index=False)
+    df.to_csv(file_name, index=False)
 
 
 UPDATE_FNS = [
@@ -424,13 +649,21 @@ UPDATE_FNS = [
     update_colombia,
     update_peru,
     update_paraguay,
+    # update_argentina,
     update_bolivia
 ]
 if __name__ == '__main__':
     iso_level_0, iso_geo_names, geo_names = update_utils.fetch_geocodes()
-    final_df = pd.DataFrame([])
+    geo_sa_df, sa_cities = get_population()
+    final_df = {}
 
     for update_fn in UPDATE_FNS:
-        final_df = pd.concat([final_df, do_update(update_fn)])
+        df_objs = do_update(update_fn)
 
-    do_merge(final_df)
+        for key, df in df_objs.items():
+            fdf = final_df.get(key, pd.DataFrame([]))
+            fdf = pd.concat([fdf, df])
+            final_df[key] = fdf
+
+    for key, df in final_df.items():
+        do_merge(df, key)
