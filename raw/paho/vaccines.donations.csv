@@ -2,243 +2,251 @@ Recipient,Recipient ISO,Vaccine Name,Manufacturer,Source URL,Vaccine Developer,D
 West Bank and Gaza,PSE,mRNA-1273,Moderna,https://www.france24.com/en/live-news/20210131-israel-says-to-send-5-000-vaccine-shots-to-palestinians,Moderna,Israel,ISR,2020-02-02,5000.0
 Kyrgyzstan,KGZ,Sputnik V,Gamaleya Research Institute,https://tass.com/world/1287905,Gamaleya Research Institute,Russia,RUS,2020-04-29,500000.0
 Mauritius,MUS,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,100000.0
+Bhutan,BTN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,150000.0
 Nepal,NPL,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,1000000.0
 Maldives,MDV,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,200000.0
-Myanmar,MMR,Covaxin,Bharat Biotech,https://www.mea.gov.in/vaccine-supply.htm,Bharat Biotech,India,IND,2021-01-22,200000.0
 Bangladesh,BGD,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,2000000.0
-Bhutan,BTN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,150000.0
+Myanmar,MMR,Covaxin,Bharat Biotech,https://www.mea.gov.in/vaccine-supply.htm,Bharat Biotech,India,IND,2021-01-22,200000.0
 Myanmar,MMR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,1500000.0
 Afghanistan,AFG,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-26,500000.0
 Seychelles,SYC,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-26,50000.0
 Seychelles,SYC,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.statehouse.gov.sc/news/5071/president-of-seychelles-takes-covid-19-vaccine-seychelles-launches-national-covid-19-immunisation-campaign,Sinopharm (Beijing),UAE,ARE,2021-01-26,50000.0
 Sri Lanka,LKA,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-28,500000.0
 Oman,OMN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-29,100000.0
-Bahrain,BHR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-29,100000.0
 Nicaragua,NIC,Covishield,Serum Institute of India,https://twitter.com/IndiainPanama/status/1370481740314202119?s=20,Serum Institute of India,India,IND,2021-01-29,200000.0
+Bahrain,BHR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-29,100000.0
 Congo,COG,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.bloomberg.com/news/articles/2021-02-05/congo-republic-to-get-100-0000-doses-of-covid-vaccine-from-china,Sinopharm (Beijing),China,CHN,2021-02-05,100000.0
 Myanmar,MMR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.irrawaddy.com/news/burma/china-donates-500000-covid-19-vaccines-myanmar-junta.html,Sinopharm (Beijing),China,CHN,2021-02-09,500000.0
 Bolivia,BOL,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.minsalud.gob.bo/5319-llegan-sinopharm-bolivia,Sinopharm (Beijing),China,CHN,2021-02-11,100000.0
 Equatorial Guinea,GNQ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/us-health-coronavirus-equatorial/china-donates-100000-covid-19-vaccine-doses-to-equatorial-guinea-idUSKBN2AB15Q,Sinopharm (Beijing),China,CHN,2021-02-11,100000.0
 Bosnia,BIH,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-bosnia-vaccines/bosnia-begins-covid-19-vaccination-roll-out-with-russian-vaccine-idUSL8N2KI2RI,Gamaleya Research Institute,Russia,RUS,2021-02-12,5000.0
 Philippines,PHL,Coronavac,Sinovac,https://www.reuters.com/article/us-health-coronavirus-philippines/philippines-to-get-china-donated-vaccines-this-month-for-troops-medical-staff-idUSKBN2AB0IT,Sinovac,China,CHN,2021-02-15,600000.0
-Macedonia,MKD,Comirnaty,Pfizer/BioNTech,https://www.usnews.com/news/health-news/articles/2021-02-14/serbia-donates-pfizer-covid-19-vaccines-to-north-macedonia,Pfizer BioNTech,Serbia,SRB,2021-02-19,8000.0
 West Bank and Gaza,PSE,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,Gamaleya Research Institute,Russia,RUS,2021-02-19,2000.0
-Honduras,HND,mRNA-1273,Moderna,https://www.reuters.com/article/healthcoronavirus-honduras/honduras-orders-70000-doses-of-russias-sputnik-v-covid-19-vaccine-idUSL1N2KU28H,Moderna,Israel,ISR,2021-02-26,5000.0
+Macedonia,MKD,Comirnaty,Pfizer/BioNTech,https://www.usnews.com/news/health-news/articles/2021-02-14/serbia-donates-pfizer-covid-19-vaccines-to-north-macedonia,Pfizer BioNTech,Serbia,SRB,2021-02-19,8000.0
+Guatemala,GTM,mRNA-1273,Moderna,https://www.aa.com.tr/en/americas/1st-vaccines-arrive-in-honduras-guatemala-from-israel/2157560,Moderna,Israel,ISR,2021-02-26,5000.0
 Suriname,SUR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-02-26,50000.0
+Honduras,HND,mRNA-1273,Moderna,https://www.reuters.com/article/healthcoronavirus-honduras/honduras-orders-70000-doses-of-russias-sputnik-v-covid-19-vaccine-idUSL1N2KU28H,Moderna,Israel,ISR,2021-02-26,5000.0
 West Bank and Gaza,PSE,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,Gamaleya Research Institute,UAE,ARE,2021-02-26,20000.0
 Sierra Leone,SLE,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://en.nhc.gov.cn/2021-02/26/c_83062.htm,Sinopharm (Beijing),China,CHN,2021-02-26,200000.0
-Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://www.barrons.com/news/france-to-ship-vaccines-to-hard-hit-czechs-report-01614276018?tesla=y,Pfizer BioNTech,Israel,ISR,2021-02-26,5000.0
-Guatemala,GTM,mRNA-1273,Moderna,https://www.aa.com.tr/en/americas/1st-vaccines-arrive-in-honduras-guatemala-from-israel/2157560,Moderna,Israel,ISR,2021-02-26,5000.0
 Dominica,DMA,Covishield,Serum Institute of India,https://www.republicworld.com/india-news/general-news/thank-you-india-dominica-pm-extends-gratitude-for-70000-doses-of-covid-19-vaccine.html,Serum Institute of India,India,IND,2021-02-26,70000.0
+Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://www.barrons.com/news/france-to-ship-vaccines-to-hard-hit-czechs-report-01614276018?tesla=y,Pfizer BioNTech,Israel,ISR,2021-02-26,5000.0
 Afghanistan,AFG,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/us-health-coronavirus-afghanistan-vaccin/china-to-provide-afghanistan-with-400000-doses-of-covid-19-vaccine-idUSKCN2AT1V5,Sinopharm (Beijing),China,CHN,2021-03-01,400000.0
 Venezuela,VEN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/instant-article/idINL2N2L019T,Sinopharm (Beijing),China,CHN,2021-03-02,500000.0
 Iran,IRN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.aljazeera.com/news/2021/2/28/iran-receives-chinas-sinopharm-jabs-as-covid-deaths-reach-60000,Sinopharm (Beijing),China,CHN,2021-03-04,250000.0
 Uganda,UGA,Covishield,Serum Institute of India,https://twitter.com/IndiainUganda/status/1368549937038954496?s=20,Serum Institute of India,India,IND,2021-03-08,100000.0
-St. Kitts and Nevis,KNA,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-08,20000.0
-Bosnia,BIH,Sputnik V,Gamaleya Research Institute,https://www.barrons.com/news/serbia-delivers-10-000-vaccine-doses-to-struggling-bosnia-01614699006,Gamaleya Research Institute,Serbia,SRB,2021-03-08,10000.0
 Guyana,GUY,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://newsroom.gy/2021/02/02/china-will-donate-sinopharm-covid-19-vaccines-to-guyana/,Sinopharm (Beijing),China,CHN,2021-03-08,20000.0
+Bosnia,BIH,Sputnik V,Gamaleya Research Institute,https://www.barrons.com/news/serbia-delivers-10-000-vaccine-doses-to-struggling-bosnia-01614699006,Gamaleya Research Institute,Serbia,SRB,2021-03-08,10000.0
+Saint Lucia,LCA,Covishield,Serum Institute of India,https://twitter.com/allenmchastanet/status/1366479878548242437?s=20,Serum Institute of India,India,IND,2021-03-08,25000.0
 Jamaica,JAM,Covishield,Serum Institute of India,https://twitter.com/AndrewHolnessJM/status/1369307596834959367?s=20,Serum Institute of India,India,IND,2021-03-08,50000.0
 Antigua,ATG,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-08,40000.0
-Saint Lucia,LCA,Covishield,Serum Institute of India,https://twitter.com/allenmchastanet/status/1366479878548242437?s=20,Serum Institute of India,India,IND,2021-03-08,25000.0
-Dominican Rep.,DOM,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-12,30000.0
-Cote d'Ivoire,CIV,Covishield,Serum Institute of India,https://twitter.com/EOIIvoryCoast/status/1367817941534773255?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
-Rwanda,RWA,Covishield,Serum Institute of India,https://twitter.com/IndiaKigali/status/1367724903869411328?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
-Guatemala,GTM,--,--,https://twitter.com/IndiaInGuate/status/1367184660330143753?s=20,--,India,IND,2021-03-12,200000.0
-DRC,COD,Covishield,Serum Institute of India,https://twitter.com/IndiainDRC/status/1367869530798718976?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
-Mongolia,MNG,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-12,150000.0
-Bahamas,BHS,Covishield,Serum Institute of India,https://twitter.com/hcikingston/status/1370001289640312834?s=20,Serum Institute of India,India,IND,2021-03-12,20000.0
-Eswatini,SWZ,Covishield,Serum Institute of India,https://twitter.com/EswatiniGovern1/status/1370046541776490497?s=20,Serum Institute of India,India,IND,2021-03-12,20000.0
-Senegal,SEN,Covishield,Serum Institute of India,https://twitter.com/IndiainSenegal/status/1367605758737661958?s=20,Serum Institute of India,India,IND,2021-03-12,25000.0
-Ghana,GHA,Covishield,Serum Institute of India,https://twitter.com/HCI_Accra/status/1367760976297222150?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
-Guyana,GUY,Covishield,Serum Institute of India,https://twitter.com/IndiainGuyana/status/1368542598135246850?s=20,Serum Institute of India,India,IND,2021-03-12,80000.0
-Botswana,BWA,Covaxin,Bharat Biotech,https://twitter.com/HCIGaborone/status/1369369507488292874?s=20,Bharat Biotech,India,IND,2021-03-12,30000.0
-Belize,BLZ,Covaxin,Bharat Biotech,https://twitter.com/VohraManpreet/status/1369125562673885189?s=20,Bharat Biotech,India,IND,2021-03-12,25000.0
+St. Kitts and Nevis,KNA,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-08,20000.0
 Mozambique,MOZ,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-12,100000.0
+Dominican Rep.,DOM,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-12,30000.0
+Ghana,GHA,Covishield,Serum Institute of India,https://twitter.com/HCI_Accra/status/1367760976297222150?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
+DRC,COD,Covishield,Serum Institute of India,https://twitter.com/IndiainDRC/status/1367869530798718976?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
+Senegal,SEN,Covishield,Serum Institute of India,https://twitter.com/IndiainSenegal/status/1367605758737661958?s=20,Serum Institute of India,India,IND,2021-03-12,25000.0
+Guatemala,GTM,--,--,https://twitter.com/IndiaInGuate/status/1367184660330143753?s=20,--,India,IND,2021-03-12,200000.0
+Eswatini,SWZ,Covishield,Serum Institute of India,https://twitter.com/EswatiniGovern1/status/1370046541776490497?s=20,Serum Institute of India,India,IND,2021-03-12,20000.0
+Cote d'Ivoire,CIV,Covishield,Serum Institute of India,https://twitter.com/EOIIvoryCoast/status/1367817941534773255?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
+Bahamas,BHS,Covishield,Serum Institute of India,https://twitter.com/hcikingston/status/1370001289640312834?s=20,Serum Institute of India,India,IND,2021-03-12,20000.0
+Guyana,GUY,Covishield,Serum Institute of India,https://twitter.com/IndiainGuyana/status/1368542598135246850?s=20,Serum Institute of India,India,IND,2021-03-12,80000.0
+Belize,BLZ,Covaxin,Bharat Biotech,https://twitter.com/VohraManpreet/status/1369125562673885189?s=20,Bharat Biotech,India,IND,2021-03-12,25000.0
+Rwanda,RWA,Covishield,Serum Institute of India,https://twitter.com/IndiaKigali/status/1367724903869411328?s=20,Serum Institute of India,India,IND,2021-03-12,50000.0
+Botswana,BWA,Covaxin,Bharat Biotech,https://twitter.com/HCIGaborone/status/1369369507488292874?s=20,Bharat Biotech,India,IND,2021-03-12,30000.0
+Mongolia,MNG,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-12,150000.0
 Ecuador,ECU,Coronavac,Sinovac,https://www.salud.gob.ec/el-gobierno-de-chile-dona-20-000-dosis-de-vacuna-del-laboratorio-sinovac-al-ecuador-para-el-plan-vacunarse/,Sinovac,Chile,CHL,2021-03-13,20000.0
 Paraguay,PRY,Coronavac,Sinovac,https://www.reuters.com/article/health-coronavirus-ecuador-chile-idUSL1N2L5006,Sinovac,Chile,CHL,2021-03-13,20000.0
 Syria,SYR,Sputnik V,Gamaleya Research Institute,https://www.aljazeera.com/news/2021/3/17/syria-launches-covid-vaccination-drive-amid-economic-challenges,Gamaleya Research Institute,Israel,ISR,2021-03-18,5000.0
-Slovakia,SVK,Vaxzevria,AstraZeneca,https://www.barrons.com/news/france-donates-15-000-vaccine-doses-to-slovakia-01615150504,AstraZeneca,France,FRA,2021-03-18,15000.0
 Montenegro,MNE,Sputnik V,Gamaleya Research Institute,http://www.kiev.mfa.gov.rs/newstext.php?subaction=showfull&id=1615884683&ucat=19&template=Frontpage3&,Gamaleya Research Institute,Serbia,SRB,2021-03-18,2000.0
-Algeria,DZA,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.xinhuanet.com/english/2021-02/25/c_139766759.htm,Sinopharm (Beijing),China,CHN,2021-03-19,200000.0
-Malawi,MWI,Covishield,Serum Institute of India,https://twitter.com/India_in_Malawi/status/1370405295806156803?s=20,Serum Institute of India,India,IND,2021-03-19,50000.0
+Slovakia,SVK,Vaxzevria,AstraZeneca,https://www.barrons.com/news/france-donates-15-000-vaccine-doses-to-slovakia-01615150504,AstraZeneca,France,FRA,2021-03-18,15000.0
 Mozambique,MOZ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/health-coronavirus-mozambique/mozambique-expects-to-vaccinate-16-million-against-coronavirus-by-2022-idUSL5N2L35GH,Sinopharm (Beijing),China,CHN,2021-03-19,200000.0
 Belarus,BLR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.belarus.by/en/press-center/press-release/belarus-begins-covid-19-vaccinations-with-chinese-shots_i_0000126992.html,Sinopharm (Beijing),China,CHN,2021-03-19,100000.0
+Malawi,MWI,Covishield,Serum Institute of India,https://twitter.com/India_in_Malawi/status/1370405295806156803?s=20,Serum Institute of India,India,IND,2021-03-19,50000.0
+Algeria,DZA,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.xinhuanet.com/english/2021-02/25/c_139766759.htm,Sinopharm (Beijing),China,CHN,2021-03-19,200000.0
 Dominican Rep.,DOM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://dominicantoday.com/dr/local/2021/03/17/arrival-of-one-million-vaccines-against-covid-19-from-china/,Sinopharm (Beijing),China,CHN,2021-03-22,50000.0
 Zimbabwe,ZWE,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://apnews.com/article/health-emmerson-mnangagwa-zimbabwe-china-coronavirus-pandemic-c9bc8c139426a6921bac5c0300be994f,Sinopharm (Beijing),China,CHN,2021-03-22,400000.0
---,--,--,--,https://www.reuters.com/article/us-health-coronavirus-ghana-vaccine/ghana-takes-delivery-of-first-covid-19-vaccines-donated-by-mtn-group-idINKBN2BF2S8?edition-redirect=in,--,MTN Group,IND,2021-03-23,165000.0
 Nigeria,NGA,--,--,https://nannews.ng/covid-19-mtn-donates-300000-doses-of-vaccines-to-nigeria/,--,MTN Group,IND,2021-03-23,1400000.0
-Liberia,LBR,Covishield,Serum Institute of India,https://frontpageafricaonline.com/news/liberia-mtn-group-donates-27000-covid-19-vaccines-to-government/,Serum Institute of India,MTN Group,FRA,2021-03-23,27000.0
-Niger,NER,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/us-health-coronavirus-niger-idUSKBN2BD0UE,Sinopharm (Beijing),China,CHN,2021-03-23,400000.0
 Benin,BEN,Coronavac,Sinovac,https://www.gouv.bj/actualite/1226/lutte-contre-pandemie-coronavirus--covid-19-benin-recu-203.000-doses-vaccins-chine/,Sinovac,China,CHN,2021-03-23,100000.0
+--,--,--,--,https://www.reuters.com/article/us-health-coronavirus-ghana-vaccine/ghana-takes-delivery-of-first-covid-19-vaccines-donated-by-mtn-group-idINKBN2BF2S8?edition-redirect=in,--,MTN Group,IND,2021-03-23,165000.0
+Niger,NER,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/us-health-coronavirus-niger-idUSKBN2BD0UE,Sinopharm (Beijing),China,CHN,2021-03-23,400000.0
+Liberia,LBR,Covishield,Serum Institute of India,https://frontpageafricaonline.com/news/liberia-mtn-group-donates-27000-covid-19-vaccines-to-government/,Serum Institute of India,MTN Group,FRA,2021-03-23,27000.0
 Namibia,NAM,Coronavac,Sinovac,https://africa.cgtn.com/2021/03/18/namibia-receives-first-batch-of-covid-19-vaccines-from-china/,Sinovac,China,CHN,2021-03-24,100000.0
+--,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,MTN Group,IND,2021-03-26,25000.0
+Nigeria,NGA,--,--,https://www.mea.gov.in/vaccine-supply.htm,--,India,IND,2021-03-26,100000.0
+Bhutan,BTN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-26,400000.0
+--,--,--,--,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,--,MTN Group,IND,2021-03-26,102000.0
+Mauritania,MRT,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Sinopharm (Beijing),China,CHN,2021-03-26,50000.0
+Mauritania,MRT,Comirnaty,Pfizer/BioNTech,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Pfizer BioNTech,UAE,ARE,2021-03-26,5000.0
+South Sudan,SSD,Covishield,Serum Institute of India,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,Serum Institute of India,MTN Group,USA,2021-03-26,59000.0
+Guinea-Bissau,GNB,Covishield,Serum Institute of India,https://www.theeastafrican.co.ke/tea/news/rest-of-africa/guinea-bissau-covid-19-vaccine-3333656,Serum Institute of India,MTN Group,CHN,2021-03-26,12000.0
+Tunisia,TUN,Coronavac,Sinovac,http://www.xinhuanet.com/english/2021-03/28/c_139840930.htm,Sinovac,China,CHN,2021-03-26,100000.0
+Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50830205/funcinpec-to-receive-3000-doses-of-covid-19-vaccine-from-china/,Sinopharm (Beijing),China,CHN,2021-03-26,3000.0
+--,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,MTN Group,IND,2021-03-26,100000.0
+--,--,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,Serum Institute of India,MTN Group,CHN,2021-03-26,200000.0
 --,--,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,Serum Institute of India,MTN Group,CHN,2021-03-26,200000.0
 Namibia,NAM,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-26,30000.0
-Bhutan,BTN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-26,400000.0
-Guinea-Bissau,GNB,Covishield,Serum Institute of India,https://www.theeastafrican.co.ke/tea/news/rest-of-africa/guinea-bissau-covid-19-vaccine-3333656,Serum Institute of India,MTN Group,CHN,2021-03-26,12000.0
-Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50830205/funcinpec-to-receive-3000-doses-of-covid-19-vaccine-from-china/,Sinopharm (Beijing),China,CHN,2021-03-26,3000.0
 Gambia,GMB,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,Serum Institute of India,MTN Group,CHN,2021-03-26,100000.0
-South Sudan,SSD,Covishield,Serum Institute of India,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,Serum Institute of India,MTN Group,USA,2021-03-26,59000.0
---,--,--,--,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,--,MTN Group,IND,2021-03-26,102000.0
-Nigeria,NGA,--,--,https://www.mea.gov.in/vaccine-supply.htm,--,India,IND,2021-03-26,100000.0
---,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,MTN Group,IND,2021-03-26,25000.0
-Mauritania,MRT,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Sinopharm (Beijing),China,CHN,2021-03-26,50000.0
---,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,MTN Group,IND,2021-03-26,100000.0
-Mauritania,MRT,Comirnaty,Pfizer/BioNTech,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Pfizer BioNTech,UAE,ARE,2021-03-26,5000.0
-Tunisia,TUN,Coronavac,Sinovac,http://www.xinhuanet.com/english/2021-03/28/c_139840930.htm,Sinovac,China,CHN,2021-03-26,100000.0
---,--,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,Serum Institute of India,MTN Group,CHN,2021-03-26,200000.0
-Maldives,MDV,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.gov.mv/en/news-and-communications/china-donates-200000-doses-of-sinopharm-vaccine-to-the-maldives,Sinopharm (Beijing),China,CHN,2021-03-29,200000.0
+West Bank and Gaza,PSE,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.france24.com/en/live-news/20210329-palestinians-get-100-000-chinese-covid-vaccine-doses,Sinopharm (Beijing),China,CHN,2021-03-29,100000.0
 Philippines,PHL,Coronavac,Sinovac,https://doh.gov.ph/doh-press-release/PH-RECEIVES-400K-ADDITIONAL-DONATED-CORONAVAC-DOSES,Sinovac,China,CHN,2021-03-29,400000.0
 Albania,ALB,Sputnik V,Gamaleya Research Institute,http://www.xinhuanet.com/english/2021-03/23/c_139828104.htm,Gamaleya Research Institute,UAE,ARE,2021-03-29,10000.0
-West Bank and Gaza,PSE,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.france24.com/en/live-news/20210329-palestinians-get-100-000-chinese-covid-vaccine-doses,Sinopharm (Beijing),China,CHN,2021-03-29,100000.0
-Papua New Guinea,PNG,Vaxzevria,CSL,https://msf.org.nz/issue/papua-new-guinea%E2%80%99s-covid-19-crisis,AstraZeneca,Australia,AUS,2021-04-01,8480.0
-Angola,AGO,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://macauhub.com.mo/2021/03/30/20210330005/,Sinopharm (Beijing),China,CHN,2021-04-01,200000.0
-Azerbaijan,AZE,Coronavac,Sinovac,https://en.trend.az/azerbaijan/society/3402510.html,Sinovac,China,CHN,2021-04-01,150000.0
-Mongolia,MNG,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.xinhuanet.com/english/2021-02/23/c_139759597.htm,Sinopharm (Beijing),China,CHN,2021-04-01,300000.0
-Egypt,EGY,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://egyptianstreets.com/2020/12/11/egypt-receives-first-50000-batch-of-chinese-covid-19-vaccine/,Sinopharm (Beijing),UAE,ARE,2021-04-01,50000.0
-Kyrgyzstan,KGZ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.barrons.com/news/kyrgyzstan-begins-vaccine-rollout-with-china-s-sinopharm-01617012906?tesla=y,Sinopharm (Beijing),China,CHN,2021-04-01,150000.0
-Sri Lanka,LKA,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://colombogazette.com/2021/03/31/chinese-sinopharm-vaccines-arrive-in-sri-lanka/,Sinopharm (Beijing),China,CHN,2021-04-01,600000.0
-Ethiopia,ETH,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.aviationpros.com/ground-handling/press-release/21216763/ethiopian-airlines-ethiopian-transports-more-than-1-million-covid-19-vaccine-doses-from-beijing-to-harare,Sinopharm (Beijing),China,CHN,2021-04-01,300000.0
+Maldives,MDV,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.gov.mv/en/news-and-communications/china-donates-200000-doses-of-sinopharm-vaccine-to-the-maldives,Sinopharm (Beijing),China,CHN,2021-03-29,200000.0
 Moldova,MDA,Sputnik V,Gamaleya Research Institute,https://tass.com/world/1273247,Gamaleya Research Institute,Russia,RUS,2021-04-01,180000.0
+Egypt,EGY,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://egyptianstreets.com/2020/12/11/egypt-receives-first-50000-batch-of-chinese-covid-19-vaccine/,Sinopharm (Beijing),UAE,ARE,2021-04-01,50000.0
+Mongolia,MNG,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.xinhuanet.com/english/2021-02/23/c_139759597.htm,Sinopharm (Beijing),China,CHN,2021-04-01,300000.0
+Papua New Guinea,PNG,Vaxzevria,CSL,https://msf.org.nz/issue/papua-new-guinea%E2%80%99s-covid-19-crisis,AstraZeneca,Australia,AUS,2021-04-01,8480.0
+Azerbaijan,AZE,Coronavac,Sinovac,https://en.trend.az/azerbaijan/society/3402510.html,Sinovac,China,CHN,2021-04-01,150000.0
+Sri Lanka,LKA,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://colombogazette.com/2021/03/31/chinese-sinopharm-vaccines-arrive-in-sri-lanka/,Sinopharm (Beijing),China,CHN,2021-04-01,600000.0
+Angola,AGO,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://macauhub.com.mo/2021/03/30/20210330005/,Sinopharm (Beijing),China,CHN,2021-04-01,200000.0
 Sudan,SDN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/health-coronavirus-sudan-china/sudan-to-receive-first-batch-of-sinopharm-vaccines-suna-reports-idUSL1N2LM243,Sinopharm (Beijing),China,CHN,2021-04-01,250000.0
+Ethiopia,ETH,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.aviationpros.com/ground-handling/press-release/21216763/ethiopian-airlines-ethiopian-transports-more-than-1-million-covid-19-vaccine-doses-from-beijing-to-harare,Sinopharm (Beijing),China,CHN,2021-04-01,300000.0
+Kyrgyzstan,KGZ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.barrons.com/news/kyrgyzstan-begins-vaccine-rollout-with-china-s-sinopharm-01617012906?tesla=y,Sinopharm (Beijing),China,CHN,2021-04-01,150000.0
 Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50832701/more-vaccine-relief-700000-doses-of-sinopharm-vaccine-arrive-from-china/,Sinopharm (Beijing),China,CHN,2021-04-04,1300000.0
-Brunei,BRN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://thescoop.co/2021/04/02/covid-19-brunei-to-begin-mass-vaccination-on-april-3/,Sinopharm (Beijing),China,CHN,2021-04-05,52000.0
 Macedonia,MKD,Sputnik V,Gamaleya Research Institute,https://seenews.com/news/n-macedonia-receives-20000-sputnik-v-coronavirus-vaccines-from-serbia-736755,Gamaleya Research Institute,Serbia,SRB,2021-04-05,40000.0
+Brunei,BRN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://thescoop.co/2021/04/02/covid-19-brunei-to-begin-mass-vaccination-on-april-3/,Sinopharm (Beijing),China,CHN,2021-04-05,52000.0
 Georgia,GEO,Coronavac,Sinovac,https://agenda.ge/en/news/2021/891,Sinovac,China,CHN,2021-04-05,100000.0
-Nauru,NRU,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,10000.0
-Montenegro,MNE,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://seenews.com/news/montenegro-receives-30000-doses-of-chinas-covid-19-vaccine-733151,Sinopharm (Beijing),China,CHN,2021-04-08,30000.0
-Nepal,NPL,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,Sinopharm (Beijing),China,CHN,2021-04-08,800000.0
-Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,200000.0
+Zimbabwe,ZWE,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,35000.0
+Egypt,EGY,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://apnews.com/article/health-care-reform-cairo-coronavirus-pandemic-health-covid-19-pandemic-62e56e073391f206479d4724693d53d0,Sinopharm (Beijing),China,CHN,2021-04-08,600000.0
 Nepal,NPL,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,100000.0
 Niger,NER,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,25000.0
-Egypt,EGY,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://apnews.com/article/health-care-reform-cairo-coronavirus-pandemic-health-covid-19-pandemic-62e56e073391f206479d4724693d53d0,Sinopharm (Beijing),China,CHN,2021-04-08,600000.0
-Syria,SYR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/health-coronavirus-vaccine-syria-int/china-says-it-will-send-150000-coronavirus-vaccines-to-syria-idUSKBN2A4243,Sinopharm (Beijing),China,CHN,2021-04-08,150000.0
-Zimbabwe,ZWE,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,35000.0
-Libya,LBY,Sputnik V,Gamaleya Research Institute,http://www.xinhuanet.com/english/africa/2021-04/05/c_139858648.htm,Gamaleya Research Institute,UAE,ARE,2021-04-08,101250.0
 Lebanon,LBN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/health-coronavirus-lebanon-china-int/china-to-give-lebanon-50000-covid-19-vaccine-doses-ambassador-idUSKBN2AT35Q,Sinopharm (Beijing),China,CHN,2021-04-08,50000.0
 Pakistan,PAK,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://twitter.com/AmbNong/status/1387258537894584324?s=20,Sinopharm (Beijing),China,CHN,2021-04-08,1500000.0
+Nauru,NRU,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,10000.0
+Libya,LBY,Sputnik V,Gamaleya Research Institute,http://www.xinhuanet.com/english/africa/2021-04/05/c_139858648.htm,Gamaleya Research Institute,UAE,ARE,2021-04-08,101250.0
+Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,200000.0
+Nepal,NPL,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,Sinopharm (Beijing),China,CHN,2021-04-08,800000.0
+Syria,SYR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/article/health-coronavirus-vaccine-syria-int/china-says-it-will-send-150000-coronavirus-vaccines-to-syria-idUSKBN2A4243,Sinopharm (Beijing),China,CHN,2021-04-08,150000.0
+Montenegro,MNE,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://seenews.com/news/montenegro-receives-30000-doses-of-chinas-covid-19-vaccine-733151,Sinopharm (Beijing),China,CHN,2021-04-08,30000.0
 Laos,LAO,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,Sinopharm (Beijing),China,CHN,2021-04-14,1102000.0
 Iraq,IRQ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.xinhuanet.com/english/2021-02/15/c_139744858.htm,Sinopharm (Beijing),China,CHN,2021-04-14,250000.0
 Libya,LBY,Coronavac,Sinovac,http://www.china.org.cn/world/Off_the_Wire/2021-04/15/content_77407450.htm,Sinovac,Turkey,TUR,2021-04-15,150000.0
 El Salvador,SLV,Coronavac,Sinovac,https://www.plenglish.com/index.php?o=rn&id=66076&SEO=el-salvador-president-thanks-china-for-coronavac-vaccine-donation,Sinovac,China,CHN,2021-04-15,150000.0
 Somalia,SOM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.xinhuanet.com/english/africa/2021-04/12/c_139873472.htm,Sinopharm (Beijing),China,CHN,2021-04-15,200000.0
-Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50838347/china-donates-400000-doses-of-sinopharm-vaccine-to-cambodia/,Sinopharm (Beijing),China,CHN,2021-04-15,400000.0
-Bangladesh,BGD,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-15,100000.0
-Jamaica,JAM,Covishield,Serum Institute of India,https://jis.gov.jm/75000-doses-of-astrazeneca-vaccine-arrived-yesterday/,Serum Institute of India,South Africa,ZAF,2021-04-15,75000.0
 Cameroon,CMR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.voanews.com/africa/cameroon-health-workers-doubt-efficacy-chinese-covid-vaccines,Sinopharm (Beijing),China,CHN,2021-04-15,200000.0
+Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50838347/china-donates-400000-doses-of-sinopharm-vaccine-to-cambodia/,Sinopharm (Beijing),China,CHN,2021-04-15,400000.0
 Trinidad,TTO,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-15,40000.0
+Jamaica,JAM,Covishield,Serum Institute of India,https://jis.gov.jm/75000-doses-of-astrazeneca-vaccine-arrived-yesterday/,Serum Institute of India,South Africa,ZAF,2021-04-15,75000.0
+Bangladesh,BGD,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-15,100000.0
 Guinea,GIN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/business/healthcare-pharmaceuticals/guinea-receives-purchase-300000-sinovac-covid-19-vaccines-2021-04-18/,Sinopharm (Beijing),China,CHN,2021-04-19,200000.0
 Bosnia,BIH,Coronavac,Sinovac,https://www.aa.com.tr/en/health/turkey-donates-10-000-more-vaccine-doses-to-bosnia/2212159,Sinovac,Turkey,TUR,2021-04-19,40000.0
-Equatorial Guinea,GNQ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.guineaecuatorialpress.com/noticia.php?id=17504&lang=en,Sinopharm (Beijing),China,CHN,2021-04-22,200000.0
 Bangladesh,BGD,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://bd.china-embassy.org/eng/zmjw/t1877706.htm,Sinopharm (Beijing),China,CHN,2021-04-22,500000.0
-Mauritius,MUS,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,Sinopharm (Beijing),China,CHN,2021-04-22,100000.0
 Albania,ALB,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-22,50000.0
-Kenya,KEN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-29,100000.0
+Mauritius,MUS,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,Sinopharm (Beijing),China,CHN,2021-04-22,100000.0
+Equatorial Guinea,GNQ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.guineaecuatorialpress.com/noticia.php?id=17504&lang=en,Sinopharm (Beijing),China,CHN,2021-04-22,200000.0
 Fiji,FJI,Vaxzevria,AstraZeneca,http://www.health.gov.fj/new-zealand-to-donate-250000-courses-of-covid-19-vaccines-to-fiji/,AstraZeneca,New Zealand,NZL,2021-04-29,500000.0
+Kenya,KEN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-29,100000.0
 Botswana,BWA,Coronavac,Sinovac,https://allafrica.com/stories/202104270467.html,Sinovac,China,CHN,2021-04-30,200000.0
 Togo,TGO,Coronavac,Sinovac,https://24heureinfo.com/sante/covid-19-la-chine-offre-200-000-doses-de-vaccin-sinovac-au-togo/,Sinovac,China,CHN,2021-05-03,200000.0
 Thailand,THA,Coronavac,Sinovac,https://www.reuters.com/article/health-coronavirus-thailand/update-1-thailand-to-receive-35-mln-more-doses-of-sinovac-vaccine-in-may-idUSL1N2MN0MA,Sinovac,China,CHN,2021-05-04,1000000.0
 Georgia,GEO,Sputnik V,Gamaleya Research Institute,https://abkhazworld.com/aw/current-affairs/1889-it-has-become-known-when-abkhazia-can-receive-the-sputnik-v-vaccine,Gamaleya Research Institute,Russia,RUS,2021-05-05,20000.0
 Iran,IRN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://en.irna.ir/news/84296785/400k-doses-of-Sinopharm-COVID-19-vaccine-arrives-in-Iran-Official,Sinopharm (Beijing),China,CHN,2021-05-05,400000.0
-Bolivia,BOL,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://twitter.com/LuchoXBolivia/status/1374699229311086604?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374699229311086604%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Felpais.bo%2Fnacional%2F20210328_avion-de-boa-partio-a-china-para-recoger-200-000-dosis-de-las-vacunas-sinopharm.html,Sinopharm (Beijing),China,CHN,2021-05-06,100000.0
 Gabon,GAB,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.lenouveaugabon.com/fr/sante/1303-16602-covid-19-le-gabon-accueille-les-100-000-doses-de-vaccin-du-chinois-sinopharm,Sinopharm (Beijing),China,CHN,2021-05-06,100000.0
-Timor-Leste,TLS,Vaxzevria,CSL,http://timor-leste.gov.tl/?p=28005&lang=en&lang=en,AstraZeneca,Australia,AUS,2021-05-06,30000.0
 Bosnia,BIH,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://news.cgtn.com/news/2021-04-30/China-donates-50-000-doses-of-COVID-19-vaccine-to-BiH-ZTcucfPxe0/index.html,Sinopharm (Beijing),China,CHN,2021-05-06,50000.0
+Timor-Leste,TLS,Vaxzevria,CSL,http://timor-leste.gov.tl/?p=28005&lang=en&lang=en,AstraZeneca,Australia,AUS,2021-05-06,30000.0
+Bolivia,BOL,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://twitter.com/LuchoXBolivia/status/1374699229311086604?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1374699229311086604%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Felpais.bo%2Fnacional%2F20210328_avion-de-boa-partio-a-china-para-recoger-200-000-dosis-de-las-vacunas-sinopharm.html,Sinopharm (Beijing),China,CHN,2021-05-06,100000.0
 Mongolia,MNG,Sputnik V,Gamaleya Research Institute,https://www.montsame.mn/en/read/262009,Gamaleya Research Institute,Russia,RUS,2021-05-13,300000.0
 Fiji,FJI,Vaxzevria,CSL,https://www.fijivillage.com/news/1-million-vaccines-to-come-from-Australia-and-500000-vaccines-to-come-from-NZ-xr58f4/,AstraZeneca,Australia,AUS,2021-05-17,1000000.0
 Senegal,SEN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://twitter.com/PR_Senegal/status/1393317332961923088,Sinopharm (Beijing),China,CHN,2021-05-17,300000.0
 South Korea,KOR,Ad26.COV 2.S,Janssen,http://koreabizwire.com/usfk-offers-to-provide-covid-19-vaccines-to-s-korea/189990,Janssen Pharmaceuticals,USA,USA,2021-05-17,13000.0
-Georgia,GEO,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,15000.0
-Moldova,MDA,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,11000.0
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,100000.0
-Belize,BLZ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.loopnewscaribbean.com/content/belize-use-donated-sinopharm-vaccine,Sinopharm (Beijing),UAE,ARE,2021-05-19,10000.0
 Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://www.portaldiplomatico.mne.gov.pt/en/communication-and-media/press-releases/portugal-provides-vaccines-against-covid-19-to-cape-verde,AstraZeneca,Portugal,PRT,2021-05-19,24000.0
+Belize,BLZ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.loopnewscaribbean.com/content/belize-use-donated-sinopharm-vaccine,Sinopharm (Beijing),UAE,ARE,2021-05-19,10000.0
+Georgia,GEO,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,15000.0
+Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,100000.0
+Moldova,MDA,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,11000.0
 Uganda,UGA,Coronavac,Sinovac,https://www.dwcug.org/chinas-donation-of-covid-19-vaccine-to-uganda-re-affirms-beijings-philosophy-of-a-shared-future-for-prosperity/,Sinovac,China,CHN,2021-05-20,300000.0
 Papua New Guinea,PNG,Vaxzevria,CSL,https://www.thenational.com.pg/meninga-backs-vaccine-rollout/,AstraZeneca,Australia,AUS,2021-05-24,10000.0
-Bangladesh,BGD,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://bd.china-embassy.org/eng/zmjw/t1877706.htm,Sinopharm (Beijing),China,CHN,2021-05-24,600000.0
 Trinidad,TTO,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://tt.loopnews.com/content/sinopharm-vaccines-arrive-trinidad-and-tobago,Sinopharm (Beijing),China,CHN,2021-05-24,100000.0
+Bangladesh,BGD,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://bd.china-embassy.org/eng/zmjw/t1877706.htm,Sinopharm (Beijing),China,CHN,2021-05-24,600000.0
 Belarus,BLR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://eng.belta.by/society/view/airlifter-with-300000-doses-of-covid-19-vaccine-leaves-beijing-for-belarus-139950-2021/,Sinopharm (Beijing),China,CHN,2021-05-24,300000.0
 Ecuador,ECU,Coronavac,Sinovac,https://www.globaltimes.cn/page/202105/1224608.shtml,Sinovac,China,CHN,2021-05-27,200000.0
 Nepal,NPL,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.reuters.com/business/healthcare-pharmaceuticals/china-gift-1-million-covid-19-vaccine-doses-nepal-2021-05-26/,Sinopharm (Beijing),China,CHN,2021-05-27,1000000.0
 Sri Lanka,LKA,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),http://www.colombopage.com/archive_21A/May19_1621446466CH.php,Sinopharm (Beijing),China,CHN,2021-05-27,500000.0
 South Korea,KOR,Ad26.COV 2.S,Janssen,http://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=161820,Janssen Pharmaceuticals,USA,USA,2021-06-02,1000000.0
-Chad,TCD,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://humangle.ng/china-donates-200000-doses-of-covid-19-vaccines-to-chad/,Sinopharm (Beijing),China,CHN,2021-06-03,200000.0
 Trinidad,TTO,Vaxzevria,AstraZeneca,https://foreign.gov.tt/resources/news/trinidad-and-tobago-receives-10000-covid-19-vaccines-grenada/,AstraZeneca/SK Bioscience,Grenada,GRD,2021-06-03,10000.0
 Trinidad,TTO,Vaxzevria,AstraZeneca,https://foreign.gov.tt/resources/news/trinidad-and-tobago-receives-9000-doses-who-approved-astrazeneca-covid-19-vaccines-bermuda/,AstraZeneca/SK Bioscience,Bermuda,BMU,2021-06-03,9000.0
+Chad,TCD,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://humangle.ng/china-donates-200000-doses-of-covid-19-vaccines-to-chad/,Sinopharm (Beijing),China,CHN,2021-06-03,200000.0
 Trinidad,TTO,Vaxzevria,AstraZeneca,https://newsday.co.tt/2021/05/20/st-vincent-bermuda-donate-covid19-vaccines-to-trinidad-and-tobago/,AstraZeneca/SK Bioscience,Saint Vincent,VCT,2021-06-03,16000.0
 Timor-Leste,TLS,Coronavac,Sinovac,https://www.wfp.org/news/wfp-helps-transport-covid-19-vaccine-donated-china-timor-leste,Sinovac,China,CHN,2021-06-07,100000.0
-Macedonia,MKD,Coronavac,Sinovac,https://www.aa.com.tr/en/europe/north-macedonia-receives-30-000-vaccine-doses-donated-by-turkey/2268553,Sinovac,Turkey,TUR,2021-06-09,30000.0
 Mozambique,MOZ,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.peacefmonline.com/pages/local/news/202106/446096.php,Sinopharm (Beijing),China,CHN,2021-06-09,60000.0
-Belarus,BLR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.belarus.by/en/press-center/humanitarian-cooperation/uae-donates-about-10000-covid-19-vaccine-doses-to-belarus_i_0000130808.html,Sinopharm (Beijing),UAE,ARE,2021-06-09,10000.0
 Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.voanews.com/covid-19-pandemic/japan-donates-more-1-million-astrazeneca-jabs-taiwan,AstraZeneca,Japan,JPN,2021-06-09,1240000.0
+Macedonia,MKD,Coronavac,Sinovac,https://www.aa.com.tr/en/europe/north-macedonia-receives-30-000-vaccine-doses-donated-by-turkey/2268553,Sinovac,Turkey,TUR,2021-06-09,30000.0
+Belarus,BLR,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.belarus.by/en/press-center/humanitarian-cooperation/uae-donates-about-10000-covid-19-vaccine-doses-to-belarus_i_0000130808.html,Sinopharm (Beijing),UAE,ARE,2021-06-09,10000.0
+Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50870323/cambodia-moves-closer-to-herd-immunity-with-receipt-of-one-million-doses-of-covid-19-vaccines/,Sinopharm (Beijing),China,CHN,2021-06-14,500000.0
 Solomon Islands,SLB,Vaxzevria,CSL,https://solomons.gov.sb/pm-welcomes-australias-offer-of-60000-doses-astrazeneca/,AstraZeneca,Australia,AUS,2021-06-14,60000.0
 Solomon Islands,SLB,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://solomons.gov.sb/transfer-certificate-for-the-50000-sinopharm-vaccines-signed/,Sinopharm (Beijing),China,CHN,2021-06-14,50000.0
---,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-zim-donates-sputnik-v-vaccines-to-zimbabwe/,Gamaleya Research Institute,Alrosa Group,IND,2021-06-14,50000.0
 Afghanistan,AFG,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.nytimes.com/2021/06/10/world/afghanistan-sinopharm-covid-vaccine.html,Sinopharm (Beijing),China,CHN,2021-06-14,700000.0
-Cambodia,KHM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.khmertimeskh.com/50870323/cambodia-moves-closer-to-herd-immunity-with-receipt-of-one-million-doses-of-covid-19-vaccines/,Sinopharm (Beijing),China,CHN,2021-06-14,500000.0
+--,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-zim-donates-sputnik-v-vaccines-to-zimbabwe/,Gamaleya Research Institute,Alrosa Group,IND,2021-06-14,50000.0
 Moldova,MDA,Vaxzevria,AstraZeneca,https://www.euneighbours.eu/en/east/stay-informed/news/moldova-receives-covid-19-vaccines-through-eu-civil-protection-mechanism,AstraZeneca,Romania,ROU,2021-06-14,100800.0
-Guinea,GIN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://twitter.com/shen_shiwei/status/1367277932272492547?s=20,Sinopharm (Beijing),China,CHN,2021-06-16,200000.0
---,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-together-with-russias-embassy-donated-sputnik-v-vaccines-to-angola/,Gamaleya Research Institute,Alrosa Group,CHN,2021-06-16,50000.0
 Djibouti,DJI,BBIBP-CorV,Sinovac,https://twitter.com/dpfza/status/1372529603588235267,Sinopharm (Beijing),China,CHN,2021-06-16,300000.0
+--,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-together-with-russias-embassy-donated-sputnik-v-vaccines-to-angola/,Gamaleya Research Institute,Alrosa Group,CHN,2021-06-16,50000.0
+Guinea,GIN,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://twitter.com/shen_shiwei/status/1367277932272492547?s=20,Sinopharm (Beijing),China,CHN,2021-06-16,200000.0
 Mauritania,MRT,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-18,105600.0
-Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/40-000-doses-of-virus-vaccine-arrives-in-ncyprus/2141569,Sinovac,Turkey,TUR,2021-06-20,40000.0
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,AstraZeneca,Romania,ROU,2021-06-20,108000.0
-Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2164568,Sinovac,Turkey,TUR,2021-06-20,20000.0
-Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-40-000-more-vaccine-doses-to-north-cyprus/2214127,Sinovac,Turkey,TUR,2021-06-20,40000.0
 Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2126160,Sinovac,Turkey,TUR,2021-06-20,20000.0
-Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-50-000-more-vaccine-doses-to-northern-cyprus/2267885,Sinovac,Turkey,TUR,2021-06-20,50000.0
-Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-26-000-addition-covid-19-vaccine-doses-to-northern-cyprus/2277728,Sinovac,Turkey,TUR,2021-06-20,26000.0
+Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-40-000-more-vaccine-doses-to-north-cyprus/2214127,Sinovac,Turkey,TUR,2021-06-20,40000.0
 Malaysia,MYS,Coronavac,Sinovac,https://www.reuters.com/world/asia-pacific/malaysia-says-china-contribute-500000-doses-sinovac-vaccines-2021-06-16/,Sinovac,China,CHN,2021-06-20,500000.0
+Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-50-000-more-vaccine-doses-to-northern-cyprus/2267885,Sinovac,Turkey,TUR,2021-06-20,50000.0
+Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/40-000-doses-of-virus-vaccine-arrives-in-ncyprus/2141569,Sinovac,Turkey,TUR,2021-06-20,40000.0
+Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2164568,Sinovac,Turkey,TUR,2021-06-20,20000.0
+Northern Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-26-000-addition-covid-19-vaccine-doses-to-northern-cyprus/2277728,Sinovac,Turkey,TUR,2021-06-20,26000.0
+Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,AstraZeneca,Romania,ROU,2021-06-20,108000.0
 Laos,LAO,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/06/15/laos-receives-500000-doses-of-sinopharm-vaccine-from-china,Sinopharm (Beijing),China,CHN,2021-06-21,500000.0
 Kenya,KEN,Vaxzevria,AstraZeneca,https://www.dr.dk/nyheder/udland/358700-danske-doser-astrazeneca-vaccine-skal-sendes-til-kenya,AstraZeneca,Denmark,DNK,2021-06-23,358700.0
 Viet Nam,VNM,BBIBP-CorV,Beijing Institute of Biological Products (CNBG),https://english.newstracklive.com/news/china-donated-500000-sinopharm-vaccine-doses-to-vietnam-sc57-nu318-ta318-1166689-1.html,Sinopharm (Beijing),China,CHN,2021-06-23,500000.0
 Viet Nam,VNM,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/8f512fecd4bf-breaking-news-japan-to-donate-1-mil-covid-19-vaccine-doses-to-vietnam-on-wed.html,AstraZeneca,Japan,JPN,2021-06-23,1000000.0
 Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.reuters.com/business/healthcare-pharmaceuticals/lithuania-donates-covid-19-vaccines-taiwan-2021-06-22/,AstraZeneca,Lithuania,LTU,2021-06-24,20000.0
 El Salvador,SLV,Vaxzevria,Laboratorios Liomont,https://www.reuters.com/world/americas/mexico-donate-400000-covid-19-vaccine-shots-central-america-2021-06-24/,AstraZeneca,Mexico,MEX,2021-06-24,100800.0
-Guatemala,GTM,Vaxzevria,Laboratorios Liomont,https://www.reuters.com/world/americas/mexico-donate-400000-covid-19-vaccine-shots-central-america-2021-06-24/,AstraZeneca,Mexico,MEX,2021-06-24,150000.0
 Honduras,HND,Vaxzevria,Laboratorios Liomont,https://www.reuters.com/world/americas/mexico-donate-154100-doses-astrazeneza-vaccine-honduras-2021-06-19/,AstraZeneca,Mexico,MEX,2021-06-24,154100.0
+Guatemala,GTM,Vaxzevria,Laboratorios Liomont,https://www.reuters.com/world/americas/mexico-donate-400000-covid-19-vaccine-shots-central-america-2021-06-24/,AstraZeneca,Mexico,MEX,2021-06-24,150000.0
+--,--,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,184800.0
 Timor-Leste,TLS,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,24000.0
-Eswatini,SWZ,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,14400.0
-Tuvalu,TUV,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,4800.0
-Fiji,FJI,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,2400.0
 Uganda,UGA,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,175200.0
 Taiwan,TWN,mRNA-1273,Moderna,https://www.reuters.com/business/healthcare-pharmaceuticals/exclusive-us-triples-vaccines-taiwan-with-25-million-dose-shipment-2021-06-19/,Moderna,USA,USA,2021-06-25,2500000.0
-Tonga,TON,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,4800.0
+Lesotho,LSO,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,36000.0
 Burkina Faso,BFA,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,115200.0
 Papua New Guinea,PNG,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,146400.0
---,--,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,184800.0
+Fiji,FJI,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,2400.0
+Tonga,TON,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,4800.0
+Tuvalu,TUV,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,4800.0
 Sao Tome and Principe,STP,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,24000.0
-Solomon Islands,SLB,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,28800.0
 Rwanda,RWA,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,117600.0
-Lesotho,LSO,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,36000.0
-Moldova,MDA,Sputnik V,Gamaleya Research Institute,https://en.news-front.info/2021/06/19/the-third-batch-of-the-russian-vaccine-sputnik-v-was-delivered-to-moldova/,Gamaleya Research Institute,Russia,RUS,2021-06-28,30000.0
-Viet Nam,VNM,Vaxzevria,Daiichi Sankyo Biotech Co.,https://www.straitstimes.com/asia/east-asia/japan-to-give-1-million-doses-of-covid-19-vaccine-each-to-taiwan-vietnam,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
-Pakistan,PAK,mRNA-1273,Moderna,https://independent.ng/us-sends-2m-pfizer-covid-19-vaccine-doses-to-peru/,Moderna,USA,USA,2021-06-28,2500000.0
-Malaysia,MYS,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
-Thailand,THA,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
+Solomon Islands,SLB,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,New Zealand,NZL,2021-06-25,28800.0
+Eswatini,SWZ,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-06-25,14400.0
 Philippines,PHL,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1124100.0
+Viet Nam,VNM,Vaxzevria,Daiichi Sankyo Biotech Co.,https://www.straitstimes.com/asia/east-asia/japan-to-give-1-million-doses-of-covid-19-vaccine-each-to-taiwan-vietnam,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
+Moldova,MDA,Sputnik V,Gamaleya Research Institute,https://en.news-front.info/2021/06/19/the-third-batch-of-the-russian-vaccine-sputnik-v-was-delivered-to-moldova/,Gamaleya Research Institute,Russia,RUS,2021-06-28,30000.0
+Thailand,THA,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
+Malaysia,MYS,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
 Indonesia,IDN,Vaxzevria,Daiichi Sankyo Biotech Co.,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1000000.0
 Jamaica,JAM,Vaxzevria,Laboratorios Liomont,http://jamaica-star.com/article/news/20210630/jamaica-receives-65000-doses-astrazeneca-vaccine-mexico,AstraZeneca,Mexico,MEX,2021-07-01,65000.0
-Bangladesh,BGD,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-06,2500000.0
-COVAX,CIV,Vaxzevria,AstraZeneca,https://www.reuters.com/business/healthcare-pharmaceuticals/swiss-give-4-mln-astrazeneca-shots-covax-keep-mrna-shots-domestic-use-2021-06-30/,AstraZeneca,Switzerland,CHE,2021-07-06,4000000.0
 Cabo Verde,CPV,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-06,31200.0
+COVAX,CIV,Vaxzevria,AstraZeneca,https://www.reuters.com/business/healthcare-pharmaceuticals/swiss-give-4-mln-astrazeneca-shots-covax-keep-mrna-shots-domestic-use-2021-06-30/,AstraZeneca,Switzerland,CHE,2021-07-06,4000000.0
+Bangladesh,BGD,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-06,2500000.0
 Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.cdc.gov.tw/En/Bulletin/Detail/CRhVW0MnumfWzkvE8IiaWw?typeid=158,AstraZeneca,Japan,JPN,2021-07-06,1130000.0
-African Union,AFG,Ad26.COV 2.S,Janssen,https://www.bloomberg.com/news/articles/2021-07-06/african-union-tells-members-it-has-15-million-vaccines-from-u-s,Janssen Pharmaceuticals,USA,USA,2021-07-09,5000000.0
 African Union,AFG,Comirnaty,Pfizer/BioNTech,https://www.bloomberg.com/news/articles/2021-07-06/african-union-tells-members-it-has-15-million-vaccines-from-u-s,Pfizer BioNTech,USA,USA,2021-07-09,10000000.0
+African Union,AFG,Ad26.COV 2.S,Janssen,https://www.bloomberg.com/news/articles/2021-07-06/african-union-tells-members-it-has-15-million-vaccines-from-u-s,Janssen Pharmaceuticals,USA,USA,2021-07-09,5000000.0
 Brazil,BRA,Ad26.COV 2.S,Janssen,https://br.usembassy.gov/the-united-states-donates-3-million-doses-of-johnson-johnson-vaccine-to-brazil/,Janssen Pharmaceuticals,USA,USA,2021-07-11,3000000.0
-Bhutan,BTN,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-12,500000.0
-Viet Nam,VNM,mRNA-1273,Moderna,"https://www.who.int/vietnam/news/detail/10-07-2021-viet-nam-receives-2-million-doses-of-covid-19-vaccines-donated-by-usa-through-the-covax-facility#:~:text=the%20COVAX%20Facility-,Viet%20Nam%20receives%202%20million%20doses%20of%20COVID%2D19%20Vaccines,USA%20through%20the%20COVAX%20Facility&text=Hanoi%2C%2010%20July%202021%20%E2%80%93%20Viet,by%20the%20United%20States%20Government.",Moderna,USA,USA,2021-07-12,2000040.0
+Trinidad,TTO,Comirnaty,Pfizer/BioNTech,https://www.reuters.com/business/healthcare-pharmaceuticals/chinese-media-mocks-us-donation-80-vaccine-vials-trinidad-tobago-2021-06-16/,Pfizer BioNTech,USA,USA,2021-07-12,480.0
+Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/us-donation-of-one-million-pfizer-covid-19-vaccines-arrives-in-malaysia,Pfizer BioNTech,USA,USA,2021-07-12,1000000.0
+Peru,PER,Comirnaty,Pfizer/BioNTech,https://andina.pe/ingles/noticia-peru-receives-over-1-million-of-pfizer-vaccine-doses-donated-by-us-851223.aspx,Pfizer BioNTech,USA,USA,2021-07-12,2000000.0
+Pakistan,PAK,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-12,2500000.0
 Mozambique,MOZ,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-12,108000.0
-Nepal,NPL,Ad26.COV 2.S,Janssen,https://www.wionews.com/south-asia/united-states-donates-153-million-johnson-johnson-vaccines-to-nepal-397680,Janssen Pharmaceuticals,USA,USA,2021-07-12,1530000.0
-Bosnia,BIH,Comirnaty,Pfizer/BioNTech,https://ba.n1info.com/english/news/us-sending-half-a-million-pfizer-doses-to-bosnia/,Pfizer BioNTech,USA,USA,2021-07-12,500000.0
+Bhutan,BTN,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-12,500000.0
+Kenya,KEN,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-12,182400.0
 Indonesia,IDN,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-12,3000060.0
+Bosnia,BIH,Comirnaty,Pfizer/BioNTech,https://ba.n1info.com/english/news/us-sending-half-a-million-pfizer-doses-to-bosnia/,Pfizer BioNTech,USA,USA,2021-07-12,500000.0
 Canada,CAN,mRNA-1273,Moderna,https://ca.usembassy.gov/the-united-states-donates-one-million-covid-19-vaccine-doses-to-canada/,Moderna,USA,USA,2021-07-12,1000000.0
 Colombia,COL,Ad26.COV 2.S,Janssen,"https://www.reuters.com/business/healthcare-pharmaceuticals/colombia-says-get-25-mln-janssen-covid-shot-donation-us-2021-06-28/#:~:text=Colombia%20says%20to%20get%202.5%20mln%20Janssen%20COVID%20shot%20donation%20from%20U.S.,-Reuters&text=BOGOTA%2C%20June%2028%20(Reuters),of%20Johnson%20%26%20Johnson%20(JNJ.",Janssen Pharmaceuticals,USA,USA,2021-07-12,2500000.0
-Trinidad,TTO,Comirnaty,Pfizer/BioNTech,https://www.reuters.com/business/healthcare-pharmaceuticals/chinese-media-mocks-us-donation-80-vaccine-vials-trinidad-tobago-2021-06-16/,Pfizer BioNTech,USA,USA,2021-07-12,480.0
 Somalia,SOM,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-12,108000.0
-Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/us-donation-of-one-million-pfizer-covid-19-vaccines-arrives-in-malaysia,Pfizer BioNTech,USA,USA,2021-07-12,1000000.0
-Kenya,KEN,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-12,182400.0
-Peru,PER,Comirnaty,Pfizer/BioNTech,https://andina.pe/ingles/noticia-peru-receives-over-1-million-of-pfizer-vaccine-doses-donated-by-us-851223.aspx,Pfizer BioNTech,USA,USA,2021-07-12,2000000.0
-Afghanistan,AFG,Ad26.COV 2.S,Janssen,https://www.unicef.org/press-releases/14-million-doses-covid-19-vaccine-arrive-afghanistan-through-covax-global-dose,Janssen Pharmaceuticals,USA,USA,2021-07-12,3300000.0
-El Salvador,SLV,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-13,1500100.0
 Zambia,ZMB,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-13,228000.0
 Bolivia,BOL,Ad26.COV 2.S,Janssen,UNICEF,Janssen Pharmaceuticals,USA,USA,2021-07-13,1008000.0
+El Salvador,SLV,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-13,1500100.0
+Viet Nam,VNM,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-16,2000040.0
+Haiti,HTI,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-16,500000.0
+Honduras,HND,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-16,1500000.0
+Indonesia,IDN,mRNA-1273,Moderna,UNICEF,Moderna,USA,USA,2021-07-16,1500100.0
+Moldova,MDA,Ad26.COV 2.S,Janssen,UNICEF,Janssen Pharmaceuticals,USA,USA,2021-07-16,151200.0
+Bangladesh,BGD,Vaxzevria,Daiichi Sankyo Biotech Co.,https://twitter.com/ito_naoki/status/1414852755353595904?ref_src=twsrc%5Etfw,AstraZeneca,Japan,JPN,2021-07-16,2900000.0
+Afghanistan,AFG,Ad26.COV 2.S,Janssen,UNICEF,Janssen Pharmaceuticals,USA,USA,2021-07-16,1484900.0
+Nepal,NPL,Ad26.COV 2.S,Janssen,UNICEF,Janssen Pharmaceuticals,USA,USA,2021-07-16,1534850.0
+Afghanistan,AFG,Ad26.COV 2.S,Janssen,UNICEF,Janssen Pharmaceuticals,USA,USA,2021-07-16,1463900.0
+Ethiopia,ETH,Vaxzevria,AstraZeneca,UNICEF,AstraZeneca,France,FRA,2021-07-16,391200.0
+Afghanistan,AFG,Ad26.COV 2.S,Janssen,UNICEF,Janssen Pharmaceuticals,USA,USA,2021-07-16,363250.0
