@@ -1,0 +1,541 @@
+fecha,casos,departamento,cantidad
+2021-07-11,casos_activos,beni,3595
+2021-07-11,casos_activos,chuquisaca,8519
+2021-07-11,casos_activos,cochabamba,5102
+2021-07-11,casos_activos,la paz,19698
+2021-07-11,casos_activos,oruro,9410
+2021-07-11,casos_activos,pando,2333
+2021-07-11,casos_activos,potosi,1583
+2021-07-11,casos_activos,santa cruz,7359
+2021-07-11,casos_activos,tarija,7392
+2021-07-11,casos_acumulados,beni,19932
+2021-07-11,casos_acumulados,chuquisaca,28314
+2021-07-11,casos_acumulados,cochabamba,67524
+2021-07-11,casos_acumulados,la paz,94314
+2021-07-11,casos_acumulados,oruro,22802
+2021-07-11,casos_acumulados,pando,6692
+2021-07-11,casos_acumulados,potosi,21198
+2021-07-11,casos_acumulados,santa cruz,158838
+2021-07-11,casos_acumulados,tarija,34627
+2021-07-11,casos_nuevos,beni,7
+2021-07-11,casos_nuevos,chuquisaca,74
+2021-07-11,casos_nuevos,cochabamba,92
+2021-07-11,casos_nuevos,la paz,119
+2021-07-11,casos_nuevos,oruro,28
+2021-07-11,casos_nuevos,pando,1
+2021-07-11,casos_nuevos,potosi,43
+2021-07-11,casos_nuevos,santa cruz,258
+2021-07-11,casos_nuevos,tarija,24
+2021-07-11,decesos_acumulados,beni,8630
+2021-07-11,decesos_acumulados,chuquisaca,1225
+2021-07-11,decesos_acumulados,cochabamba,2619
+2021-07-11,decesos_acumulados,la paz,2383
+2021-07-11,decesos_acumulados,oruro,1228
+2021-07-11,decesos_acumulados,pando,3160
+2021-07-11,decesos_acumulados,potosi,7460
+2021-07-11,decesos_acumulados,santa cruz,6954
+2021-07-11,decesos_acumulados,tarija,8850
+2021-07-11,decesos_nuevos,beni,0
+2021-07-11,decesos_nuevos,chuquisaca,1
+2021-07-11,decesos_nuevos,cochabamba,6
+2021-07-11,decesos_nuevos,la paz,6
+2021-07-11,decesos_nuevos,oruro,2
+2021-07-11,decesos_nuevos,pando,0
+2021-07-11,decesos_nuevos,potosi,0
+2021-07-11,decesos_nuevos,santa cruz,2
+2021-07-11,decesos_nuevos,tarija,2
+2021-07-11,recuperados_acumulados,beni,15474
+2021-07-11,recuperados_acumulados,chuquisaca,1857
+2021-07-11,recuperados_acumulados,cochabamba,59803
+2021-07-11,recuperados_acumulados,la paz,72233
+2021-07-11,recuperados_acumulados,oruro,20633
+2021-07-11,recuperados_acumulados,pando,4043
+2021-07-11,recuperados_acumulados,potosi,18869
+2021-07-11,recuperados_acumulados,santa cruz,144525
+2021-07-11,recuperados_acumulados,tarija,2635
+2021-07-12,casos_activos,beni,343
+2021-07-12,casos_activos,chuquisaca,8471
+2021-07-12,casos_activos,cochabamba,512
+2021-07-12,casos_activos,la paz,1949
+2021-07-12,casos_activos,oruro,1042
+2021-07-12,casos_activos,pando,2346
+2021-07-12,casos_activos,potosi,1547
+2021-07-12,casos_activos,santa cruz,7348
+2021-07-12,casos_activos,tarija,7447
+2021-07-12,casos_acumulados,beni,19943
+2021-07-12,casos_acumulados,chuquisaca,28438
+2021-07-12,casos_acumulados,cochabamba,67735
+2021-07-12,casos_acumulados,la paz,9436
+2021-07-12,casos_acumulados,oruro,22909
+2021-07-12,casos_acumulados,pando,6707
+2021-07-12,casos_acumulados,potosi,21242
+2021-07-12,casos_acumulados,santa cruz,159351
+2021-07-12,casos_acumulados,tarija,34751
+2021-07-12,casos_nuevos,beni,110
+2021-07-12,casos_nuevos,chuquisaca,1240
+2021-07-12,casos_nuevos,cochabamba,2110
+2021-07-12,casos_nuevos,la paz,460
+2021-07-12,casos_nuevos,oruro,1070
+2021-07-12,casos_nuevos,pando,150
+2021-07-12,casos_nuevos,potosi,440
+2021-07-12,casos_nuevos,santa cruz,5130
+2021-07-12,casos_nuevos,tarija,1240
+2021-07-12,decesos_acumulados,beni,8640
+2021-07-12,decesos_acumulados,chuquisaca,1231
+2021-07-12,decesos_acumulados,cochabamba,2624
+2021-07-12,decesos_acumulados,la paz,2385
+2021-07-12,decesos_acumulados,oruro,1232
+2021-07-12,decesos_acumulados,pando,3160
+2021-07-12,decesos_acumulados,potosi,7500
+2021-07-12,decesos_acumulados,santa cruz,6958
+2021-07-12,decesos_acumulados,tarija,8900
+2021-07-12,decesos_nuevos,beni,1
+2021-07-12,decesos_nuevos,chuquisaca,6
+2021-07-12,decesos_nuevos,cochabamba,5
+2021-07-12,decesos_nuevos,la paz,2
+2021-07-12,decesos_nuevos,oruro,4
+2021-07-12,decesos_nuevos,pando,0
+2021-07-12,decesos_nuevos,potosi,4
+2021-07-12,decesos_nuevos,santa cruz,4
+2021-07-12,decesos_nuevos,tarija,5
+2021-07-12,recuperados_acumulados,beni,15649
+2021-07-12,recuperados_acumulados,chuquisaca,18736
+2021-07-12,recuperados_acumulados,cochabamba,59991
+2021-07-12,recuperados_acumulados,la paz,72485
+2021-07-12,recuperados_acumulados,oruro,20635
+2021-07-12,recuperados_acumulados,pando,4045
+2021-07-12,recuperados_acumulados,potosi,18945
+2021-07-12,recuperados_acumulados,santa cruz,145045
+2021-07-12,recuperados_acumulados,tarija,26414
+2021-07-13,casos_activos,beni,3221
+2021-07-13,casos_activos,chuquisaca,8496
+2021-07-13,casos_activos,cochabamba,4931
+2021-07-13,casos_activos,la paz,19378
+2021-07-13,casos_activos,oruro,1062
+2021-07-13,casos_activos,pando,2353
+2021-07-13,casos_activos,potosi,1546
+2021-07-13,casos_activos,santa cruz,7573
+2021-07-13,casos_activos,tarija,7527
+2021-07-13,casos_acumulados,beni,19965
+2021-07-13,casos_acumulados,chuquisaca,28611
+2021-07-13,casos_acumulados,cochabamba,67936
+2021-07-13,casos_acumulados,la paz,945
+2021-07-13,casos_acumulados,oruro,22958
+2021-07-13,casos_acumulados,pando,6717
+2021-07-13,casos_acumulados,potosi,21325
+2021-07-13,casos_acumulados,santa cruz,159887
+2021-07-13,casos_acumulados,tarija,34916
+2021-07-13,casos_nuevos,beni,220
+2021-07-13,casos_nuevos,chuquisaca,1730
+2021-07-13,casos_nuevos,cochabamba,2010
+2021-07-13,casos_nuevos,la paz,1400
+2021-07-13,casos_nuevos,oruro,490
+2021-07-13,casos_nuevos,pando,100
+2021-07-13,casos_nuevos,potosi,830
+2021-07-13,casos_nuevos,santa cruz,5360
+2021-07-13,casos_nuevos,tarija,1650
+2021-07-13,decesos_acumulados,beni,8660
+2021-07-13,decesos_acumulados,chuquisaca,1237
+2021-07-13,decesos_acumulados,cochabamba,2624
+2021-07-13,decesos_acumulados,la paz,2388
+2021-07-13,decesos_acumulados,oruro,1235
+2021-07-13,decesos_acumulados,pando,3160
+2021-07-13,decesos_acumulados,potosi,7560
+2021-07-13,decesos_acumulados,santa cruz,697
+2021-07-13,decesos_acumulados,tarija,8950
+2021-07-13,decesos_nuevos,beni,2
+2021-07-13,decesos_nuevos,chuquisaca,6
+2021-07-13,decesos_nuevos,cochabamba,0
+2021-07-13,decesos_nuevos,la paz,3
+2021-07-13,decesos_nuevos,oruro,3
+2021-07-13,decesos_nuevos,pando,0
+2021-07-13,decesos_nuevos,potosi,6
+2021-07-13,decesos_nuevos,santa cruz,12
+2021-07-13,decesos_nuevos,tarija,5
+2021-07-13,recuperados_acumulados,beni,15878
+2021-07-13,recuperados_acumulados,chuquisaca,18878
+2021-07-13,recuperados_acumulados,cochabamba,60381
+2021-07-13,recuperados_acumulados,la paz,72734
+2021-07-13,recuperados_acumulados,oruro,20661
+2021-07-13,recuperados_acumulados,pando,4048
+2021-07-13,recuperados_acumulados,potosi,19023
+2021-07-13,recuperados_acumulados,santa cruz,145344
+2021-07-13,recuperados_acumulados,tarija,26494
+2021-07-14,casos_activos,beni,3094
+2021-07-14,casos_activos,chuquisaca,8504
+2021-07-14,casos_activos,cochabamba,469
+2021-07-14,casos_activos,la paz,1932
+2021-07-14,casos_activos,oruro,1054
+2021-07-14,casos_activos,pando,2358
+2021-07-14,casos_activos,potosi,1559
+2021-07-14,casos_activos,santa cruz,7822
+2021-07-14,casos_activos,tarija,759
+2021-07-14,casos_acumulados,beni,20019
+2021-07-14,casos_acumulados,chuquisaca,28787
+2021-07-14,casos_acumulados,cochabamba,68175
+2021-07-14,casos_acumulados,la paz,94658
+2021-07-14,casos_acumulados,oruro,22986
+2021-07-14,casos_acumulados,pando,6724
+2021-07-14,casos_acumulados,potosi,21419
+2021-07-14,casos_acumulados,santa cruz,160383
+2021-07-14,casos_acumulados,tarija,35061
+2021-07-14,casos_nuevos,beni,540
+2021-07-14,casos_nuevos,chuquisaca,1760
+2021-07-14,casos_nuevos,cochabamba,2390
+2021-07-14,casos_nuevos,la paz,1580
+2021-07-14,casos_nuevos,oruro,280
+2021-07-14,casos_nuevos,pando,70
+2021-07-14,casos_nuevos,potosi,940
+2021-07-14,casos_nuevos,santa cruz,4960
+2021-07-14,casos_nuevos,tarija,1450
+2021-07-14,decesos_acumulados,beni,8660
+2021-07-14,decesos_acumulados,chuquisaca,1239
+2021-07-14,decesos_acumulados,cochabamba,2635
+2021-07-14,decesos_acumulados,la paz,2393
+2021-07-14,decesos_acumulados,oruro,1236
+2021-07-14,decesos_acumulados,pando,3170
+2021-07-14,decesos_acumulados,potosi,7570
+2021-07-14,decesos_acumulados,santa cruz,7004
+2021-07-14,decesos_acumulados,tarija,8980
+2021-07-14,decesos_nuevos,beni,0
+2021-07-14,decesos_nuevos,chuquisaca,2
+2021-07-14,decesos_nuevos,cochabamba,11
+2021-07-14,decesos_nuevos,la paz,5
+2021-07-14,decesos_nuevos,oruro,1
+2021-07-14,decesos_nuevos,pando,1
+2021-07-14,decesos_nuevos,potosi,1
+2021-07-14,decesos_nuevos,santa cruz,34
+2021-07-14,decesos_nuevos,tarija,3
+2021-07-14,recuperados_acumulados,beni,16059
+2021-07-14,recuperados_acumulados,chuquisaca,19044
+2021-07-14,recuperados_acumulados,cochabamba,6085
+2021-07-14,recuperados_acumulados,la paz,72945
+2021-07-14,recuperados_acumulados,oruro,20696
+2021-07-14,recuperados_acumulados,pando,4049
+2021-07-14,recuperados_acumulados,potosi,19103
+2021-07-14,recuperados_acumulados,santa cruz,145557
+2021-07-14,recuperados_acumulados,tarija,26573
+2021-07-15,casos_activos,beni,2953
+2021-07-15,casos_activos,chuquisaca,8512
+2021-07-15,casos_activos,cochabamba,4443
+2021-07-15,casos_activos,la paz,19269
+2021-07-15,casos_activos,oruro,105
+2021-07-15,casos_activos,pando,2367
+2021-07-15,casos_activos,potosi,1571
+2021-07-15,casos_activos,santa cruz,7818
+2021-07-15,casos_activos,tarija,763
+2021-07-15,casos_acumulados,beni,20033
+2021-07-15,casos_acumulados,chuquisaca,28976
+2021-07-15,casos_acumulados,cochabamba,68417
+2021-07-15,casos_acumulados,la paz,94846
+2021-07-15,casos_acumulados,oruro,23019
+2021-07-15,casos_acumulados,pando,6733
+2021-07-15,casos_acumulados,potosi,21473
+2021-07-15,casos_acumulados,santa cruz,160907
+2021-07-15,casos_acumulados,tarija,35175
+2021-07-15,casos_nuevos,beni,140
+2021-07-15,casos_nuevos,chuquisaca,1890
+2021-07-15,casos_nuevos,cochabamba,2420
+2021-07-15,casos_nuevos,la paz,1880
+2021-07-15,casos_nuevos,oruro,330
+2021-07-15,casos_nuevos,pando,90
+2021-07-15,casos_nuevos,potosi,540
+2021-07-15,casos_nuevos,santa cruz,5240
+2021-07-15,casos_nuevos,tarija,1140
+2021-07-15,decesos_acumulados,beni,8670
+2021-07-15,decesos_acumulados,chuquisaca,1241
+2021-07-15,decesos_acumulados,cochabamba,2643
+2021-07-15,decesos_acumulados,la paz,2397
+2021-07-15,decesos_acumulados,oruro,1238
+2021-07-15,decesos_acumulados,pando,3170
+2021-07-15,decesos_acumulados,potosi,7610
+2021-07-15,decesos_acumulados,santa cruz,701
+2021-07-15,decesos_acumulados,tarija,9010
+2021-07-15,decesos_nuevos,beni,1
+2021-07-15,decesos_nuevos,chuquisaca,2
+2021-07-15,decesos_nuevos,cochabamba,8
+2021-07-15,decesos_nuevos,la paz,4
+2021-07-15,decesos_nuevos,oruro,2
+2021-07-15,decesos_nuevos,pando,0
+2021-07-15,decesos_nuevos,potosi,4
+2021-07-15,decesos_nuevos,santa cruz,6
+2021-07-15,decesos_nuevos,tarija,3
+2021-07-15,recuperados_acumulados,beni,16213
+2021-07-15,recuperados_acumulados,chuquisaca,19223
+2021-07-15,recuperados_acumulados,cochabamba,61331
+2021-07-15,recuperados_acumulados,la paz,7318
+2021-07-15,recuperados_acumulados,oruro,20731
+2021-07-15,recuperados_acumulados,pando,4049
+2021-07-15,recuperados_acumulados,potosi,19141
+2021-07-15,recuperados_acumulados,santa cruz,146079
+2021-07-15,recuperados_acumulados,tarija,26644
+2021-07-16,casos_activos,beni,2971
+2021-07-16,casos_activos,chuquisaca,8512
+2021-07-16,casos_activos,cochabamba,4311
+2021-07-16,casos_activos,la paz,19297
+2021-07-16,casos_activos,oruro,1059
+2021-07-16,casos_activos,pando,2369
+2021-07-16,casos_activos,potosi,1603
+2021-07-16,casos_activos,santa cruz,7638
+2021-07-16,casos_activos,tarija,7673
+2021-07-16,casos_acumulados,beni,20051
+2021-07-16,casos_acumulados,chuquisaca,29093
+2021-07-16,casos_acumulados,cochabamba,68693
+2021-07-16,casos_acumulados,la paz,95070
+2021-07-16,casos_acumulados,oruro,23052
+2021-07-16,casos_acumulados,pando,6735
+2021-07-16,casos_acumulados,potosi,21550
+2021-07-16,casos_acumulados,santa cruz,161285
+2021-07-16,casos_acumulados,tarija,35289
+2021-07-16,casos_nuevos,beni,18
+2021-07-16,casos_nuevos,chuquisaca,117
+2021-07-16,casos_nuevos,cochabamba,276
+2021-07-16,casos_nuevos,la paz,224
+2021-07-16,casos_nuevos,oruro,33
+2021-07-16,casos_nuevos,pando,2
+2021-07-16,casos_nuevos,potosi,77
+2021-07-16,casos_nuevos,santa cruz,378
+2021-07-16,casos_nuevos,tarija,114
+2021-07-16,decesos_acumulados,beni,867
+2021-07-16,decesos_acumulados,chuquisaca,1244
+2021-07-16,decesos_acumulados,cochabamba,2644
+2021-07-16,decesos_acumulados,la paz,2401
+2021-07-16,decesos_acumulados,oruro,1240
+2021-07-16,decesos_acumulados,pando,317
+2021-07-16,decesos_acumulados,potosi,762
+2021-07-16,decesos_acumulados,santa cruz,7026
+2021-07-16,decesos_acumulados,tarija,905
+2021-07-16,decesos_nuevos,beni,0
+2021-07-16,decesos_nuevos,chuquisaca,3
+2021-07-16,decesos_nuevos,cochabamba,1
+2021-07-16,decesos_nuevos,la paz,4
+2021-07-16,decesos_nuevos,oruro,2
+2021-07-16,decesos_nuevos,pando,0
+2021-07-16,decesos_nuevos,potosi,1
+2021-07-16,decesos_nuevos,santa cruz,16
+2021-07-16,decesos_nuevos,tarija,4
+2021-07-16,recuperados_acumulados,beni,16213
+2021-07-16,recuperados_acumulados,chuquisaca,19337
+2021-07-16,recuperados_acumulados,cochabamba,61738
+2021-07-16,recuperados_acumulados,la paz,73372
+2021-07-16,recuperados_acumulados,oruro,20753
+2021-07-16,recuperados_acumulados,pando,4049
+2021-07-16,recuperados_acumulados,potosi,19185
+2021-07-16,recuperados_acumulados,santa cruz,146621
+2021-07-16,recuperados_acumulados,tarija,26711
+2021-07-17,casos_activos,beni,2990
+2021-07-17,casos_activos,chuquisaca,8527
+2021-07-17,casos_activos,cochabamba,4081
+2021-07-17,casos_activos,la paz,19395
+2021-07-17,casos_activos,oruro,1057
+2021-07-17,casos_activos,pando,2370
+2021-07-17,casos_activos,potosi,1569
+2021-07-17,casos_activos,santa cruz,7389
+2021-07-17,casos_activos,tarija,7723
+2021-07-17,casos_acumulados,beni,20073
+2021-07-17,casos_acumulados,chuquisaca,29234
+2021-07-17,casos_acumulados,cochabamba,68862
+2021-07-17,casos_acumulados,la paz,95260
+2021-07-17,casos_acumulados,oruro,23079
+2021-07-17,casos_acumulados,pando,6737
+2021-07-17,casos_acumulados,potosi,21601
+2021-07-17,casos_acumulados,santa cruz,161526
+2021-07-17,casos_acumulados,tarija,35342
+2021-07-17,casos_nuevos,beni,22
+2021-07-17,casos_nuevos,chuquisaca,141
+2021-07-17,casos_nuevos,cochabamba,169
+2021-07-17,casos_nuevos,la paz,190
+2021-07-17,casos_nuevos,oruro,27
+2021-07-17,casos_nuevos,pando,2
+2021-07-17,casos_nuevos,potosi,51
+2021-07-17,casos_nuevos,santa cruz,241
+2021-07-17,casos_nuevos,tarija,53
+2021-07-17,decesos_acumulados,beni,870
+2021-07-17,decesos_acumulados,chuquisaca,1247
+2021-07-17,decesos_acumulados,cochabamba,2647
+2021-07-17,decesos_acumulados,la paz,2402
+2021-07-17,decesos_acumulados,oruro,1241
+2021-07-17,decesos_acumulados,pando,317
+2021-07-17,decesos_acumulados,potosi,764
+2021-07-17,decesos_acumulados,santa cruz,7048
+2021-07-17,decesos_acumulados,tarija,907
+2021-07-17,decesos_nuevos,beni,3
+2021-07-17,decesos_nuevos,chuquisaca,3
+2021-07-17,decesos_nuevos,cochabamba,3
+2021-07-17,decesos_nuevos,la paz,1
+2021-07-17,decesos_nuevos,oruro,1
+2021-07-17,decesos_nuevos,pando,0
+2021-07-17,decesos_nuevos,potosi,2
+2021-07-17,decesos_nuevos,santa cruz,22
+2021-07-17,decesos_nuevos,tarija,2
+2021-07-17,recuperados_acumulados,beni,16213
+2021-07-17,recuperados_acumulados,chuquisaca,19460
+2021-07-17,recuperados_acumulados,cochabamba,62134
+2021-07-17,recuperados_acumulados,la paz,73463
+2021-07-17,recuperados_acumulados,oruro,20781
+2021-07-17,recuperados_acumulados,pando,4050
+2021-07-17,recuperados_acumulados,potosi,19268
+2021-07-17,recuperados_acumulados,santa cruz,147089
+2021-07-17,recuperados_acumulados,tarija,26712
+2021-07-18,casos_activos,beni,2998
+2021-07-18,casos_activos,chuquisaca,8479
+2021-07-18,casos_activos,cochabamba,3885
+2021-07-18,casos_activos,la paz,19276
+2021-07-18,casos_activos,oruro,6780
+2021-07-18,casos_activos,pando,2371
+2021-07-18,casos_activos,potosi,1574
+2021-07-18,casos_activos,santa cruz,6957
+2021-07-18,casos_activos,tarija,7733
+2021-07-18,casos_acumulados,beni,20082
+2021-07-18,casos_acumulados,chuquisaca,29319
+2021-07-18,casos_acumulados,cochabamba,6893
+2021-07-18,casos_acumulados,la paz,95308
+2021-07-18,casos_acumulados,oruro,23125
+2021-07-18,casos_acumulados,pando,6738
+2021-07-18,casos_acumulados,potosi,21632
+2021-07-18,casos_acumulados,santa cruz,161662
+2021-07-18,casos_acumulados,tarija,35358
+2021-07-18,casos_nuevos,beni,9
+2021-07-18,casos_nuevos,chuquisaca,85
+2021-07-18,casos_nuevos,cochabamba,68
+2021-07-18,casos_nuevos,la paz,48
+2021-07-18,casos_nuevos,oruro,46
+2021-07-18,casos_nuevos,pando,1
+2021-07-18,casos_nuevos,potosi,31
+2021-07-18,casos_nuevos,santa cruz,136
+2021-07-18,casos_nuevos,tarija,16
+2021-07-18,decesos_acumulados,beni,8700
+2021-07-18,decesos_acumulados,chuquisaca,1252
+2021-07-18,decesos_acumulados,cochabamba,265
+2021-07-18,decesos_acumulados,la paz,2404
+2021-07-18,decesos_acumulados,oruro,1241
+2021-07-18,decesos_acumulados,pando,3170
+2021-07-18,decesos_acumulados,potosi,7650
+2021-07-18,decesos_acumulados,santa cruz,705
+2021-07-18,decesos_acumulados,tarija,9090
+2021-07-18,decesos_nuevos,beni,0
+2021-07-18,decesos_nuevos,chuquisaca,5
+2021-07-18,decesos_nuevos,cochabamba,3
+2021-07-18,decesos_nuevos,la paz,2
+2021-07-18,decesos_nuevos,oruro,0
+2021-07-18,decesos_nuevos,pando,0
+2021-07-18,decesos_nuevos,potosi,1
+2021-07-18,decesos_nuevos,santa cruz,2
+2021-07-18,decesos_nuevos,tarija,2
+2021-07-18,recuperados_acumulados,beni,16214
+2021-07-18,recuperados_acumulados,chuquisaca,19588
+2021-07-18,recuperados_acumulados,cochabamba,62395
+2021-07-18,recuperados_acumulados,la paz,73628
+2021-07-18,recuperados_acumulados,oruro,21206
+2021-07-18,recuperados_acumulados,pando,405
+2021-07-18,recuperados_acumulados,potosi,19293
+2021-07-18,recuperados_acumulados,santa cruz,147655
+2021-07-18,recuperados_acumulados,tarija,26716
+2021-07-19,casos_activos,beni,28
+2021-07-19,casos_activos,chuquisaca,8483
+2021-07-19,casos_activos,cochabamba,3725
+2021-07-19,casos_activos,la paz,19136
+2021-07-19,casos_activos,oruro,6850
+2021-07-19,casos_activos,pando,2211
+2021-07-19,casos_activos,potosi,1563
+2021-07-19,casos_activos,santa cruz,6781
+2021-07-19,casos_activos,tarija,7718
+2021-07-19,casos_acumulados,beni,20087
+2021-07-19,casos_acumulados,chuquisaca,29466
+2021-07-19,casos_acumulados,cochabamba,69128
+2021-07-19,casos_acumulados,la paz,95345
+2021-07-19,casos_acumulados,oruro,23133
+2021-07-19,casos_acumulados,pando,674
+2021-07-19,casos_acumulados,potosi,21662
+2021-07-19,casos_acumulados,santa cruz,162058
+2021-07-19,casos_acumulados,tarija,35506
+2021-07-19,casos_nuevos,beni,5
+2021-07-19,casos_nuevos,chuquisaca,147
+2021-07-19,casos_nuevos,cochabamba,198
+2021-07-19,casos_nuevos,la paz,37
+2021-07-19,casos_nuevos,oruro,8
+2021-07-19,casos_nuevos,pando,2
+2021-07-19,casos_nuevos,potosi,30
+2021-07-19,casos_nuevos,santa cruz,396
+2021-07-19,casos_nuevos,tarija,148
+2021-07-19,decesos_acumulados,beni,8720
+2021-07-19,decesos_acumulados,chuquisaca,1255
+2021-07-19,decesos_acumulados,cochabamba,2655
+2021-07-19,decesos_acumulados,la paz,2406
+2021-07-19,decesos_acumulados,oruro,1242
+2021-07-19,decesos_acumulados,pando,3170
+2021-07-19,decesos_acumulados,potosi,7660
+2021-07-19,decesos_acumulados,santa cruz,7051
+2021-07-19,decesos_acumulados,tarija,9110
+2021-07-19,decesos_nuevos,beni,2
+2021-07-19,decesos_nuevos,chuquisaca,3
+2021-07-19,decesos_nuevos,cochabamba,5
+2021-07-19,decesos_nuevos,la paz,2
+2021-07-19,decesos_nuevos,oruro,1
+2021-07-19,decesos_nuevos,pando,0
+2021-07-19,decesos_nuevos,potosi,1
+2021-07-19,decesos_nuevos,santa cruz,1
+2021-07-19,decesos_nuevos,tarija,2
+2021-07-19,recuperados_acumulados,beni,16415
+2021-07-19,recuperados_acumulados,chuquisaca,19728
+2021-07-19,recuperados_acumulados,cochabamba,62748
+2021-07-19,recuperados_acumulados,la paz,73803
+2021-07-19,recuperados_acumulados,oruro,21206
+2021-07-19,recuperados_acumulados,pando,4212
+2021-07-19,recuperados_acumulados,potosi,19333
+2021-07-19,recuperados_acumulados,santa cruz,148226
+2021-07-19,recuperados_acumulados,tarija,26877
+2021-07-20,casos_activos,beni,2621
+2021-07-20,casos_activos,chuquisaca,8486
+2021-07-20,casos_activos,cochabamba,3502
+2021-07-20,casos_activos,la paz,19076
+2021-07-20,casos_activos,oruro,6970
+2021-07-20,casos_activos,pando,22
+2021-07-20,casos_activos,potosi,1605
+2021-07-20,casos_activos,santa cruz,6786
+2021-07-20,casos_activos,tarija,7697
+2021-07-20,casos_acumulados,beni,20107
+2021-07-20,casos_acumulados,chuquisaca,29614
+2021-07-20,casos_acumulados,cochabamba,69354
+2021-07-20,casos_acumulados,la paz,95472
+2021-07-20,casos_acumulados,oruro,23153
+2021-07-20,casos_acumulados,pando,6741
+2021-07-20,casos_acumulados,potosi,2172
+2021-07-20,casos_acumulados,santa cruz,162399
+2021-07-20,casos_acumulados,tarija,35617
+2021-07-20,casos_nuevos,beni,200
+2021-07-20,casos_nuevos,chuquisaca,1480
+2021-07-20,casos_nuevos,cochabamba,2260
+2021-07-20,casos_nuevos,la paz,1270
+2021-07-20,casos_nuevos,oruro,200
+2021-07-20,casos_nuevos,pando,10
+2021-07-20,casos_nuevos,potosi,580
+2021-07-20,casos_nuevos,santa cruz,3410
+2021-07-20,casos_nuevos,tarija,1110
+2021-07-20,decesos_acumulados,beni,8720
+2021-07-20,decesos_acumulados,chuquisaca,1258
+2021-07-20,decesos_acumulados,cochabamba,2659
+2021-07-20,decesos_acumulados,la paz,241
+2021-07-20,decesos_acumulados,oruro,1245
+2021-07-20,decesos_acumulados,pando,3170
+2021-07-20,decesos_acumulados,potosi,7660
+2021-07-20,decesos_acumulados,santa cruz,7067
+2021-07-20,decesos_acumulados,tarija,9110
+2021-07-20,decesos_nuevos,beni,0
+2021-07-20,decesos_nuevos,chuquisaca,3
+2021-07-20,decesos_nuevos,cochabamba,4
+2021-07-20,decesos_nuevos,la paz,4
+2021-07-20,decesos_nuevos,oruro,3
+2021-07-20,decesos_nuevos,pando,0
+2021-07-20,decesos_nuevos,potosi,0
+2021-07-20,decesos_nuevos,santa cruz,16
+2021-07-20,decesos_nuevos,tarija,0
+2021-07-20,recuperados_acumulados,beni,16614
+2021-07-20,recuperados_acumulados,chuquisaca,1987
+2021-07-20,recuperados_acumulados,cochabamba,63193
+2021-07-20,recuperados_acumulados,la paz,73986
+2021-07-20,recuperados_acumulados,oruro,21211
+2021-07-20,recuperados_acumulados,pando,4224
+2021-07-20,recuperados_acumulados,potosi,19349
+2021-07-20,recuperados_acumulados,santa cruz,148546
+2021-07-20,recuperados_acumulados,tarija,27009

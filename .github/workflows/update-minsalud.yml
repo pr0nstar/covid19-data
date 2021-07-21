@@ -1,0 +1,40 @@
+name: Update minsalud data
+on:
+  schedule:
+    - cron: '0 2/12 * * *'
+jobs:
+  update:
+    name: update data
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@main
+        with:
+          ref: master
+          lfs: true
+      - name: setup python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.6'
+      - name: install python and dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r update/requirements.txt
+      - name: run update script
+        id: run_update_script
+        run: |
+          python update/update.cases.minsalud.py
+      - name: git status
+        id: git-status
+        run: |
+          git config --global user.email "covid-data-bot@example.com"
+          git config --global user.name "covid-data-bot"
+          echo ::set-output name=result::$(git status | tr -d "\n" | grep -c "nothing to commit")
+      - name: commit
+        if: steps.git-status.outputs.result == 0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git add -A
+          git commit -m "[ci] actualización minsalud"
+          git push -q "https://$GH_TOKEN@github.com/pr0nstar/covid19-data.git" master

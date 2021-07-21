@@ -12,3 +12,4 @@ html5lib
 pantab
 hist
 aghast
+tabula-py
