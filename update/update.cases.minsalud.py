@@ -86,11 +86,11 @@ def parse_vaccination_by_dose(vaccine_df):
 
 def parse_vaccination_by_manufacturer(vaccine_df):
     totals = np.concatenate([
-        [True], vaccine_df.iloc[1, 1:-1].str.lower() == 'total', [True]
+        [True], (vaccine_df.iloc[1, 1:-1].str.lower() == 'total').values, [True]
     ])
 
     vaccine_df.iloc[0, 1:] = np.repeat(
-        vaccine_df.iloc[0].dropna()[1:],
+        (vaccine_df.iloc[0].dropna()[1:]).values,
         np.diff(np.where(totals))[0]
     )
 
