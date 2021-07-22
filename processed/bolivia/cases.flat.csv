@@ -485,21 +485,21 @@ fecha,casos,departamento,cantidad
 2021-07-19,recuperados_acumulados,potosi,19333
 2021-07-19,recuperados_acumulados,santa cruz,148226
 2021-07-19,recuperados_acumulados,tarija,26877
-2021-07-20,casos_activos,beni,2621
+2021-07-20,casos_activos,beni,26210000000000004
 2021-07-20,casos_activos,chuquisaca,8486
 2021-07-20,casos_activos,cochabamba,3502
 2021-07-20,casos_activos,la paz,19076
 2021-07-20,casos_activos,oruro,6970
 2021-07-20,casos_activos,pando,22
 2021-07-20,casos_activos,potosi,1605
-2021-07-20,casos_activos,santa cruz,6786
+2021-07-20,casos_activos,santa cruz,67860000000000005
 2021-07-20,casos_activos,tarija,7697
 2021-07-20,casos_acumulados,beni,20107
 2021-07-20,casos_acumulados,chuquisaca,29614
 2021-07-20,casos_acumulados,cochabamba,69354
-2021-07-20,casos_acumulados,la paz,95472
-2021-07-20,casos_acumulados,oruro,23153
-2021-07-20,casos_acumulados,pando,6741
+2021-07-20,casos_acumulados,la paz,9547200000000001
+2021-07-20,casos_acumulados,oruro,23153000000000002
+2021-07-20,casos_acumulados,pando,67410000000000005
 2021-07-20,casos_acumulados,potosi,2172
 2021-07-20,casos_acumulados,santa cruz,162399
 2021-07-20,casos_acumulados,tarija,35617
@@ -532,7 +532,7 @@ fecha,casos,departamento,cantidad
 2021-07-20,decesos_nuevos,tarija,0
 2021-07-20,recuperados_acumulados,beni,16614
 2021-07-20,recuperados_acumulados,chuquisaca,1987
-2021-07-20,recuperados_acumulados,cochabamba,63193
+2021-07-20,recuperados_acumulados,cochabamba,63193000000000005
 2021-07-20,recuperados_acumulados,la paz,73986
 2021-07-20,recuperados_acumulados,oruro,21211
 2021-07-20,recuperados_acumulados,pando,4224
