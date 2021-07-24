@@ -236,30 +236,40 @@ def do_update(fn, post_date, path):
         traceback.print_exc()
 
 
-BASE_URL = 'https://www.unidoscontraelcovid.gob.bo/index.php/category/reportes'
+BASE_URL = 'https://www.unidoscontraelcovid.gob.bo/index.php/wp-json/wp/v2/posts?categories=50'
 TEMPORAL_FILE = '/tmp/temporal.pdf'
 
 VACCINES_FILE = './processed/bolivia/vaccinations.flat.csv'
 CASES_FILE = './processed/bolivia/cases.flat.csv'
 
+TIMEOUT = 180
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)'
+}
 
 if __name__ == '__main__':
-    cdata = requests.get(BASE_URL)
-    cdata = BeautifulSoup(cdata.content, 'html.parser')
-
-    latest_posts = cdata.find_all('article')
+    cdata = requests.get(BASE_URL, headers=HEADERS, timeout=TIMEOUT)
+    latest_posts = cdata.json()
 
     for latest_post in latest_posts[:2]:
-        post_links = latest_post.find_all('a')
-        post_title = next(
-            _.text for _ in post_links if _.text.strip() and ' ' in _.text
+        latest_post = requests.get(
+            latest_post['link'], headers=HEADERS, timeout=TIMEOUT
         )
-        post_title = unidecode.unidecode(post_title).lower()
+        latest_post = BeautifulSoup(latest_post.content, 'html.parser')
+
+        post_title = latest_post.findChild('h1', {'class': 'entry-title'})
+        post_title = unidecode.unidecode(post_title.text).lower()
+        print(post_title)
+
+        post_links = latest_post.findChild('div', {'class': 'entry-content'})
+        post_links = post_links.find_all('a')
 
         post_attachment = [_.attrs['href'] for _ in post_links]
         post_attachment = next(_ for _ in post_attachment if _.endswith('pdf'))
 
-        post_attachment = requests.get(post_attachment)
+        post_attachment = requests.get(
+            post_attachment, headers=HEADERS, timeout=TIMEOUT
+        )
 
         with open(TEMPORAL_FILE, 'wb') as f:
             f.write(post_attachment.content)
