@@ -178,7 +178,8 @@ def parse_cases(path, post_date):
         lattice=True,
         pages=1,
         area=(5, 5, 30, 50),
-        relative_area=True
+        relative_area=True,
+        pandas_options={'dtype': 'str'}
     )
     cases_df = cases_dfs[0]
 
