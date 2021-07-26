@@ -143,7 +143,7 @@ def parse_vaccination(path, post_date):
             vaccine_df = parse_vaccination_by_manufacturer(vaccine_df)
 
         else:
-            print('DATOS NO PROCESADOS!')
+            print('Err: Datos no procesados!')
             print(vaccine_df.head(5))
 
             continue
@@ -252,7 +252,7 @@ if __name__ == '__main__':
     cdata = requests.get(BASE_URL, headers=HEADERS, timeout=TIMEOUT)
     latest_posts = cdata.json()
 
-    for latest_post in latest_posts[:2]:
+    for latest_post in latest_posts[:4]:
         latest_post = requests.get(
             latest_post['link'], headers=HEADERS, timeout=TIMEOUT
         )
@@ -266,7 +266,12 @@ if __name__ == '__main__':
         post_links = post_links.find_all('a')
 
         post_attachment = [_.attrs['href'] for _ in post_links]
-        post_attachment = next(_ for _ in post_attachment if _.endswith('pdf'))
+
+        try:
+            post_attachment = next(_ for _ in post_attachment if _.endswith('pdf'))
+        except StopIteration:
+            print('Err: No PDF!')
+            continue
 
         post_attachment = requests.get(
             post_attachment, headers=HEADERS, timeout=TIMEOUT
