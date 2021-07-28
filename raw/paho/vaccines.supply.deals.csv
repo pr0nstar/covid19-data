@@ -11,7 +11,7 @@ Pfizer/BioNTech,Canada,CAN,https://www.canada.ca/en/public-services-procurement/
 --,USA,USA,https://www.jnj.com/johnson-johnson-announces-agreement-with-u-s-government-for-100-million-doses-of-investigational-covid-19-vaccine,1970-01-01 00:26:36.585600,--,1000000000,100000000,200000000,Formalized,--,Bilateral,--
 --,COVAX,COVAX AMC,https://www.gavi.org/sites/default/files/covid/covax/COVAX%20Supply%20Forecast.pdf,1970-01-01 00:26:36.672000,Covovax,--,1000000000,--,Formalized,Novavax,Multilateral,Beximco Pharmaceuticals
 --,Japan,JPN,https://www.reuters.com/article/idUSKBN29X0AK,1970-01-01 00:26:36.758400,--,--,30000000,50000000,--,--,--,--
---,USA,USA,https://www.bloomberg.com/news/articles/2021-02-11/u-s-clinches-deal-with-moderna-for-another-100-million-doses,1970-01-01 00:26:37.104000,--,3191598000,300000000,300000000,--,--,--,--
+--,USA,USA,https://www.bloomberg.com/news/articles/2021-02-11/u-s-clinches-deal-with-moderna-for-another-100-million-doses,1970-01-01 00:26:37.104000,--,3191598000,300000000,300000000,--,--,--,Zuellig Pharma
 --,UK,GBR,https://www.gov.uk/government/news/uk-government-secures-new-covid-19-vaccines-and-backs-global-clinical-trial,1970-01-01 00:26:37.363200,--,--,60000000,80000000,Formalized,--,--,--
 Arcturus Therapeutics,Israel,ISR,https://www.globenewswire.com/news-release/2020/08/18/2080000/0/en/Arcturus-Therapeutics-Executes-Definitive-Supply-Agreement-with-the-Israeli-Ministry-of-Health.html,1970-01-01 00:26:37.708800,ARCT-021,--,Formalized,--,--,Arcturus Therapeutics,--,--
 --,Bosnia,BIH,https://www.reuters.com/article/health-coronavirus-bosnia-vaccines/bosnia-begins-covid-19-vaccination-roll-out-with-russian-vaccine-idUSL8N2KI2RI,1970-01-01 00:26:37.795200,--,111000000,400000,--,Formalized,--,--,--
@@ -278,7 +278,7 @@ Gamaleya Research Institute,Angola,AGO,https://angorussia.com/noticias/angola-va
 --,Guinea,GIN,https://www.reuters.com/article/health-coronavirus-guinea/guinea-in-talks-to-obtain-400000-doses-of-russias-sputnik-v-vaccine-idUSL1N2KO0X9,1970-01-01 00:27:03.715200,--,--,400000,--,In discussion,--,Bilateral,Pharco
 --,Ghana,GHA,https://www.bbc.com/pidgin/tori-57432831,1970-01-01 00:27:03.715200,--,--,300000,--,Formalized,--,Bilateral,Pharco
 --,Philippines,PHL,https://www.cnn.ph/news/2021/6/22/Sinovac-doses-Manila.html,1970-01-01 00:27:03.715200,--,--,400000,--,Formalized,--,--,Bio Farma
---,USA,USA,https://investors.modernatx.com/news-releases/news-release-details/us-government-purchases-additional-200-million-doses-modernas,1970-01-01 00:27:03.801600,--,--,200000000,7000000,--,--,--,--
+--,USA,USA,https://investors.modernatx.com/news-releases/news-release-details/us-government-purchases-additional-200-million-doses-modernas,1970-01-01 00:27:03.801600,--,--,200000000,--,--,--,--,Zuellig Pharma
 Vaxxinity,Paraguay,PRY,https://www.businesswire.com/news/home/20210621005250/en/Vaxxinity-Signs-Purchase-Order-with-the-Government-of-Paraguay-for-1-Million-Doses-of-Vaxxinity%E2%80%99s-UB-612-COVID-19-Vaccine/,1970-01-01 00:27:04.233600,UB-612,--,1000000,90000000,--,COVAXX,--,--
 --,European Commission,CAN,https://investors.modernatx.com/news-releases/news-release-details/european-commission-purchases-additional-150-million-doses,1970-01-01 00:27:04.320000,--,--,150000000,16000000,--,--,Multilateral,--
 Center for Genetic Engineering and Biotechnology,Venezuela,VEN,https://www.reuters.com/world/americas/venezuela-receives-first-shipment-cuban-coronavirus-vaccine-2021-06-24/,1970-01-01 00:27:04.492800,CIGB-66,--,12000000,--,--,Center for Genetic Engineering and Biotechnology,Bilateral,AJM Pharma
@@ -286,9 +286,9 @@ Center for Genetic Engineering and Biotechnology,Venezuela,VEN,https://www.reute
 --,Honduras,HND,https://www.salud.gob.hn/site/index.php/component/k2/item/2283-esta-semana-empiezan-a-llegar-primeros-4-lotes-de-vacunas-de-pfizer-compradas-por-el-gobierno,1970-01-01 00:27:05.011200,--,--,4400000,900000000,--,--,Bilateral,--
 --,--,--,https://www.bloombergquint.com/onweb/zimbabwe-to-get-3-5-million-vaccine-doses-from-july-to-september,1970-01-01 00:27:05.011200,--,12000000,2000000,--,--,--,--,--
 Clover Biopharmaceuticals,COVAX,VEN,https://www.gavi.org/news/media-room/gavi-signs-agreement-clover-biopharmaceuticals-supply-covax,1970-01-01 00:27:05.011200,SCB-2019,--,350000000,--,--,Clover Biopharmaceuticals,--,--
---,Thailand,THA,https://www.reuters.com/world/asia-pacific/thailand-reports-new-daily-record-53-coronavirus-deaths-2021-06-30/,1970-01-01 00:27:05.011200,--,--,3900000,7000000,--,--,--,--
+--,Thailand,THA,https://www.reuters.com/world/asia-pacific/thailand-reports-new-daily-record-53-coronavirus-deaths-2021-06-30/,1970-01-01 00:27:05.011200,--,--,3900000,7000000,--,--,--,Zuellig Pharma
 --,Zimbabwe,ZWE,https://www.bloombergquint.com/onweb/zimbabwe-to-get-3-5-million-vaccine-doses-from-july-to-september,1970-01-01 00:27:05.011200,--,--,1500000,--,--,--,--,Thai Royal Academy
---,Thailand,THA,https://www.reuters.com/world/asia-pacific/thailand-reports-new-daily-record-53-coronavirus-deaths-2021-06-30/,1970-01-01 00:27:05.011200,--,--,1100000,7000000,--,--,--,--
+--,Thailand,THA,https://www.reuters.com/world/asia-pacific/thailand-reports-new-daily-record-53-coronavirus-deaths-2021-06-30/,1970-01-01 00:27:05.011200,--,--,1100000,7000000,--,--,--,Zuellig Pharma
 --,Myanmar,MMR,https://www.reuters.com/world/asia-pacific/myanmar-aims-buy-more-russian-chinese-covid-19-vaccines-cases-rise-2021-06-30/,1970-01-01 00:27:05.011200,--,--,7000000,--,In discussion,--,--,Em-Impex
 --,Tunisia,TUN,https://www.reuters.com/business/healthcare-pharmaceuticals/tunisia-buy-35-mln-doses-johnson-johnson-covid-19-vaccine-2021-07-06/,1970-01-01 00:27:05.529600,--,--,3500000,--,Formalized,--,Bilateral,--
 --,European Commission,COL,https://www.reuters.com/world/europe/eu-orders-nearly-40-million-additional-jj-covid-vaccines-2021-07-06/,1970-01-01 00:27:05.529600,--,--,36700000,--,--,--,Multilateral,--
