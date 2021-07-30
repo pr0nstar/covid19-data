@@ -25,6 +25,7 @@ def format_col(col):
 
     col = re.sub('\(.*\)', '', col)
     col = col.replace('\r', ' ')
+    col = col.replace('\n', ' ')
     col = col.lower().strip()
     col = unidecode.unidecode(col)
 
@@ -32,8 +33,9 @@ def format_col(col):
 
 
 def format_index(idx):
-    idx = idx.str.lower()
+    idx = idx.str.lower().str.replace(r'[\t\r\n]+', ' ', regex=True)
     idx = idx.map(unidecode.unidecode)
+    idx = idx.str.replace(r'almacen[ ]*pai', 'almacen', regex=True)
 
     if type(idx.name) == tuple:
         idx.name = idx.name[0]
@@ -218,6 +220,7 @@ def do_merge(df, path):
 
         store_df['fecha'] = pd.to_datetime(store_df['fecha'])
         store_df = store_df.set_index(df.index.names)
+
     else:
         store_df = pd.DataFrame([])
 
@@ -237,10 +240,36 @@ def do_update(fn, post_date, path):
         traceback.print_exc()
 
 
+def do_synk_vaccionations():
+    df = pd.read_csv(VACCINES_FILE)
+    df['fecha'] = pd.to_datetime(df['fecha'])
+
+    df = df[df['vacuna_fabricante'] == 'total'].copy()
+    df = df[df['dosis'].str.contains('suministradas')]
+
+    df.loc[df['dosis'].str.contains('1ra'), 'dosis'] = 'Primera'
+    df.loc[df['dosis'].str.contains('2da'), 'dosis'] = 'Segunda'
+
+    df = df[~df['departamento'].str.contains('nacional')]
+    df['departamento'] = df['departamento'].str.title()
+
+    df = df.set_index(['fecha', 'departamento', 'dosis'])['cantidad']
+    df = df.unstack(level=['departamento', 'dosis'])
+
+    store_df = pd.read_csv(VACCINES_SQUARE_FILE, header=[0, 1], index_col=0)
+    store_df.index = pd.to_datetime(store_df.index)
+
+    df = pd.concat([store_df, df], join='inner')
+    df = df[~df.index.duplicated(keep='last')]
+
+    df.to_csv(VACCINES_SQUARE_FILE)
+
+
 BASE_URL = 'https://www.unidoscontraelcovid.gob.bo/index.php/wp-json/wp/v2/posts?categories=50'
 TEMPORAL_FILE = '/tmp/temporal.pdf'
 
 VACCINES_FILE = './processed/bolivia/vaccinations.flat.csv'
+VACCINES_SQUARE_FILE = './processed/bolivia/vaccinations.csv'
 CASES_FILE = './processed/bolivia/cases.flat.csv'
 
 TIMEOUT = 180
@@ -289,6 +318,7 @@ if __name__ == '__main__':
                 post_date,
                 VACCINES_FILE
             )
+            do_synk_vaccionations()
 
         elif 'casos' in post_title:
             do_update(
