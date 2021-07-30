@@ -863,3 +863,111 @@ fecha,casos,departamento,cantidad
 2021-07-26,recuperados_acumulados,potosi,19605
 2021-07-26,recuperados_acumulados,santa cruz,151184
 2021-07-26,recuperados_acumulados,tarija,27443
+2021-07-27,casos_activos,beni,1521
+2021-07-27,casos_activos,chuquisaca,8426
+2021-07-27,casos_activos,cochabamba,2624
+2021-07-27,casos_activos,la paz,18718
+2021-07-27,casos_activos,oruro,475
+2021-07-27,casos_activos,pando,2185
+2021-07-27,casos_activos,potosi,1646
+2021-07-27,casos_activos,santa cruz,5667
+2021-07-27,casos_activos,tarija,7650
+2021-07-27,casos_acumulados,beni,20178
+2021-07-27,casos_acumulados,chuquisaca,30385
+2021-07-27,casos_acumulados,cochabamba,70399
+2021-07-27,casos_acumulados,la paz,96575
+2021-07-27,casos_acumulados,oruro,23326
+2021-07-27,casos_acumulados,pando,6755
+2021-07-27,casos_acumulados,potosi,22074
+2021-07-27,casos_acumulados,santa cruz,164222
+2021-07-27,casos_acumulados,tarija,36110
+2021-07-27,casos_nuevos,beni,19
+2021-07-27,casos_nuevos,chuquisaca,84
+2021-07-27,casos_nuevos,cochabamba,171
+2021-07-27,casos_nuevos,la paz,123
+2021-07-27,casos_nuevos,oruro,10
+2021-07-27,casos_nuevos,pando,1
+2021-07-27,casos_nuevos,potosi,70
+2021-07-27,casos_nuevos,santa cruz,281
+2021-07-27,casos_nuevos,tarija,83
+2021-07-27,decesos_acumulados,beni,878
+2021-07-27,decesos_acumulados,chuquisaca,1284
+2021-07-27,decesos_acumulados,cochabamba,2689
+2021-07-27,decesos_acumulados,la paz,2436
+2021-07-27,decesos_acumulados,oruro,1252
+2021-07-27,decesos_acumulados,pando,319
+2021-07-27,decesos_acumulados,potosi,781
+2021-07-27,decesos_acumulados,santa cruz,7155
+2021-07-27,decesos_acumulados,tarija,922
+2021-07-27,decesos_nuevos,beni,3
+2021-07-27,decesos_nuevos,chuquisaca,2
+2021-07-27,decesos_nuevos,cochabamba,4
+2021-07-27,decesos_nuevos,la paz,4
+2021-07-27,decesos_nuevos,oruro,3
+2021-07-27,decesos_nuevos,pando,0
+2021-07-27,decesos_nuevos,potosi,3
+2021-07-27,decesos_nuevos,santa cruz,25
+2021-07-27,decesos_nuevos,tarija,0
+2021-07-27,recuperados_acumulados,beni,17779
+2021-07-27,recuperados_acumulados,chuquisaca,20675
+2021-07-27,recuperados_acumulados,cochabamba,65086
+2021-07-27,recuperados_acumulados,la paz,75421
+2021-07-27,recuperados_acumulados,oruro,21599
+2021-07-27,recuperados_acumulados,pando,4251
+2021-07-27,recuperados_acumulados,potosi,19647
+2021-07-27,recuperados_acumulados,santa cruz,151400
+2021-07-27,recuperados_acumulados,tarija,27538
+2021-07-28,casos_activos,beni,1271
+2021-07-28,casos_activos,chuquisaca,8438
+2021-07-28,casos_activos,cochabamba,2483
+2021-07-28,casos_activos,la paz,18687
+2021-07-28,casos_activos,oruro,486
+2021-07-28,casos_activos,pando,2186
+2021-07-28,casos_activos,potosi,1654
+2021-07-28,casos_activos,santa cruz,5833
+2021-07-28,casos_activos,tarija,7628
+2021-07-28,casos_acumulados,beni,20187
+2021-07-28,casos_acumulados,chuquisaca,30518
+2021-07-28,casos_acumulados,cochabamba,70547
+2021-07-28,casos_acumulados,la paz,96736
+2021-07-28,casos_acumulados,oruro,23355
+2021-07-28,casos_acumulados,pando,6757
+2021-07-28,casos_acumulados,potosi,22122
+2021-07-28,casos_acumulados,santa cruz,164524
+2021-07-28,casos_acumulados,tarija,36183
+2021-07-28,casos_nuevos,beni,9
+2021-07-28,casos_nuevos,chuquisaca,133
+2021-07-28,casos_nuevos,cochabamba,148
+2021-07-28,casos_nuevos,la paz,161
+2021-07-28,casos_nuevos,oruro,29
+2021-07-28,casos_nuevos,pando,2
+2021-07-28,casos_nuevos,potosi,48
+2021-07-28,casos_nuevos,santa cruz,302
+2021-07-28,casos_nuevos,tarija,73
+2021-07-28,decesos_acumulados,beni,878
+2021-07-28,decesos_acumulados,chuquisaca,1287
+2021-07-28,decesos_acumulados,cochabamba,2691
+2021-07-28,decesos_acumulados,la paz,2441
+2021-07-28,decesos_acumulados,oruro,1256
+2021-07-28,decesos_acumulados,pando,320
+2021-07-28,decesos_acumulados,potosi,783
+2021-07-28,decesos_acumulados,santa cruz,7174
+2021-07-28,decesos_acumulados,tarija,924
+2021-07-28,decesos_nuevos,beni,0
+2021-07-28,decesos_nuevos,chuquisaca,3
+2021-07-28,decesos_nuevos,cochabamba,2
+2021-07-28,decesos_nuevos,la paz,5
+2021-07-28,decesos_nuevos,oruro,4
+2021-07-28,decesos_nuevos,pando,1
+2021-07-28,decesos_nuevos,potosi,2
+2021-07-28,decesos_nuevos,santa cruz,19
+2021-07-28,decesos_nuevos,tarija,2
+2021-07-28,recuperados_acumulados,beni,18038
+2021-07-28,recuperados_acumulados,chuquisaca,20793
+2021-07-28,recuperados_acumulados,cochabamba,65373
+2021-07-28,recuperados_acumulados,la paz,75608
+2021-07-28,recuperados_acumulados,oruro,21613
+2021-07-28,recuperados_acumulados,pando,4251
+2021-07-28,recuperados_acumulados,potosi,19685
+2021-07-28,recuperados_acumulados,santa cruz,151517
+2021-07-28,recuperados_acumulados,tarija,27631
