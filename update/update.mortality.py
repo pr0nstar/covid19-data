@@ -600,11 +600,12 @@ def update_bolivia():
 
 def do_update(fn):
     print(fn.__name__)
+
     try:
         df_objs = fn()
     except Exception as e:
         traceback.print_exc()
-        return
+        df_objs = {}
 
     # >= 2021
     for key, df in df_objs.items():
