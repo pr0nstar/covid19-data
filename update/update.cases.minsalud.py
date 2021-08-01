@@ -241,6 +241,7 @@ def do_update(fn, post_date, path):
 
 
 def do_synk_vaccionations():
+    # read flat + format
     df = pd.read_csv(VACCINES_FILE)
     df['fecha'] = pd.to_datetime(df['fecha'])
 
@@ -256,12 +257,21 @@ def do_synk_vaccionations():
     df = df.set_index(['fecha', 'departamento', 'dosis'])['cantidad']
     df = df.unstack(level=['departamento', 'dosis'])
 
+    # read storage + merge
     store_df = pd.read_csv(VACCINES_SQUARE_FILE, header=[0, 1], index_col=0)
     store_df.index = pd.to_datetime(store_df.index)
 
     df = pd.concat([store_df, df], join='inner')
     df = df[~df.index.duplicated(keep='last')]
 
+    # test
+    if (df.diff().fillna(False) < 0).any().any():
+        raise(Exception('Negative value found'))
+
+    if (df.index.to_series().diff().dt.days > 1).any():
+        raise(Exception('Missing data'))
+
+    # store
     df.to_csv(VACCINES_SQUARE_FILE)
 
 
