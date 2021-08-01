@@ -263,12 +263,17 @@ def do_synk_vaccionations():
 
     df = pd.concat([store_df, df], join='inner')
     df = df[~df.index.duplicated(keep='last')]
+    df = df.sort_index()
 
     # test
-    if (df.diff().fillna(False) < 0).any().any():
+    negative_test = df.diff().fillna(False) < 0
+    if negative_test.any().any():
+        print(negative_test.index[negative_test.any(axis=1)])
         raise(Exception('Negative value found'))
 
-    if (df.index.to_series().diff().dt.days > 1).any():
+    date_test = df.index.to_series().diff().dt.days > 1
+    if date_test.any():
+        print(df.index[date_test])
         raise(Exception('Missing data'))
 
     # store
