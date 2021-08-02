@@ -3,3 +3,4 @@ update/update.mortality.tests.py
 *.py[cod]
 *$py.class
 hyperd.log
+raw/bolivia/sedes
