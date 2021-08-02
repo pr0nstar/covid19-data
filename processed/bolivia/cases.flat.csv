@@ -1079,3 +1079,57 @@ fecha,casos,departamento,cantidad
 2021-07-30,recuperados_acumulados,potosi,19817
 2021-07-30,recuperados_acumulados,santa cruz,152182
 2021-07-30,recuperados_acumulados,tarija,27794
+2021-07-31,casos_activos,beni,835
+2021-07-31,casos_activos,chuquisaca,8282
+2021-07-31,casos_activos,cochabamba,2390
+2021-07-31,casos_activos,la paz,18621
+2021-07-31,casos_activos,oruro,529
+2021-07-31,casos_activos,pando,2181
+2021-07-31,casos_activos,potosi,1649
+2021-07-31,casos_activos,santa cruz,5629
+2021-07-31,casos_activos,tarija,7637
+2021-07-31,casos_acumulados,beni,20212
+2021-07-31,casos_acumulados,chuquisaca,30739
+2021-07-31,casos_acumulados,cochabamba,71017
+2021-07-31,casos_acumulados,la paz,97326
+2021-07-31,casos_acumulados,oruro,23438
+2021-07-31,casos_acumulados,pando,6764
+2021-07-31,casos_acumulados,potosi,22269
+2021-07-31,casos_acumulados,santa cruz,165362
+2021-07-31,casos_acumulados,tarija,36379
+2021-07-31,casos_nuevos,beni,3
+2021-07-31,casos_nuevos,chuquisaca,58
+2021-07-31,casos_nuevos,cochabamba,81
+2021-07-31,casos_nuevos,la paz,183
+2021-07-31,casos_nuevos,oruro,22
+2021-07-31,casos_nuevos,pando,2
+2021-07-31,casos_nuevos,potosi,55
+2021-07-31,casos_nuevos,santa cruz,248
+2021-07-31,casos_nuevos,tarija,41
+2021-07-31,decesos_acumulados,beni,882
+2021-07-31,decesos_acumulados,chuquisaca,1298
+2021-07-31,decesos_acumulados,cochabamba,2695
+2021-07-31,decesos_acumulados,la paz,2453
+2021-07-31,decesos_acumulados,oruro,1262
+2021-07-31,decesos_acumulados,pando,320
+2021-07-31,decesos_acumulados,potosi,786
+2021-07-31,decesos_acumulados,santa cruz,7199
+2021-07-31,decesos_acumulados,tarija,926
+2021-07-31,decesos_nuevos,beni,1
+2021-07-31,decesos_nuevos,chuquisaca,3
+2021-07-31,decesos_nuevos,cochabamba,0
+2021-07-31,decesos_nuevos,la paz,3
+2021-07-31,decesos_nuevos,oruro,0
+2021-07-31,decesos_nuevos,pando,0
+2021-07-31,decesos_nuevos,potosi,0
+2021-07-31,decesos_nuevos,santa cruz,8
+2021-07-31,decesos_nuevos,tarija,0
+2021-07-31,recuperados_acumulados,beni,18495
+2021-07-31,recuperados_acumulados,chuquisaca,21159
+2021-07-31,recuperados_acumulados,cochabamba,65932
+2021-07-31,recuperados_acumulados,la paz,76252
+2021-07-31,recuperados_acumulados,oruro,21647
+2021-07-31,recuperados_acumulados,pando,4263
+2021-07-31,recuperados_acumulados,potosi,19834
+2021-07-31,recuperados_acumulados,santa cruz,152534
+2021-07-31,recuperados_acumulados,tarija,27816

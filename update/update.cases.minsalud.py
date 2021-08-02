@@ -274,6 +274,7 @@ def do_synk_vaccionations():
     date_test = df.index.to_series().diff().dt.days > 1
     if date_test.any():
         print(df.index[date_test])
+        print(df.tail())
         raise(Exception('Missing data'))
 
     # store
@@ -296,7 +297,7 @@ if __name__ == '__main__':
     cdata = requests.get(BASE_URL, headers=HEADERS, timeout=TIMEOUT)
     latest_posts = cdata.json()
 
-    for latest_post in latest_posts[:4]:
+    for latest_post in latest_posts[:6][::-1]:
         latest_post = requests.get(
             latest_post['link'], headers=HEADERS, timeout=TIMEOUT
         )
