@@ -336,18 +336,18 @@ def download_argentina(_retry=0):
         cdata = requests.get(ARGENTINA_URL, headers=HEADERS, timeout=30)
         fd = io.BytesIO(cdata.content)
 
+        argentina_df = pd.read_csv(
+            fd,
+            compression='zip',
+            index_col='id_evento_caso',
+            usecols=ARGENTINA_COL
+        )
+
     except Exception as e:
         if _retry < 3:
             return download_argentina(_retry + 1)
         else:
             raise(e)
-
-    argentina_df = pd.read_csv(
-        fd,
-        compression='zip',
-        index_col='id_evento_caso',
-        usecols=ARGENTINA_COL
-    )
 
     argentina_df_date_columns = argentina_df.columns[
         argentina_df.columns.str.startswith('fecha')
