@@ -245,17 +245,21 @@ def do_synk_vaccionations():
     df = pd.read_csv(VACCINES_FILE)
     df['fecha'] = pd.to_datetime(df['fecha'])
 
-    df = df[df['vacuna_fabricante'] == 'total'].copy()
-    df = df[df['dosis'].str.contains('suministradas')]
+    df = df[df['vacuna_fabricante'] != 'total'].copy()
 
     df.loc[df['dosis'].str.contains('1ra'), 'dosis'] = 'Primera'
     df.loc[df['dosis'].str.contains('2da'), 'dosis'] = 'Segunda'
+    df.loc[df['dosis'].str.contains('unica'), 'dosis'] = 'Unica'
 
-    df = df[~df['departamento'].str.contains('nacional')]
     df['departamento'] = df['departamento'].str.title()
 
-    df = df.set_index(['fecha', 'departamento', 'dosis'])['cantidad']
-    df = df.unstack(level=['departamento', 'dosis'])
+    df = df.set_index([
+        'fecha', 'departamento', 'vacuna_fabricante', 'dosis'
+    ])['cantidad']
+    df = df.unstack(level=['departamento', 'vacuna_fabricante', 'dosis'])
+
+    df = df.T.sort_index().T
+    df = df.groupby(level=['departamento', 'dosis'], axis=1).sum()
 
     # read storage + merge
     store_df = pd.read_csv(VACCINES_SQUARE_FILE, header=[0, 1], index_col=0)
@@ -264,6 +268,7 @@ def do_synk_vaccionations():
     df = pd.concat([store_df, df], join='inner')
     df = df[~df.index.duplicated(keep='last')]
     df = df.sort_index()
+    df = df.fillna(0).astype(int)
 
     # test
     negative_test = df.diff().fillna(False) < 0
@@ -297,7 +302,7 @@ if __name__ == '__main__':
     cdata = requests.get(BASE_URL, headers=HEADERS, timeout=TIMEOUT)
     latest_posts = cdata.json()
 
-    for latest_post in latest_posts[:6][::-1]:
+    for latest_post in latest_posts[:2][::-1]:
         latest_post = requests.get(
             latest_post['link'], headers=HEADERS, timeout=TIMEOUT
         )
