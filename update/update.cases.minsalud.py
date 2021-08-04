@@ -174,17 +174,7 @@ INDEX_ORDER = [
     'beni',
     'pando'
 ]
-def parse_cases(path, post_date):
-    cases_dfs = tabula.read_pdf(
-        path,
-        lattice=True,
-        pages=1,
-        area=(5, 5, 30, 50),
-        relative_area=True,
-        pandas_options={'dtype': 'str'}
-    )
-    cases_df = cases_dfs[0]
-
+def parse_cases_df(cases_df):
     cases_df.columns = cases_df.columns.map(format_col)
     cases_df.columns.name = 'casos'
     cases_df.index = cases_df.iloc[:, 0]
@@ -192,21 +182,56 @@ def parse_cases(path, post_date):
     cases_df = cases_df.iloc[:, 1:]
     cases_df.index = format_index(cases_df.index)
 
-    forbidden_columns = ['%', '100.000', '202']
+    forbidden_columns = ['%', '100.000', '202', 's.e.', '_se_']
     cases_df = cases_df[
         [_ for _ in cases_df.columns if not any(__ in _ for __ in forbidden_columns)]
     ]
     cases_df = cases_df.loc[~cases_df.index.str.contains('bolivia')]
 
     cases_df = cases_df.astype(str).applymap(
-        lambda _: _.replace('.000', '').replace('.', '').replace(',', '')
-    ).astype(int)
-
-    cases_df = cases_df.loc[INDEX_ORDER]
-    cases_df = cases_df.unstack().rename('cantidad').to_frame()
-    cases_df = pd.concat({post_date: cases_df}, names=['fecha'])
+        lambda _: _.replace('.', '').replace(',', '.')
+    )
 
     return cases_df
+
+def parse_cases(path, post_date):
+    cases_dfs = tabula.read_pdf(
+        path,
+        lattice=True,
+        pages=[1, 2],
+        area=(5, 5, 25, 50),
+        relative_area=True,
+        pandas_options={'dtype': 'str'}
+    )
+    ret_dfs = pd.DataFrame([])
+
+    for cases_df in cases_dfs:
+        if len(cases_df) < 9:
+            continue
+
+        cases_df = parse_cases_df(cases_df)
+
+        if 'casos_nuevos' in cases_df.columns:
+            cases_df = cases_df.astype(int)
+
+        elif 'indice_de_positividad' in cases_df.columns:
+            cases_df = cases_df.astype(float)
+            cases_df = (100 * cases_df).astype(int)
+
+        else:
+            print('Err: Datos no procesados!')
+            print(cases_df.head(5))
+
+            continue
+
+        cases_df = cases_df.loc[INDEX_ORDER]
+        cases_df = cases_df.unstack().rename('cantidad').to_frame()
+
+        ret_dfs = pd.concat([ret_dfs, cases_df])
+
+    ret_dfs = pd.concat({post_date: ret_dfs}, names=['fecha'])
+
+    return ret_dfs
 
 
 ################################################################################
@@ -302,7 +327,7 @@ if __name__ == '__main__':
     cdata = requests.get(BASE_URL, headers=HEADERS, timeout=TIMEOUT)
     latest_posts = cdata.json()
 
-    for latest_post in latest_posts[:2][::-1]:
+    for latest_post in latest_posts[:4][::-1]:
         latest_post = requests.get(
             latest_post['link'], headers=HEADERS, timeout=TIMEOUT
         )
