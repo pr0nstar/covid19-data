@@ -216,7 +216,11 @@ def parse_cases(path, post_date):
 
         elif 'indice_de_positividad' in cases_df.columns:
             cases_df = cases_df.astype(float)
-            cases_df = (100 * cases_df).astype(int)
+
+            if (cases_df < 2).all().all():
+                cases_df = 100 * cases_df
+
+            cases_df = cases_df.astype(int)
 
         else:
             print('Err: Datos no procesados!')
@@ -293,10 +297,9 @@ def do_synk_vaccionations():
     df = pd.concat([store_df, df], join='inner')
     df = df[~df.index.duplicated(keep='last')]
     df = df.sort_index()
-    df = df.fillna(0).astype(int)
 
     # test
-    negative_test = df.diff().fillna(False) < 0
+    negative_test = df.fillna(method='ffill').diff().fillna(False) < 0
     if negative_test.any().any():
         print(negative_test.index[negative_test.any(axis=1)])
         raise(Exception('Negative value found'))
@@ -308,6 +311,7 @@ def do_synk_vaccionations():
         raise(Exception('Missing data'))
 
     # store
+    df = df.astype(pd.Int64Dtype())
     df.to_csv(VACCINES_SQUARE_FILE)
 
 
