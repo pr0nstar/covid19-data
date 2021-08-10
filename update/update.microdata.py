@@ -213,8 +213,8 @@ def download_peru(URL, **kwargs):
 
 
 PERU_BASE_URL = 'https://cloud.minsa.gob.pe/s'
-PERU_CASES_URL = PERU_BASE_URL + '/Y8w3wHsEdYQSZRp/download'
-PERU_DEATHS_URL = PERU_BASE_URL + '/Md37cjXmjT9qYSa/download'
+PERU_CASES_URL = PERU_BASE_URL + '/AC2adyLkHCKjmfm/download'
+PERU_DEATHS_URL = PERU_BASE_URL + '/xJ2LQ3QyRW38Pe5/download'
 
 GROUPER_PE = [
     pd.Grouper(key='departamento'),
