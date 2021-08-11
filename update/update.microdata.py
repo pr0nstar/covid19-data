@@ -603,6 +603,12 @@ def update_brazil_srag():
         GROUPER_BR,
         has_iso_name=False
     )
+    # bd-srag-2020 data goes ~ 3 months into 2021
+    histo_age_df = histo_age_df.xs(
+        slice(pd.to_datetime('2021-03-29'), None),
+        level='date',
+        drop_level=False
+    )
 
     CASE_KEYS = list(CASE_STATE_SRAG_BR.keys())
     CASE_INTERVALS = list(zip(CASE_KEYS[:-1], CASE_KEYS[1:]))[:-1]
@@ -616,6 +622,12 @@ def update_brazil_srag():
         CASE_STATE_SRAG_BR,
         GROUPER_BR,
         has_iso_name=False
+    )
+    # bd-srag-2020 data goes ~ 3 months into 2021
+    histo_diff_df = histo_diff_df.xs(
+        slice(pd.to_datetime('2021-03-29'), None),
+        level='date',
+        drop_level=False
     )
 
     return {'histo_age': histo_age_df, 'histo_diff': histo_diff_df}
@@ -763,7 +775,7 @@ def do_merge(result_dict):
         base_df.columns = base_df.columns.astype(int)
 
         df = df.xs(
-            slice(pd.to_datetime('2021'), None),
+            slice(pd.to_datetime('2021-01-04'), None),
             level='date',
             drop_level=False
         )
