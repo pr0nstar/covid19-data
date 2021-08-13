@@ -195,15 +195,20 @@ def parse_cases_df(cases_df):
     return cases_df
 
 def parse_cases(path, post_date):
-    cases_dfs = tabula.read_pdf(
-        path,
-        lattice=True,
-        pages=[1, 2],
-        area=(5, 5, 25, 50),
-        relative_area=True,
-        pandas_options={'dtype': 'str'}
-    )
     ret_dfs = pd.DataFrame([])
+    tabula_opts = {
+        'lattice': True,
+        'area': (5, 5, 25, 50),
+        'relative_area': True,
+        'pandas_options': {'dtype': 'str'}
+    }
+
+    # Try process cases/tests, if error revert to cases only
+    try:
+        cases_dfs = tabula.read_pdf(path, pages=[1, 2], **tabula_opts)
+    except:
+        print('handled!')
+        cases_dfs = tabula.read_pdf(path, pages=1, **tabula_opts)
 
     for cases_df in cases_dfs:
         if len(cases_df) < 9:
