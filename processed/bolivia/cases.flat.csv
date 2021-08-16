@@ -1961,3 +1961,75 @@ fecha,casos,departamento,cantidad
 2021-08-13,recuperados_acumulados,potosi,20518
 2021-08-13,recuperados_acumulados,santa cruz,155680
 2021-08-13,recuperados_acumulados,tarija,28626
+2021-08-14,casos_activos,beni,159
+2021-08-14,casos_activos,chuquisaca,7370
+2021-08-14,casos_activos,cochabamba,1315
+2021-08-14,casos_activos,la paz,17199
+2021-08-14,casos_activos,oruro,421
+2021-08-14,casos_activos,pando,2019
+2021-08-14,casos_activos,potosi,1477
+2021-08-14,casos_activos,santa cruz,4980
+2021-08-14,casos_activos,tarija,7635
+2021-08-14,casos_acumulados,beni,20332
+2021-08-14,casos_acumulados,chuquisaca,31620
+2021-08-14,casos_acumulados,cochabamba,72593
+2021-08-14,casos_acumulados,la paz,98857
+2021-08-14,casos_acumulados,oruro,23706
+2021-08-14,casos_acumulados,pando,6782
+2021-08-14,casos_acumulados,potosi,22808
+2021-08-14,casos_acumulados,santa cruz,168209
+2021-08-14,casos_acumulados,tarija,37224
+2021-08-14,casos_nuevos,beni,6
+2021-08-14,casos_nuevos,chuquisaca,45
+2021-08-14,casos_nuevos,cochabamba,53
+2021-08-14,casos_nuevos,la paz,167
+2021-08-14,casos_nuevos,oruro,33
+2021-08-14,casos_nuevos,pando,0
+2021-08-14,casos_nuevos,potosi,23
+2021-08-14,casos_nuevos,santa cruz,118
+2021-08-14,casos_nuevos,tarija,55
+2021-08-14,decesos_acumulados,beni,890
+2021-08-14,decesos_acumulados,chuquisaca,1332
+2021-08-14,decesos_acumulados,cochabamba,2729
+2021-08-14,decesos_acumulados,la paz,2565
+2021-08-14,decesos_acumulados,oruro,1296
+2021-08-14,decesos_acumulados,pando,321
+2021-08-14,decesos_acumulados,potosi,802
+2021-08-14,decesos_acumulados,santa cruz,7286
+2021-08-14,decesos_acumulados,tarija,957
+2021-08-14,decesos_nuevos,beni,0
+2021-08-14,decesos_nuevos,chuquisaca,0
+2021-08-14,decesos_nuevos,cochabamba,1
+2021-08-14,decesos_nuevos,la paz,5
+2021-08-14,decesos_nuevos,oruro,1
+2021-08-14,decesos_nuevos,pando,0
+2021-08-14,decesos_nuevos,potosi,0
+2021-08-14,decesos_nuevos,santa cruz,18
+2021-08-14,decesos_nuevos,tarija,1
+2021-08-14,indice_de_positividad,beni,28
+2021-08-14,indice_de_positividad,chuquisaca,28
+2021-08-14,indice_de_positividad,cochabamba,18
+2021-08-14,indice_de_positividad,la paz,62
+2021-08-14,indice_de_positividad,oruro,28
+2021-08-14,indice_de_positividad,pando,26
+2021-08-14,indice_de_positividad,potosi,28
+2021-08-14,indice_de_positividad,santa cruz,20
+2021-08-14,indice_de_positividad,tarija,32
+2021-08-14,indice_de_positividad_promedio,beni,31
+2021-08-14,indice_de_positividad_promedio,chuquisaca,24
+2021-08-14,indice_de_positividad_promedio,cochabamba,20
+2021-08-14,indice_de_positividad_promedio,la paz,21
+2021-08-14,indice_de_positividad_promedio,oruro,28
+2021-08-14,indice_de_positividad_promedio,pando,28
+2021-08-14,indice_de_positividad_promedio,potosi,28
+2021-08-14,indice_de_positividad_promedio,santa cruz,26
+2021-08-14,indice_de_positividad_promedio,tarija,32
+2021-08-14,recuperados_acumulados,beni,19283
+2021-08-14,recuperados_acumulados,chuquisaca,22918
+2021-08-14,recuperados_acumulados,cochabamba,68549
+2021-08-14,recuperados_acumulados,la paz,79093
+2021-08-14,recuperados_acumulados,oruro,21989
+2021-08-14,recuperados_acumulados,pando,4442
+2021-08-14,recuperados_acumulados,potosi,20529
+2021-08-14,recuperados_acumulados,santa cruz,155943
+2021-08-14,recuperados_acumulados,tarija,28632
