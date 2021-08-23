@@ -187,6 +187,7 @@ def get_diff_multi_histo(
 
 
 # Peru
+# TODO: Revisar si el nuevo campo id_persona es constante entre actualizaciones
 
 def download_peru(URL, **kwargs):
     if not URL.startswith('/'):
@@ -198,7 +199,7 @@ def download_peru(URL, **kwargs):
     df = pd.read_csv(fd, sep=';', **kwargs)
     df.columns = [_.lower() for _ in df.columns]
 
-    df = df.drop(columns=[df.columns[0], 'uuid'])
+    df = df.drop(columns=[df.columns[0], 'fecha_corte'])
     df['sexo'] = df['sexo'].str.upper().map({
         'MASCULINO': 'M', 'FEMENINO': 'F'
     })
@@ -234,7 +235,7 @@ def update_peru():
     )
 
     # Fallecidos
-    peru_df = download_peru(PERU_DEATHS_URL, encoding='ISO-8859-1')
+    peru_df = download_peru(PERU_DEATHS_URL, encoding='utf-8')
     peru_df = peru_df.sort_values('fecha_fallecimiento')
     peru_df = peru_df.rename(columns={
         'edad_declarada': 'edad'
