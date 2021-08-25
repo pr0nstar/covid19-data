@@ -187,7 +187,6 @@ def get_diff_multi_histo(
 
 
 # Peru
-# TODO: Revisar si el nuevo campo id_persona es constante entre actualizaciones
 
 def download_peru(URL, **kwargs):
     if not URL.startswith('/'):
@@ -217,6 +216,10 @@ PERU_BASE_URL = 'https://cloud.minsa.gob.pe/s'
 PERU_CASES_URL = PERU_BASE_URL + '/AC2adyLkHCKjmfm/download'
 PERU_DEATHS_URL = PERU_BASE_URL + '/xJ2LQ3QyRW38Pe5/download'
 
+CASE_STATE_PE = {
+    'fecha_resultado': 'confirmed',
+    'fecha_fallecimiento': 'dead',
+}
 GROUPER_PE = [
     pd.Grouper(key='departamento'),
     pd.Grouper(key='sexo'),
@@ -235,17 +238,41 @@ def update_peru():
     )
 
     # Fallecidos
-    peru_df = download_peru(PERU_DEATHS_URL, encoding='utf-8')
-    peru_df = peru_df.sort_values('fecha_fallecimiento')
-    peru_df = peru_df.rename(columns={
+    peru_deaths_df = download_peru(PERU_DEATHS_URL, encoding='utf-8')
+    peru_deaths_df = peru_deaths_df.sort_values('fecha_fallecimiento')
+    peru_deaths_df = peru_deaths_df.rename(columns={
         'edad_declarada': 'edad'
     })
 
     histo_age_df = get_age_multi_histo(
-        peru_df, 'PE', [('fecha_fallecimiento', 'dead')], GROUPER_PE, histo_age_df
+        peru_deaths_df,
+        'PE',
+        [('fecha_fallecimiento', 'dead')],
+        GROUPER_PE,
+        histo_age_df
     )
 
-    return {'histo_age': histo_age_df}
+    peru_deaths_df = pd.merge(
+        peru_deaths_df.dropna(),
+        peru_df.dropna(),
+        on='id_persona'
+    )
+    peru_deaths_df = peru_deaths_df[
+        peru_deaths_df['edad_x'] == peru_deaths_df['edad_y']
+    ]
+    peru_deaths_df = peru_deaths_df.rename({
+        'departamento_x': 'departamento',
+        'sexo_x': 'sexo'
+    })
+
+    CASE_KEYS = list(CASE_STATE_PE.keys())
+    CASE_INTERVALS = list(zip(CASE_KEYS[:-1], CASE_KEYS[1:]))
+
+    histo_diff_df = get_diff_multi_histo(
+        peru_deaths_df, 'PE', CASE_INTERVALS, CASE_STATE_PE, GROUPER_PE
+    )
+
+    return {'histo_age': histo_age_df, 'histo_diff': histo_diff_df}
 
 
 # Colombia
