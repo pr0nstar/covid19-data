@@ -260,7 +260,7 @@ def update_peru():
     peru_deaths_df = peru_deaths_df[
         peru_deaths_df['edad_x'] == peru_deaths_df['edad_y']
     ]
-    peru_deaths_df = peru_deaths_df.rename({
+    peru_deaths_df = peru_deaths_df.rename(columns={
         'departamento_x': 'departamento',
         'sexo_x': 'sexo'
     })
@@ -371,6 +371,9 @@ def download_argentina(_retry=0):
             usecols=ARGENTINA_COL
         )
 
+        del(fd)
+        del(cdata)
+
     except Exception as e:
         if _retry < 3:
             return download_argentina(_retry + 1)
@@ -421,7 +424,6 @@ def update_argentina():
     )
 
     return {'histo_age': histo_age_df, 'histo_diff': histo_diff_df}
-
 
 
 # Paraguay
