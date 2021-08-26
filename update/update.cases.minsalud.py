@@ -182,15 +182,23 @@ def parse_cases_df(cases_df):
     cases_df = cases_df.iloc[:, 1:]
     cases_df.index = format_index(cases_df.index)
 
+    thousands = cases_df.iloc[:, 0].str.replace(r'[0-9]+', '', regex=True)
+    thousands = set(thousands.apply(list).sum())
+
     forbidden_columns = ['%', '100.000', '202', 's.e.', '_se_']
     cases_df = cases_df[
         [_ for _ in cases_df.columns if not any(__ in _ for __ in forbidden_columns)]
     ]
     cases_df = cases_df.loc[~cases_df.index.str.contains('bolivia')]
 
-    cases_df = cases_df.astype(str).applymap(
-        lambda _: _.replace('.', '').replace(',', '.')
-    )
+    if thousands == {'.'}:
+        cases_df = cases_df.astype(str).applymap(
+            lambda _: _.replace('.', '').replace(',', '.')
+        )
+    else:
+        cases_df = cases_df.astype(str).applymap(
+            lambda _: _.replace(',', '')
+        )
 
     return cases_df
 
