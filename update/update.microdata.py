@@ -338,13 +338,34 @@ def update_colombia():
 
 # Argentina
 
+
 ARGENTINA_URL = 'https://sisa.msal.gov.ar/datos/descargas/covid-19/files/Covid19Casos.zip'
+def do_download_argentina():
+    cdata = requests.get(ARGENTINA_URL, headers=HEADERS, timeout=30)
+    zipfile = ZipFile(io.BytesIO(cdata.content))
+
+    for zipfile_path in zipfile.namelist():
+        data_file = zipfile.open(zipfile_path)
+        file_path = os.path.join('/tmp', zipfile_path)
+
+        with open(file_path, 'wb') as dest_file:
+            shutil.copyfileobj(data_file, dest_file)
+
+    return file_path
+
+
 ARGENTINA_COL = [
-    'id_evento_caso', 'sexo', 'edad', 'edad_años_meses',
-    'residencia_departamento_nombre', 'carga_provincia_nombre', 'fecha_inicio_sintomas',
-    'fecha_apertura', 'sepi_apertura', 'fecha_internacion', 'fecha_cui_intensivo',
-    'fecha_fallecimiento', 'clasificacion_resumen', 'fecha_diagnostico'
+    'id_evento_caso', 'sexo', 'edad', 'edad_años_meses', 'carga_provincia_nombre',
+    'fecha_inicio_sintomas', 'fecha_apertura', 'fecha_internacion',
+    'fecha_cui_intensivo', 'fecha_fallecimiento', 'fecha_diagnostico',
+    'clasificacion_resumen'
 ]
+ARGENTINA_TESTING_STATE = {
+    'Descartado': 0,
+    'Confirmado': 1,
+    'Sospechoso': 2,
+    'Sin Clasificar': 3
+}
 
 CASE_STATE_AR = {
     'fecha_inicio_sintomas': 'symptom_onset',
@@ -361,18 +382,12 @@ GROUPER_AR = [
 
 def download_argentina(_retry=0):
     try:
-        cdata = requests.get(ARGENTINA_URL, headers=HEADERS, timeout=30)
-        fd = io.BytesIO(cdata.content)
-
+        file_path = do_download_argentina()
         argentina_df = pd.read_csv(
-            fd,
-            compression='zip',
+            file_path,
             index_col='id_evento_caso',
             usecols=ARGENTINA_COL
         )
-
-        del(fd)
-        del(cdata)
 
     except Exception as e:
         if _retry < 3:
@@ -386,6 +401,10 @@ def download_argentina(_retry=0):
     argentina_df[argentina_df_date_columns] = argentina_df[
         argentina_df_date_columns
     ].apply(parse_date)
+
+    argentina_df['clasificacion_resumen'] = argentina_df[
+        'clasificacion_resumen'
+    ].replace(ARGENTINA_TESTING_STATE).astype(int)
 
     argentina_df.loc[argentina_df['edad_años_meses'] == 'Meses', 'edad'] = 0
     argentina_df['sexo'] = argentina_df['sexo'].replace('NR', 'U')
@@ -403,7 +422,7 @@ def update_argentina():
     )
 
     argentina_df = argentina_df[
-        argentina_df['clasificacion_resumen'] == 'Confirmado'
+        argentina_df['clasificacion_resumen'] == ARGENTINA_TESTING_STATE['Confirmado']
     ]
     argentina_df = argentina_df.drop(columns='clasificacion_resumen')
 
