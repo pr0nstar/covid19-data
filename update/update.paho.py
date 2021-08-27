@@ -199,36 +199,30 @@ def fetch_py():
 
 def fetch_bo():
     cases_df = pd.read_csv('./processed/bolivia/cases.flat.csv')
-
     cases_df['fecha'] = pd.to_datetime(cases_df['fecha'])
-    deaths_df = cases_df[cases_df['casos'] == 'decesos_acumulados'].set_index([
-        'departamento', 'fecha'
+
+    cases_df = cases_df.set_index([
+        'departamento', 'casos', 'fecha'
     ])['cantidad']
 
-    deaths_df = deaths_df.unstack(level=0)
+    cases_df = cases_df.unstack(level='departamento')
 
     cbolivia_df = countries_df[countries_df['country'] == 'Bolivia']
     cbolivia_df.index = cbolivia_df.index.str.lower().str.replace(' department', '')
 
-    deaths_df.columns = deaths_df.columns.map(cbolivia_df['geoCode'])
-    deaths_df.columns = pd.MultiIndex.from_product([['BOL'], deaths_df.columns])
+    cases_df.columns = cases_df.columns.map(cbolivia_df['geoCode'])
+    cases_df.columns = pd.MultiIndex.from_product([['BOL'], cases_df.columns])
 
-    deaths_df.index = deaths_df.index + pd.Timedelta(days=1)
+    cases_df = cases_df.unstack(level='casos')
+    cases_df = cases_df.swaplevel(1, 0, 1).swaplevel(2, 0, 1).sort_index(axis=1)
+    cases_df.index = cases_df.index + pd.Timedelta(days=1)
 
-    return deaths_df
+    return cases_df
 
 
-PATCH_FILE_NAMES = {
-    'TOTAL_CASES': 'confirmed.timeline.daily.patch.csv',
-    'TOTAL_DEATHS': 'deaths.timeline.daily.patch.csv',
-}
-def do_patch():
-    patch_df = fetch_bo()
-    patch_df = pd.concat([patch_df, fetch_py()], axis=1)
-    patch_df = patch_df.loc['2021-07-11':]
-
+def do_patch_file(patch_df, file_name):
     base_patch = pd.read_csv(
-        BASE_PATH + PATCH_FILE_NAMES['TOTAL_DEATHS'],
+        file_name,
         header=[0, 1],
         index_col=0
     )
@@ -241,7 +235,26 @@ def do_patch():
     patch_df.columns.names = ['ISO3_CODE', 'ADM1_ISOCODE']
 
     patch_df = patch_df.astype(dtype=pd.Int64Dtype())
-    patch_df.to_csv(BASE_PATH + PATCH_FILE_NAMES['TOTAL_DEATHS'])
+    patch_df.to_csv(file_name)
+
+
+PATCH_FILE_NAMES = {
+    'TOTAL_CASES': 'confirmed.timeline.daily.patch.csv',
+    'TOTAL_DEATHS': 'deaths.timeline.daily.patch.csv',
+}
+def do_patch():
+    patch_df = fetch_bo()
+
+    patch_death_df = patch_df['decesos_acumulados']
+    patch_death_df = pd.concat([patch_death_df, fetch_py()], axis=1)
+    patch_death_df = patch_death_df.loc['2021-07-11':]
+
+    do_patch_file(patch_death_df, BASE_PATH + PATCH_FILE_NAMES['TOTAL_DEATHS'])
+
+    patch_cases_df = patch_df['casos_acumulados']
+    patch_cases_df = patch_cases_df.loc['2021-07-11':]
+
+    do_patch_file(patch_cases_df, BASE_PATH + PATCH_FILE_NAMES['TOTAL_CASES'])
 
 
 ################################################################################
