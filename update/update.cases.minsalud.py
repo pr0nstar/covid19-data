@@ -365,6 +365,7 @@ if __name__ == '__main__':
             print('Err: No PDF!')
             continue
 
+        post_attachment_name = os.path.basename(post_attachment)
         post_attachment = requests.get(
             post_attachment, headers=HEADERS, timeout=TIMEOUT
         )
@@ -375,17 +376,23 @@ if __name__ == '__main__':
         post_date = post_title.rsplit(' ', 1)[1]
         post_date = pd.to_datetime(post_date, dayfirst=True)
 
-        if 'vacunacion' in post_title:
+        if (
+            'casos' in post_title or
+            post_attachment_name.lower().startswith('reporte-nacional-')
+        ):
+            do_update(
+                parse_cases,
+                post_date,
+                CASES_FILE
+            )
+
+        elif (
+            'vacunacion' in post_title or
+            post_attachment_name.startswith('reporte-de-vacunas-')
+        ):
             do_update(
                 parse_vaccination,
                 post_date,
                 VACCINES_FILE
             )
             do_synk_vaccionations()
-
-        elif 'casos' in post_title:
-            do_update(
-                parse_cases,
-                post_date,
-                CASES_FILE
-            )
