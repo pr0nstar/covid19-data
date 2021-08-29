@@ -305,6 +305,17 @@ def update_colombia():
         lambda _: parse_date(_, dayfirst=True)
     )
 
+    # Q: ¿Cómo debemos interpretar los casos que tienen asignada fecha de
+    # muerte, pero su estado es N/A?
+    # R: Los casos con clasificación N/A corresponden a casos que fallecieron
+    # pero por otras causas diferentes a Covid-19
+    # Fuente: Debatir en Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
+    colombia_df.loc[
+        colombia_df['estado'].isna()&
+        ~colombia_df['fecha_muerte'].isna(),
+        'fecha_muerte'
+    ] = pd.NaT
+
     colombia_df.loc[colombia_df['unidad_medida_edad'].isin([2, 3]), 'edad'] = 0
     colombia_df['sexo'] = colombia_df['sexo'].str.upper()
     colombia_df['nombre_departamento'] = colombia_df[
