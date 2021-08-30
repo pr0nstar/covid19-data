@@ -542,8 +542,8 @@ BRASIL_SRAG_URLS = [
 ]
 
 CASE_STATE_SRAG_BR = {
-    # 'dt_sin_pri': 'symptom_onset',
-    # 'dt_coleta': 'tested',
+    'dt_sin_pri': 'symptom_onset',
+    'dt_coleta': 'tested',
     'dt_pcr': 'confirmed',
     'dt_interna': 'hospitalized',
     'dt_entuti': 'intensive_care',
@@ -659,7 +659,7 @@ def update_brazil_srag():
     histo_age_df = get_age_multi_histo(
         brasil_srag_df,
         'BR',
-        [*CASE_STATE_SRAG_BR.items()][1:],
+        [*CASE_STATE_SRAG_BR.items()],
         GROUPER_BR,
         has_iso_name=False
     )
