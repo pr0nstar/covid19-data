@@ -4979,3 +4979,104 @@ fecha,vacuna_fabricante,dosis,departamento,cantidad
 2021-08-31,total,dosis_entregadas,potosi,535724
 2021-08-31,total,dosis_entregadas,santa cruz,2586938
 2021-08-31,total,dosis_entregadas,tarija,577252
+2021-09-01,astrazeneca,1ra_dosis,beni,49093
+2021-09-01,astrazeneca,1ra_dosis,chuquisaca,8189
+2021-09-01,astrazeneca,1ra_dosis,cochabamba,31884
+2021-09-01,astrazeneca,1ra_dosis,la paz,45395
+2021-09-01,astrazeneca,1ra_dosis,oruro,8065
+2021-09-01,astrazeneca,1ra_dosis,pando,19290
+2021-09-01,astrazeneca,1ra_dosis,potosi,10193
+2021-09-01,astrazeneca,1ra_dosis,santa cruz,38754
+2021-09-01,astrazeneca,1ra_dosis,tarija,6880
+2021-09-01,astrazeneca,2da_dosis,beni,24238
+2021-09-01,astrazeneca,2da_dosis,chuquisaca,7731
+2021-09-01,astrazeneca,2da_dosis,cochabamba,29300
+2021-09-01,astrazeneca,2da_dosis,la paz,43321
+2021-09-01,astrazeneca,2da_dosis,oruro,7634
+2021-09-01,astrazeneca,2da_dosis,pando,14207
+2021-09-01,astrazeneca,2da_dosis,potosi,8407
+2021-09-01,astrazeneca,2da_dosis,santa cruz,31284
+2021-09-01,astrazeneca,2da_dosis,tarija,5979
+2021-09-01,janssen,dosis_unica,beni,2587
+2021-09-01,janssen,dosis_unica,chuquisaca,28622
+2021-09-01,janssen,dosis_unica,cochabamba,136315
+2021-09-01,janssen,dosis_unica,la paz,178974
+2021-09-01,janssen,dosis_unica,oruro,28347
+2021-09-01,janssen,dosis_unica,pando,0
+2021-09-01,janssen,dosis_unica,potosi,54973
+2021-09-01,janssen,dosis_unica,santa cruz,317541
+2021-09-01,janssen,dosis_unica,tarija,27163
+2021-09-01,pfizer,1ra_dosis,beni,0
+2021-09-01,pfizer,1ra_dosis,chuquisaca,8397
+2021-09-01,pfizer,1ra_dosis,cochabamba,17654
+2021-09-01,pfizer,1ra_dosis,la paz,30140
+2021-09-01,pfizer,1ra_dosis,oruro,8956
+2021-09-01,pfizer,1ra_dosis,pando,0
+2021-09-01,pfizer,1ra_dosis,potosi,0
+2021-09-01,pfizer,1ra_dosis,santa cruz,26739
+2021-09-01,pfizer,1ra_dosis,tarija,5905
+2021-09-01,pfizer,2da_dosis,beni,0
+2021-09-01,pfizer,2da_dosis,chuquisaca,7949
+2021-09-01,pfizer,2da_dosis,cochabamba,17107
+2021-09-01,pfizer,2da_dosis,la paz,28142
+2021-09-01,pfizer,2da_dosis,oruro,8506
+2021-09-01,pfizer,2da_dosis,pando,0
+2021-09-01,pfizer,2da_dosis,potosi,0
+2021-09-01,pfizer,2da_dosis,santa cruz,25740
+2021-09-01,pfizer,2da_dosis,tarija,5775
+2021-09-01,sinopharm,1ra_dosis,beni,51367
+2021-09-01,sinopharm,1ra_dosis,chuquisaca,115568
+2021-09-01,sinopharm,1ra_dosis,cochabamba,343789
+2021-09-01,sinopharm,1ra_dosis,la paz,403816
+2021-09-01,sinopharm,1ra_dosis,oruro,96869
+2021-09-01,sinopharm,1ra_dosis,pando,16562
+2021-09-01,sinopharm,1ra_dosis,potosi,107892
+2021-09-01,sinopharm,1ra_dosis,santa cruz,513075
+2021-09-01,sinopharm,1ra_dosis,tarija,158934
+2021-09-01,sinopharm,2da_dosis,beni,35301
+2021-09-01,sinopharm,2da_dosis,chuquisaca,98930
+2021-09-01,sinopharm,2da_dosis,cochabamba,278407
+2021-09-01,sinopharm,2da_dosis,la paz,336230
+2021-09-01,sinopharm,2da_dosis,oruro,81919
+2021-09-01,sinopharm,2da_dosis,pando,11684
+2021-09-01,sinopharm,2da_dosis,potosi,81375
+2021-09-01,sinopharm,2da_dosis,santa cruz,415096
+2021-09-01,sinopharm,2da_dosis,tarija,134216
+2021-09-01,sputnik-v,1ra_dosis,beni,24001
+2021-09-01,sputnik-v,1ra_dosis,chuquisaca,63778
+2021-09-01,sputnik-v,1ra_dosis,cochabamba,195553
+2021-09-01,sputnik-v,1ra_dosis,la paz,277347
+2021-09-01,sputnik-v,1ra_dosis,oruro,50240
+2021-09-01,sputnik-v,1ra_dosis,pando,9083
+2021-09-01,sputnik-v,1ra_dosis,potosi,44989
+2021-09-01,sputnik-v,1ra_dosis,santa cruz,422915
+2021-09-01,sputnik-v,1ra_dosis,tarija,50064
+2021-09-01,sputnik-v,2da_dosis,beni,7133
+2021-09-01,sputnik-v,2da_dosis,chuquisaca,23851
+2021-09-01,sputnik-v,2da_dosis,cochabamba,51485
+2021-09-01,sputnik-v,2da_dosis,la paz,73043
+2021-09-01,sputnik-v,2da_dosis,oruro,15346
+2021-09-01,sputnik-v,2da_dosis,pando,3885
+2021-09-01,sputnik-v,2da_dosis,potosi,19419
+2021-09-01,sputnik-v,2da_dosis,santa cruz,74030
+2021-09-01,sputnik-v,2da_dosis,tarija,15088
+2021-09-01,total,1ra_dosis_suministradas,almacen nacional,0
+2021-09-01,total,1ra_dosis_suministradas,beni,124461
+2021-09-01,total,1ra_dosis_suministradas,chuquisaca,195932
+2021-09-01,total,1ra_dosis_suministradas,cochabamba,588880
+2021-09-01,total,1ra_dosis_suministradas,la paz,756698
+2021-09-01,total,1ra_dosis_suministradas,oruro,164130
+2021-09-01,total,1ra_dosis_suministradas,pando,44935
+2021-09-01,total,1ra_dosis_suministradas,potosi,163074
+2021-09-01,total,1ra_dosis_suministradas,santa cruz,1001483
+2021-09-01,total,1ra_dosis_suministradas,tarija,221783
+2021-09-01,total,dosis_entregadas,almacen nacional,174720
+2021-09-01,total,dosis_entregadas,beni,447917
+2021-09-01,total,dosis_entregadas,chuquisaca,620370
+2021-09-01,total,dosis_entregadas,cochabamba,1417155
+2021-09-01,total,dosis_entregadas,la paz,1884992
+2021-09-01,total,dosis_entregadas,oruro,563632
+2021-09-01,total,dosis_entregadas,pando,171410
+2021-09-01,total,dosis_entregadas,potosi,535724
+2021-09-01,total,dosis_entregadas,santa cruz,2586938
+2021-09-01,total,dosis_entregadas,tarija,577252
