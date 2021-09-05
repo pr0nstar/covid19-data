@@ -319,9 +319,8 @@ def do_synk_vaccionations():
 
     date_test = df.index.to_series().diff().dt.days > 1
     if date_test.any():
-        print(df.index[date_test])
-        print(df.tail())
-        raise(Exception('Missing data'))
+        df = df.resample('D').mean()
+        print('Missing data')
 
     # store
     df = df.astype(pd.Int64Dtype())
