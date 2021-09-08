@@ -152,11 +152,13 @@ def fetch_py():
     req = requests.get(PARAGUAY_URL, headers=HEADERS)
 
     zipfile = ZipFile(io.BytesIO(req.content))
-    zipfiles = [_ for _ in zipfile.namelist() if _.endswith('hyper')]
     cases_df = deaths_df = None
 
-    for zipfile_path in zipfiles:
-        df = read_hyper(zipfile.open(zipfile_path))
+    for zipfile_path in zipfile.namelist():
+        try:
+            df = read_hyper(zipfile.open(zipfile_path))
+        except:
+            continue
 
         if 'fecha_obito' in df.columns:
             deaths_df = df.rename(
