@@ -301,7 +301,7 @@ def do_synk_vaccionations():
     df = df.unstack(level=['departamento', 'vacuna_fabricante', 'dosis'])
 
     df = df.T.sort_index().T
-    df = df.groupby(level=['departamento', 'dosis'], axis=1).sum()
+    df = df.groupby(level=['departamento', 'dosis'], axis=1).sum(min_count=1)
 
     # read storage + merge
     store_df = pd.read_csv(VACCINES_SQUARE_FILE, header=[0, 1], index_col=0)
