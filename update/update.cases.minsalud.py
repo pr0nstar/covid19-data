@@ -375,6 +375,24 @@ if __name__ == '__main__':
         post_date = post_title.rsplit(' ', 1)[1]
         post_date = pd.to_datetime(post_date, dayfirst=True)
 
+        try:
+            post_date_file_name = post_attachment_name.rsplit('.', 1)[0]
+            post_date_file_name = post_date_file_name.rsplit('-', 1)[1]
+
+            post_date_file_name = pd.to_datetime(
+                post_date_file_name, format='%d_%m_%Y'
+            )
+
+            if (
+                post_date_file_name > post_date and
+                post_date_file_name < pd.to_datetime('today')
+            ):
+                post_date = post_date_file_name
+
+        except:
+            pass
+
+
         if (
             'casos' in post_title or
             post_attachment_name.lower().startswith('reporte-nacional-')
