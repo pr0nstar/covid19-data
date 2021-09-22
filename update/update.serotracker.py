@@ -127,7 +127,8 @@ level0_patch = {
     'United States of America': 'United States',
     'Viet Nam': 'Vietnam',
     'Lao People\'s Democratic Republic': 'Laos',
-    'Venezuela (Bolivarian Republic of)': 'Venezuela'
+    'Venezuela (Bolivarian Republic of)': 'Venezuela',
+    'Syrian Arab Republic': 'Syria',
 }
 
 
