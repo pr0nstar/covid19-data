@@ -5,6 +5,9 @@ requests[socks]
 demjson
 unidecode
 numpy
+matplotlib
+numexpr
+bottleneck
 pandas
 xlrd==1.2.0
 pytrends
