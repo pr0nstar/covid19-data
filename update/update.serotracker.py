@@ -121,6 +121,7 @@ level0_patch = {
     'Iran (Islamic Republic of)': 'Iran',
     'occupied Palestinian territory (including east Jerusalem)': 'Palestinian Territory',
     'occupied Palestinian territory, including east Jerusalem': 'Palestinian Territory',
+    'occupied Palestinian territory': 'Palestinian Territory',
     'Republic of Korea': 'South Korea',
     'Russian Federation':  'Russia',
     'The United Kingdom': 'United Kingdom',
@@ -230,6 +231,7 @@ def resolve_iso3166(store_data):
     specific_geography = specific_geography.T.dropna()
     specific_geography = specific_geography.T.replace('', np.nan)
 
+    specific_geography[0] = specific_geography[0].str.replace('"', '')
     specific_geography[0] = specific_geography[0].replace(level0_patch)
     specific_geography[0] = specific_geography[0].replace(r'(.*),.*', r'\1', regex=True)
 
