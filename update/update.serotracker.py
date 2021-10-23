@@ -37,6 +37,13 @@ def format_column(column_name):
     return column_name
 
 
+FLOAT_COLUMNS = [
+    'serum_positive_prevalence',
+    'serum_pos_prevalence_95pct_ci_lower',
+    'serum_pos_prevalence_95pct_ci_upper',
+    'specificity',
+    'sensitivity'
+]
 BASE_URL = 'https://airtable.com'
 RESO_URL = BASE_URL + '/embed/shrtuN7F8x4bdkdDA'
 def fetch_data():
@@ -102,6 +109,8 @@ def fetch_data():
     store_data['date_created'] = store_data['date_created'].astype('datetime64[D]')
     store_data['test_manufacturer'] = store_data['test_manufacturer'].fillna('NR')
 
+    store_data[FLOAT_COLUMNS] = store_data[FLOAT_COLUMNS].round(3)
+
     string_columns = [_ for _ in store_data.columns if hasattr(store_data[_], 'str')]
 
     for column in string_columns:
@@ -138,6 +147,7 @@ level0_patch = {
 level1_patch = {
     'brussels-capital': 'Brussels',
     'sao paolo': 'Sao Paulo',
+    'greater sao paulo': 'Sao Paulo',
     'british colombia': 'British Columbia',
     'shanghai municipality': 'Shanghai',
     'wuhan': 'Hubei',
@@ -151,10 +161,10 @@ level1_patch = {
     'capital  and  zealand': 'Capital Region',
     'diredawa': 'Dire Dawa',
     'somme': 'Hauts-de-France',
-    'paris': 'Île-de-France',
-    'ile de france': 'Île-de-France',
+    'paris': 'Ile-de-France',
+    'ile de france': 'Ile-de-France',
     'grand-est': 'Grand Est',
-    'île-de-france and grand est': 'Île-de-France',
+    'île-de-france and grand est': 'Ile-de-France',
     'mecklenburg-westpomerania': 'Mecklenburg-Vorpommern',
     'heinsberg': 'North Rhine-Westphalia',
     'nct delhi': 'Delhi',
@@ -167,14 +177,22 @@ level1_patch = {
     'guilan': 'Gilan',
     'sistan and balouchestan': 'Sistan and Baluchestan',
     'udine': 'Friuli Venezia Giulia',
-    'prato': 'Tuscany',
+    'prato': 'Tuscany',    
     'trento': 'Trentino-Alto Adige',
     'avellino in the campania': 'Campania',
     'naples': 'Campania',
     'turin': 'Piedmont',
     'le marche': 'The Marches',
     'emilia romagna': 'Emilia-Romagna',
+    'province of modena': 'Emilia-Romagna',
+    'modena': 'Emilia-Romagna',
     'verona': 'Veneto',
+    'padova': 'Veneto',
+    'province of padova': 'Veneto',
+    'brescia': 'Lombardy',
+    'province of brescia': 'Lombardy',
+    'foggia': 'Apulia',
+    'province of foggia': 'Apulia',
     'tokyo prefecture': 'Tokyo',
     'nairobi': 'Nairobi Area',
     'southern  malawi': 'Southern Region',
@@ -198,7 +216,8 @@ level1_patch = {
     'na & zaragoza': 'Aragon',
     'barcelona': 'Catalonia',
     'uppland': 'Stockholm',
-    'södermanland and uppland': 'Stockholm',
+    'sodermanland and uppland': 'Stockholm',
+    'sodermanland, uppland': 'Stockholm',
     'norbotten': 'Norrbotten',
     'south east england': 'England',
     'east of england': 'England',
@@ -209,8 +228,15 @@ level1_patch = {
     'west midlands': 'England',
     'emirate of abu dhabi': 'Abu Dhabi',
     'washington d.c': 'District of Columbia',
+    'atlanta': 'Georgia',
     'minesota': 'Minnesota',
-    'indiada': 'Indiana'
+    'indiada': 'Indiana',
+    'antwerp province': 'Flemish Region',
+    'department of vaupes': 'Vaupes',
+    'copenhagen': 'Capital Region',
+    'karaganda': 'Qaraghandy',
+    'gaza': 'Gaza Strip',
+    'skopje': 'Grad Skopje'
 }
 
 

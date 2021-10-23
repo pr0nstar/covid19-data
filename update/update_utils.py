@@ -59,6 +59,10 @@ def fetch_geocodes(trim_admin_level=True):
 
     lima_region = next(_ for _ in geo_data['PE']['regions'] if _['iso'] == 'LIM')
     lima_region['names']['geonames'] = 'Lima'
+    # Patch Puerto Rico
+    geo_data['US']['regions'].append(
+        {'name': 'Puerto Rico', 'iso': 'PR', 'names': {'geonames': 'Puerto Rico'}}
+    )
 
     iso_level_0 = {}
     iso_level_1 = pd.DataFrame([])
