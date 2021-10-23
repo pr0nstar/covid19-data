@@ -371,12 +371,6 @@ ARGENTINA_COL = [
     'fecha_cui_intensivo', 'fecha_fallecimiento', 'fecha_diagnostico',
     'clasificacion_resumen'
 ]
-ARGENTINA_TESTING_STATE = {
-    'Descartado': 0,
-    'Confirmado': 1,
-    'Sospechoso': 2,
-    'Sin Clasificar': 3
-}
 
 CASE_STATE_AR = {
     'fecha_inicio_sintomas': 'symptom_onset',
@@ -397,7 +391,12 @@ def download_argentina(_retry=0):
         argentina_df = pd.read_csv(
             file_path,
             index_col='id_evento_caso',
-            usecols=ARGENTINA_COL
+            usecols=ARGENTINA_COL,
+            dtype={
+                'sexo': 'category',
+                'edad_años_meses': 'category',
+                'clasificacion_resumen': 'category',
+            }
         )
 
     except Exception as e:
@@ -412,10 +411,6 @@ def download_argentina(_retry=0):
     argentina_df[argentina_df_date_columns] = argentina_df[
         argentina_df_date_columns
     ].apply(parse_date)
-
-    argentina_df['clasificacion_resumen'] = argentina_df[
-        'clasificacion_resumen'
-    ].replace(ARGENTINA_TESTING_STATE).astype(int)
 
     argentina_df.loc[argentina_df['edad_años_meses'] == 'Meses', 'edad'] = 0
     argentina_df['sexo'] = argentina_df['sexo'].replace('NR', 'U')
@@ -433,7 +428,7 @@ def update_argentina():
     )
 
     argentina_df = argentina_df[
-        argentina_df['clasificacion_resumen'] == ARGENTINA_TESTING_STATE['Confirmado']
+        argentina_df['clasificacion_resumen'] == 'Confirmado'
     ]
     argentina_df = argentina_df.drop(columns='clasificacion_resumen')
 
