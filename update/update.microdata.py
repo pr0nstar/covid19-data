@@ -188,25 +188,25 @@ def get_diff_multi_histo(
 
 # Peru
 
-def download_peru(URL, **kwargs):
+def download_peru(URL, sep=';', date_format='%Y%m%d', **kwargs):
     if not URL.startswith('/'):
         cdata = requests.get(URL, headers=HEADERS, timeout=30)
         fd = io.BytesIO(cdata.content)
     else:
         fd = open(URL)
 
-    df = pd.read_csv(fd, sep=';', **kwargs)
+    df = pd.read_csv(fd, sep=sep, **kwargs)
     df.columns = [_.lower() for _ in df.columns]
 
-    df = df.drop(columns=[df.columns[0], 'fecha_corte'])
-    df['sexo'] = df['sexo'].str.upper().map({
+    df = df.drop(columns=[df.columns[0], 'fecha_corte'], errors='ignore')
+    df['sexo'] = df['sexo'].str.upper().replace({
         'MASCULINO': 'M', 'FEMENINO': 'F'
     })
     df = df[~df['sexo'].isna()]
 
     df_date_columns = [_ for _ in df.columns if _.startswith('fecha_')]
     df[df_date_columns] = df[df_date_columns].apply(
-        lambda _: parse_date(_, format='%Y%m%d')
+        lambda _: parse_date(_, format=date_format)
     )
 
     return df
@@ -215,9 +215,12 @@ def download_peru(URL, **kwargs):
 PERU_BASE_URL = 'https://cloud.minsa.gob.pe/s'
 PERU_CASES_URL = PERU_BASE_URL + '/AC2adyLkHCKjmfm/download'
 PERU_DEATHS_URL = PERU_BASE_URL + '/xJ2LQ3QyRW38Pe5/download'
+PERU_HOSPITALIZATIONS_URL = PERU_BASE_URL + '/BosSrQ5wDf86xxg/download'
 
 CASE_STATE_PE = {
     'fecha_resultado': 'confirmed',
+    'fecha_ingreso_hosp': 'hospitalized',
+    'fecha_ingreso_uci': 'intensive_care',
     'fecha_fallecimiento': 'dead',
 }
 GROUPER_PE = [
@@ -226,6 +229,29 @@ GROUPER_PE = [
 ]
 
 def update_peru():
+    # Hospitalizados
+    peru_hospitalized_df = download_peru(
+        PERU_HOSPITALIZATIONS_URL, 
+        sep=',', 
+        date_format='%d/%m/%Y', 
+        encoding='utf-8'
+    )
+    peru_hospitalized_df = peru_hospitalized_df.sort_values('fecha_ingreso_hosp')
+    peru_hospitalized_df = peru_hospitalized_df.rename(columns={
+        'dep_domicilio': 'departamento',
+    })
+
+    hosp_intervals = [
+        ('fecha_ingreso_hosp', 'hospitalized'), 
+        ('fecha_ingreso_uci', 'intensive_care')
+    ]
+    histo_age_df = get_age_multi_histo(
+        peru_hospitalized_df,
+        'PE',
+        hosp_intervals,
+        GROUPER_PE,
+    )
+
     # Casos
     peru_df = download_peru(PERU_CASES_URL, encoding='utf-8')
     peru_df = peru_df.sort_values('fecha_resultado')
@@ -234,7 +260,8 @@ def update_peru():
     })
 
     histo_age_df = get_age_multi_histo(
-        peru_df, 'PE', [('fecha_resultado', 'confirmed')], GROUPER_PE
+        peru_df, 'PE', [('fecha_resultado', 'confirmed')], GROUPER_PE, 
+        histo_age_df
     )
 
     # Fallecidos
@@ -252,24 +279,62 @@ def update_peru():
         histo_age_df
     )
 
-    peru_deaths_df = pd.merge(
+    # Merge death df
+    peru_df_d = pd.merge(
         peru_deaths_df.dropna(),
         peru_df.dropna(),
         on='id_persona'
     )
-    peru_deaths_df = peru_deaths_df[
-        peru_deaths_df['edad_x'] == peru_deaths_df['edad_y']
+    peru_df_d = peru_df_d[
+        peru_df_d['edad_x'] == peru_df_d['edad_y']
     ]
-    peru_deaths_df = peru_deaths_df.rename(columns={
+    peru_df_d = peru_df_d.rename(columns={
         'departamento_x': 'departamento',
         'sexo_x': 'sexo'
     })
+    peru_df_d = peru_df_d[
+        [_ for _ in peru_df_d.columns if not (_.endswith('_x') or _.endswith('_y'))]
+    ]
 
+    # Merge hospitalized df
+    peru_df_h = pd.merge(
+        peru_df,
+        peru_hospitalized_df,
+        how='outer',
+        on='id_persona',
+    )
+    peru_df_h = peru_df_h.rename(columns={
+        'departamento_x': 'departamento',
+        'sexo_x': 'sexo'
+    })
+    peru_df_h = peru_df_h[
+        [_ for _ in peru_df_h.columns if not (_.endswith('_x') or _.endswith('_y'))]
+    ]
+
+    # Merge all
+    peru_df = pd.merge(
+        peru_df_d, 
+        peru_df_h, 
+        how='outer', 
+        on='id_persona'
+    )
+    peru_df['sexo'] = peru_df[
+        ['sexo_x', 'sexo_y']
+    ].T.fillna(method='bfill').T['sexo_x']
+    peru_df['departamento'] = peru_df[
+        ['departamento_x', 'departamento_y']
+    ].T.fillna(method='bfill').T['departamento_x']
+    peru_df['fecha_resultado'] = peru_df[
+        ['fecha_resultado_x', 'fecha_resultado_y']
+    ].T.fillna(method='bfill').T['fecha_resultado_x']
+
+    # Diff histo
     CASE_KEYS = list(CASE_STATE_PE.keys())
     CASE_INTERVALS = list(zip(CASE_KEYS[:-1], CASE_KEYS[1:]))
+    CASE_INTERVALS.append(('fecha_resultado', 'fecha_fallecimiento'))
 
     histo_diff_df = get_diff_multi_histo(
-        peru_deaths_df, 'PE', CASE_INTERVALS, CASE_STATE_PE, GROUPER_PE
+        peru_df, 'PE', CASE_INTERVALS, CASE_STATE_PE, GROUPER_PE
     )
 
     return {'histo_age': histo_age_df, 'histo_diff': histo_diff_df}
