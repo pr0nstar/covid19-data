@@ -194,6 +194,7 @@ def fetch_py():
     ).cumsum().fillna(method='ffill', axis=0)
 
     deaths_df = deaths_df.droplevel(0, axis=1)
+    deaths_df[('PRY', 'PY-13')] = .0
     deaths_df[('PRY', 'PY-15')] = .0
 
     return deaths_df
