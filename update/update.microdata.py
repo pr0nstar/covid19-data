@@ -241,6 +241,12 @@ def update_peru():
         'dep_domicilio': 'departamento',
     })
 
+    # Covid+ o fallecimiento covid criterio cdc
+    peru_hospitalized_df = peru_hospitalized_df[
+        (peru_hospitalized_df['cdc_positividad'] == 1)|
+        (peru_hospitalized_df['cdc_fallecido_covid'] == 1)
+    ]
+
     hosp_intervals = [
         ('fecha_ingreso_hosp', 'hospitalized'), 
         ('fecha_ingreso_uci', 'intensive_care')
