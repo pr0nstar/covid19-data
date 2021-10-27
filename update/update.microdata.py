@@ -458,7 +458,6 @@ def download_argentina(_retry=0):
             index_col='id_evento_caso',
             usecols=ARGENTINA_COL,
             dtype={
-                'sexo': 'category',
                 'edad_años_meses': 'category',
                 'clasificacion_resumen': 'category',
             }
