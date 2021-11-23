@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore', category=pd.errors.PerformanceWarning)
 
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)'
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)'
 }
 
 
@@ -283,7 +283,7 @@ def update_ecuador():
 BASE_COLOMBIA_URL = 'https://www.dane.gov.co'
 COLOMBIA_URL = BASE_COLOMBIA_URL + '/index.php/estadisticas-por-tema/demografia-y-poblacion/informe-de-seguimiento-defunciones-por-covid-19'
 def update_colombia():
-    cdata = requests.get(COLOMBIA_URL, verify=False)
+    cdata = requests.get(COLOMBIA_URL, verify=False, headers=HEADERS)
     cdata = BeautifulSoup(cdata.text, 'html.parser')
 
     cdata_docs = cdata.findChild('div', {'class': 'docs-tecnicos'})
@@ -296,8 +296,8 @@ def update_colombia():
     if download_url.startswith('/'):
         download_url = BASE_COLOMBIA_URL + download_url
 
-    cdata = requests.get(download_url, verify=False)
-
+    cdata = requests.get(download_url, verify=False, headers=HEADERS)  
+    
     df = pd.read_excel(cdata.content, sheet_name=1, header=None)
     df = df.dropna(how='all').iloc[3:]
 
