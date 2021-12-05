@@ -296,8 +296,8 @@ def update_colombia():
     if download_url.startswith('/'):
         download_url = BASE_COLOMBIA_URL + download_url
 
-    cdata = requests.get(download_url, verify=False, headers=HEADERS)  
-    
+    cdata = requests.get(download_url, verify=False, headers=HEADERS)
+
     df = pd.read_excel(cdata.content, sheet_name=1, header=None)
     df = df.dropna(how='all').iloc[3:]
 
@@ -380,6 +380,13 @@ def update_peru():
     df['FECHA'] = pd.to_datetime(df['FECHA'])
     df = df.sort_values('FECHA')
 
+    df = df[df['PAIS DOMICILIO'] == 'PERU']
+
+    df['DEPARTAMENTO DOMICILIO'] = df['DEPARTAMENTO DOMICILIO'].str.strip()
+    df = df[df['DEPARTAMENTO DOMICILIO'].astype(bool)]
+    df['PROVINCIA DOMICILIO'] = df['PROVINCIA DOMICILIO'].str.strip()
+    df = df[df['PROVINCIA DOMICILIO'].astype(bool)]
+
     df = df.groupby([
         'DEPARTAMENTO DOMICILIO', 'PROVINCIA DOMICILIO', 'FECHA'
     ])[df.columns[0]].count().reset_index()
@@ -389,8 +396,8 @@ def update_peru():
     df_deaths = df_deaths.sort_index()
 
     # Patch Drop Locations: EXTRANJERO/SIN REGISTRO
-    df_deaths = df_deaths.drop('EXTRANJERO', level=0)
-    df_deaths = df_deaths.drop('SIN REGISTRO', level=0)
+    df_deaths = df_deaths.drop('EXTRANJERO', level=0, errors='ignore')
+    df_deaths = df_deaths.drop('SIN REGISTRO', level=0, errors='ignore')
 
     df_deaths = storage_format(
         df_deaths,
