@@ -64,6 +64,17 @@ def fetch_geocodes(trim_admin_level=True):
         {'name': 'Puerto Rico', 'iso': 'PR', 'names': {'geonames': 'Puerto Rico'}}
     )
 
+    # Patch Kosovo
+    geo_data['XK'] = {
+        'iso': 'XK',
+        'iso3': 'XKX',
+        'names': {
+            'geonames': 'Kosovo',
+            'en': 'Republic of Kosovo'
+        },
+        'regions': []
+    }
+
     iso_level_0 = {}
     iso_level_1 = pd.DataFrame([])
 
