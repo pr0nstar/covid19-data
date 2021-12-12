@@ -67,6 +67,18 @@ def get_population():
     return geo_sa_df, sa_cities
 
 
+ARTICLES = ['de', 'del', 'los', 'las']
+def do_title(title):
+    title = title.encode('cp1252').decode('utf-8')
+
+    title = title.lower().capitalize().split(' ')
+    title = title[:1] + [
+        _.capitalize() if _ not in ARTICLES else _ for _ in title[1:]
+    ]
+
+    return ' '.join(title)
+
+
 DF_ADM1_COLS = [
     'iso_code', 'country_name', 'adm1_isocode',
     'adm1_name', 'frequency', 'date', 'deaths'
@@ -222,29 +234,44 @@ def update_brazil():
     }
 
 
-
-ECUADOR_URL = 'https://github.com/andrab/ecuacovid/raw/master/datos_crudos/defunciones/por_fecha/cantones_por_dia.csv'
+ECU_PROVINCIAS_MAP = {
+    'Santo Domingo de los Tsachilas': 'Santo Domingo de los Tsachilas',
+    'Sto Dgo Tsachil': 'Santo Domingo de los Tsachilas',
+    'Sto. Domingo Tsachilas': 'Santo Domingo de los Tsachilas'
+}
+ECU_CANTONES_MAP = {
+    'Alfredo Baquerizo Moreno (jujan)': 'Alfredo Baquerizo Moreno',
+    'Baños de Agua Santa': 'Baños',
+    'El Empalme': 'Empalme',
+    'Francisco de Orellana': 'Orellana',
+    'General Villamil (playas)': 'Playas',
+    'Rio Verde': 'Rioverde',
+    'Yaguachi': 'San Jacinto de Yaguachi'
+}
+ECUADOR_URL = 'https://www.registrocivil.gob.ec/cifrasdefuncion/'
 def update_ecuador():
-    df = pd.read_csv(ECUADOR_URL)
-    df = df.set_index(['provincia', 'canton'])
+    cdata = requests.get(ECUADOR_URL, verify=False, headers=HEADERS)
+    cdata = BeautifulSoup(cdata.text, 'html.parser')
 
-    df = df.drop('Otro', level=0, errors='ignore')
+    cdata_btns = cdata.find_all('tr')
+    download_url = next(
+        _ for _ in cdata_btns if 'defunciones generales' in _.text.lower()
+    ).findChild('a').attrs['href']
 
-    df = df.drop([
-        'lat', 'lng', 'provincia_poblacion', 'canton_poblacion'
-    ], axis=1)
+    cdata = requests.get(download_url, verify=False, headers=HEADERS)
+    df = pd.read_excel(cdata.content)
 
-    df = df.astype(int).T
-    df.index = pd.to_datetime(df.index, dayfirst=True)
+    df.columns = [_.lower().replace(' ', '_') for _ in df.columns]
+    df = df.drop(['zona', 'mes_def', 'dia_def'], axis=1)
+    df.iloc[:, :3] = df.iloc[:, :3].applymap(do_title)
 
-    df = df.unstack().to_frame()
-    df = df.reset_index()
+    df['provincia_defuncion'] = df['provincia_defuncion'].replace(ECU_PROVINCIAS_MAP)
+    df['canton_defuncion'] = df['canton_defuncion'].replace(ECU_CANTONES_MAP)
+
+    df = df.groupby([
+        'provincia_defuncion', 'canton_defuncion', 'fecha_defuncion'
+    ])['parroquia_defuncion'].count()
     df.columns = ['adm1_name', 'adm2_name', 'date', 'deaths']
-
-    # Patch name format
-    df['adm1_name'] = df['adm1_name'].str.replace(
-        'Sto. Domingo Tsáchilas', 'Santo Domingo de los Tsáchilas'
-    )
 
     df_deaths = df.groupby(['adm1_name', 'date']).sum()
     df_deaths = df_deaths.sort_index()
