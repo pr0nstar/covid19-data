@@ -237,7 +237,7 @@ def update_brazil():
 ECU_PROVINCIAS_MAP = {
     'Santo Domingo de los Tsachilas': 'Santo Domingo de los Tsachilas',
     'Sto Dgo Tsachil': 'Santo Domingo de los Tsachilas',
-    'Sto. Domingo Tsachilas': 'Santo Domingo de los Tsachilas'
+    'Sto Domingo Tsachilas': 'Santo Domingo de los Tsachilas'
 }
 ECU_CANTONES_MAP = {
     'Alfredo Baquerizo Moreno (jujan)': 'Alfredo Baquerizo Moreno',
@@ -271,6 +271,8 @@ def update_ecuador():
     df = df.groupby([
         'provincia_defuncion', 'canton_defuncion', 'fecha_defuncion'
     ])['parroquia_defuncion'].count()
+
+    df = df.reset_index()
     df.columns = ['adm1_name', 'adm2_name', 'date', 'deaths']
 
     df_deaths = df.groupby(['adm1_name', 'date']).sum()
