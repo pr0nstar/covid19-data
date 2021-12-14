@@ -75,9 +75,9 @@ def build_query(
                   }]
                 },
                 "DataReduction": {
-                  "DataVolume": 2,
+                  "DataVolume": 3,
                   "Primary": {
-                    "Window": {"Count": 9999}
+                    "BinnedLineSample": {},
                   }
                 },
                 "Version": 1
@@ -239,9 +239,8 @@ def unicef_supply_deals(headers):
     )
     data = data.json()
 
-     # Inflate
+    # Inflate
     inflated_data = inflate_data(data, columns=COLUMNS)
-
     inflated_data['Deal Date'] = pd.to_datetime(
         inflated_data['Deal Date'], errors='coerce'
     )
@@ -289,7 +288,6 @@ def unicef_donations(headers):
 
      # Inflate
     inflated_data = inflate_data(data, columns=COLUMNS)
-
     inflated_data['Update Date'] = pd.to_datetime(
         inflated_data['Update Date'], unit='ms', errors='coerce'
     )
