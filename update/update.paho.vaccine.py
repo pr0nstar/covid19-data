@@ -21,7 +21,7 @@ HEADERS = {
 PAHO_BASE_URL = 'https://wabi-south-central-us-api.analysis.windows.net/'
 PAHO_REQUEST_URL = PAHO_BASE_URL + '/public/reports/querydata?synchronous=true'
 
-UNICEF_BASE_URL = 'https://wabi-north-europe-api.analysis.windows.net/'
+UNICEF_BASE_URL = 'https://wabi-north-europe-j-primary-api.analysis.windows.net/'
 UNICEF_REQUEST_URL = UNICEF_BASE_URL + '/public/reports/querydata?synchronous=true'
 
 LOCAL_BASE_PATH = './raw/paho/'
@@ -77,7 +77,7 @@ def build_query(
                 "DataReduction": {
                   "DataVolume": 2,
                   "Primary": {
-                    "BinnedLineSample": {},
+                    "Window": {"Count": 9999}
                   }
                 },
                 "Version": 1
@@ -214,7 +214,7 @@ def unicef_supply_deals(headers):
                 "VisualId": "c97d36445fe8819945d7"
             }]
         },
-        'model_id': 12516632
+        'model_id': 187971
     }
 
     TABLE = "mod Supply Deals View Table"
@@ -239,8 +239,9 @@ def unicef_supply_deals(headers):
     )
     data = data.json()
 
-    # Inflate
+     # Inflate
     inflated_data = inflate_data(data, columns=COLUMNS)
+
     inflated_data['Deal Date'] = pd.to_datetime(
         inflated_data['Deal Date'], errors='coerce'
     )
@@ -262,7 +263,7 @@ def unicef_donations(headers):
                 "VisualId": "b85e5d3003879b5ad1ca"
             }]
         },
-        'model_id': 12516632
+        'model_id': 187971
     }
 
     TABLE = "mod Donation Deliveries View Table"
@@ -288,6 +289,7 @@ def unicef_donations(headers):
 
      # Inflate
     inflated_data = inflate_data(data, columns=COLUMNS)
+
     inflated_data['Update Date'] = pd.to_datetime(
         inflated_data['Update Date'], unit='ms', errors='coerce'
     )

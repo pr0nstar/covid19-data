@@ -1,303 +1,601 @@
 Recipient,Recipient ISO,Vaccine Name,Manufacturer,Source URL,Vaccine Developer,Donor,Donor ISO,Update Date,Doses
-West Bank and Gaza,PSE,mRNA-1273,Moderna,https://www.france24.com/en/live-news/20210131-israel-says-to-send-5-000-vaccine-shots-to-palestinians,Moderna,Israel,ISR,2020-02-02,5000
-Kyrgyzstan,KGZ,Sputnik V,Gamaleya Research Institute,https://tass.com/world/1287905,Gamaleya Research Institute,Russia,RUS,2020-04-29,500000
-Nepal,NPL,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,1000000
-Myanmar,MMR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,1500000
-Maldives,MDV,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-22,200000
-Seychelles,SYC,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-26,50000
-Seychelles,SYC,BBIBP-CorV,Sinopharm (Beijing),http://www.statehouse.gov.sc/news/5071/president-of-seychelles-takes-covid-19-vaccine-seychelles-launches-national-covid-19-immunisation-campaign,Sinopharm (Beijing),UAE,ARE,2021-01-26,50000
-Sri Lanka,LKA,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-28,500000
-Bahrain,BHR,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-29,100000
-Oman,OMN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-01-29,100000
-Nicaragua,NIC,Covishield,Serum Institute of India,https://twitter.com/IndiainPanama/status/1370481740314202119?s=20,Serum Institute of India,India,IND,2021-01-29,200000
-Congo,COG,BBIBP-CorV,Sinopharm (Beijing),https://www.bloomberg.com/news/articles/2021-02-05/congo-republic-to-get-100-0000-doses-of-covid-vaccine-from-china,Sinopharm (Beijing),China,CHN,2021-02-05,100000
-Myanmar,MMR,BBIBP-CorV,Sinopharm (Beijing),https://www.irrawaddy.com/news/burma/china-donates-500000-covid-19-vaccines-myanmar-junta.html,Sinopharm (Beijing),China,CHN,2021-02-09,500000
-Bolivia,BOL,BBIBP-CorV,Sinopharm (Beijing),https://www.minsalud.gob.bo/5319-llegan-sinopharm-bolivia,Sinopharm (Beijing),China,CHN,2021-02-11,100000
-Equatorial Guinea,GNQ,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/us-health-coronavirus-equatorial/china-donates-100000-covid-19-vaccine-doses-to-equatorial-guinea-idUSKBN2AB15Q,Sinopharm (Beijing),China,CHN,2021-02-11,100000
-Bosnia,BIH,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-bosnia-vaccines/bosnia-begins-covid-19-vaccination-roll-out-with-russian-vaccine-idUSL8N2KI2RI,Gamaleya Research Institute,Russia,RUS,2021-02-12,5000
-Philippines,PHL,Coronavac,Sinovac,https://www.reuters.com/article/us-health-coronavirus-philippines/philippines-to-get-china-donated-vaccines-this-month-for-troops-medical-staff-idUSKBN2AB0IT,Sinovac,China,CHN,2021-02-15,600000
-Sierra Leone,SLE,BBIBP-CorV,Sinopharm (Beijing),http://en.nhc.gov.cn/2021-02/26/c_83062.htm,Sinopharm (Beijing),China,CHN,2021-02-26,200000
-Suriname,SUR,Covishield,Serum Institute of India,https://www.reuters.com/article/us-health-coronavirus-suriname-vaccine/suriname-begins-coronavirus-vaccination-campaign-with-donated-doses-idUSKBN2AN2AT,Serum Institute of India,Barbados,BRB,2021-02-26,1000
-Dominica,DMA,Covishield,Serum Institute of India,https://www.republicworld.com/india-news/general-news/thank-you-india-dominica-pm-extends-gratitude-for-70000-doses-of-covid-19-vaccine.html,Serum Institute of India,India,IND,2021-02-26,70000
-West Bank and Gaza,PSE,Sputnik V,Gamaleya Research Institute,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,Gamaleya Research Institute,UAE,ARE,2021-02-26,20000
-Honduras,HND,mRNA-1273,Moderna,https://www.reuters.com/article/healthcoronavirus-honduras/honduras-orders-70000-doses-of-russias-sputnik-v-covid-19-vaccine-idUSL1N2KU28H,Moderna,Israel,ISR,2021-02-26,5000
-Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://www.barrons.com/news/france-to-ship-vaccines-to-hard-hit-czechs-report-01614276018?tesla=y,Pfizer BioNTech,Israel,ISR,2021-02-26,5000
-Afghanistan,AFG,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/us-health-coronavirus-afghanistan-vaccin/china-to-provide-afghanistan-with-400000-doses-of-covid-19-vaccine-idUSKCN2AT1V5,Sinopharm (Beijing),China,CHN,2021-03-01,400000
-Venezuela,VEN,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/instant-article/idINL2N2L019T,Sinopharm (Beijing),China,CHN,2021-03-02,500000
-Iran,IRN,BBIBP-CorV,Sinopharm (Beijing),https://www.aljazeera.com/news/2021/2/28/iran-receives-chinas-sinopharm-jabs-as-covid-deaths-reach-60000,Sinopharm (Beijing),China,CHN,2021-03-04,250000
-Saint Vincent,VCT,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-08,40000
-Jamaica,JAM,Covishield,Serum Institute of India,https://twitter.com/AndrewHolnessJM/status/1369307596834959367?s=20,Serum Institute of India,India,IND,2021-03-08,50000
-Bosnia,BIH,Sputnik V,Gamaleya Research Institute,https://www.barrons.com/news/serbia-delivers-10-000-vaccine-doses-to-struggling-bosnia-01614699006,Gamaleya Research Institute,Serbia,SRB,2021-03-08,10000
-Saint Lucia,LCA,Covishield,Serum Institute of India,https://twitter.com/allenmchastanet/status/1366479878548242437?s=20,Serum Institute of India,India,IND,2021-03-08,25000
-Uganda,UGA,Covishield,Serum Institute of India,https://twitter.com/IndiainUganda/status/1368549937038954496?s=20,Serum Institute of India,India,IND,2021-03-08,100000
-Antigua,ATG,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-08,40000
-Guatemala,GTM,Covishield,Serum Institute of India,https://twitter.com/IndiaInGuate/status/1367184660330143753?s=20,Serum Institute of India,India,IND,2021-03-12,200000
-Belize,BLZ,Covaxin,Bharat Biotech,https://twitter.com/VohraManpreet/status/1369125562673885189?s=20,Bharat Biotech,India,IND,2021-03-12,25000
-Botswana,BWA,Covaxin,Bharat Biotech,https://twitter.com/HCIGaborone/status/1369369507488292874?s=20,Bharat Biotech,India,IND,2021-03-12,30000
-Senegal,SEN,Covishield,Serum Institute of India,https://twitter.com/IndiainSenegal/status/1367605758737661958?s=20,Serum Institute of India,India,IND,2021-03-12,25000
-Dominican Rep.,DOM,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-12,30000
-Rwanda,RWA,Covishield,Serum Institute of India,https://twitter.com/IndiaKigali/status/1367724903869411328?s=20,Serum Institute of India,India,IND,2021-03-12,50000
-Guyana,GUY,Covishield,Serum Institute of India,https://twitter.com/IndiainGuyana/status/1368542598135246850?s=20,Serum Institute of India,India,IND,2021-03-12,80000
-Paraguay,PRY,Coronavac,Sinovac,https://www.reuters.com/article/health-coronavirus-ecuador-chile-idUSL1N2L5006,Sinovac,Chile,CHL,2021-03-13,20000
-Slovakia,SVK,Vaxzevria,AstraZeneca,https://www.barrons.com/news/france-donates-15-000-vaccine-doses-to-slovakia-01615150504,AstraZeneca,France,FRA,2021-03-18,15000
-Syria,SYR,Vaxzevria,Unknown,https://www.aljazeera.com/news/2021/3/17/syria-launches-covid-vaccination-drive-amid-economic-challenges,AstraZeneca,Unknown,Unknown,2021-03-18,5000
-Montenegro,MNE,Sputnik V,Gamaleya Research Institute,http://www.kiev.mfa.gov.rs/newstext.php?subaction=showfull&id=1615884683&ucat=19&template=Frontpage3&,Gamaleya Research Institute,Serbia,SRB,2021-03-18,2000
-Mozambique,MOZ,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/health-coronavirus-mozambique/mozambique-expects-to-vaccinate-16-million-against-coronavirus-by-2022-idUSL5N2L35GH,Sinopharm (Beijing),China,CHN,2021-03-19,200000
-Algeria,DZA,BBIBP-CorV,Sinopharm (Beijing),http://www.xinhuanet.com/english/2021-02/25/c_139766759.htm,Sinopharm (Beijing),China,CHN,2021-03-19,200000
-Zimbabwe,ZWE,BBIBP-CorV,Sinopharm (Beijing),https://apnews.com/article/health-emmerson-mnangagwa-zimbabwe-china-coronavirus-pandemic-c9bc8c139426a6921bac5c0300be994f,Sinopharm (Beijing),China,CHN,2021-03-22,400000
-Liberia,LBR,Covishield,Serum Institute of India,https://frontpageafricaonline.com/news/liberia-mtn-group-donates-27000-covid-19-vaccines-to-government/,Serum Institute of India,MTN Group,CHN,2021-03-23,27000
-Nigeria,NGA,--,--,https://nannews.ng/covid-19-mtn-donates-300000-doses-of-vaccines-to-nigeria/,--,MTN Group,IND,2021-03-23,1400000
-Ghana,GHA,Covishield,Serum Institute of India,https://www.reuters.com/article/us-health-coronavirus-ghana-vaccine/ghana-takes-delivery-of-first-covid-19-vaccines-donated-by-mtn-group-idINKBN2BF2S8?edition-redirect=in,Serum Institute of India,MTN Group,LTU,2021-03-23,165000
-Benin,BEN,Coronavac,Sinovac,https://www.gouv.bj/actualite/1226/lutte-contre-pandemie-coronavirus--covid-19-benin-recu-203.000-doses-vaccins-chine/,Sinovac,China,CHN,2021-03-23,100000
---,--,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,Serum Institute of India,MTN Group,CHN,2021-03-26,200000
-Malawi,MWI,Covishield,Serum Institute of India,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,Serum Institute of India,MTN Group,SRB,2021-03-26,102000
-Mauritania,MRT,BBIBP-CorV,Sinopharm (Beijing),https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Sinopharm (Beijing),China,CHN,2021-03-26,50000
-Mauritania,MRT,Comirnaty,Pfizer/BioNTech,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,Pfizer BioNTech,UAE,ARE,2021-03-26,5000
---,--,Covishield,Serum Institute of India,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,Serum Institute of India,MTN Group,CHN,2021-03-26,100000
-Bhutan,BTN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-26,400000
-Namibia,NAM,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-03-26,30000
-Tunisia,TUN,Coronavac,Sinovac,https://www.tap.info.tn/en/Portal-Society/13825335-tunisia-takes,Sinovac,China,CHN,2021-03-26,200000
-South Sudan,SSD,Covishield,Serum Institute of India,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,Serum Institute of India,MTN Group,USA,2021-03-26,59000
-Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),https://www.khmertimeskh.com/50830205/funcinpec-to-receive-3000-doses-of-covid-19-vaccine-from-china/,Sinopharm (Beijing),China,CHN,2021-03-26,3000
---,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,MTN Group,IND,2021-03-26,25000
---,--,Covishield,Serum Institute of India,https://www.theeastafrican.co.ke/tea/news/rest-of-africa/guinea-bissau-covid-19-vaccine-3333656,Serum Institute of India,MTN Group,PRT,2021-03-26,12000
-West Bank and Gaza,PSE,BBIBP-CorV,Sinopharm (Beijing),https://www.france24.com/en/live-news/20210329-palestinians-get-100-000-chinese-covid-vaccine-doses,Sinopharm (Beijing),China,CHN,2021-03-29,100000
-Philippines,PHL,Coronavac,Sinovac,https://doh.gov.ph/doh-press-release/PH-RECEIVES-400K-ADDITIONAL-DONATED-CORONAVAC-DOSES,Sinovac,China,CHN,2021-03-29,400000
-Sudan,SDN,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/health-coronavirus-sudan-china/sudan-to-receive-first-batch-of-sinopharm-vaccines-suna-reports-idUSL1N2LM243,Sinopharm (Beijing),China,CHN,2021-04-01,250000
-Angola,AGO,BBIBP-CorV,Sinopharm (Beijing),https://macauhub.com.mo/2021/03/30/20210330005/,Sinopharm (Beijing),China,CHN,2021-04-01,200000
-Mongolia,MNG,BBIBP-CorV,Sinopharm (Beijing),http://www.xinhuanet.com/english/2021-02/23/c_139759597.htm,Sinopharm (Beijing),China,CHN,2021-04-01,300000
-Sri Lanka,LKA,BBIBP-CorV,Sinopharm (Beijing),https://colombogazette.com/2021/03/31/chinese-sinopharm-vaccines-arrive-in-sri-lanka/,Sinopharm (Beijing),China,CHN,2021-04-01,600000
-Azerbaijan,AZE,Coronavac,Sinovac,https://en.trend.az/azerbaijan/society/3402510.html,Sinovac,China,CHN,2021-04-01,150000
-Macedonia,MKD,Sputnik V,Gamaleya Research Institute,https://seenews.com/news/n-macedonia-receives-20000-sputnik-v-coronavirus-vaccines-from-serbia-736755,Gamaleya Research Institute,Serbia,SRB,2021-04-05,40000
-Brunei,BRN,BBIBP-CorV,Sinopharm (Beijing),https://thescoop.co/2021/04/02/covid-19-brunei-to-begin-mass-vaccination-on-april-3/,Sinopharm (Beijing),China,CHN,2021-04-05,52000
-Syria,SYR,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/health-coronavirus-vaccine-syria-int/china-says-it-will-send-150000-coronavirus-vaccines-to-syria-idUSKBN2A4243,Sinopharm (Beijing),China,CHN,2021-04-08,150000
-Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,204000
-Egypt,EGY,BBIBP-CorV,Sinopharm (Beijing),https://apnews.com/article/health-care-reform-cairo-coronavirus-pandemic-health-covid-19-pandemic-62e56e073391f206479d4724693d53d0,Sinopharm (Beijing),China,CHN,2021-04-08,600000
-Montenegro,MNE,BBIBP-CorV,Sinopharm (Beijing),https://www.gov.me/en/article/30000-doses-of-chinese-vaccine-arrive-in-montenegro,Sinopharm (Beijing),China,CHN,2021-04-08,30000
-Zimbabwe,ZWE,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,35000
-Nepal,NPL,BBIBP-CorV,Sinopharm (Beijing),https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,Sinopharm (Beijing),China,CHN,2021-04-08,800000
-Niger,NER,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,25000
-Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,Sinopharm (Beijing),China,CHN,2021-04-14,300000
-Iraq,IRQ,BBIBP-CorV,Sinopharm (Beijing),http://www.xinhuanet.com/english/2021-02/15/c_139744858.htm,Sinopharm (Beijing),China,CHN,2021-04-14,250000
-Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,Sinopharm (Beijing),China,CHN,2021-04-14,2000
-Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),https://www.khmertimeskh.com/50838347/china-donates-400000-doses-of-sinopharm-vaccine-to-cambodia/,Sinopharm (Beijing),China,CHN,2021-04-15,400000
-Trinidad,TTO,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-15,40000
-Somalia,SOM,BBIBP-CorV,Sinopharm (Beijing),http://www.xinhuanet.com/english/africa/2021-04/12/c_139873472.htm,Sinopharm (Beijing),China,CHN,2021-04-15,200000
-Bangladesh,BGD,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-15,100000
-Libya,LBY,Coronavac,Sinovac,http://www.china.org.cn/world/Off_the_Wire/2021-04/15/content_77407450.htm,Sinovac,Turkey,TUR,2021-04-15,150000
-El Salvador,SLV,Coronavac,Sinovac,https://www.plenglish.com/index.php?o=rn&id=66076&SEO=el-salvador-president-thanks-china-for-coronavac-vaccine-donation,Sinovac,China,CHN,2021-04-15,150000
-Bosnia,BIH,Coronavac,Sinovac,https://www.aa.com.tr/en/health/turkey-donates-10-000-more-vaccine-doses-to-bosnia/2212159,Sinovac,Turkey,TUR,2021-04-19,40000
-Equatorial Guinea,GNQ,BBIBP-CorV,Sinopharm (Beijing),https://www.guineaecuatorialpress.com/noticia.php?id=17504&lang=en,Sinopharm (Beijing),China,CHN,2021-04-22,200000
-Bangladesh,BGD,BBIBP-CorV,Sinopharm (Beijing),http://bd.china-embassy.org/eng/zmjw/t1877706.htm,Sinopharm (Beijing),China,CHN,2021-04-22,500000
-Albania,ALB,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-22,50000
-Kenya,KEN,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-29,100000
-Fiji,FJI,Vaxzevria,AstraZeneca,http://www.health.gov.fj/new-zealand-to-donate-250000-courses-of-covid-19-vaccines-to-fiji/,AstraZeneca,New Zealand,NZL,2021-04-29,500000
-Botswana,BWA,Coronavac,Sinovac,https://allafrica.com/stories/202104270467.html,Sinovac,China,CHN,2021-04-30,200000
-Thailand,THA,Coronavac,Sinovac,https://www.reuters.com/article/health-coronavirus-thailand/update-1-thailand-to-receive-35-mln-more-doses-of-sinovac-vaccine-in-may-idUSL1N2MN0MA,Sinovac,China,CHN,2021-05-04,1000000
-Georgia,GEO,Sputnik V,Gamaleya Research Institute,https://abkhazworld.com/aw/current-affairs/1889-it-has-become-known-when-abkhazia-can-receive-the-sputnik-v-vaccine,Gamaleya Research Institute,Russia,RUS,2021-05-05,20000
-Bosnia,BIH,BBIBP-CorV,Sinopharm (Beijing),https://news.cgtn.com/news/2021-04-30/China-donates-50-000-doses-of-COVID-19-vaccine-to-BiH-ZTcucfPxe0/index.html,Sinopharm (Beijing),China,CHN,2021-05-06,50000
-Gabon,GAB,BBIBP-CorV,Sinopharm (Beijing),https://www.lenouveaugabon.com/fr/sante/1303-16602-covid-19-le-gabon-accueille-les-100-000-doses-de-vaccin-du-chinois-sinopharm,Sinopharm (Beijing),China,CHN,2021-05-06,100000
-Timor-Leste,TLS,Vaxzevria,CSL,http://timor-leste.gov.tl/?p=28005&lang=en&lang=en,AstraZeneca,Australia,AUS,2021-05-06,30000
-Mongolia,MNG,Sputnik V,Gamaleya Research Institute,https://www.capitalsinitiative.org/2021/06/15/covid-19-vaccine-rollout-accelerated-to-all-above-18-years-eligible-in-ulaanbaatar/,Gamaleya Research Institute,Russia,RUS,2021-05-13,300000
-India,IND,Covaxin,Bharat Biotech,https://static.pib.gov.in/WriteReadData/userfiles/Final%20Draft%20Press%20Brief%2012th%20Jan%20330PM.pdf,Bharat Biotech,Bharat Biotech,MEX,2021-05-13,1650000
-South Korea,KOR,Ad26.COV 2.S,Janssen,http://koreabizwire.com/usfk-offers-to-provide-covid-19-vaccines-to-s-korea/189990,Janssen Pharmaceuticals,USA,USA,2021-05-17,13000
-Belize,BLZ,BBIBP-CorV,Sinopharm (Beijing),http://www.loopnewscaribbean.com/content/belize-use-donated-sinopharm-vaccine,Sinopharm (Beijing),UAE,ARE,2021-05-19,10000
-Moldova,MDA,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,11000
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,100000
-Georgia,GEO,Vaxzevria,AstraZeneca,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,AstraZeneca,Lithuania,LTU,2021-05-19,15000
-Papua New Guinea,PNG,Vaxzevria,CSL,https://www.thenational.com.pg/meninga-backs-vaccine-rollout/,AstraZeneca,Australia,AUS,2021-05-24,10000
-Trinidad,TTO,BBIBP-CorV,Sinopharm (Beijing),https://tt.loopnews.com/content/sinopharm-vaccines-arrive-trinidad-and-tobago,Sinopharm (Beijing),China,CHN,2021-05-24,100000
-Belarus,BLR,BBIBP-CorV,Sinopharm (Beijing),https://eng.belta.by/society/view/airlifter-with-300000-doses-of-covid-19-vaccine-leaves-beijing-for-belarus-139950-2021/,Sinopharm (Beijing),China,CHN,2021-05-24,300000
-Ecuador,ECU,Coronavac,Sinovac,https://www.globaltimes.cn/page/202105/1224608.shtml,Sinovac,China,CHN,2021-05-27,200000
-Trinidad,TTO,Vaxzevria,AstraZeneca,https://newsday.co.tt/2021/05/20/st-vincent-bermuda-donate-covid19-vaccines-to-trinidad-and-tobago/,AstraZeneca,Saint Vincent,VCT,2021-06-03,16000
-Trinidad,TTO,Vaxzevria,AstraZeneca,https://foreign.gov.tt/resources/news/trinidad-and-tobago-receives-9000-doses-who-approved-astrazeneca-covid-19-vaccines-bermuda/,AstraZeneca,Bermuda,BMU,2021-06-03,9000
-Timor-Leste,TLS,Coronavac,Sinovac,https://www.wfp.org/news/wfp-helps-transport-covid-19-vaccine-donated-china-timor-leste,Sinovac,China,CHN,2021-06-07,100000
-Macedonia,MKD,Coronavac,Sinovac,https://www.aa.com.tr/en/europe/north-macedonia-receives-30-000-vaccine-doses-donated-by-turkey/2268553,Sinovac,Turkey,TUR,2021-06-09,30000
-Mozambique,MOZ,BBIBP-CorV,Sinopharm (Beijing),https://www.peacefmonline.com/pages/local/news/202106/446096.php,Sinopharm (Beijing),China,CHN,2021-06-09,60000
-Belarus,BLR,BBIBP-CorV,Sinopharm (Beijing),https://www.belarus.by/en/press-center/humanitarian-cooperation/uae-donates-about-10000-covid-19-vaccine-doses-to-belarus_i_0000130808.html,Sinopharm (Beijing),UAE,ARE,2021-06-09,10000
-Afghanistan,AFG,BBIBP-CorV,Sinopharm (Beijing),https://www.nytimes.com/2021/06/10/world/afghanistan-sinopharm-covid-vaccine.html,Sinopharm (Beijing),China,CHN,2021-06-14,700000
---,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-zim-donates-sputnik-v-vaccines-to-zimbabwe/,Gamaleya Research Institute,Alrosa Group,IND,2021-06-14,50000
-Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),https://www.khmertimeskh.com/50870323/cambodia-moves-closer-to-herd-immunity-with-receipt-of-one-million-doses-of-covid-19-vaccines/,Sinopharm (Beijing),China,CHN,2021-06-14,500000
---,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-together-with-russias-embassy-donated-sputnik-v-vaccines-to-angola/,Gamaleya Research Institute,Alrosa Group,CHN,2021-06-16,50000
-Guinea,GIN,BBIBP-CorV,Sinopharm (Beijing),https://twitter.com/shen_shiwei/status/1367277932272492547?s=20,Sinopharm (Beijing),China,CHN,2021-06-16,200000
-Mauritius,MUS,BBIBP-CorV,Sinopharm (Beijing),https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,Sinopharm (Beijing),China,CHN,2021-06-16,100000
-Mexico,MEX,Ad26.COV 2.S,Janssen,https://www.gob.mx/sre/prensa/mexico-receives-a-shipment-of-1-35-million-johnson-johnson-vaccine-doses?idiom=en,Janssen Pharmaceuticals,USA,USA,2021-06-18,1350000
-Bangladesh,BGD,BBIBP-CorV,Sinopharm (Beijing),https://thefinancialexpress.com.bd/national/another-2-million-sinopharm-vaccine-doses-arrive-in-bangladesh-1626593708,Sinopharm (Beijing),China,CHN,2021-06-19,2000000
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,AstraZeneca,Romania,ROU,2021-06-20,108000
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-26-000-addition-covid-19-vaccine-doses-to-northern-cyprus/2277728,Sinovac,Turkey,TUR,2021-06-20,26000
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/40-000-doses-of-virus-vaccine-arrives-in-ncyprus/2141569,Sinovac,Turkey,TUR,2021-06-20,40000
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-40-000-more-vaccine-doses-to-north-cyprus/2214127,Sinovac,Turkey,TUR,2021-06-20,40000
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-50-000-more-vaccine-doses-to-northern-cyprus/2267885,Sinovac,Turkey,TUR,2021-06-20,50000
-Malaysia,MYS,Coronavac,Sinovac,https://www.reuters.com/world/asia-pacific/malaysia-says-china-contribute-500000-doses-sinovac-vaccines-2021-06-16/,Sinovac,China,CHN,2021-06-20,500000
-Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/06/15/laos-receives-500000-doses-of-sinopharm-vaccine-from-china,Sinopharm (Beijing),China,CHN,2021-06-21,500000
-Viet Nam,VNM,BBIBP-CorV,Sinopharm (Beijing),https://english.newstracklive.com/news/china-donated-500000-sinopharm-vaccine-doses-to-vietnam-sc57-nu318-ta318-1166689-1.html,Sinopharm (Beijing),China,CHN,2021-06-23,500000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://english.kyodonews.net/news/2021/06/8f512fecd4bf-breaking-news-japan-to-donate-1-mil-covid-19-vaccine-doses-to-vietnam-on-wed.html,AstraZeneca,Japan,JPN,2021-06-23,1000000
-Kenya,KEN,Vaxzevria,AstraZeneca,https://www.unicef.org/kenya/press-releases/over-350000-covid-19-vaccine-doses-arrive-kenya-donated-denmark,AstraZeneca,Denmark,DNK,2021-06-23,358700
-Honduras,HND,Vaxzevria,Laboratorios Liomont,https://www.reuters.com/world/americas/mexico-donate-154100-doses-astrazeneza-vaccine-honduras-2021-06-19/,AstraZeneca,Mexico,MEX,2021-06-24,154100
-Philippines,PHL,Vaxzevria,AstraZeneca,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,1124100
---,--,Vaxzevria,AstraZeneca,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,AstraZeneca,Japan,JPN,2021-06-28,--
-Moldova,MDA,Sputnik V,Gamaleya Research Institute,https://en.news-front.info/2021/06/19/the-third-batch-of-the-russian-vaccine-sputnik-v-was-delivered-to-moldova/,Gamaleya Research Institute,Russia,RUS,2021-06-28,30000
-Barbados,BRB,BBIBP-CorV,Sinopharm (Beijing),https://www.nationnews.com/2021/06/30/bajans-urged-take-vaccine/,Sinopharm (Beijing),China,CHN,2021-07-01,30000
-COVAX,CIV,Vaxzevria,AstraZeneca,https://www.reuters.com/business/healthcare-pharmaceuticals/swiss-give-4-mln-astrazeneca-shots-covax-keep-mrna-shots-domestic-use-2021-06-30/,AstraZeneca,Switzerland,CHE,2021-07-06,4000000
-Canada,CAN,mRNA-1273,Moderna,https://ca.usembassy.gov/the-united-states-donates-one-million-covid-19-vaccine-doses-to-canada/,Moderna,USA,USA,2021-07-12,1000000
-Colombia,COL,Ad26.COV 2.S,Janssen,"https://www.reuters.com/business/healthcare-pharmaceuticals/colombia-says-get-25-mln-janssen-covid-shot-donation-us-2021-06-28/#:~:text=Colombia%20says%20to%20get%202.5%20mln%20Janssen%20COVID%20shot%20donation%20from%20U.S.,-Reuters&text=BOGOTA%2C%20June%2028%20(Reuters),of%20Johnson%20%26%20Johnson%20(JNJ.",Janssen Pharmaceuticals,USA,USA,2021-07-12,2500000
-Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/us-donation-of-one-million-pfizer-covid-19-vaccines-arrives-in-malaysia,Pfizer BioNTech,USA,USA,2021-07-12,1000000
-Trinidad,TTO,Comirnaty,Pfizer/BioNTech,https://www.reuters.com/business/healthcare-pharmaceuticals/chinese-media-mocks-us-donation-80-vaccine-vials-trinidad-tobago-2021-06-16/,Pfizer BioNTech,USA,USA,2021-07-12,480
-Paraguay,PRY,Comirnaty,Pfizer/BioNTech,https://news.yahoo.com/u-donate-1-million-doses-210029623.html,Pfizer BioNTech,USA,USA,2021-07-16,1000000
-Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.taiwannews.com.tw/en/news/4249126,AstraZeneca,Japan,JPN,2021-07-16,970000
-Panama,PAN,Comirnaty,Pfizer/BioNTech,https://www.embassyofpanama.org/news/2021/7/26/panama-receives-503100-pfizer-doses-donated-by-the-united-states,Pfizer BioNTech,USA,USA,2021-07-16,503100
-Nepal,NPL,BBIBP-CorV,Sinopharm (Beijing),https://kathmandupost.com/national/2021/07/16/china-to-donate-additional-1-6-million-doses-of-covid-19-vaccines-to-nepal,Sinopharm (Beijing),China,CHN,2021-07-16,1600000
---,--,Vaxzevria,AstraZeneca,https://www.taiwannews.com.tw/en/news/4247051,AstraZeneca,Japan,JPN,2021-07-16,1160000
-Tunisia,TUN,Coronavac,Sinovac,https://www.facebook.com/Presidence.tn/photos/pcb.4425600504164639/4425597597498263/,Sinovac,Turkey,TUR,2021-07-16,50000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://tuoitrenews.vn/news/society/20210713/japan-donates-one-million-more-covid19-vaccine-shots-to-vietnam/62050.html,AstraZeneca,Japan,JPN,2021-07-16,1000000
-Jordan,JOR,Comirnaty,Pfizer/BioNTech,https://www.france24.com/en/live-news/20210715-us-sends-half-million-covid-vaccines-to-jordan,Pfizer BioNTech,USA,USA,2021-07-16,500000
-Viet Nam,VNM,Sputnik V,Gamaleya Research Institute,https://tuoitrenews.vn/news/society/20210713/japan-donates-one-million-more-covid19-vaccine-shots-to-vietnam/62050.html,Gamaleya Research Institute,Russia,RUS,2021-07-16,2000
-Uruguay,URY,Comirnaty,Pfizer/BioNTech,https://riotimesonline.com/brazil-news/covid-19/uruguay-will-receive-a-donation-of-500000-doses-of-pfizers-covid-vaccine-from-the-united-states/,Pfizer BioNTech,USA,USA,2021-07-16,500000
-Mozambique,MOZ,Sputnik V,Gamaleya Research Institute,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-disponibiliza-vacinas-contra-a-covid-19-a-mocambique,Gamaleya Research Institute,Portugal,PRT,2021-07-18,50000
-Guinea-Bissau,GNB,BBIBP-CorV,Sinopharm (Beijing),https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-envia-vacinas-contra-a-covid-19-para-a-guine-bissauportugal-envia-vacinas-contra-a-covid-19-para-a-guine-bissau,Sinopharm (Beijing),Portugal,PRT,2021-07-18,24000
-Sao Tome,STP,Covishield,Serum Institute of India,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-apoia-sao-tome-e-principe-na-vacinacao-contra-a-covid-19,Serum Institute of India,Portugal,PRT,2021-07-18,12000
-Cabo Verde,CPV,Vaxzevria,CSL,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-disponibiliza-mais-vacinas-contra-a-covid-19-a-cabo-verde,AstraZeneca,Portugal,PRT,2021-07-18,24000
-Tajikistan,TJK,Vaxzevria,AstraZeneca,https://www.sarajevotimes.com/azerbaijan-to-send-40000-doses-of-vaccines/,AstraZeneca,Azerbaijan,AZE,2021-07-21,40000
-Guatemala,GTM,mRNA-1273,Moderna,https://gt.usembassy.gov/u-s-government-aid-of-3-million-vaccines-arrives-in-la-aurora/,Moderna,USA,USA,2021-07-21,3000000
-Ecuador,ECU,Comirnaty,Pfizer/BioNTech,https://ec.usembassy.gov/slide/the-us-completes-the-donation-of-2-million-pfizer-vaccines-to-ecuador/,Pfizer BioNTech,USA,USA,2021-07-25,2000000
-Colombia,COL,mRNA-1273,Moderna,https://twitter.com/IvanDuque/status/1419321715566448642,Moderna,USA,USA,2021-07-25,3500000
-Guatemala,GTM,mRNA-1273,Moderna,https://gt.usembassy.gov/u-s-government-aid-of-3-million-vaccines-arrives-in-la-aurora/,Moderna,USA,USA,2021-07-25,1500000
-Georgia,GEO,Comirnaty,Pfizer/BioNTech,https://www.euronews.com/2021/07/24/us-donates-half-a-million-pfizer-vaccine-doses-to-georgia,Pfizer BioNTech,USA,USA,2021-07-25,500000
-Argentina,ARG,mRNA-1273,Moderna,https://www.reuters.com/business/healthcare-pharmaceuticals/us-will-ship-35-million-covid-19-vaccines-argentina-2021-07-16/,Moderna,USA,USA,2021-07-26,3500000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://www.romania-insider.com/romania-donate-covid-vaccines-vietnam,AstraZeneca,Romania,ROU,2021-07-26,100800
-Bhutan,BTN,Vaxzevria,AstraZeneca,https://twitter.com/eu_echo/status/1420728352818835462?s=20,AstraZeneca,Denmark,DNK,2021-08-01,250000
-Bhutan,BTN,Vaxzevria,AstraZeneca,https://twitter.com/eu_echo/status/1420728352818835462?s=20,AstraZeneca,Bulgaria,BGR,2021-08-01,172500
-Bhutan,BTN,BBIBP-CorV,Sinopharm (Beijing),https://www.unicef.org/rosa/press-releases/bhutan-receives-500000-doses-covid-19-vaccines-through-covax,Sinopharm (Beijing),China,CHN,2021-08-01,500000
-El Salvador,SLV,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/us-health-coronavirus-el-salvador-china/el-salvador-to-receive-1-million-vaccine-doses-from-china-after-boosting-diplomatic-ties-idUSKBN2EW273,Sinopharm (Beijing),China,CHN,2021-08-02,1000000
---,--,Covishield,Serum Institute of India,https://togoactu24.com/covid-19-le-togo-receptionne-45-000-doses-de-vaccin-astrazeneca-de-lua/,Serum Institute of India,MTN Group,CHN,2021-08-02,45000
-Philippines,PHL,Vaxzevria,AstraZeneca,https://www.reuters.com/world/asia-pacific/first-batch-us-donated-pfizer-vaccines-arrives-thailand-2021-07-30/,AstraZeneca,UK,GBR,2021-08-04,415040
-Kyrgyzstan,KGZ,QazCovid-in,Research Institute for Biological Safety Problems,https://astanatimes.com/2021/07/kazakhstan-delivers-25000-doses-of-its-own-vaccine-to-kyrgyzstan/,Research Institute for Biological Safety Problems,Kazakhstan,KAZ,2021-08-04,25000
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.ukrinform.net/rubric-society/3288280-estonia-donates-over-50000-doses-of-astrazeneca-vaccine-to-ukraine.html,AstraZeneca,Estonia,EST,2021-08-04,147200
---,--,Vaxzevria,AstraZeneca,https://www.khmertimeskh.com/50903837/united-kingdom-donates-415000-doses-of-astra-zeneca-vaccine-to-cambodia/,AstraZeneca,UK,GBR,2021-08-04,415000
-Jamaica,JAM,Vaxzevria,AstraZeneca,https://jis.gov.jm/jamaica-receives-300000-doses-of-vaccines-from-the-uk/,AstraZeneca,UK,GBR,2021-08-04,300000
-Guatemala,GTM,Vaxzevria,Laboratorios Liomont,https://www.reuters.com/world/americas/mexico-donate-400000-covid-19-vaccine-shots-central-america-2021-06-24/,AstraZeneca,Mexico,MEX,2021-08-06,150000
-Uganda,UGA,Coronavac,Sinovac,https://www.dwcug.org/chinas-donation-of-covid-19-vaccine-to-uganda-re-affirms-beijings-philosophy-of-a-shared-future-for-prosperity/,Sinovac,China,CHN,2021-08-06,300000
-Pakistan,PAK,BBIBP-CorV,Sinopharm (Beijing),https://pakobserver.net/china-gifts-2-million-more-doses-of-covid-vaccine-to-pakistan/,Sinopharm (Beijing),China,CHN,2021-08-06,2000000
-Thailand,THA,Comirnaty,Pfizer/BioNTech,https://www.bangkokpost.com/learning/advanced/2160439/pfizer-roll-out-starts,Pfizer BioNTech,USA,USA,2021-08-06,1503450
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://e.vnexpress.net/news/news/415-000-astrazeneca-doses-gifted-by-uk-reach-vietnam-4335031.html,AstraZeneca,UK,GBR,2021-08-06,415000
-Moldova,MDA,Vaxzevria,AstraZeneca,https://vaccinare.gov.md/news/110-letonia-a-donat-republicii-moldova-un-lot-de-30-000-de-doze-de-vaccin-astrazeneca,AstraZeneca,Latvia,LVA,2021-08-11,30000
-Guyana,GUY,Vaxzevria,AstraZeneca,https://guyanachronicle.com/2021/07/29/uk-donating-84800-astrazeneca-doses-to-guyana/,AstraZeneca,UK,GBR,2021-08-11,84800
-Nepal,NPL,Vaxzevria,AstraZeneca,https://www.indiatvnews.com/news/world/japan-donates-500k-doses-of-astrazeneca-vaccine-to-nepal-another-million-jabs-promised-725087,AstraZeneca,Japan,JPN,2021-08-11,1600000
-Philippines,PHL,BBIBP-CorV,G42 Healthcare,https://www.manilatimes.net/2021/08/11/latest-stories/uae-us-donate-more-covid-19-jabs/1810579,Sinopharm (Beijing),UAE,ARE,2021-08-11,100000
-Egypt,EGY,Vaxzevria,AstraZeneca,https://allafrica.com/stories/202108110303.html,AstraZeneca,Romania,ROU,2021-08-16,525000
-Iraq,IRQ,BBIBP-CorV,Sinopharm (Beijing),https://www.israelhayom.com/2021/08/13/iraq-receives-3rd-shipment-of-donated-chinese-covid-vaccines/,Sinopharm (Beijing),China,CHN,2021-08-16,500000
-Bolivia,BOL,BBIBP-CorV,Sinopharm (Beijing),https://riotimesonline.com/brazil-news/mercosur/bolivia/bolivia-reports-639-new-covid-cases-and-receives-more-sinopharm-vaccines-august-2/,Sinopharm (Beijing),China,CHN,2021-08-18,300000
-Paraguay,PRY,mRNA-1273,Moderna,https://twitter.com/mreparaguay/status/1401110290222157824,Moderna,Qatar,QAT,2021-08-18,400000
-Libya,LBY,Vaxzevria,AstraZeneca,https://www.libyaobserver.ly/health/libya-receives-new-batch-astrazeneca-greece,AstraZeneca,Greece,GRK,2021-08-18,200000
-Libya,LBY,Vaxzevria,AstraZeneca,https://www.devdiscourse.com/article/health/1697861-malta-donates-tens-of-thousands-of-covid-19-vaccine-doses-to-libya,AstraZeneca,Malta,MLT,2021-08-18,40000
-Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),http://www.akp.gov.kh/post/detail/238018,Sinopharm (Beijing),China,CHN,2021-08-23,500000
-Suriname,SUR,Vaxzevria,AstraZeneca,https://nltimes.nl/2021/05/16/suriname-receive-700-thousand-covid-19-vaccines-netherlands,AstraZeneca,Netherlands,NLD,2021-08-23,700000
-Argentina,ARG,Vaxzevria,AstraZeneca,https://www.argentina.gob.ar/noticias/llegaron-al-pais-400000-dosis-de-astrazeneca-donadas-por-espana,AstraZeneca,Spain,ESP,2021-08-24,400000
-Ethiopia,ETH,BBIBP-CorV,Sinopharm (Beijing),http://www.china.org.cn/world/Off_the_Wire/2021-08/23/content_77709773.htm,Sinopharm (Beijing),China,CHN,2021-08-25,300000
-Rwanda,RWA,BBIBP-CorV,Sinopharm (Beijing),http://www.xinhuanet.com/english/africa/2021-08/19/c_1310136962.htm,Sinopharm (Beijing),China,CHN,2021-08-25,200000
-Tunisia,TUN,Vaxzevria,AstraZeneca,https://www.spa.gov.sa/viewstory.php?lang=en&newsid=2278325,AstraZeneca,Saudi Arabia,SAU,2021-08-29,1000000
-Sri Lanka,LKA,BBIBP-CorV,Sinopharm (Beijing),http://www.news.cn/english/2021-08/28/c_1310154646.htm,Sinopharm (Beijing),China,CHN,2021-08-30,300000
-African Union,AFG,--,--,https://chinaafricaproject.com/2021/08/30/the-african-union-is-the-latest-international-organization-to-receive-covid-19-donations-from-china/,--,--,--,2021-08-30,15000
-Albania,ALB,Vaxzevria,AstraZeneca,http://en.ata.gov.al/2021/08/30/latvia-donates-30-thousand-doses-of-astrazeneca-vaccine-over-1-9-mln-vaccines-secured-in-the-country/,AstraZeneca,Latvia,LVA,2021-08-30,30000
-Ecuador,ECU,Vaxzevria,AstraZeneca,https://www.salud.gob.ec/394-950-mil-nuevas-dosis-de-astrazeneca-donadas-por-canada-iran-a-zonas-de-frontera/,AstraZeneca,Canada,CAN,2021-08-31,394950
-Taiwan,TWN,mRNA-1273,Moderna,https://www.taiwannews.com.tw/en/news/4279275,Moderna,Czech Rep.,CZE,2021-09-01,30000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://vietnamnews.vn/society/1022258/czech-republic-donates-250000-doses-of-covid-19-vaccines-to-viet-nam.html,AstraZeneca,Czech Rep.,CZE,2021-09-01,210000
-Sao Tome,STP,Vaxzevria,AstraZeneca,https://www.theportugalnews.com/news/2021-08-11/portugal-donates-37-000-vaccines-to-sao-tome-and-principe/61646,AstraZeneca,Portugal,PRT,2021-09-01,37000
-Viet Nam,VNM,Vaxzevria,CSL,https://www.reuters.com/world/asia-pacific/australia-give-15-mln-doses-astrazeneca-vaccine-vietnam-2021-07-13/,AstraZeneca,Australia,AUS,2021-09-01,1500000
-Bangladesh,BGD,BBIBP-CorV,Sinopharm (Beijing),https://www.dhakatribune.com/bangladesh/military-affairs/2021/08/29/baf-aircraft-returns-with-300-000-covid-vaccines-as-gift-from-china,Sinopharm (Beijing),China,CHN,2021-09-01,300000
-Fiji,FJI,Vaxzevria,AstraZeneca,https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-support-fiji%E2%80%99s-covid-19-response-continues-vaccine-delivery-operational,AstraZeneca,New Zealand,NZL,2021-09-03,100000
-Syria,SYR,Sputnik Light,Gamaleya Research Institute,https://tass.com/world/1317383,Gamaleya Research Institute,Russia,RUS,2021-09-03,250000
-Antigua,ATG,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,17550
-Tunisia,TUN,Vaxzevria,AstraZeneca,https://eng.lsm.lv/article/society/health/latvian-donated-vaccines-depart-to-tunisia.a414721/,AstraZeneca,Latvia,LVA,2021-09-06,50000
-Saint Lucia,LCA,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,52650
-Bahamas,BHS,Comirnaty,Pfizer/BioNTech,http://www.tribune242.com/news/2021/aug/12/jabs-all-us-donates-massive-supply-pfizer-128000-a/,Pfizer BioNTech,USA,USA,2021-09-06,397000
-South Korea,KOR,Ad26.COV 2.S,Janssen,http://www.koreaherald.com/view.php?ud=20210814000065,Janssen Pharmaceuticals,USA,USA,2021-09-06,400000
-Guyana,GUY,Comirnaty,Pfizer/BioNTech,https://gy.usembassy.gov/u-s-donates-146250-pfizer-vaccine-doses-to-guyana/,Pfizer BioNTech,USA,USA,2021-09-06,146250
-St. Kitts and Nevis,KNA,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,11700
-Belize,BLZ,Comirnaty,Pfizer/BioNTech,https://bz.usembassy.gov/u-s-donates-345150-pfizer-vaccines-to-belize/,Pfizer BioNTech,USA,USA,2021-09-06,345150
-Jamaica,JAM,Comirnaty,Pfizer/BioNTech,https://jm.usembassy.gov/first-shipment-of-208260-pfizer-vaccine-doses-donated-by-u-s-government-arrive-in-jamaica/,Pfizer BioNTech,USA,USA,2021-09-06,208260
-Suriname,SUR,Comirnaty,Pfizer/BioNTech,https://www.jamaicaobserver.com/latestnews/US_shipping_vaccines_to_Suriname,Pfizer BioNTech,USA,USA,2021-09-06,140400
-Barbados,BRB,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,70200
-Mexico,MEX,mRNA-1273,Moderna,https://www.directrelief.org/2021/08/first-moderna-covid-19-vaccines-delivered-to-mexico/,Moderna,USA,USA,2021-09-06,1750000
-Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.taipeitimes.com/News/taiwan/archives/2021/09/08/2003764014,AstraZeneca,Japan,JPN,2021-09-07,64000
---,--,Coronavac,Sinovac,http://www.china.org.cn/world/Off_the_Wire/2021-09/04/content_77733491.htm,Sinovac,Sinovac,CHN,2021-09-07,--
-Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.cdc.gov.tw/En/Bulletin/Detail/rOtFLYxkD56IZJSOq0z77w?typeid=158,AstraZeneca,Poland,POL,2021-09-08,400000
-Barbados,BRB,Vaxzevria,AstraZeneca,https://gisbarbados.gov.bb/blog/government-of-canada-donates-30000-doses-of-astrazeneca-vaccine/,AstraZeneca,Canada,CAN,2021-09-08,35000
-Peru,PER,Vaxzevria,AstraZeneca,https://andina.pe/ingles/noticia-peru-receives-35100-covid19-vaccine-doses-donated-by-canada-860126.aspx,AstraZeneca,Canada,CAN,2021-09-08,35100
-Myanmar,MMR,BBIBP-CorV,Sinopharm (Beijing),https://theglobalherald.com/news/china-donates-medical-supplies-to-myanmar/,Sinopharm (Beijing),China,CHN,2021-09-08,1000000
-Kenya,KEN,Vaxzevria,AstraZeneca,https://eng.lsm.lv/article/society/health/latvian-donated-vaccines-depart-to-tunisia.a414721/,AstraZeneca,Latvia,LVA,2021-09-08,55200
-Namibia,NAM,Sputnik V,Gamaleya Research Institute,https://allafrica.com/stories/202109030602.html,Gamaleya Research Institute,Serbia,SRB,2021-09-08,15000
-Rwanda,RWA,Vaxzevria,AstraZeneca,https://allafrica.com/stories/202109030480.html,AstraZeneca,Greece,GRC,2021-09-08,200000
-Brunei,BRN,BBIBP-CorV,Sinopharm (Beijing),http://www.china.org.cn/world/Off_the_Wire/2021-09/13/content_77750679.htm,Sinopharm (Beijing),China,CHN,2021-09-14,100000
-Viet Nam,VNM,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/business/healthcare-pharmaceuticals/vietnam-says-china-donate-3-mln-more-coronavirus-vaccines-2021-09-10/,Sinopharm (Beijing),China,CHN,2021-09-14,3000000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://covid19.gov.vn/bo-truong-bo-y-te-tiep-nhan-200000-lieu-vaccine-covid-19-171210912144202412.htm,AstraZeneca,Belgium,BEL,2021-09-14,100000
-Indonesia,IDN,Ad26.COV 2.S,Janssen,https://en.antaranews.com/news/188725/indonesia-receives-johnson--johnson-vaccines-from-the-netherlands,Janssen Pharmaceuticals,Netherlands,NLD,2021-09-14,500000
-Georgia,GEO,--,--,https://vestnikkavkaza.net/news/Red-Cross-to-donate-100-000-doses-of-Sinopharm-vaccine-to-Georgia.html,--,International Committee of the Red Cross,CHN,2021-09-14,--
-Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),http://www.akp.gov.kh/post/detail/239148,Sinopharm (Beijing),China,CHN,2021-09-15,3000000
-Western Balkans,PSE,Comirnaty,Pfizer/BioNTech,https://wbif.eu/news-details/first-eu-funded-vaccines-region-and-support-package-serbia,Pfizer BioNTech,Austria,AUT,2021-09-20,651000
-Bangladesh,BGD,Vaxzevria,AstraZeneca,https://bdnews24.com/health/2021/09/15/bulgaria-sends-270000-astrazeneca-covid-vaccine-doses-to-bangladesh,AstraZeneca,Bulgaria,BGR,2021-09-21,270000
-Brunei,BRN,Vaxzevria,CSL,https://thescoop.co/2021/09/18/australia-donates-100000-doses-of-astrazeneca-to-brunei/,AstraZeneca,Australia,AUS,2021-09-22,100000
-Serbia,SRB,Vaxzevria,AstraZeneca,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,AstraZeneca,Romania,ROU,2021-09-24,50400
-Kenya,KEN,BBIBP-CorV,Sinopharm (Beijing),https://www.health.go.ke/wp-content/uploads/2021/09/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-23RD-SEPT-2021-1.pdf,Sinopharm (Beijing),China,CHN,2021-09-24,200000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://covid19.gov.vn/hungary-trao-tang-viet-nam-vaccine-va-vat-tu-y-te-phong-chong-covid-19-171210922100555049.htm,AstraZeneca,Hungary,HUN,2021-09-24,100000
-Solomon Islands,SLB,Vaxzevria,CSL,https://solomons.gov.sb/pm-welcomes-australias-offer-of-60000-doses-astrazeneca/,AstraZeneca,Australia,AUS,2021-09-24,63000
-Kenya,KEN,Vaxzevria,AstraZeneca,https://www.gov.pl/web/kenya/poland-donates-vaccines-to-kenya,AstraZeneca,Poland,POL,2021-09-24,211200
-Malaysia,MYS,Vaxzevria,AstraZeneca,https://www.thestar.com.my/news/nation/2021/07/30/hisham-over-one-million-astrazeneca-vaccine-doses-received-from-saudi-arabia,AstraZeneca,Saudi Arabia,SAU,2021-09-26,1000000
-Malaysia,MYS,Vaxzevria,AstraZeneca,https://www.thestar.com.my/news/nation/2021/07/30/hisham-over-one-million-astrazeneca-vaccine-doses-received-from-saudi-arabia,AstraZeneca,UK,GBR,2021-09-26,415000
-Viet Nam,VNM,Vaxzevria,AstraZeneca,https://vovworld.vn/en-US/news/japan-to-donate-vietnam-another-400000-doses-of-vaccine-this-month-1026750.vov,AstraZeneca,Japan,JPN,2021-09-27,400000
---,--,--,--,https://voi.id/en/news/88178/indonesia-gets-2-million-free-sinovac-vaccine-doses-from-china-today,--,Sinovac,CHN,2021-09-27,--
-Egypt,EGY,Vaxzevria,AstraZeneca,https://www.egypttoday.com/Article/1/108138/Egypt-receives-250K-doses-of-COVID-19-vaccine-AstraZeneca,AstraZeneca,Greece,GRC,2021-09-27,250000
-Indonesia,IDN,Coronavac,Sinovac,http://id.china-embassy.org/eng/sgdt/t1910003.htm,Sinovac,China,CHN,2021-09-27,1000000
-Cote d'Ivoire,CIV,BBIBP-CorV,Sinopharm (Beijing),https://www.primature.ci/actualite/?pm=11382,Sinopharm (Beijing),China,CHN,2021-09-28,100000
-Jordan,JOR,BBIBP-CorV,Sinopharm (Beijing),https://en.royanews.tv/news/27348/2021-04-25,Sinopharm (Beijing),China,CHN,2021-09-28,50000
-Laos,LAO,Sputnik Light,Gamaleya Research Institute,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/09/25/russia-donates-30000-doses-of-vaccine,Gamaleya Research Institute,Russia,RUS,2021-09-28,30000
-Taiwan,TWN,Vaxzevria,AstraZeneca,https://focustaiwan.tw/society/202109260003,AstraZeneca,Slovakia,SVK,2021-09-28,160000
-Cabo Verde,CPV,BBIBP-CorV,Sinopharm (Beijing),http://www.xinhuanet.com/english/africa/2021-06/13/c_1310005244.htm,Sinopharm (Beijing),China,CHN,2021-09-28,50000
-Thailand,THA,Vaxzevria,AstraZeneca,https://www.japantimes.co.jp/news/2021/09/14/national/japan-donate-vaccines-taiwan/,AstraZeneca,Japan,JPN,2021-09-28,300000
-CAR,CAF,Coronavac,Sinovac,https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-11-july-2021,Sinovac,China,CHN,2021-09-28,150000
-Armenia,ARM,Coronavac,Sinovac,https://www.azatutyun.am/a/31235683.html,Sinovac,China,CHN,2021-09-28,100000
-Kiribati,KIR,BBIBP-CorV,Sinopharm (Beijing),https://www.rnz.co.nz/international/pacific-news/450554/kiribati-govt-says-it-has-enough-doses-of-covid-19-vaccine-for-its-adult-population,Sinopharm (Beijing),China,CHN,2021-09-28,90000
-Ethiopia,ETH,Coronavac,Sinovac,https://www.fanabc.com/english/defense-ministry-of-china-donates-200000-doses-of-covid-19-vaccine-to-its-ethiopian-counterpart/,Sinovac,China,CHN,2021-09-28,200000
-Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.japantimes.co.jp/news/2021/09/14/national/japan-donate-vaccines-taiwan/,AstraZeneca,Japan,JPN,2021-09-28,500000
-Papua New Guinea,PNG,BBIBP-CorV,Sinopharm (Beijing),https://postcourier.com.pg/chinese-ambassador-commends-govt/,Sinopharm (Beijing),China,CHN,2021-09-29,200000
-Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),http://en.freshnewsasia.com/index.php/en/localnews/23770-2021-08-01-08-44-25.html,Sinopharm (Beijing),China,CHN,2021-09-29,1000000
-Lesotho,LSO,BBIBP-CorV,Sinopharm (Beijing),https://www.gov.ls/lesotho-receives-203340-sinopharm-from-china/,Sinopharm (Beijing),China,CHN,2021-09-29,203340
-Moldova,MDA,BBIBP-CorV,Sinopharm (Beijing),https://www.ipn.md/en/250000-vaccines-from-china-get-to-chisinau-150000-7967_1081294.html,Sinopharm (Beijing),China,CHN,2021-09-29,150000
-West Bank and Gaza,PSE,Coronavac,Sinovac,https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1893587.shtml,Sinovac,Egypt,EGY,2021-09-29,250000
-Oman,OMN,Coronavac,Sinovac,https://timesofoman.com/article/101359-oman-thanks-china-for-covid-19-vaccine,Sinovac,China,CHN,2021-09-29,100000
-Congo,COG,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/us-health-coronavirus-congorepublic-vacc/china-to-donate-100000-covid-19-vaccine-doses-to-congo-republic-idUSKBN2A42OI,Sinopharm (Beijing),China,CHN,2021-09-29,100000
-Macedonia,MKD,BBIBP-CorV,Sinopharm (Beijing),http://mk.china-embassy.org/eng/sgxw/t1876056.htm,Sinopharm (Beijing),China,CHN,2021-09-29,100000
-Tajikistan,TJK,Coronavac,Sinovac,https://www.asiaplustj.info/en/news/tajikistan/society/20210726/15-million-doses-of-the-coronavac-vaccine-expected-to-be-delivered-to-tajikistan-on-july-28,Sinovac,China,CHN,2021-09-29,1500000
-Tajikistan,TJK,Coronavac,Sinovac,https://www.asiaplustj.info/en/news/tajikistan/society/20210621/china-delivers-300000-doses-of-coronavac-vaccine-to-tajikistan,Sinovac,China,CHN,2021-09-29,300000
-Vanuatu,VUT,BBIBP-CorV,Sinopharm (Beijing),https://www.abc.net.au/radio-australia/programs/pacificbeat/vanuatu-prime-minister-chinese-sinopharm-vaccine/13394108,Sinopharm (Beijing),China,CHN,2021-09-29,20000
-Kyrgyzstan,KGZ,BBIBP-CorV,Sinopharm (Beijing),https://24.kg/english/200664_12_million_doses_of_vaccine_delivered_to_Kyrgyzstan/,Sinopharm (Beijing),China,CHN,2021-09-30,150000
-Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,Sinopharm (Beijing),China,CHN,2021-09-30,300000
-Lebanon,LBN,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/health-coronavirus-lebanon-china-int/china-to-give-lebanon-50000-covid-19-vaccine-doses-ambassador-idUSKBN2AT35Q,Sinopharm (Beijing),China,CHN,2021-09-30,90000
-Ethiopia,ETH,BBIBP-CorV,Sinopharm (Beijing),https://finance.sina.com.cn/tech/2021-06-20/doc-ikqcfnca2053196.shtml,Sinopharm (Beijing),China,CHN,2021-09-30,100000
-Gabon,GAB,BBIBP-CorV,Sinopharm (Beijing),https://humanglemedia.com/covid19-gabon-receives-another-300000-vaccines-from-china-expects-15000-from-russia/,Sinopharm (Beijing),China,CHN,2021-09-30,300000
-Togo,TGO,Coronavac,Sinovac,https://www.alwihdainfo.com/%E2%80%8BLe-Togo-a-receptionne-200-000-nouvelles-doses-du-vaccin-SINOVAC_a106447.html,Sinovac,China,CHN,2021-09-30,200000
-Uganda,UGA,Vaxzevria,AstraZeneca,https://www.gov.ie/en/press-release/a268d-minister-for-health-and-minister-for-international-development-and-diaspora-announce-donation-of-over-335000-covid-19-vaccine-doses-to-uganda/,AstraZeneca,Ireland,IRL,2021-10-03,335500
-Viet Nam,VNM,CIGB-66,Center for Genetic Engineering and Biotechnology,http://www.cubadebate.cu/noticias/2021/09/26/presidente-cubana-destaca-llegada-de-vacuna-abdala-a-vietnam/,Center for Genetic Engineering and Biotechnology,Cuba,CUB,2021-10-03,150000
-Libya,LBY,Vaxzevria,AstraZeneca,https://www.libyaherald.com/2021/10/01/italy-donates-240000-doses-of-astrazeneca-vaccines-to-libya/,AstraZeneca,Italy,ITA,2021-10-05,144000
-Costa Rica,CRI,Vaxzevria,AstraZeneca,https://ticotimes.net/2021/09/22/austria-to-donate-50000-vaccines-to-costa-rica,AstraZeneca,Austria,AUT,2021-10-05,50000
-Comoros,COM,BBIBP-CorV,Sinopharm (Beijing),https://www.bbc.com/news/topics/cx1m7zg0gnlt/comoros,Sinopharm (Beijing),China,CHN,2021-10-06,100000
-DRC,COD,Coronavac,Sinovac,https://news.cgtn.com/news/2021-10-01/China-donates-400-000-Sinovac-vaccine-doses-to-DRC-1401GFkeOas/index.html,Sinovac,China,CHN,2021-10-06,400000
-Djibouti,DJI,BBIBP-CorV,Sinovac,https://twitter.com/dpfza/status/1372529603588235267,Sinopharm (Beijing),China,CHN,2021-10-06,200000
-Bangladesh,BGD,Comirnaty,Pfizer/BioNTech,https://bd.usembassy.gov/us-donates-2-5-million-more-pfizer-vaccines-to-bangladesh-092821/,Pfizer BioNTech,USA,USA,2021-10-06,2500000
-Bangladesh,BGD,Comirnaty,Pfizer/BioNTech,https://bd.usembassy.gov/united-states-donates-additional-2-5-million-pfizer-vaccines-to-bangladesh-100521/,Pfizer BioNTech,USA,USA,2021-10-06,2500000
-Belarus,BLR,BBIBP-CorV,Sinopharm (Beijing),https://newsaf.cgtn.com/news/2021-02-20/Belarus-receives-100-000-China-donated-Sinopharm-COVID-19-vaccines-Y1aJW2Ljxe/index.html,Sinopharm (Beijing),China,CHN,2021-10-06,100000
-Dominica,DMA,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-11700-pfizer-vaccines-to-dominica/,Pfizer BioNTech,USA,USA,2021-10-06,46800
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.unicef.org/ukraine/en/press-releases/ukraine-receives-half-million-doses-astrazeneca-vaccine-donated-denmark,AstraZeneca,Denmark,DNK,2021-10-07,509400
-Zambia,ZMB,Sputnik V,Gamaleya Research Institute,https://www.mfa.gov.rs/en/press-service/statements/selakovic-gratitude-zambia-donated-vaccines,Gamaleya Research Institute,Serbia,SRB,2021-10-08,50000
-Myanmar,MMR,Covishield,Serum Institute of India,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,Serum Institute of India,India,IND,2021-10-08,1000000
-Namibia,NAM,Vaxzevria,AstraZeneca,https://www.namibian.com.na/105758/read/Germany-donates-Covid-19-vaccine-to-Namibia,AstraZeneca,Germany,DEU,2021-10-08,200000
-Montenegro,MNE,Coronavac,Sinovac,https://www.gov.me/en/article/turkey-donates-100000-sinovac-vaccines-to-montenegro,Sinovac,Turkey,TUR,2021-10-08,100000
-Montenegro,MNE,BBIBP-CorV,Sinopharm (Beijing),https://www.gov.me/en/article/croatia-donates-10000-vaccines-to-montenegro,Sinopharm (Beijing),Hungary,HUN,2021-10-08,200000
-Montenegro,MNE,Sputnik V,Gamaleya Research Institute,https://www.gov.me/en/article/croatia-donates-10000-vaccines-to-montenegro,Gamaleya Research Institute,Croatia,HRV,2021-10-08,10000
-Egypt,EGY,Vaxzevria,AstraZeneca,https://egyptindependent.com/germany-donates-2-3-million-astrazeneca-vaccine-doses-to-egypt/,AstraZeneca,Germany,DEU,2021-10-08,2300000
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.facebook.com/viktor.liashko/posts/2416117991853644,AstraZeneca,Germany,DEU,2021-10-08,1512000
-Bangladesh,BGD,Covishield,Serum Institute of India,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,Serum Institute of India,India,IND,2021-10-08,1000000
-Thailand,THA,Vaxzevria,AstraZeneca,https://thethaiger.com/coronavirus/vaccine-donation-from-iceland-and-germany-confirmed,AstraZeneca,Germany,DEU,2021-10-08,346100
-Ghana,GHA,Vaxzevria,AstraZeneca,https://www.aa.com.tr/en/africa/ghana-receives-15m-doses-of-astrazeneca-covid-19-vaccine-from-germany/2375540,AstraZeneca,Germany,DEU,2021-10-08,1500000
-Iran,IRN,Covaxin,Bharat Biotech,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,Bharat Biotech,India,IND,2021-10-08,1000000
-Nepal,NPL,Covishield,Serum Institute of India,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,Serum Institute of India,India,IND,2021-10-08,1000000
+West Bank and Gaza,PSE,5,5,https://www.france24.com/en/live-news/20210131-israel-says-to-send-5-000-vaccine-shots-to-palestinians,5,38.0,32.0,2020-02-02,5000
+66,66,3,3,https://tass.com/world/1287905,3,22.0,20.0,2020-04-29,500000
+84,84,9,8,2,8,1.0,1.0,2021-01-22,200000
+87,87,1,1,2,1,1.0,1.0,2021-01-22,1000000
+15,15,1,1,2,1,1.0,1.0,2021-01-22,150000
+76,76,1,1,2,1,1.0,1.0,2021-01-22,200000
+78,78,1,1,2,1,1.0,1.0,2021-01-22,100000
+84,84,1,1,2,1,1.0,1.0,2021-01-22,1500000
+--,--,1,1,2,1,1.0,1.0,2021-01-22,2000000
+0,0,1,1,2,1,1.0,1.0,2021-01-26,500000
+Seychelles,SYC,0,0,http://www.statehouse.gov.sc/news/5071/president-of-seychelles-takes-covid-19-vaccine-seychelles-launches-national-covid-19-immunisation-campaign,0,3.0,3.0,2021-01-26,50000
+Seychelles,SYC,1,1,2,1,1.0,1.0,2021-01-26,50000
+Sri Lanka,LKA,1,1,2,1,1.0,1.0,2021-01-28,500000
+88,88,1,1,https://twitter.com/IndiainPanama/status/1370481740314202119?s=20,1,1.0,1.0,2021-01-29,200000
+9,9,1,1,2,1,1.0,1.0,2021-01-29,100000
+91,91,1,1,2,1,1.0,1.0,2021-01-29,100000
+31,31,0,0,https://www.bloomberg.com/news/articles/2021-02-05/congo-republic-to-get-100-0000-doses-of-covid-vaccine-from-china,0,0.0,0.0,2021-02-05,100000
+84,84,0,0,https://www.irrawaddy.com/news/burma/china-donates-500000-covid-19-vaccines-myanmar-junta.html,0,0.0,0.0,2021-02-09,500000
+43,43,0,0,https://www.reuters.com/article/us-health-coronavirus-equatorial/china-donates-100000-covid-19-vaccine-doses-to-equatorial-guinea-idUSKBN2AB15Q,0,0.0,0.0,2021-02-11,100000
+16,16,0,0,64,0,0.0,0.0,2021-02-11,100000
+17,17,3,3,73,3,22.0,20.0,2021-02-12,5000
+98,98,6,6,https://www.reuters.com/article/us-health-coronavirus-philippines/philippines-to-get-china-donated-vaccines-this-month-for-troops-medical-staff-idUSKBN2AB0IT,6,0.0,0.0,2021-02-15,600000
+72,72,2,2,https://www.usnews.com/news/health-news/articles/2021-02-14/serbia-donates-pfizer-covid-19-vaccines-to-north-macedonia,2,9.0,8.0,2021-02-19,8000
+West Bank and Gaza,PSE,3,3,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,3,22.0,20.0,2021-02-19,2000
+35,35,2,2,https://www.barrons.com/news/france-to-ship-vaccines-to-hard-hit-czechs-report-01614276018?tesla=y,2,38.0,32.0,2021-02-26,5000
+52,52,5,5,https://www.aa.com.tr/en/americas/1st-vaccines-arrive-in-honduras-guatemala-from-israel/2157560,5,38.0,32.0,2021-02-26,5000
+56,56,5,5,https://www.reuters.com/article/healthcoronavirus-honduras/honduras-orders-70000-doses-of-russias-sputnik-v-covid-19-vaccine-idUSL1N2KU28H,5,38.0,32.0,2021-02-26,5000
+Suriname,SUR,1,1,2,1,1.0,1.0,2021-02-26,50000
+Sierra Leone,SLE,0,0,http://en.nhc.gov.cn/2021-02/26/c_83062.htm,0,0.0,0.0,2021-02-26,200000
+Suriname,SUR,1,1,https://www.reuters.com/article/us-health-coronavirus-suriname-vaccine/suriname-begins-coronavirus-vaccination-campaign-with-donated-doses-idUSKBN2AN2AT,1,45.0,36.0,2021-02-26,1000
+West Bank and Gaza,PSE,3,3,https://www.reuters.com/article/health-coronavirus-palestinians-vaccines/gaza-launches-covid-19-vaccinations-with-just-22000-doses-idUSKBN2AM1AN,3,3.0,3.0,2021-02-26,20000
+37,37,1,1,https://www.republicworld.com/india-news/general-news/thank-you-india-dominica-pm-extends-gratitude-for-70000-doses-of-covid-19-vaccine.html,1,1.0,1.0,2021-02-26,70000
+11,11,1,1,44,1,1.0,1.0,2021-02-26,100000
+0,0,0,0,1,0,0.0,0.0,2021-03-01,400000
+Venezuela,VEN,0,0,https://www.reuters.com/article/instant-article/idINL2N2L019T,0,0.0,0.0,2021-03-02,500000
+59,59,0,0,https://www.aljazeera.com/news/2021/2/28/iran-receives-chinas-sinopharm-jabs-as-covid-deaths-reach-60000,0,0.0,0.0,2021-03-04,250000
+17,17,3,3,72,3,9.0,8.0,2021-03-08,10000
+St. Kitts and Nevis,KNA,1,1,2,1,1.0,1.0,2021-03-08,20000
+4,4,1,1,2,1,1.0,1.0,2021-03-08,40000
+Saint Vincent,VCT,1,1,2,1,1.0,1.0,2021-03-08,40000
+61,61,1,1,https://twitter.com/AndrewHolnessJM/status/1369307596834959367?s=20,1,1.0,1.0,2021-03-08,50000
+55,55,0,0,https://newsroom.gy/2021/02/02/china-will-donate-sinopharm-covid-19-vaccines-to-guyana/,0,0.0,0.0,2021-03-08,20000
+Uganda,UGA,1,1,https://twitter.com/IndiainUganda/status/1368549937038954496?s=20,1,1.0,1.0,2021-03-08,100000
+Saint Lucia,LCA,1,1,https://twitter.com/allenmchastanet/status/1366479878548242437?s=20,1,1.0,1.0,2021-03-08,25000
+13,13,9,8,55,8,1.0,1.0,2021-03-12,25000
+18,18,9,8,80,8,1.0,1.0,2021-03-12,30000
+44,44,1,1,https://twitter.com/EswatiniGovern1/status/1370046541776490497?s=20,1,1.0,1.0,2021-03-12,20000
+81,81,1,1,2,1,1.0,1.0,2021-03-12,150000
+50,50,1,1,https://twitter.com/HCI_Accra/status/1367760976297222150?s=20,1,1.0,1.0,2021-03-12,50000
+99,99,1,1,https://twitter.com/IndiaKigali/status/1367724903869411328?s=20,1,1.0,1.0,2021-03-12,50000
+52,52,1,1,https://twitter.com/IndiaInGuate/status/1367184660330143753?s=20,1,1.0,1.0,2021-03-12,200000
+Senegal,SEN,1,1,https://twitter.com/IndiainSenegal/status/1367605758737661958?s=20,1,1.0,1.0,2021-03-12,25000
+33,33,1,1,https://twitter.com/EOIIvoryCoast/status/1367817941534773255?s=20,1,1.0,1.0,2021-03-12,50000
+8,8,1,1,26,1,1.0,1.0,2021-03-12,20000
+55,55,1,1,https://twitter.com/IndiainGuyana/status/1368542598135246850?s=20,1,1.0,1.0,2021-03-12,80000
+83,83,1,1,2,1,1.0,1.0,2021-03-12,100000
+39,39,1,1,https://twitter.com/IndiainDRC/status/1367869530798718976?s=20,1,1.0,1.0,2021-03-12,50000
+38,38,1,1,2,1,1.0,1.0,2021-03-12,30000
+96,96,6,6,https://www.reuters.com/article/health-coronavirus-ecuador-chile-idUSL1N2L5006,6,39.0,33.0,2021-03-13,20000
+40,40,6,6,https://www.salud.gob.ec/el-gobierno-de-chile-dona-20-000-dosis-de-vacuna-del-laboratorio-sinovac-al-ecuador-para-el-plan-vacunarse/,6,39.0,33.0,2021-03-13,20000
+96,96,4,4,https://www.gob.cl/en/news/chilean-government-sends-100000-doses-astrazeneca-vaccine-against-covid-19-paraguay/,4,39.0,33.0,2021-03-13,100000
+Syria,SYR,4,13,https://www.aljazeera.com/news/2021/3/17/syria-launches-covid-vaccination-drive-amid-economic-challenges,4,60.0,51.0,2021-03-18,5000
+82,82,3,3,http://www.kiev.mfa.gov.rs/newstext.php?subaction=showfull&id=1615884683&ucat=19&template=Frontpage3&,3,9.0,8.0,2021-03-18,2000
+Slovakia,SVK,4,4,https://www.barrons.com/news/france-donates-15-000-vaccine-doses-to-slovakia-01615150504,4,14.0,13.0,2021-03-18,15000
+83,83,0,0,https://www.reuters.com/article/health-coronavirus-mozambique/mozambique-expects-to-vaccinate-16-million-against-coronavirus-by-2022-idUSL5N2L35GH,0,0.0,0.0,2021-03-19,200000
+74,74,1,1,https://twitter.com/India_in_Malawi/status/1370405295806156803?s=20,1,1.0,1.0,2021-03-19,50000
+12,12,0,0,51,0,0.0,0.0,2021-03-19,100000
+2,2,0,0,8,0,0.0,0.0,2021-03-19,200000
+Zimbabwe,ZWE,0,0,https://apnews.com/article/health-emmerson-mnangagwa-zimbabwe-china-coronavirus-pandemic-c9bc8c139426a6921bac5c0300be994f,0,0.0,0.0,2021-03-22,400000
+38,38,0,0,https://dominicantoday.com/dr/local/2021/03/17/arrival-of-one-million-vaccines-against-covid-19-from-china/,0,0.0,0.0,2021-03-22,50000
+89,89,0,0,https://www.reuters.com/article/us-health-coronavirus-niger-idUSKBN2BD0UE,0,0.0,0.0,2021-03-23,400000
+14,14,6,6,59,6,0.0,0.0,2021-03-23,100000
+90,90,--,--,https://nannews.ng/covid-19-mtn-donates-300000-doses-of-vaccines-to-nigeria/,--,42.0,1.0,2021-03-23,1400000
+--,--,--,--,https://www.reuters.com/article/us-health-coronavirus-ghana-vaccine/ghana-takes-delivery-of-first-covid-19-vaccines-donated-by-mtn-group-idINKBN2BF2S8?edition-redirect=in,--,42.0,1.0,2021-03-23,165000
+70,70,1,1,https://frontpageafricaonline.com/news/liberia-mtn-group-donates-27000-covid-19-vaccines-to-government/,1,42.0,0.0,2021-03-23,27000
+85,85,6,6,https://africa.cgtn.com/2021/03/18/namibia-receives-first-batch-of-covid-19-vaccines-from-china/,6,0.0,0.0,2021-03-24,100000
+23,23,0,0,97,0,0.0,0.0,2021-03-26,3000
+Tunisia,TUN,6,6,https://www.tap.info.tn/en/Portal-Society/13825335-tunisia-takes,6,0.0,0.0,2021-03-26,200000
+South Sudan,SSD,1,1,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,1,42.0,6.0,2021-03-26,59000
+--,--,1,1,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,1,42.0,0.0,2021-03-26,200000
+--,--,1,1,https://www.theeastafrican.co.ke/tea/news/rest-of-africa/guinea-bissau-covid-19-vaccine-3333656,1,42.0,0.0,2021-03-26,12000
+--,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,42.0,1.0,2021-03-26,25000
+48,48,1,1,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,1,42.0,0.0,2021-03-26,100000
+90,90,--,--,2,--,1.0,1.0,2021-03-26,100000
+--,--,--,--,https://www.reuters.com/article/health-coronavirus-africa-idAFL1N2MF12F,--,42.0,1.0,2021-03-26,102000
+--,--,--,--,https://www.reuters.com/article/us-healthcare-coronavirus-africa/nine-african-countries-take-delivery-of-covid-19-vaccines-donated-by-mtn-group-idUSKBN2BH1H7,--,42.0,1.0,2021-03-26,100000
+77,77,2,2,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,2,3.0,3.0,2021-03-26,5000
+77,77,0,0,https://www.aa.com.tr/en/africa/mauritania-begins-covid-19-vaccination-campaign/2189322,0,0.0,0.0,2021-03-26,50000
+15,15,1,1,2,1,1.0,1.0,2021-03-26,400000
+85,85,1,1,2,1,1.0,1.0,2021-03-26,30000
+West Bank and Gaza,PSE,0,0,https://www.france24.com/en/live-news/20210329-palestinians-get-100-000-chinese-covid-vaccine-doses,0,0.0,0.0,2021-03-29,100000
+1,1,3,3,4,3,3.0,3.0,2021-03-29,10000
+98,98,6,6,https://doh.gov.ph/doh-press-release/PH-RECEIVES-400K-ADDITIONAL-DONATED-CORONAVAC-DOSES,6,0.0,0.0,2021-03-29,400000
+76,76,0,0,https://www.gov.mv/en/news-and-communications/china-donates-200000-doses-of-sinopharm-vaccine-to-the-maldives,0,0.0,0.0,2021-03-29,200000
+95,95,4,10,https://msf.org.nz/issue/papua-new-guinea%E2%80%99s-covid-19-crisis,4,33.0,30.0,2021-04-01,8480
+81,81,0,0,http://www.xinhuanet.com/english/2021-02/23/c_139759597.htm,0,0.0,0.0,2021-04-01,300000
+66,66,0,0,https://www.barrons.com/news/kyrgyzstan-begins-vaccine-rollout-with-china-s-sinopharm-01617012906?tesla=y,0,0.0,0.0,2021-04-01,150000
+7,7,6,6,24,6,0.0,0.0,2021-04-01,150000
+80,80,3,3,https://tass.com/world/1273247,3,22.0,20.0,2021-04-01,180000
+3,3,0,0,10,0,0.0,0.0,2021-04-01,200000
+11,11,0,0,42,0,0.0,0.0,2021-04-01,30000
+Sudan,SDN,0,0,https://www.reuters.com/article/health-coronavirus-sudan-china/sudan-to-receive-first-batch-of-sinopharm-vaccines-suna-reports-idUSL1N2LM243,0,0.0,0.0,2021-04-01,250000
+41,41,0,0,https://egyptianstreets.com/2020/12/11/egypt-receives-first-50000-batch-of-chinese-covid-19-vaccine/,0,3.0,3.0,2021-04-01,50000
+45,45,0,0,https://www.aviationpros.com/ground-handling/press-release/21216763/ethiopian-airlines-ethiopian-transports-more-than-1-million-covid-19-vaccine-doses-from-beijing-to-harare,0,0.0,0.0,2021-04-01,300000
+Sri Lanka,LKA,0,0,https://colombogazette.com/2021/03/31/chinese-sinopharm-vaccines-arrive-in-sri-lanka/,0,0.0,0.0,2021-04-01,600000
+23,23,0,0,98,0,0.0,0.0,2021-04-04,1300000
+55,55,1,1,https://www.stabroeknews.com/2021/02/11/news/guyana/barbados-donates-3000-covid-shots-to-guyana/,1,45.0,36.0,2021-04-05,3000
+72,72,3,3,https://seenews.com/news/n-macedonia-receives-20000-sputnik-v-coronavirus-vaccines-from-serbia-736755,3,9.0,8.0,2021-04-05,40000
+49,49,6,6,https://agenda.ge/en/news/2021/891,6,0.0,0.0,2021-04-05,100000
+20,20,0,0,85,0,0.0,0.0,2021-04-05,52000
+71,71,3,3,http://www.xinhuanet.com/english/africa/2021-04/05/c_139858648.htm,3,3.0,3.0,2021-04-08,101250
+82,82,0,0,https://www.gov.me/en/article/30000-doses-of-chinese-vaccine-arrive-in-montenegro,0,0.0,0.0,2021-04-08,30000
+86,86,1,1,2,1,1.0,1.0,2021-04-08,10000
+80,80,4,4,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,4,6.0,6.0,2021-04-08,204000
+87,87,0,0,https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,0,0.0,0.0,2021-04-08,800000
+Zimbabwe,ZWE,1,1,2,1,1.0,1.0,2021-04-08,35000
+87,87,1,1,2,1,1.0,1.0,2021-04-08,100000
+41,41,0,0,https://apnews.com/article/health-care-reform-cairo-coronavirus-pandemic-health-covid-19-pandemic-62e56e073391f206479d4724693d53d0,0,0.0,0.0,2021-04-08,600000
+89,89,1,1,2,1,1.0,1.0,2021-04-08,25000
+Syria,SYR,0,0,https://www.reuters.com/article/health-coronavirus-vaccine-syria-int/china-says-it-will-send-150000-coronavirus-vaccines-to-syria-idUSKBN2A4243,0,0.0,0.0,2021-04-08,150000
+60,60,0,0,http://www.xinhuanet.com/english/2021-02/15/c_139744858.htm,0,0.0,0.0,2021-04-14,250000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,0,0.0,0.0,2021-04-14,2000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,0,0.0,0.0,2021-04-14,300000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,0,0.0,0.0,2021-04-14,800000
+Somalia,SOM,0,0,http://www.xinhuanet.com/english/africa/2021-04/12/c_139873472.htm,0,0.0,0.0,2021-04-15,200000
+71,71,6,6,http://www.china.org.cn/world/Off_the_Wire/2021-04/15/content_77407450.htm,6,28.0,26.0,2021-04-15,150000
+24,24,0,0,https://www.voanews.com/africa/cameroon-health-workers-doubt-efficacy-chinese-covid-vaccines,0,0.0,0.0,2021-04-15,200000
+--,--,1,1,2,1,1.0,1.0,2021-04-15,100000
+61,61,1,1,https://jis.gov.jm/75000-doses-of-astrazeneca-vaccine-arrived-yesterday/,1,49.0,39.0,2021-04-15,75000
+23,23,0,0,99,0,0.0,0.0,2021-04-15,400000
+Trinidad,TTO,1,1,2,1,1.0,1.0,2021-04-15,40000
+42,42,6,6,https://www.plenglish.com/index.php?o=rn&id=66076&SEO=el-salvador-president-thanks-china-for-coronavac-vaccine-donation,6,0.0,0.0,2021-04-15,150000
+17,17,6,6,70,6,28.0,26.0,2021-04-19,40000
+10,10,0,0,28,0,0.0,0.0,2021-04-22,500000
+1,1,1,1,2,1,1.0,1.0,2021-04-22,50000
+43,43,0,0,https://www.guineaecuatorialpress.com/noticia.php?id=17504&lang=en,0,0.0,0.0,2021-04-22,200000
+63,63,1,1,2,1,1.0,1.0,2021-04-29,100000
+46,46,4,4,http://www.health.gov.fj/new-zealand-to-donate-250000-courses-of-covid-19-vaccines-to-fiji/,4,41.0,35.0,2021-04-29,500000
+18,18,6,6,79,6,0.0,0.0,2021-04-30,200000
+Togo,TGO,6,6,https://24heureinfo.com/sante/covid-19-la-chine-offre-200-000-doses-de-vaccin-sinovac-au-togo/,6,0.0,0.0,2021-05-03,200000
+Thailand,THA,6,6,https://www.reuters.com/article/health-coronavirus-thailand/update-1-thailand-to-receive-35-mln-more-doses-of-sinovac-vaccine-in-may-idUSL1N2MN0MA,6,0.0,0.0,2021-05-04,1000000
+49,49,3,3,https://abkhazworld.com/aw/current-affairs/1889-it-has-become-known-when-abkhazia-can-receive-the-sputnik-v-vaccine,3,22.0,20.0,2021-05-05,20000
+59,59,0,0,https://en.irna.ir/news/84296785/400k-doses-of-Sinopharm-COVID-19-vaccine-arrives-in-Iran-Official,0,0.0,0.0,2021-05-05,400000
+16,16,0,0,63,0,0.0,0.0,2021-05-06,100000
+Timor-Leste,TLS,4,10,http://timor-leste.gov.tl/?p=28005&lang=en&lang=en,4,33.0,30.0,2021-05-06,30000
+47,47,0,0,https://www.lenouveaugabon.com/fr/sante/1303-16602-covid-19-le-gabon-accueille-les-100-000-doses-de-vaccin-du-chinois-sinopharm,0,0.0,0.0,2021-05-06,100000
+17,17,0,0,66,0,0.0,0.0,2021-05-06,50000
+81,81,3,3,https://www.capitalsinitiative.org/2021/06/15/covid-19-vaccine-rollout-accelerated-to-all-above-18-years-eligible-in-ulaanbaatar/,3,22.0,20.0,2021-05-13,300000
+57,57,9,8,https://static.pib.gov.in/WriteReadData/userfiles/Final%20Draft%20Press%20Brief%2012th%20Jan%20330PM.pdf,8,46.0,21.0,2021-05-13,1650000
+South Korea,KOR,7,7,http://koreabizwire.com/usfk-offers-to-provide-covid-19-vaccines-to-s-korea/189990,7,10.0,9.0,2021-05-17,13000
+Senegal,SEN,0,0,https://twitter.com/PR_Senegal/status/1393317332961923088,0,0.0,0.0,2021-05-17,300000
+22,22,0,0,90,0,7.0,7.0,2021-05-19,24000
+13,13,0,0,53,0,3.0,3.0,2021-05-19,10000
+49,49,4,4,https://www.reuters.com/article/health-coronavirus-lithuania-astrazeneca/lithuania-to-donate-200000-covid-19-vaccines-to-eastern-europe-idUSL8N2N12B2,4,13.0,12.0,2021-05-19,15000
+95,95,4,10,https://www.thenational.com.pg/meninga-backs-vaccine-rollout/,4,33.0,30.0,2021-05-24,10000
+10,10,0,0,28,0,0.0,0.0,2021-05-24,600000
+Trinidad,TTO,0,0,https://tt.loopnews.com/content/sinopharm-vaccines-arrive-trinidad-and-tobago,0,0.0,0.0,2021-05-24,100000
+12,12,0,0,46,0,0.0,0.0,2021-05-24,300000
+87,87,0,0,https://www.reuters.com/business/healthcare-pharmaceuticals/china-gift-1-million-covid-19-vaccine-doses-nepal-2021-05-26/,0,0.0,0.0,2021-05-27,1000000
+Sri Lanka,LKA,0,0,http://www.colombopage.com/archive_21A/May19_1621446466CH.php,0,0.0,0.0,2021-05-27,500000
+40,40,6,6,https://www.globaltimes.cn/page/202105/1224608.shtml,6,0.0,0.0,2021-05-27,200000
+South Korea,KOR,7,7,http://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=161820,7,10.0,9.0,2021-06-02,1000000
+Serbia,SRB,0,0,http://www.mod.gov.rs/eng/tekst/17397/kina-donirala-200-000-vakcina-dokaz-celicnog-prijateljstva-17397,0,0.0,0.0,2021-06-03,200000
+Trinidad,TTO,4,4,https://foreign.gov.tt/resources/news/trinidad-and-tobago-receives-9000-doses-who-approved-astrazeneca-covid-19-vaccines-bermuda/,4,65.0,56.0,2021-06-03,9000
+Trinidad,TTO,4,4,https://newsday.co.tt/2021/05/20/st-vincent-bermuda-donate-covid19-vaccines-to-trinidad-and-tobago/,4,66.0,57.0,2021-06-03,16000
+28,28,0,0,https://humangle.ng/china-donates-200000-doses-of-covid-19-vaccines-to-chad/,0,0.0,0.0,2021-06-03,200000
+Trinidad,TTO,4,4,https://foreign.gov.tt/resources/news/trinidad-and-tobago-receives-10000-covid-19-vaccines-grenada/,4,64.0,55.0,2021-06-03,10000
+Timor-Leste,TLS,6,6,https://www.wfp.org/news/wfp-helps-transport-covid-19-vaccine-donated-china-timor-leste,6,0.0,0.0,2021-06-07,100000
+Taiwan,TWN,4,4,https://www.voanews.com/covid-19-pandemic/japan-donates-more-1-million-astrazeneca-jabs-taiwan,4,32.0,29.0,2021-06-09,1240000
+12,12,0,0,50,0,3.0,3.0,2021-06-09,10000
+83,83,0,0,https://www.peacefmonline.com/pages/local/news/202106/446096.php,0,0.0,0.0,2021-06-09,60000
+72,72,6,6,https://www.aa.com.tr/en/europe/north-macedonia-receives-30-000-vaccine-doses-donated-by-turkey/2268553,6,28.0,26.0,2021-06-09,30000
+Solomon Islands,SLB,0,0,https://solomons.gov.sb/transfer-certificate-for-the-50000-sinopharm-vaccines-signed/,0,0.0,0.0,2021-06-14,50000
+--,--,3,3,http://eng.alrosa.ru/alrosa-zim-donates-sputnik-v-vaccines-to-zimbabwe/,3,8.0,1.0,2021-06-14,50000
+80,80,4,4,https://www.euneighbours.eu/en/east/stay-informed/news/moldova-receives-covid-19-vaccines-through-eu-civil-protection-mechanism,4,6.0,6.0,2021-06-14,100800
+0,0,0,0,0,0,0.0,0.0,2021-06-14,700000
+23,23,0,0,https://www.khmertimeskh.com/50870323/cambodia-moves-closer-to-herd-immunity-with-receipt-of-one-million-doses-of-covid-19-vaccines/,0,0.0,0.0,2021-06-14,500000
+53,53,0,0,https://www.reuters.com/business/healthcare-pharmaceuticals/guinea-receives-purchase-300000-sinovac-covid-19-vaccines-2021-04-18/,0,0.0,0.0,2021-06-16,200000
+53,53,0,0,https://twitter.com/shen_shiwei/status/1367277932272492547?s=20,0,0.0,0.0,2021-06-16,200000
+--,--,3,3,11,3,8.0,0.0,2021-06-16,50000
+78,78,0,0,https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,0,0.0,0.0,2021-06-16,100000
+79,79,7,7,https://www.gob.mx/sre/prensa/mexico-receives-a-shipment-of-1-35-million-johnson-johnson-vaccine-doses?idiom=en,7,10.0,9.0,2021-06-18,1350000
+10,10,0,0,29,0,0.0,0.0,2021-06-19,2000000
+34,34,6,6,https://www.aa.com.tr/en/health/40-000-doses-of-virus-vaccine-arrives-in-ncyprus/2141569,6,28.0,26.0,2021-06-20,40000
+34,34,6,6,https://www.aa.com.tr/en/turkey/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2126160,6,28.0,26.0,2021-06-20,20000
+Ukraine,UKR,4,4,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,4,6.0,6.0,2021-06-20,108000
+34,34,6,6,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-40-000-more-vaccine-doses-to-north-cyprus/2214127,6,28.0,26.0,2021-06-20,40000
+34,34,6,6,https://www.aa.com.tr/en/turkey/turkey-sends-50-000-more-vaccine-doses-to-northern-cyprus/2267885,6,28.0,26.0,2021-06-20,50000
+34,34,6,6,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-26-000-addition-covid-19-vaccine-doses-to-northern-cyprus/2277728,6,28.0,26.0,2021-06-20,26000
+34,34,6,6,https://www.aa.com.tr/en/health/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2164568,6,28.0,26.0,2021-06-20,20000
+75,75,6,6,https://www.reuters.com/world/asia-pacific/malaysia-says-china-contribute-500000-doses-sinovac-vaccines-2021-06-16/,6,0.0,0.0,2021-06-20,500000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/06/15/laos-receives-500000-doses-of-sinopharm-vaccine-from-china,0,0.0,0.0,2021-06-21,500000
+Viet Nam,VNM,0,0,https://english.newstracklive.com/news/china-donated-500000-sinopharm-vaccine-doses-to-vietnam-sc57-nu318-ta318-1166689-1.html,0,0.0,0.0,2021-06-23,500000
+63,63,4,4,https://www.unicef.org/kenya/press-releases/over-350000-covid-19-vaccine-doses-arrive-kenya-donated-denmark,4,25.0,23.0,2021-06-23,358700
+Viet Nam,VNM,4,4,https://english.kyodonews.net/news/2021/06/8f512fecd4bf-breaking-news-japan-to-donate-1-mil-covid-19-vaccine-doses-to-vietnam-on-wed.html,4,32.0,29.0,2021-06-23,1000000
+Taiwan,TWN,4,4,https://www.reuters.com/business/healthcare-pharmaceuticals/lithuania-donates-covid-19-vaccines-taiwan-2021-06-22/,4,13.0,12.0,2021-06-24,20000
+Taiwan,TWN,5,5,https://www.reuters.com/business/healthcare-pharmaceuticals/exclusive-us-triples-vaccines-taiwan-with-25-million-dose-shipment-2021-06-19/,5,10.0,9.0,2021-06-25,2500000
+--,--,4,4,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,4,32.0,29.0,2021-06-28,1000000
+98,98,4,4,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,4,32.0,29.0,2021-06-28,1124100
+--,--,--,--,https://www.straitstimes.com/asia/east-asia/japan-to-give-1-million-doses-of-covid-19-vaccine-each-to-taiwan-vietnam,--,32.0,29.0,2021-06-28,1000000
+80,80,3,3,https://en.news-front.info/2021/06/19/the-third-batch-of-the-russian-vaccine-sputnik-v-was-delivered-to-moldova/,3,22.0,20.0,2021-06-28,30000
+11,11,0,0,43,0,0.0,0.0,2021-07-01,30000
+61,61,4,9,http://jamaica-star.com/article/news/20210630/jamaica-receives-65000-doses-astrazeneca-vaccine-mexico,4,23.0,21.0,2021-07-01,65000
+Taiwan,TWN,4,4,https://www.cdc.gov.tw/En/Bulletin/Detail/CRhVW0MnumfWzkvE8IiaWw?typeid=158,4,32.0,29.0,2021-07-06,1130000
+19,19,7,7,81,7,10.0,9.0,2021-07-11,3000000
+97,97,2,2,https://andina.pe/ingles/noticia-peru-receives-over-1-million-of-pfizer-vaccine-doses-donated-by-us-851223.aspx,2,10.0,9.0,2021-07-12,2000000
+75,75,2,2,https://www.straitstimes.com/asia/se-asia/us-donation-of-one-million-pfizer-covid-19-vaccines-arrives-in-malaysia,2,10.0,9.0,2021-07-12,1000000
+17,17,2,2,68,2,10.0,9.0,2021-07-12,500000
+29,29,7,7,"https://www.reuters.com/business/healthcare-pharmaceuticals/colombia-says-get-25-mln-janssen-covid-shot-donation-us-2021-06-28/#:~:text=Colombia%20says%20to%20get%202.5%20mln%20Janssen%20COVID%20shot%20donation%20from%20U.S.,-Reuters&text=BOGOTA%2C%20June%2028%20(Reuters),of%20Johnson%20%26%20Johnson%20(JNJ.",7,10.0,9.0,2021-07-12,2500000
+25,25,5,5,https://ca.usembassy.gov/the-united-states-donates-one-million-covid-19-vaccine-doses-to-canada/,5,10.0,9.0,2021-07-12,1000000
+Trinidad,TTO,2,2,https://www.reuters.com/business/healthcare-pharmaceuticals/chinese-media-mocks-us-donation-80-vaccine-vials-trinidad-tobago-2021-06-16/,2,10.0,9.0,2021-07-12,480
+32,32,2,2,https://twitter.com/StateDept/status/1415292331205480449?s=20,2,10.0,9.0,2021-07-14,500000
+96,96,2,2,https://thesaxon.org/the-united-states-will-donate-another-million-pfizer-vaccines-against-the-coronavirus-to-paraguay/61567/,2,10.0,9.0,2021-07-16,1000000
+--,--,4,4,https://www.taiwannews.com.tw/en/news/4247051,4,32.0,29.0,2021-07-16,1160000
+Viet Nam,VNM,3,3,https://tuoitrenews.vn/news/society/20210713/japan-donates-one-million-more-covid19-vaccine-shots-to-vietnam/62050.html,3,22.0,20.0,2021-07-16,2000
+96,96,2,2,https://news.yahoo.com/u-donate-1-million-doses-210029623.html,2,10.0,9.0,2021-07-16,1000000
+Tunisia,TUN,6,6,https://www.facebook.com/Presidence.tn/photos/pcb.4425600504164639/4425597597498263/,6,28.0,26.0,2021-07-16,50000
+Uruguay,URY,2,2,https://riotimesonline.com/brazil-news/covid-19/uruguay-will-receive-a-donation-of-500000-doses-of-pfizers-covid-vaccine-from-the-united-states/,2,10.0,9.0,2021-07-16,500000
+Viet Nam,VNM,4,4,https://tuoitrenews.vn/news/society/20210713/japan-donates-one-million-more-covid19-vaccine-shots-to-vietnam/62050.html,4,32.0,29.0,2021-07-16,1000000
+94,94,2,2,https://www.embassyofpanama.org/news/2021/7/26/panama-receives-503100-pfizer-doses-donated-by-the-united-states,2,10.0,9.0,2021-07-16,503100
+Taiwan,TWN,4,4,https://www.taiwannews.com.tw/en/news/4249126,4,32.0,29.0,2021-07-16,970000
+62,62,2,2,https://www.france24.com/en/live-news/20210715-us-sends-half-million-covid-vaccines-to-jordan,2,10.0,9.0,2021-07-16,500000
+87,87,0,0,https://kathmandupost.com/national/2021/07/16/china-to-donate-additional-1-6-million-doses-of-covid-19-vaccines-to-nepal,0,0.0,0.0,2021-07-16,1600000
+54,54,--,--,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-envia-vacinas-contra-a-covid-19-para-a-guine-bissauportugal-envia-vacinas-contra-a-covid-19-para-a-guine-bissau,--,7.0,7.0,2021-07-18,24000
+83,83,4,4,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-disponibiliza-vacinas-contra-a-covid-19-a-mocambique,4,7.0,7.0,2021-07-18,50000
+Sao Tome,STP,4,10,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-apoia-sao-tome-e-principe-na-vacinacao-contra-a-covid-19,4,7.0,7.0,2021-07-18,12000
+22,22,0,0,89,0,7.0,7.0,2021-07-18,24000
+3,3,0,0,9,0,7.0,7.0,2021-07-18,50000
+Uzbekistan,UZB,4,4,https://tashkenttimes.uz/national/7248-azerbaijan-donates-50-thousand-doses-of-astrazeneca-vaccine-to-uzbekistan,4,30.0,28.0,2021-07-21,50000
+52,52,5,5,https://gt.usembassy.gov/u-s-government-aid-of-3-million-vaccines-arrives-in-la-aurora/,5,10.0,9.0,2021-07-21,3000000
+49,49,2,2,https://www.euronews.com/2021/07/24/us-donates-half-a-million-pfizer-vaccine-doses-to-georgia,2,10.0,9.0,2021-07-25,500000
+29,29,5,5,https://www.minsalud.gov.co/Paginas/3-5-millones-de-dosis-de-Moderna-ya-estan-en-Colombia-.aspx,5,10.0,9.0,2021-07-25,3500000
+40,40,2,2,https://ec.usembassy.gov/slide/the-us-completes-the-donation-of-2-million-pfizer-vaccines-to-ecuador/,2,10.0,9.0,2021-07-25,2000000
+52,52,5,5,https://gt.usembassy.gov/u-s-government-aid-of-3-million-vaccines-arrives-in-la-aurora/,5,10.0,9.0,2021-07-25,1500000
+5,5,5,5,18,5,10.0,9.0,2021-07-26,3500000
+46,46,4,10,https://www.fijivillage.com/news/1-million-vaccines-to-come-from-Australia-and-500000-vaccines-to-come-from-NZ-xr58f4/,4,33.0,30.0,2021-07-28,1000000
+15,15,4,4,61,4,24.0,22.0,2021-08-01,10000
+15,15,0,0,60,0,0.0,0.0,2021-08-01,50000
+15,15,4,4,61,4,25.0,23.0,2021-08-01,250000
+15,15,4,4,61,4,18.0,16.0,2021-08-01,172500
+42,42,0,0,https://www.reuters.com/article/us-health-coronavirus-el-salvador-china/el-salvador-to-receive-1-million-vaccine-doses-from-china-after-boosting-diplomatic-ties-idUSKBN2EW273,0,0.0,0.0,2021-08-02,1000000
+66,66,4,4,https://www.azernews.az/business/181226.html,4,30.0,28.0,2021-08-02,40000
+--,--,1,1,https://togoactu24.com/covid-19-le-togo-receptionne-45-000-doses-de-vaccin-astrazeneca-de-lua/,1,42.0,0.0,2021-08-02,45000
+66,66,10,11,https://astanatimes.com/2021/07/kazakhstan-delivers-25000-doses-of-its-own-vaccine-to-kyrgyzstan/,9,51.0,42.0,2021-08-04,25000
+63,63,4,4,https://www.unicef.org/kenya/press-releases/another-410000-covid-19-vaccine-doses-arrive-kenya-donated-uk,4,11.0,10.0,2021-08-04,817000
+Ukraine,UKR,4,4,https://www.ukrinform.net/rubric-society/3288280-estonia-donates-over-50000-doses-of-astrazeneca-vaccine-to-ukraine.html,4,69.0,60.0,2021-08-04,147200
+61,61,4,4,https://jis.gov.jm/jamaica-receives-300000-doses-of-vaccines-from-the-uk/,4,11.0,10.0,2021-08-04,300000
+Syria,SYR,0,0,http://www.oananews.org/content/news/general/syria-receives-150000-doses-corona-vaccine-china,0,0.0,0.0,2021-08-04,150000
+98,98,4,4,https://www.reuters.com/world/asia-pacific/first-batch-us-donated-pfizer-vaccines-arrives-thailand-2021-07-30/,4,11.0,10.0,2021-08-04,415040
+13,13,4,4,56,4,11.0,10.0,2021-08-04,42000
+Sri Lanka,LKA,0,0,https://www.business-standard.com/article/current-affairs/sri-lanka-approves-chinese-sinovac-covid-19-vaccine-for-emergency-use-121071700066_1.html,0,0.0,0.0,2021-08-04,1600000
+Uganda,UGA,6,6,https://www.dwcug.org/chinas-donation-of-covid-19-vaccine-to-uganda-re-affirms-beijings-philosophy-of-a-shared-future-for-prosperity/,6,0.0,0.0,2021-08-06,300000
+Thailand,THA,2,2,https://www.bangkokpost.com/learning/advanced/2160439/pfizer-roll-out-starts,2,10.0,9.0,2021-08-06,1503450
+Viet Nam,VNM,4,4,https://e.vnexpress.net/news/news/415-000-astrazeneca-doses-gifted-by-uk-reach-vietnam-4335031.html,4,11.0,10.0,2021-08-06,415000
+52,52,4,9,https://www.reuters.com/world/americas/mexico-donate-400000-covid-19-vaccine-shots-central-america-2021-06-24/,4,23.0,21.0,2021-08-06,150000
+92,92,0,0,https://pakobserver.net/china-gifts-2-million-more-doses-of-covid-vaccine-to-pakistan/,0,0.0,0.0,2021-08-06,2000000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/08/08/fifth-shipment-of-covid-19-vaccine-arrives-from-china,0,0.0,0.0,2021-08-09,1000000
+Ukraine,UKR,4,4,https://www.ukrinform.net/rubric-society/3288280-estonia-donates-over-50000-doses-of-astrazeneca-vaccine-to-ukraine.html,4,69.0,60.0,2021-08-11,52800
+80,80,4,4,https://vaccinare.gov.md/news/110-letonia-a-donat-republicii-moldova-un-lot-de-30-000-de-doze-de-vaccin-astrazeneca,4,4.0,4.0,2021-08-11,30000
+87,87,4,4,https://www.indiatvnews.com/news/world/japan-donates-500k-doses-of-astrazeneca-vaccine-to-nepal-another-million-jabs-promised-725087,4,32.0,29.0,2021-08-11,1600000
+98,98,0,12,https://www.manilatimes.net/2021/08/11/latest-stories/uae-us-donate-more-covid-19-jabs/1810579,0,3.0,3.0,2021-08-11,100000
+63,63,4,4,https://africa.businessinsider.com/apo/coronavirus-kenya-received-a-further-180000-doses-of-astrazeneca-vaccine/2mqyjq9,4,5.0,40.0,2021-08-11,180000
+55,55,4,4,https://guyanachronicle.com/2021/07/29/uk-donating-84800-astrazeneca-doses-to-guyana/,4,11.0,10.0,2021-08-11,84800
+10,10,0,0,31,0,0.0,0.0,2021-08-15,1000000
+60,60,0,0,https://www.israelhayom.com/2021/08/13/iraq-receives-3rd-shipment-of-donated-chinese-covid-vaccines/,0,0.0,0.0,2021-08-16,500000
+41,41,4,4,https://allafrica.com/stories/202108110303.html,4,6.0,6.0,2021-08-16,525000
+68,68,3,3,https://rs.n1info.com/english/news/serbia-donates-coronavirus-vaccine-to-lebanon/,3,9.0,8.0,2021-08-18,40000
+Ukraine,UKR,4,4,https://ukranews.com/en/news/795885-lithuania-sends-46-000-doses-of-astrazeneca-vaccine-to-ukraine,4,13.0,12.0,2021-08-18,131000
+Ukraine,UKR,4,4,https://www.reuters.com/world/europe/poland-send-650000-doses-astrazeneca-vaccine-ukraine-2021-08-16/,4,19.0,17.0,2021-08-18,650000
+6,6,4,4,23,4,13.0,12.0,2021-08-18,27500
+96,96,5,5,https://twitter.com/mreparaguay/status/1401110290222157824,5,58.0,49.0,2021-08-18,400000
+16,16,0,0,62,0,0.0,0.0,2021-08-18,300000
+71,71,4,4,https://www.libyaobserver.ly/health/libya-receives-new-batch-astrazeneca-greece,4,5.0,40.0,2021-08-18,200000
+71,71,4,4,https://www.devdiscourse.com/article/health/1697861-malta-donates-tens-of-thousands-of-covid-19-vaccine-doses-to-libya,4,52.0,43.0,2021-08-18,40000
+98,98,0,0,https://newsinfo.inquirer.net/1476441/ph-receives-739k-doses-of-sinopharm-vaccine-donated-by-china,0,0.0,0.0,2021-08-23,1000000
+23,23,0,0,https://www.phnompenhpost.com/national/china-gifts-sinopharm-jabs-through-military-red-cross,0,0.0,0.0,2021-08-23,600000
+23,23,0,0,94,0,0.0,0.0,2021-08-23,500000
+Suriname,SUR,4,4,https://nltimes.nl/2021/05/16/suriname-receive-700-thousand-covid-19-vaccines-netherlands,4,47.0,37.0,2021-08-23,700000
+5,5,4,4,19,4,12.0,11.0,2021-08-24,400000
+45,45,0,0,http://www.china.org.cn/world/Off_the_Wire/2021-08/23/content_77709773.htm,0,0.0,0.0,2021-08-25,300000
+Viet Nam,VNM,0,0,https://en.nhandan.vn/society/health/item/10352002-vietnam-receives-over-700-000-doses-of-covid-19-vaccines-from-poland-china.html,0,0.0,0.0,2021-08-25,200000
+99,99,0,0,http://www.xinhuanet.com/english/africa/2021-08/19/c_1310136962.htm,0,0.0,0.0,2021-08-25,200000
+59,59,3,3,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/serbia-to-donate-50-000-covid-19-vaccine-doses-to-iran/2326632,3,9.0,8.0,2021-08-25,50000
+Tunisia,TUN,4,4,https://www.spa.gov.sa/viewstory.php?lang=en&newsid=2278325,4,54.0,45.0,2021-08-29,1000000
+Sri Lanka,LKA,0,0,http://www.news.cn/english/2021-08/28/c_1310154646.htm,0,0.0,0.0,2021-08-30,300000
+1,1,4,4,5,4,4.0,4.0,2021-08-30,30000
+56,56,4,4,http://www.salud.gob.hn/site/index.php/component/k2/item/2381-espana-dona-100-mil-dosis-de-vacunas-astrazeneca,4,12.0,11.0,2021-08-30,100000
+40,40,4,4,https://www.salud.gob.ec/394-950-mil-nuevas-dosis-de-astrazeneca-donadas-por-canada-iran-a-zonas-de-frontera/,4,21.0,19.0,2021-08-31,394950
+Viet Nam,VNM,5,5,https://vietnamnews.vn/society/1022258/czech-republic-donates-250000-doses-of-covid-19-vaccines-to-viet-nam.html,5,61.0,52.0,2021-09-01,40800
+Sao Tome,STP,4,4,https://www.theportugalnews.com/news/2021-08-11/portugal-donates-37-000-vaccines-to-sao-tome-and-principe/61646,4,7.0,7.0,2021-09-01,37000
+61,61,4,4,https://jis.gov.jm/jamaica-receives-200000-doses-of-astrazeneca-covid-19-vaccines-from-canada/,4,21.0,19.0,2021-09-01,200000
+Taiwan,TWN,5,5,https://www.taiwannews.com.tw/en/news/4279275,5,61.0,52.0,2021-09-01,30000
+--,--,--,--,https://vietnamnews.vn/society/1022258/czech-republic-donates-250000-doses-of-covid-19-vaccines-to-viet-nam.html,--,61.0,52.0,2021-09-01,210000
+10,10,0,0,30,0,0.0,0.0,2021-09-01,300000
+46,46,4,4,https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-support-fiji%E2%80%99s-covid-19-response-continues-vaccine-delivery-operational,4,41.0,35.0,2021-09-03,100000
+Syria,SYR,8,3,https://tass.com/world/1317383,3,22.0,20.0,2021-09-03,250000
+8,8,2,2,25,2,10.0,9.0,2021-09-06,397000
+Suriname,SUR,2,2,https://www.jamaicaobserver.com/latestnews/US_shipping_vaccines_to_Suriname,2,10.0,9.0,2021-09-06,140400
+55,55,2,2,https://gy.usembassy.gov/u-s-donates-146250-pfizer-vaccine-doses-to-guyana/,2,10.0,9.0,2021-09-06,146250
+51,51,2,2,https://www.weefmgrenada.com/grenada-receives-pfizer-covid-19-vaccines-available-to-citizens-12-years-and-older/,2,10.0,9.0,2021-09-06,29250
+13,13,2,2,54,2,10.0,9.0,2021-09-06,345150
+Tunisia,TUN,4,4,https://eng.lsm.lv/article/society/health/latvian-donated-vaccines-depart-to-tunisia.a414721/,4,4.0,4.0,2021-09-06,50000
+79,79,5,5,https://www.directrelief.org/2021/08/first-moderna-covid-19-vaccines-delivered-to-mexico/,5,10.0,9.0,2021-09-06,1750000
+Saint Lucia,LCA,2,2,16,2,10.0,9.0,2021-09-06,52650
+Saint Vincent,VCT,2,2,16,2,10.0,9.0,2021-09-06,35100
+4,4,2,2,16,2,10.0,9.0,2021-09-06,17550
+79,79,5,5,https://mexiconewsdaily.com/news/coronavirus/covid-roundup-mx-to-become-largest-recipient-of-us-donated-vaccines/,5,10.0,9.0,2021-09-06,1750000
+St. Kitts and Nevis,KNA,2,2,16,2,10.0,9.0,2021-09-06,11700
+11,11,2,2,16,2,10.0,9.0,2021-09-06,70200
+Trinidad,TTO,2,2,https://newsday.co.tt/2021/08/11/us-vaccine-donation-to-trinidad-and-tobago-to-arrive-on-thursday/,2,10.0,9.0,2021-09-06,907920
+South Korea,KOR,7,7,http://www.koreaherald.com/view.php?ud=20210814000065,7,10.0,9.0,2021-09-06,400000
+61,61,2,2,https://www.moh.gov.jm/children-teens-to-get-priority-with-pfizer-vaccine/,2,10.0,9.0,2021-09-06,608000
+Taiwan,TWN,4,4,https://www.taipeitimes.com/News/taiwan/archives/2021/09/08/2003764014,4,32.0,29.0,2021-09-07,64000
+--,--,6,6,http://www.china.org.cn/world/Off_the_Wire/2021-09/04/content_77733491.htm,6,34.0,0.0,2021-09-07,500000
+Taiwan,TWN,4,4,https://www.cdc.gov.tw/En/Bulletin/Detail/rOtFLYxkD56IZJSOq0z77w?typeid=158,4,19.0,17.0,2021-09-08,400000
+84,84,0,0,https://theglobalherald.com/news/china-donates-medical-supplies-to-myanmar/,0,0.0,0.0,2021-09-08,1000000
+63,63,4,4,https://eng.lsm.lv/article/society/health/latvian-donated-vaccines-depart-to-tunisia.a414721/,4,4.0,4.0,2021-09-08,55200
+97,97,4,4,https://andina.pe/ingles/noticia-peru-receives-35100-covid19-vaccine-doses-donated-by-canada-860126.aspx,4,21.0,19.0,2021-09-08,35100
+85,85,3,3,https://allafrica.com/stories/202109030602.html,3,9.0,8.0,2021-09-08,15000
+99,99,4,4,https://allafrica.com/stories/202109030480.html,4,5.0,5.0,2021-09-08,200000
+Viet Nam,VNM,4,4,https://covid19.gov.vn/bo-truong-bo-y-te-tiep-nhan-200000-lieu-vaccine-covid-19-171210912144202412.htm,4,50.0,41.0,2021-09-14,100000
+--,--,4,4,https://en.antaranews.com/news/188725/indonesia-receives-johnson--johnson-vaccines-from-the-netherlands,4,47.0,37.0,2021-09-14,657000
+49,49,0,0,https://vestnikkavkaza.net/news/Red-Cross-to-donate-100-000-doses-of-Sinopharm-vaccine-to-Georgia.html,0,43.0,0.0,2021-09-14,100000
+Viet Nam,VNM,4,4,https://covid19.gov.vn/bo-truong-bo-y-te-tiep-nhan-200000-lieu-vaccine-covid-19-171210912144202412.htm,4,67.0,58.0,2021-09-14,100000
+20,20,0,0,84,0,0.0,0.0,2021-09-14,100000
+Viet Nam,VNM,0,0,https://www.reuters.com/business/healthcare-pharmaceuticals/vietnam-says-china-donate-3-mln-more-coronavirus-vaccines-2021-09-10/,0,0.0,0.0,2021-09-14,3000000
+58,58,7,7,https://en.antaranews.com/news/188725/indonesia-receives-johnson--johnson-vaccines-from-the-netherlands,7,47.0,37.0,2021-09-14,500000
+23,23,0,0,96,0,0.0,0.0,2021-09-15,3000000
+23,23,0,0,95,0,0.0,0.0,2021-09-15,100000
+--,--,4,4,39,4,18.0,16.0,2021-09-21,270000
+20,20,4,10,87,4,33.0,30.0,2021-09-22,100000
+Thailand,THA,4,4,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,4,32.0,29.0,2021-09-22,1050000
+Viet Nam,VNM,4,4,https://covid19.gov.vn/hungary-trao-tang-viet-nam-vaccine-va-vat-tu-y-te-phong-chong-covid-19-171210922100555049.htm,4,26.0,24.0,2021-09-24,100000
+83,83,4,4,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-disponibiliza-vacinas-contra-a-covid-19-a-mocambique,4,7.0,7.0,2021-09-24,50000
+42,42,4,9,https://www.reuters.com/world/americas/mexico-donate-400000-covid-19-vaccine-shots-central-america-2021-06-24/,4,23.0,21.0,2021-09-24,100800
+Serbia,SRB,4,4,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,4,6.0,6.0,2021-09-24,50400
+63,63,4,4,https://www.gov.pl/web/kenya/poland-donates-vaccines-to-kenya,4,19.0,17.0,2021-09-24,211200
+63,63,0,0,https://www.health.go.ke/wp-content/uploads/2021/09/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-23RD-SEPT-2021-1.pdf,0,0.0,0.0,2021-09-24,200000
+77,77,0,0,https://www.moroccoworldnews.com/2021/05/342657/morocco-donates-covid-19-vaccines-lot-to-mauritania,0,55.0,46.0,2021-09-26,280000
+75,75,4,4,https://www.thestar.com.my/news/nation/2021/07/30/hisham-over-one-million-astrazeneca-vaccine-doses-received-from-saudi-arabia,4,11.0,10.0,2021-09-26,415000
+75,75,4,4,https://www.thestar.com.my/news/nation/2021/07/30/hisham-over-one-million-astrazeneca-vaccine-doses-received-from-saudi-arabia,4,54.0,45.0,2021-09-26,1000000
+75,75,4,4,https://english.kyodonews.net/news/2021/06/082ff96b4bdb-japan-to-donate-millions-more-astrazeneca-vaccines-across-asia.html,4,32.0,29.0,2021-09-26,1000000
+58,58,0,0,http://id.china-embassy.org/eng/sgdt/t1910003.htm,0,0.0,0.0,2021-09-27,200000
+--,--,--,--,https://vovworld.vn/en-US/news/japan-to-donate-vietnam-another-400000-doses-of-vaccine-this-month-1026750.vov,--,32.0,29.0,2021-09-27,400000
+41,41,4,4,https://www.egypttoday.com/Article/1/108138/Egypt-receives-250K-doses-of-COVID-19-vaccine-AstraZeneca,4,5.0,5.0,2021-09-27,250000
+--,--,--,--,https://voi.id/en/news/88178/indonesia-gets-2-million-free-sinovac-vaccine-doses-from-china-today,--,34.0,0.0,2021-09-27,--
+58,58,6,6,http://id.china-embassy.org/eng/sgdt/t1910003.htm,6,0.0,0.0,2021-09-27,1000000
+62,62,0,0,https://en.royanews.tv/news/27348/2021-04-25,0,0.0,0.0,2021-09-28,50000
+Thailand,THA,4,4,https://www.japantimes.co.jp/news/2021/09/14/national/japan-donate-vaccines-taiwan/,4,32.0,29.0,2021-09-28,300000
+33,33,0,0,https://www.primature.ci/actualite/?pm=11382,0,0.0,0.0,2021-09-28,100000
+22,22,0,0,91,0,0.0,0.0,2021-09-28,50000
+64,64,0,0,https://www.rnz.co.nz/international/pacific-news/450554/kiribati-govt-says-it-has-enough-doses-of-covid-19-vaccine-for-its-adult-population,0,0.0,0.0,2021-09-28,90000
+6,6,6,6,20,6,0.0,0.0,2021-09-28,100000
+26,26,6,6,https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-11-july-2021,6,0.0,0.0,2021-09-28,150000
+37,37,0,0,https://www.dominicavibes.dm/featured-268589/,0,0.0,0.0,2021-09-28,20000
+67,67,8,3,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/09/25/russia-donates-30000-doses-of-vaccine,3,22.0,20.0,2021-09-28,30000
+Taiwan,TWN,4,4,https://focustaiwan.tw/society/202109260003,4,50.0,41.0,2021-09-28,160000
+45,45,6,6,https://www.fanabc.com/english/defense-ministry-of-china-donates-200000-doses-of-covid-19-vaccine-to-its-ethiopian-counterpart/,6,0.0,0.0,2021-09-28,200000
+Taiwan,TWN,4,4,https://www.japantimes.co.jp/news/2021/09/14/national/japan-donate-vaccines-taiwan/,4,32.0,29.0,2021-09-28,500000
+West Bank and Gaza,PSE,6,6,https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1893587.shtml,6,0.0,0.0,2021-09-29,250000
+95,95,0,0,https://covid19.info.gov.pg/chinese-covid-19-vaccine-is-in-png/,0,0.0,0.0,2021-09-29,200000
+West Bank and Gaza,PSE,6,6,https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1893587.shtml,6,74.0,64.0,2021-09-29,250000
+91,91,6,6,https://timesofoman.com/article/101359-oman-thanks-china-for-covid-19-vaccine,6,0.0,0.0,2021-09-29,100000
+31,31,0,0,https://www.reuters.com/article/us-health-coronavirus-congorepublic-vacc/china-to-donate-100000-covid-19-vaccine-doses-to-congo-republic-idUSKBN2A42OI,0,0.0,0.0,2021-09-29,100000
+31,31,0,0,https://www.adiac-congo.com/content/communique-de-la-coordination-nationale-de-gestion-de-la-pandemie-de-coronavirus-covid-19-15,0,0.0,0.0,2021-09-29,200000
+Zambia,ZMB,0,0,https://worldtopnewsng.com/zambia-receives-additional-100000-doses-of-sinopharm-vaccine/,0,0.0,0.0,2021-09-29,100000
+Tajikistan,TJK,6,6,https://www.asiaplustj.info/en/news/tajikistan/society/20210726/15-million-doses-of-the-coronavac-vaccine-expected-to-be-delivered-to-tajikistan-on-july-28,6,0.0,0.0,2021-09-29,1500000
+Tajikistan,TJK,6,6,https://www.asiaplustj.info/en/news/tajikistan/society/20210621/china-delivers-300000-doses-of-coronavac-vaccine-to-tajikistan,6,0.0,0.0,2021-09-29,300000
+80,80,0,0,https://www.ipn.md/en/250000-vaccines-from-china-get-to-chisinau-150000-7967_1081294.html,0,0.0,0.0,2021-09-29,150000
+12,12,0,0,48,0,0.0,0.0,2021-09-29,500000
+23,23,0,0,93,0,0.0,0.0,2021-09-29,1000000
+Vanuatu,VUT,0,0,https://www.abc.net.au/radio-australia/programs/pacificbeat/vanuatu-prime-minister-chinese-sinopharm-vaccine/13394108,0,0.0,0.0,2021-09-29,20000
+72,72,0,0,http://mk.china-embassy.org/eng/sgxw/t1876056.htm,0,0.0,0.0,2021-09-29,100000
+69,69,0,0,https://www.gov.ls/lesotho-receives-203340-sinopharm-from-china/,0,0.0,0.0,2021-09-29,203340
+Seychelles,SYC,0,0,https://www.mfa.gov.sc/news/2252/la-chine-fait-don-de-25-000-vaccins-sinopharm-aux-seychelles,0,0.0,0.0,2021-09-29,25000
+59,59,0,0,https://iranpress.com/content/45383/4th-gift-package-covid-19-vaccine-arrived-from-china,0,0.0,0.0,2021-09-30,700000
+45,45,0,0,https://finance.sina.com.cn/tech/2021-06-20/doc-ikqcfnca2053196.shtml,0,0.0,0.0,2021-09-30,100000
+68,68,0,0,https://www.reuters.com/article/health-coronavirus-lebanon-china-int/china-to-give-lebanon-50000-covid-19-vaccine-doses-ambassador-idUSKBN2AT35Q,0,0.0,0.0,2021-09-30,90000
+Togo,TGO,6,6,https://www.alwihdainfo.com/%E2%80%8BLe-Togo-a-receptionne-200-000-nouvelles-doses-du-vaccin-SINOVAC_a106447.html,6,0.0,0.0,2021-09-30,200000
+47,47,0,0,https://humanglemedia.com/covid19-gabon-receives-another-300000-vaccines-from-china-expects-15000-from-russia/,0,0.0,0.0,2021-09-30,300000
+Tunisia,TUN,6,6,https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%AA%D9%84%D9%82%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-500-%D8%A3%D9%84%D9%81-%D8%AC%D8%B1%D8%B9%D8%A9-%D9%85%D9%86-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/2281055,6,0.0,0.0,2021-09-30,500000
+66,66,0,0,https://24.kg/english/200664_12_million_doses_of_vaccine_delivered_to_Kyrgyzstan/,0,0.0,0.0,2021-09-30,150000
+Sierra Leone,SLE,0,0,https://africazine.com/news/chinese-embassy-donates-200000-covid-19-vaccines-testing-kits-to-sierra-leone/,0,0.0,0.0,2021-09-30,200000
+Tunisia,TUN,6,6,https://www.tunisienumerique.com/tunisie-reception-de-400-mille-doses-du-vaccin-sinovac-photos/?utm_source=dlvr.it&utm_medium=twitter,6,0.0,0.0,2021-09-30,400000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,0,0.0,0.0,2021-09-30,300000
+Viet Nam,VNM,11,14,http://www.cubadebate.cu/noticias/2021/09/26/presidente-cubana-destaca-llegada-de-vacuna-abdala-a-vietnam/,10,71.0,62.0,2021-10-03,150000
+99,99,4,4,https://twitter.com/RwandaHealth/status/1444946279222624257,4,53.0,44.0,2021-10-04,857000
+41,41,4,4,https://www.reuters.com/business/healthcare-pharmaceuticals/poland-sends-over-100000-doses-astrazeneca-vaccine-egypt-2021-09-29/,4,19.0,17.0,2021-10-04,100800
+99,99,2,2,https://taarifa.rw/united-states-donates-additional-750000-doses-of-covid-19-vaccine-to-rwanda/,2,10.0,9.0,2021-10-05,751140
+Viet Nam,VNM,4,4,https://tuoitrenews.vn/news/society/20210928/germany-donates-additional-26-million-astrazeneca-covid19-vaccine-doses-to-vietnam/63305.html,4,40.0,34.0,2021-10-05,2600000
+--,--,--,10,https://www.reuters.com/world/asia-pacific/australia-give-15-mln-doses-astrazeneca-vaccine-vietnam-2021-07-13/,--,33.0,30.0,2021-10-05,1500000
+71,71,4,4,https://www.libyaherald.com/2021/10/01/italy-donates-240000-doses-of-astrazeneca-vaccines-to-libya/,4,53.0,44.0,2021-10-05,240000
+--,--,4,4,https://ticotimes.net/2021/09/22/austria-to-donate-50000-vaccines-to-costa-rica,4,2.0,2.0,2021-10-05,50000
+30,30,0,0,https://www.bbc.com/news/topics/cx1m7zg0gnlt/comoros,0,0.0,0.0,2021-10-06,100000
+37,37,2,2,https://bb.usembassy.gov/united-states-donates-11700-pfizer-vaccines-to-dominica/,2,10.0,9.0,2021-10-06,46800
+39,39,6,6,https://news.cgtn.com/news/2021-10-01/China-donates-400-000-Sinovac-vaccine-doses-to-DRC-1401GFkeOas/index.html,6,0.0,0.0,2021-10-06,400000
+12,12,0,0,49,0,0.0,0.0,2021-10-06,100000
+10,10,2,2,34,2,10.0,9.0,2021-10-06,2500000
+10,10,2,2,33,2,10.0,9.0,2021-10-06,2500000
+36,36,0,6,https://twitter.com/dpfza/status/1372529603588235267,0,0.0,0.0,2021-10-06,200000
+Ukraine,UKR,4,4,https://www.unicef.org/ukraine/en/press-releases/ukraine-receives-half-million-doses-astrazeneca-vaccine-donated-denmark,4,25.0,23.0,2021-10-07,509400
+Zimbabwe,ZWE,0,0,https://twitter.com/MoHCCZim/status/1442125310707703816,0,0.0,0.0,2021-10-07,500000
+Thailand,THA,2,2,https://thethaiger.com/coronavirus/vaccine-donation-from-iceland-and-germany-confirmed,2,62.0,53.0,2021-10-08,100000
+Zambia,ZMB,3,3,https://www.mfa.gov.rs/en/press-service/statements/selakovic-gratitude-zambia-donated-vaccines,3,9.0,8.0,2021-10-08,50000
+Ukraine,UKR,4,4,https://www.facebook.com/viktor.liashko/posts/2416117991853644,4,40.0,34.0,2021-10-08,1512000
+59,59,9,8,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,8,1.0,1.0,2021-10-08,1000000
+87,87,1,1,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,1,1.0,1.0,2021-10-08,1000000
+41,41,4,4,https://egyptindependent.com/germany-donates-2-3-million-astrazeneca-vaccine-doses-to-egypt/,4,40.0,34.0,2021-10-08,2350000
+Thailand,THA,4,4,https://thethaiger.com/coronavirus/vaccine-donation-from-iceland-and-germany-confirmed,4,40.0,34.0,2021-10-08,346100
+82,82,0,0,https://www.gov.me/en/article/croatia-donates-10000-vaccines-to-montenegro,0,26.0,24.0,2021-10-08,200000
+--,--,4,4,https://www.aa.com.tr/en/africa/ghana-receives-15m-doses-of-astrazeneca-covid-19-vaccine-from-germany/2375540,4,40.0,34.0,2021-10-08,1500000
+85,85,4,4,https://www.namibian.com.na/105758/read/Germany-donates-Covid-19-vaccine-to-Namibia,4,40.0,34.0,2021-10-08,200000
+84,84,1,1,https://www.daily-bangladesh.com/english/Bangladesh-to-receive-10-lakh-Covid-19-vaccines-from-India/64750,1,1.0,1.0,2021-10-08,1000000
+66,66,4,4,https://twitter.com/euinkg/status/1447473727793475585,4,19.0,17.0,2021-10-11,55200
+St. Kitts and Nevis,KNA,4,4,27,4,15.0,14.0,2021-10-12,3000
+Taiwan,TWN,4,4,https://www.taipeitimes.com/News/front/archives/2021/09/24/2003764914,4,13.0,12.0,2021-10-12,235900
+46,46,1,1,2,1,1.0,1.0,2021-10-12,100000
+37,37,4,4,27,4,15.0,14.0,2021-10-12,4500
+54,54,0,0,https://www.forumchinaplp.org.mo/china-gives-guinea-bissau-more-doses-of-covid-19-vaccine/,0,0.0,0.0,2021-10-12,200000
+Thailand,THA,0,0,https://english.redcross.or.th/news/medical-and-health-care-services/6589/,0,0.0,0.0,2021-10-12,100000
+54,54,0,0,https://newswep.com/china-donates-100000-doses-of-sinopharm-vaccines-to-guinea-bissau/,0,0.0,0.0,2021-10-12,100000
+17,17,4,4,75,4,2.0,2.0,2021-10-12,500000
+17,17,4,4,76,4,24.0,22.0,2021-10-12,140000
+17,17,4,4,76,4,18.0,16.0,2021-10-12,50000
+17,17,4,4,74,4,27.0,25.0,2021-10-12,48000
+17,17,2,2,67,2,27.0,25.0,2021-10-12,100620
+17,17,0,0,65,0,26.0,24.0,2021-10-12,200000
+96,96,9,8,2,8,1.0,1.0,2021-10-12,200000
+85,85,0,0,https://allafrica.com/stories/202109010663.html,0,56.0,47.0,2021-10-12,20000
+--,--,1,1,2,1,1.0,1.0,2021-10-12,1200000
+85,85,4,4,https://allafrica.com/stories/202108200509.html,4,47.0,37.0,2021-10-12,75000
+--,--,--,--,https://www.reuters.com/world/asia-pacific/skorea-donate-11-mln-doses-astrazeneca-covid-19-vaccine-vietnam-470000-doses-2021-10-12/,--,63.0,54.0,2021-10-12,1100000
+8,8,4,4,27,4,15.0,14.0,2021-10-12,2500
+6,6,5,5,21,5,13.0,12.0,2021-10-12,50000
+17,17,4,4,77,4,5.0,5.0,2021-10-12,120000
+67,67,8,3,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/10/11/russia-donates-sputnik-light-covid-19-vaccine-to-laos,3,22.0,20.0,2021-10-12,30000
+--,--,3,3,12,3,9.0,8.0,2021-10-13,50000
+--,--,3,3,https://www.zbcnews.co.zw/serbias-foreign-minister-arrives-in-zim-for-vaccine-signing-ceremony/,3,9.0,8.0,2021-10-13,30000
+84,84,0,0,http://mm.china-embassy.org/chn/sgxw/t1894406.htm,0,0.0,0.0,2021-10-13,2000000
+Timor-Leste,TLS,4,10,http://www.tatoli.tl/en/2021/07/08/covid-19-vaccine-45-000-doses-of-astrazeneca-arrive-in-tl-from-australia/,4,33.0,30.0,2021-10-14,40000
+80,80,0,0,https://tv8.md/2021/03/12/emiratele-arabe-unite-au-donat-republicii-moldova-un-lot-de-vaccin-impotriva-covid-19/,0,3.0,3.0,2021-10-14,2000
+13,13,4,9,57,4,23.0,21.0,2021-10-15,100000
+13,13,4,9,58,4,23.0,21.0,2021-10-15,100000
+96,96,4,9,57,4,23.0,21.0,2021-10-15,150000
+16,16,4,9,57,4,23.0,21.0,2021-10-15,150000
+--,--,6,6,http://www.news.cn/english/2021-10/15/c_1310246114.htm,6,0.0,0.0,2021-10-18,2000000
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/08/08/fifth-shipment-of-covid-19-vaccine-arrives-from-china,0,0.0,0.0,2021-10-18,1000000
+84,84,6,6,http://www.mdn.gov.mm/en/china-donates-sinovac-covid-19-vaccines-myanmar,6,0.0,0.0,2021-10-18,2000000
+--,--,--,--,https://vietnamnews.vn/society/1059197/560000-vaccine-doses-shared-by-european-countries-arrive-in-ha-noi.html,--,26.0,24.0,2021-10-19,400000
+--,--,--,--,https://vietnamnews.vn/society/1059197/560000-vaccine-doses-shared-by-european-countries-arrive-in-ha-noi.html,--,50.0,41.0,2021-10-19,100000
+Viet Nam,VNM,4,4,http://news.chinhphu.vn/Home/Croatia-donates-60000-COVID19-vaccine-doses-to-Viet-Nam/202110/45795.vgp,4,24.0,22.0,2021-10-19,60000
+--,--,4,4,https://ticotimes.net/2021/10/18/dominican-republic-donates-covid-19-vaccines-to-costa-rica,4,36.0,31.0,2021-10-19,56800
+11,11,7,7,41,7,20.0,18.0,2021-10-19,7000
+21,21,0,0,88,0,0.0,0.0,2021-10-19,500000
+4,4,4,4,17,4,11.0,10.0,2021-10-20,12000
+17,17,4,4,78,4,30.0,28.0,2021-10-20,40000
+Thailand,THA,4,4,https://www.reuters.com/world/asia-pacific/first-batch-us-donated-pfizer-vaccines-arrives-thailand-2021-07-30/,4,11.0,10.0,2021-10-20,415000
+--,--,4,4,13,4,7.0,7.0,2021-10-20,720000
+Tajikistan,TJK,4,4,78,4,30.0,28.0,2021-10-20,40000
+--,--,4,4,https://www.portaldiplomatico.mne.gov.pt/en/communication-and-media/press-releases/portugal-sends-a-further-76-000-vaccines-to-guinea-bissau,4,7.0,7.0,2021-10-20,76000
+--,--,4,4,https://www.khmertimeskh.com/50903837/united-kingdom-donates-415000-doses-of-astra-zeneca-vaccine-to-cambodia/,4,11.0,10.0,2021-10-20,415000
+Uganda,UGA,4,4,https://www.gov.ie/en/press-release/a268d-minister-for-health-and-minister-for-international-development-and-diaspora-announce-donation-of-over-335000-covid-19-vaccine-doses-to-uganda/,4,68.0,59.0,2021-10-21,335500
+Trinidad,TTO,4,4,https://www.canada.ca/en/global-affairs/news/2021/08/canada-announces-new-vaccine-contributions-for-regional-partners.html,4,21.0,19.0,2021-10-21,82030
+--,--,1,1,38,1,17.0,15.0,2021-10-21,201600
+17,17,6,6,71,6,29.0,27.0,2021-10-21,50000
+20,20,4,4,86,4,32.0,29.0,2021-10-21,100000
+49,49,2,2,https://agenda.ge/en/news/2021/3154,2,4.0,4.0,2021-10-22,83070
+79,79,4,4,https://www.directrelief.org/2021/10/direct-relief-helps-transport-3-4-million-more-covid-19-vaccine-doses-from-the-us-to-mexico/,4,10.0,9.0,2021-10-24,3400000
+98,98,6,6,https://www.pna.gov.ph/articles/1156625,6,0.0,0.0,2021-10-25,1000000
+85,85,3,3,https://www.mfa.gov.rs/en/press-service/statements/serbia-also-donated-covid-19-vaccines-namibia,3,9.0,8.0,2021-10-25,30000
+Viet Nam,VNM,4,4,https://tuoitrenews.vn/news/society/20211015/japan-announces-additional-500000dose-coronavirus-vaccine-donation-to-vietnam/63608.html,4,32.0,29.0,2021-10-26,500000
+98,98,4,4,https://www.sunstar.com.ph/article/1910859/Manila/Local-News/PH-receives-2000-AstraZeneca-Covid-19-vax-doses-from-Brunei,4,59.0,50.0,2021-10-26,2000
+--,--,6,6,37,6,0.0,0.0,2021-10-26,1000000
+Uganda,UGA,6,6,https://allafrica.com/stories/202110200461.html,6,0.0,0.0,2021-10-26,700000
+--,--,4,4,https://en.antaranews.com/news/195117/indonesia-welcomes-batch-of-astrazeneca-doses-from-japan,4,32.0,29.0,2021-10-26,224000
+45,45,0,0,http://global.chinadaily.com.cn/a/202110/25/WS6176037ca310cdd39bc70f24.html,0,0.0,0.0,2021-10-26,800000
+92,92,0,0,http://en.ce.cn/Insight/202110/25/t20211025_37027203.shtml,0,0.0,0.0,2021-10-26,3000000
+52,52,4,4,https://presidencia.gob.do/noticias/republica-dominicana-dona-mas-de-400000-vacunas-contra-la-covid-19-honduras-y-guatemala,4,36.0,31.0,2021-10-27,304000
+56,56,4,4,https://presidencia.gob.do/noticias/republica-dominicana-dona-mas-de-400000-vacunas-contra-la-covid-19-honduras-y-guatemala,4,36.0,31.0,2021-10-27,101000
+87,87,1,1,https://avas.mv/en/108045,1,17.0,15.0,2021-10-27,200000
+64,64,4,10,https://reliefweb.int/report/kiribati/australia-delivers-more-covid-19-vaccines-support-pacific-partners,4,33.0,30.0,2021-10-28,13000
+10,10,0,0,32,0,0.0,0.0,2021-10-28,200000
+--,--,--,--,https://vietnamnet.vn/en/society/3-1m-doses-of-covid-19-vaccine-donated-by-us-japan-arrive-in-vietnam-786736.html,--,73.0,29.0,2021-10-28,386400
+--,--,4,10,https://www.foreignminister.gov.au/minister/marise-payne/media-release/australia-delivers-vaccine-doses-indonesia,4,33.0,30.0,2021-10-28,2500000
+80,80,6,6,https://vaccinare.gov.md/news/134-republica-moldova-a-recep-ionat-70-000-de-doze-de-vaccin-sinovac-din-partea-turciei,6,28.0,26.0,2021-10-29,70000
+82,82,6,6,https://www.gov.me/en/article/turkey-donates-100000-sinovac-vaccines-to-montenegro,6,28.0,26.0,2021-10-29,100000
+Ukraine,UKR,4,4,https://twitter.com/VladoBilcik/status/1430123672707256328?s=20,4,50.0,41.0,2021-10-31,60000
+1,1,4,4,7,4,6.0,6.0,2021-10-31,150000
+Tunisia,TUN,4,4,7,4,6.0,6.0,2021-10-31,425000
+South Korea,KOR,4,4,https://www.msn.com/en-xl/europe/top-stories/romania-donates-450-000-moderna-vaccines-to-south-korea/ar-AANwMgL?MSCC=1614071447,4,6.0,6.0,2021-10-31,450000
+12,12,8,3,52,3,22.0,20.0,2021-10-31,250000
+82,82,4,4,https://www.gov.me/en/article/slovakia-donates-10000-vaccines-to-montenegro,4,50.0,41.0,2021-10-31,10000
+Viet Nam,VNM,4,4,https://ncov.vnanet.vn/en/news/romania-donates-300-000-doses-of-covid-19-vaccine-to-vietnam/eea22f34-909a-491e-a749-12405e8ec788,4,6.0,6.0,2021-10-31,300000
+82,82,2,2,https://www.euractiv.com/section/enlargement/news/eu-to-provide-vaccines-for-western-balkan-frontline-healthcare-workers/,2,2.0,2.0,2021-10-31,42000
+59,59,4,4,https://www.mfa.gr/en/current-affairs/news-announcements/secretary-general-for-international-economic-affairs-ioannis-smyrlis-meeting-with-the-ambassador-of-iran-ahmad-naderi-donation-of-150000-vaccines-07102021.html,4,5.0,5.0,2021-11-01,150000
+59,59,4,4,https://twitter.com/AustriainIran/status/1438592152980926466,4,2.0,2.0,2021-11-01,1000000
+Taiwan,TWN,5,5,https://www.reuters.com/world/asia-pacific/us-gives-15-million-more-covid-19-vaccine-doses-taiwan-2021-10-31/,5,10.0,9.0,2021-11-01,1500000
+Tanzania,TZA,0,0,http://www.news.cn/english/2021-11/02/c_1310284323.htm,0,0.0,0.0,2021-11-01,500000
+59,59,4,4,https://www.reuters.com/business/healthcare-pharmaceuticals/poland-donates-million-covid-19-shots-iran-2021-10-14/,4,19.0,17.0,2021-11-01,1000000
+22,22,4,4,92,4,27.0,25.0,2021-11-02,150000
+1,1,4,4,6,4,5.0,5.0,2021-11-02,20000
+41,41,6,6,https://www.egypttoday.com/Article/1/109435/Egypt-receives-2-million-doses-of-China%E2%80%99s-Sinovac-vaccine,6,0.0,0.0,2021-11-02,2000000
+--,--,6,6,35,6,16.0,9.0,2021-11-02,200000
+41,41,4,4,https://www.gov.si/en/news/2021-07-13-state-secretary-rascan-presents-slovenian-presidency-priorities-at-deve-meeting/,4,27.0,25.0,2021-11-02,250000
+--,--,5,5,https://en.antaranews.com/news/196929/indonesia-receives-819600-moderna-vaccines-from-dutch-govt,5,47.0,37.0,2021-11-02,819600
+63,63,4,4,https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-1ST-NOVEMBER-2021.pdf,4,50.0,41.0,2021-11-02,160000
+98,98,4,4,https://www.rappler.com/nation/japan-donate-astrazeneca-covid-19-vaccine-doses-philippines-2021,4,32.0,29.0,2021-11-03,1961600
+87,87,4,4,https://kuenselonline.com/bhutan-sends-vaccine-to-her-himalayan-neighbour/,4,57.0,48.0,2021-11-03,230000
+Taiwan,TWN,4,4,https://english.president.gov.tw/NEWS/6181,4,32.0,29.0,2021-11-03,300000
+Viet Nam,VNM,0,0,https://www.khmertimeskh.com/50961970/cambodia-hands-over-200000-sinopharm-donation-to-vietnam/,0,70.0,61.0,2021-11-03,200000
+41,41,4,4,https://www.zawya.com/mena/en/story/Egypt_receives_another_250K_doses_of_AstraZeneca_from_Hungary-SNG_255874258/,4,26.0,24.0,2021-11-03,250000
+27,27,2,2,https://cayman.loopnews.com/content/cayman-medically-vulnerable-and-those-over-60-urged-get-booster,2,11.0,10.0,2021-11-05,11000
+Serbia,SRB,5,5,https://www.srbija.gov.rs/vest/en/180691/poland-donates-200000-doses-of-moderna-covid-19-vaccine-to-serbia.php,5,19.0,17.0,2021-11-05,200000
+Saint Vincent,VCT,4,4,45,4,21.0,19.0,2021-11-05,20000
+27,27,2,2,https://caymanmarlroad.com/healthcare-workers-and-government-officials-get-2nd-dose-of-covid-vaccine/,2,11.0,10.0,2021-11-05,9750
+27,27,2,2,https://twitter.com/caymangovt/status/1346547940911964160?s=20,2,11.0,10.0,2021-11-05,9750
+27,27,2,2,https://twitter.com/martynroper/status/1359999863426076674,2,11.0,10.0,2021-11-05,15000
+27,27,4,4,https://cayman.loopnews.com/content/cayman-medically-vulnerable-and-those-over-60-urged-get-booster,4,11.0,10.0,2021-11-05,400
+53,53,3,3,https://rusal.ru/en/press-center/press-releases/rusal-delivers-sputnik-v-vaccine-to-guinea/,3,22.0,20.0,2021-11-06,10000
+--,--,--,--,https://twitter.com/nordgoldcom/status/1432620899593764864?s=20,--,44.0,20.0,2021-11-06,8000
+Tonga,TON,4,10,https://www.gov.to/press-release/second-shipment-of-australian-made-astrazeneca-vaccine-doses-arrive-in-tonga/,4,33.0,30.0,2021-11-08,45000
+85,85,3,3,https://allafrica.com/stories/202108200509.html,3,9.0,8.0,2021-11-08,50000
+92,92,0,0,"https://www.unicef.org/media/98641/file/Pakistan%20COVID-19%20Situation%20Report%20No.24,%201%20-%2030%20April%202021.pdf",0,0.0,0.0,2021-11-08,220000
+11,11,4,4,45,4,21.0,19.0,2021-11-08,30000
+Tuvalu,TUV,4,10,https://twitter.com/mattpdmorris/status/1407474093050384391,4,33.0,30.0,2021-11-08,7000
+92,92,0,0,"https://www.unicef.org/media/98641/file/Pakistan%20COVID-19%20Situation%20Report%20No.24,%201%20-%2030%20April%202021.pdf",0,0.0,0.0,2021-11-08,500000
+49,49,2,2,https://1tv.ge/en/news/poland-donates-pfizer-biontech-covid-19-vaccines-to-georgia/,2,19.0,17.0,2021-11-09,468000
+88,88,3,3,https://tass.com/society/1356929,3,22.0,20.0,2021-11-09,100000
+99,99,0,0,http://www.news.cn/english/africa/2021-11/08/c_1310296753.htm,0,0.0,0.0,2021-11-09,300000
+11,11,2,2,15,2,10.0,9.0,2021-11-09,70200
+62,62,0,0,https://www.jordantimes.com/news/local/china-donates-500000-doses-sinopharm-vaccines-jordan,0,0.0,0.0,2021-11-09,500000
+Viet Nam,VNM,0,0,https://covid19.gov.vn/quang-tay-trung-quoc-trao-tang-dia-phuong-viet-nam-800000-lieu-vaccine-phong-covid-19-171210911154820628.htm,0,0.0,0.0,2021-11-11,800000
+99,99,2,2,https://twitter.com/StateDept/status/1456765774773772297,2,10.0,9.0,2021-11-11,400000
+4,4,2,2,15,2,10.0,9.0,2021-11-11,23400
+--,--,--,--,https://vietnamnews.vn/politics-laws/1014549/poland-to-offer-viet-nam-more-than-35-million-doses-of-vaccine.html,--,19.0,17.0,2021-11-12,3000000
+4,4,0,0,14,0,0.0,0.0,2021-11-12,20000
+82,82,2,2,https://www.gov.me/en/article/poland-donates-40000-doses-of-pfizer-biontech-vaccine-to-montenegro,2,19.0,17.0,2021-11-12,40000
+82,82,3,3,https://www.gov.me/en/article/40000-doses-of-sputnik-v-vaccine-arrive-in-montenegro,3,22.0,20.0,2021-11-12,40000
+Viet Nam,VNM,0,0,https://vietnamnews.vn/politics-laws/1018759/pm-receives-chinese-ambassador-thanks-for-donation-of-2-million-vaccine-doses.html,0,0.0,0.0,2021-11-14,2000000
+Vanuatu,VUT,0,0,https://twitter.com/shen_shiwei/status/1457892521816641541?s=20,0,0.0,0.0,2021-11-14,80000
+12,12,0,0,47,0,0.0,0.0,2021-11-14,500000
+Vanuatu,VUT,4,10,https://twitter.com/AusHCVanuatu/status/1454319016613269511?s=20,4,33.0,30.0,2021-11-14,20000
+Vanuatu,VUT,4,10,https://twitter.com/AusHCVanuatu/status/1431043207991754755?s=20,4,33.0,30.0,2021-11-14,30000
+Thailand,THA,5,5,https://www.nationthailand.com/in-focus/40008676,5,10.0,9.0,2021-11-14,1000020
+93,93,5,5,https://www.rnz.co.nz/international/pacific-news/435388/palau-leading-us-vaccination-stats,5,10.0,9.0,2021-11-14,6000
+73,73,0,0,https://twitter.com/Msanp_Mada/status/1442398640631386113?s=20,0,0.0,0.0,2021-11-14,300000
+93,93,7,7,https://www.rnz.co.nz/international/pacific-news/439352/palau-receives-johnson-and-johnson-vaccines-from-the-united-states,7,10.0,9.0,2021-11-14,200
+Samoa,WSM,4,10,https://twitter.com/ZedSeselja/status/1415540067427225602?s=20,4,33.0,30.0,2021-11-14,10000
+--,--,4,4,83,4,10.0,9.0,2021-11-14,2187300
+Samoa,WSM,4,10,https://www.samoaobserver.ws/category/samoa/88121,4,33.0,30.0,2021-11-14,30000
+Tokelau,TKL,2,2,https://www.rnz.co.nz/international/pacific-news/447286/pfizer-vaccine-roll-out-begins-in-covid-free-tokelau,2,41.0,35.0,2021-11-14,720
+82,82,3,3,https://www.gov.me/en/article/serbias-donation-of-another-2000-doses-of-sputnik-v-vaccine-arrives,3,9.0,8.0,2021-11-14,2000
+Samoa,WSM,4,10,https://twitter.com/MarisePayne/status/1413363213899493388?s=20,4,33.0,30.0,2021-11-14,10000
+Solomon Islands,SLB,4,10,https://twitter.com/AusHCSols/status/1449918760328990725?s=20,4,33.0,30.0,2021-11-14,100000
+82,82,4,4,https://www.gov.me/en/article/croatia-donates-10000-vaccines-to-montenegro,4,24.0,22.0,2021-11-14,10000
+Solomon Islands,SLB,4,10,https://twitter.com/ZedSeselja/status/1431132487921520646?s=20,4,33.0,30.0,2021-11-14,113000
+66,66,8,3,http://en.kabar.kg/news/200-thsd-doses-of-sputnik-light-vaccine-to-arrive-in-bishkek/,3,22.0,20.0,2021-11-15,200000
+Syria,SYR,0,0,https://www.france24.com/en/live-news/20211114-china-donates-500-000-more-vaccine-doses-to-syria,0,0.0,0.0,2021-11-15,500000
+--,--,--,--,https://www.amcostarica.com/7.5%20million-plus%20vaccines%20imported%20in%20Costa%20Rica%20111521.html,--,37.0,31.0,2021-11-15,31400
+--,--,--,--,https://www.amcostarica.com/7.5%20million-plus%20vaccines%20imported%20in%20Costa%20Rica%20111521.html,--,35.0,9.0,2021-11-15,130
+84,84,6,6,https://borneobulletin.com.bn/more-chinese-covid-19-vaccines-arrive-in-myanmar-as-govt-lifts-stay-at-home-order/,6,0.0,0.0,2021-11-15,1000000
+65,65,2,2,https://exit.al/en/2021/05/05/kosovo-receives-first-batch-of-vaccine-doses-donated-by-the-eu/,2,2.0,2.0,2021-11-16,95000
+Serbia,SRB,2,2,69,2,2.0,2.0,2021-11-16,36000
+1,1,2,2,3,2,2.0,2.0,2021-11-16,150000
+72,72,2,2,69,2,2.0,2.0,2021-11-16,119000
+17,17,2,2,69,2,2.0,2.0,2021-11-16,214000
+82,82,2,2,69,2,2.0,2.0,2021-11-16,42000
+--,--,4,4,40,4,19.0,17.0,2021-11-16,3272880
+Viet Nam,VNM,4,4,https://tuoitrenews.vn/news/society/20211126/over-15-million-covid19-vaccine-shots-donated-by-japan-touch-down-in-vietnam/64394.html,4,32.0,29.0,2021-11-19,1540000
+80,80,4,4,https://www.ipn.md/en/lithuania-donates-covid-19-vaccine-to-moldova-7967_1083648.html,4,13.0,12.0,2021-11-19,26500
+56,56,4,9,https://www.reuters.com/world/americas/mexico-donate-154100-doses-astrazeneza-vaccine-honduras-2021-06-19/,4,23.0,21.0,2021-11-19,154100
+84,84,6,6,http://www.china.org.cn/world/Off_the_Wire/2021-11/20/content_77883763.htm,6,0.0,0.0,2021-11-22,1000000
+98,98,8,3,https://www.gmanetwork.com/news/topstories/nation/811534/philippines-welcomes-first-batch-of-sputnik-light-covid-19-vaccine-doses/story/,3,22.0,20.0,2021-11-22,5000
+--,--,5,5,https://en.antaranews.com/news/196929/indonesia-receives-819600-moderna-vaccines-from-dutch-govt,5,47.0,37.0,2021-11-22,680400
+67,67,0,0,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/21/china-provides-new-shipment-of-sinopharm-covid-19-vaccines-to-laos,0,0.0,0.0,2021-11-22,1900000
+61,61,2,2,https://www.moh.gov.jm/jamaica-to-resume-administering-2nd-dose-pfizer/,2,48.0,38.0,2021-11-23,45630
+Uzbekistan,UZB,6,6,"https://akipress.com/news:663399:Turkey_to_donate_200,000_doses_of_Sinovac_vaccine_to_Uzbekistan/",6,28.0,26.0,2021-11-23,200000
+Thailand,THA,4,4,https://www.reuters.com/world/asia-pacific/skorea-donate-11-mln-doses-astrazeneca-covid-19-vaccine-vietnam-470000-doses-2021-10-12/,4,63.0,54.0,2021-11-23,470000
+87,87,4,4,https://myrepublica.nagariknetwork.com/news/uk-sends-astra-zeneca-covid19-vaccines-to-nepal/,4,11.0,10.0,2021-11-24,130000
+--,--,6,6,https://www.khmertimeskh.com/50972922/china-further-contributes-towards-the-kingdoms-herd-immunity-goal/,6,0.0,0.0,2021-11-24,2000000
+72,72,2,2,"https://www.polskieradio.pl/395/7785/Artykul/2852463,Poland-donates-200000-doses-of-COVID19-vaccine-to-North-Macedonia",2,19.0,17.0,2021-11-24,200000
+--,--,6,6,82,6,31.0,9.0,2021-11-24,20000
+--,--,6,6,82,6,31.0,9.0,2021-11-24,9300
+79,79,4,4,https://twitter.com/USAmbMex/status/1466409685704138760,4,10.0,9.0,2021-11-28,2160900
+98,98,4,4,https://mb.com.ph/2021/11/28/poland-donates-500k-astrazeneca-vaccines-to-ph/,4,19.0,17.0,2021-11-29,547100
+84,84,6,6,https://www.gnlm.com.mm/one-million-doses-of-sinovac-covid-19-vaccine-arrive-at-yangon-intl-airport/,6,0.0,0.0,2021-11-30,3000000
+--,--,6,6,36,6,0.0,0.0,2021-11-30,2000000
+Viet Nam,VNM,4,4,https://en.vietnamplus.vn/argentina-donates-500000-astrazeneca-vaccine-doses-to-vietnam/216057.vnp,4,72.0,63.0,2021-11-30,500000
+27,27,4,4,https://www.caymancompass.com/2021/11/10/vaccine-clinics-close-as-pfizer-doses-run-out/,4,11.0,10.0,2021-12-01,11700
+63,63,4,4,https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-2ND-DECEMBER-2021.pdf,4,25.0,23.0,2021-12-03,1462400
+63,63,4,4,https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-2ND-DECEMBER-2021.pdf,4,47.0,37.0,2021-12-03,2292000
+Tunisia,TUN,4,4,https://www.diplomatie.gouv.fr/en/country-files/tunisia/news/article/tunisia-visit-by-jean-baptiste-lemoyne-minister-of-state-for-tourism-french,4,14.0,13.0,2021-12-05,300000
+Uganda,UGA,4,4,https://twitter.com/minofhealthug/status/1441022933384802305,4,67.0,58.0,2021-12-05,153900
+6,6,4,4,22,4,14.0,13.0,2021-12-05,25000
+Tunisia,TUN,7,7,https://www.diplomatie.gouv.fr/en/country-files/tunisia/news/article/tunisia-visit-by-jean-baptiste-lemoyne-minister-of-state-for-tourism-french,7,14.0,13.0,2021-12-05,500000
+--,--,4,4,https://twitter.com/FranceJakartaFR/status/1444267769671782411?s=20,4,14.0,13.0,2021-12-05,600000
+68,68,2,2,https://today.lorientlejour.com/article/1283907/the-lebanese-army-has-announced-that-it-received-a-donation-of-76000-pfizer-covid-19-vaccine-doses-from-france.html,2,14.0,13.0,2021-12-05,76000
+68,68,2,2,https://www.moph.gov.lb/en/Pages/0/56917/france-donates-pfizer-vaccines-moph,2,14.0,13.0,2021-12-05,500000
+Viet Nam,VNM,2,2,https://vovworld.vn/en-US/news/france-provides-vietnam-additional-14-million-doses-of-vaccine-1051057.vov,2,14.0,13.0,2021-12-05,400000
+Tunisia,TUN,4,4,https://www.rtbf.be/info/belgique/detail_la-belgique-envoie-une-aide-d-urgence-a-la-tunisie?id=10809022,4,67.0,58.0,2021-12-05,150000
