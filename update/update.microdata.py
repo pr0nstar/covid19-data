@@ -190,7 +190,7 @@ def get_diff_multi_histo(
 
 def download_peru(URL, sep=';', date_format='%Y%m%d', **kwargs):
     if not URL.startswith('/'):
-        cdata = requests.get(URL, headers=HEADERS, timeout=30)
+        cdata = requests.get(URL, headers=HEADERS, timeout=30, verify=False)
         fd = io.BytesIO(cdata.content)
     else:
         fd = open(URL)
@@ -212,10 +212,25 @@ def download_peru(URL, sep=';', date_format='%Y%m%d', **kwargs):
     return df
 
 
+def get_latest_revision(URL):
+    cdata = requests.get(URL, headers=HEADERS, timeout=30)
+    cdata = cdata.json()
+
+    cdata = cdata['result'][0]['resources']
+    cdata = [_ for _ in cdata if _['format'] == 'zip']
+    cdata = sorted(
+        cdata, key=lambda _: pd.to_datetime(_['revision_timestamp'].split(',')[1])
+    )
+
+    return cdata[-1]['url']
+
+
 PERU_BASE_URL = 'https://cloud.minsa.gob.pe/s'
 PERU_CASES_URL = PERU_BASE_URL + '/AC2adyLkHCKjmfm/download'
 PERU_DEATHS_URL = PERU_BASE_URL + '/xJ2LQ3QyRW38Pe5/download'
 PERU_HOSPITALIZATIONS_URL = PERU_BASE_URL + '/BosSrQ5wDf86xxg/download'
+PERU_API_URL = 'https://www.datosabiertos.gob.pe/api/3'
+PERU_TEST_BASE_URL = PERU_API_URL + '/action/package_show?id=a884fefb-7dd6-483e-9ca1-88589659f175'
 
 CASE_STATE_PE = {
     'fecha_resultado': 'confirmed',
@@ -231,9 +246,9 @@ GROUPER_PE = [
 def update_peru():
     # Hospitalizados
     peru_hospitalized_df = download_peru(
-        PERU_HOSPITALIZATIONS_URL, 
-        sep=',', 
-        date_format='%d/%m/%Y', 
+        PERU_HOSPITALIZATIONS_URL,
+        sep=',',
+        date_format='%d/%m/%Y',
         encoding='utf-8'
     )
     peru_hospitalized_df = peru_hospitalized_df.sort_values('fecha_ingreso_hosp')
@@ -248,7 +263,7 @@ def update_peru():
     ]
 
     hosp_intervals = [
-        ('fecha_ingreso_hosp', 'hospitalized'), 
+        ('fecha_ingreso_hosp', 'hospitalized'),
         ('fecha_ingreso_uci', 'intensive_care')
     ]
     histo_age_df = get_age_multi_histo(
@@ -266,7 +281,7 @@ def update_peru():
     })
 
     histo_age_df = get_age_multi_histo(
-        peru_df, 'PE', [('fecha_resultado', 'confirmed')], GROUPER_PE, 
+        peru_df, 'PE', [('fecha_resultado', 'confirmed')], GROUPER_PE,
         histo_age_df
     )
 
@@ -319,9 +334,9 @@ def update_peru():
 
     # Merge all
     peru_df = pd.merge(
-        peru_df_d, 
-        peru_df_h, 
-        how='outer', 
+        peru_df_d,
+        peru_df_h,
+        how='outer',
         on='id_persona'
     )
     peru_df['sexo'] = peru_df[
@@ -466,7 +481,9 @@ def download_argentina(_retry=0):
             dtype={
                 'edad_años_meses': 'category',
                 'clasificacion_resumen': 'category',
-            }
+            },
+            parse_dates=[_ for _ in ARGENTINA_COL if _.startswith('fecha')],
+            date_parser=lambda _: pd.to_datetime(_, errors='coerce')
         )
 
     except Exception as e:
@@ -474,13 +491,6 @@ def download_argentina(_retry=0):
             return download_argentina(_retry + 1)
         else:
             raise(e)
-
-    argentina_df_date_columns = argentina_df.columns[
-        argentina_df.columns.str.startswith('fecha')
-    ]
-    argentina_df[argentina_df_date_columns] = argentina_df[
-        argentina_df_date_columns
-    ].apply(parse_date)
 
     argentina_df.loc[argentina_df['edad_años_meses'] == 'Meses', 'edad'] = 0
     argentina_df['sexo'] = argentina_df['sexo'].replace('NR', 'U')
