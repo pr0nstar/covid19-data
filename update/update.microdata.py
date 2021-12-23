@@ -114,6 +114,10 @@ def storage_format(df, iso_code, has_iso_name=True):
 
     df['bin'] = df['bin'].map(lambda _: _.left).astype(int)
 
+    for base_column in BASE_COLUMNS:
+        if isinstance(df[base_column].dtype, pd.CategoricalDtype):
+            df[base_column] = df[base_column].astype(str)
+
     if has_iso_name:
         adm1_df = get_iso3166(df['adm1_isocode'].unique(), iso_code)
         df['adm1_isocode'] = df['adm1_isocode'].map(adm1_df['geocode'].to_dict())
@@ -482,7 +486,9 @@ def download_argentina(_retry=0):
             index_col='id_evento_caso',
             usecols=ARGENTINA_COL,
             dtype={
+                'sexo': 'category',
                 'edad_años_meses': 'category',
+                'carga_provincia_nombre': 'category',
                 'clasificacion_resumen': 'category',
             },
             parse_dates=[_ for _ in ARGENTINA_COL if _.startswith('fecha')],
