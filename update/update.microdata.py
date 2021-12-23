@@ -137,8 +137,11 @@ def get_age_multi_histo(
         data_df = df[~df[state_column].isna()]
         grouper_ = [*grouper, pd.Grouper(key=state_column, freq='W')]
 
-        histo_df_ = data_df.groupby(grouper_).apply(get_age_histo)
+        histo_df_ = data_df.groupby(grouper_, observed=True, sort=False).apply(
+            get_age_histo
+        )
         histo_df_['state'] = state_key
+        histo_df_ = histo_df_.sort_index()
 
         histo_df_ = storage_format(histo_df_, iso_code, **kwargs)
         histo_df = pd.concat([histo_df, histo_df_])
