@@ -497,6 +497,12 @@ def download_argentina(_retry=0):
 
     argentina_df = argentina_df.drop(columns='edad_años_meses')
 
+    # Process last 10 months only
+    process_since = pd.to_datetime('today').round('D') - pd.DateOffset(months=10)
+    argentina_df = argentina_df[
+        argentina_df['fecha_apertura'] > process_since
+    ]
+
     return argentina_df
 
 
@@ -520,12 +526,25 @@ def update_argentina():
         histo_age_df
     )
 
+    # Update last 6 months only
+    update_since = pd.to_datetime('today').round('D') - pd.DateOffset(months=6)
+    histo_age_df = histo_age_df.xs(
+        slice(update_since, None),
+        level='date',
+        drop_level=False
+    )
+
     CASE_KEYS = list(CASE_STATE_AR.keys())
     CASE_INTERVALS = list(zip(CASE_KEYS[:-1], CASE_KEYS[1:]))
     CASE_INTERVALS.append(('fecha_diagnostico', 'fecha_fallecimiento'))
 
     histo_diff_df = get_diff_multi_histo(
         argentina_df, 'AR', CASE_INTERVALS, CASE_STATE_AR, GROUPER_AR
+    )
+    histo_diff_df = histo_diff_df.xs(
+        slice(update_since, None),
+        level='date',
+        drop_level=False
     )
 
     return {'histo_age': histo_age_df, 'histo_diff': histo_diff_df}
