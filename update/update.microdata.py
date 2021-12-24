@@ -481,19 +481,27 @@ GROUPER_AR = [
 def download_argentina(_retry=0):
     try:
         file_path = do_download_argentina()
-        argentina_df = pd.read_csv(
-            file_path,
-            index_col='id_evento_caso',
-            usecols=ARGENTINA_COL,
-            dtype={
+
+        argentina_df = None
+        read_kwargs = {
+            'index_col': 'id_evento_caso',
+            'usecols': ARGENTINA_COL,
+            'dtype': {
                 'sexo': 'category',
                 'edad_años_meses': 'category',
                 'carga_provincia_nombre': 'category',
                 'clasificacion_resumen': 'category',
             },
-            parse_dates=[_ for _ in ARGENTINA_COL if _.startswith('fecha')],
-            date_parser=lambda _: pd.to_datetime(_, errors='coerce')
-        )
+            'parse_dates': [_ for _ in ARGENTINA_COL if _.startswith('fecha')],
+            'date_parser': lambda _: pd.to_datetime(_, errors='coerce')
+        }
+        # Process last 10 months only
+        process_since = pd.to_datetime('today').round('D') - pd.DateOffset(months=10)
+
+        with pd.read_csv(file_path, chunksize=10 ** 6, **read_kwargs) as cursor:
+            for df_chunk in cursor:
+                df_chunk = df_chunk[df_chunk['fecha_apertura'] > process_since]
+                argentina_df = pd.concat([argentina_df, df_chunk])
 
     except Exception as e:
         if _retry < 3:
@@ -505,12 +513,7 @@ def download_argentina(_retry=0):
     argentina_df['sexo'] = argentina_df['sexo'].replace('NR', 'U')
 
     argentina_df = argentina_df.drop(columns='edad_años_meses')
-
-    # Process last 10 months only
-    process_since = pd.to_datetime('today').round('D') - pd.DateOffset(months=10)
-    argentina_df = argentina_df[
-        argentina_df['fecha_apertura'] > process_since
-    ]
+    argentina_df = argentina_df.sort_index()
 
     return argentina_df
 
