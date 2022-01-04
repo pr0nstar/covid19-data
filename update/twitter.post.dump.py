@@ -27,7 +27,7 @@ def load_tweets(api, PAGES):
 
         if ' ' in username:
             query = {
-                'method': api.search,
+                'method': api.search_tweets,
                 'q': username
             }
 
