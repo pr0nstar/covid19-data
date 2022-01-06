@@ -261,7 +261,14 @@ def update_ecuador():
     cdata = requests.get(download_url, verify=False, headers=HEADERS)
     df = pd.read_excel(cdata.content)
 
-    df.columns = [_.lower().replace(' ', '_') for _ in df.columns]
+    try:
+        df_columns = [_.encode('cp1252').decode('utf-8') for _ in df.columns]
+        df_columns = [unidecode.unidecode(_) for _ in df_columns]
+    except:
+        df_columns = df.columns
+
+    df.columns = [_.lower().replace(' ', '_') for _ in df_columns]
+
     df = df.drop(['zona', 'mes_def', 'dia_def'], axis=1)
     df.iloc[:, :3] = df.iloc[:, :3].applymap(do_title)
 
@@ -558,11 +565,15 @@ def do_download_paraguay(dept_code, year=2021):
 def update_paraguay():
     df = pd.DataFrame([])
 
-    for dept_code, adm1_name in PARAGUAY_DEPTS.items():
-        dept_df = do_download_paraguay(dept_code, year=2021)
-        dept_df['adm1_name'] = adm1_name
+    for year in [2021, 2022]:
+        for dept_code, adm1_name in PARAGUAY_DEPTS.items():
+            try:
+                dept_df = do_download_paraguay(dept_code, year=year)
+                dept_df['adm1_name'] = adm1_name
+            except:
+                dept_df = None
 
-        df = pd.concat([df, dept_df])
+            df = pd.concat([df, dept_df])
 
     df['adm2_name'] = df['adm2_name'].replace({
         'Mariscal Estigarribia': 'Mariscal Jose Felix Estigarribia'
