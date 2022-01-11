@@ -17,6 +17,7 @@
 * [Pruebas pendientes ministerio de salud](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.pending.csv) (Archivado)
 * [Pruebas descartadas y sospechosos SEDES](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/testing.csv)
 * [Vacunados por dosis](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv)
+* [Ocupacion hospitalaria](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/hospitalizations.csv)
 
 ### Datos+ Covid-19 - Extra
 
