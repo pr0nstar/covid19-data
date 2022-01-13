@@ -69,7 +69,10 @@ def get_population():
 
 ARTICLES = ['de', 'del', 'los', 'las']
 def do_title(title):
-    title = title.encode('cp1252').decode('utf-8')
+    try:
+        title = title.encode('cp1252').decode('utf-8')
+    except:
+        pass
 
     title = title.lower().capitalize().split(' ')
     title = title[:1] + [
@@ -263,10 +266,10 @@ def update_ecuador():
 
     try:
         df_columns = [_.encode('cp1252').decode('utf-8') for _ in df.columns]
-        df_columns = [unidecode.unidecode(_) for _ in df_columns]
     except:
         df_columns = df.columns
 
+    df_columns = [unidecode.unidecode(_) for _ in df_columns]
     df.columns = [_.lower().replace(' ', '_') for _ in df_columns]
 
     df = df.drop(['zona', 'mes_def', 'dia_def'], axis=1)
@@ -274,6 +277,12 @@ def update_ecuador():
 
     df['provincia_defuncion'] = df['provincia_defuncion'].replace(ECU_PROVINCIAS_MAP)
     df['canton_defuncion'] = df['canton_defuncion'].replace(ECU_CANTONES_MAP)
+
+    if df['fecha_defuncion'].dtype == np.int64:
+        df_td = df['fecha_defuncion'].apply(
+            lambda _: pd.Timedelta(days=_)
+        )
+        df['fecha_defuncion'] = pd.to_datetime('1899/12/30') + df_td
 
     df = df.groupby([
         'provincia_defuncion', 'canton_defuncion', 'fecha_defuncion'
@@ -691,14 +700,14 @@ def do_merge(df, path):
 
 
 UPDATE_FNS = [
-    update_chile,
-    update_brazil,
+    # update_chile,
+    # update_brazil,
     update_ecuador,
-    update_colombia,
-    update_peru,
-    update_paraguay,
+    # update_colombia,
+    # update_peru,
+    # update_paraguay,
     # update_argentina,
-    update_bolivia
+    # update_bolivia
 ]
 if __name__ == '__main__':
     iso_level_0, iso_geo_names, geo_names = update_utils.fetch_geocodes()
