@@ -700,14 +700,14 @@ def do_merge(df, path):
 
 
 UPDATE_FNS = [
-    # update_chile,
-    # update_brazil,
+    update_chile,
+    update_brazil,
     update_ecuador,
-    # update_colombia,
-    # update_peru,
-    # update_paraguay,
+    update_colombia,
+    update_peru,
+    update_paraguay,
     # update_argentina,
-    # update_bolivia
+    update_bolivia
 ]
 if __name__ == '__main__':
     iso_level_0, iso_geo_names, geo_names = update_utils.fetch_geocodes()
