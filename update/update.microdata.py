@@ -679,9 +679,6 @@ def update_brazil_srag():
             if not title.startswith('SRAG'):
                 continue
 
-            dataset_date = pd.to_datetime(title[5:], dayfirst=True)
-            # TODO: Check date ?
-
             datase_url = el.find('a', {'class': 'resource-url-analytics'})
             datase_url = datase_url.attrs['href']
 
