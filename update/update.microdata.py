@@ -647,6 +647,12 @@ BRASIL_SRAG_URLS = [
     BRASIL_BASE_URL + 'bd-srag-2021',
 ]
 
+BRASIL_COL = [
+    'CLASSI_FIN', 'CO_MUN_NOT', 'CO_REGIONA', 'CO_UNI_NOT', 'CS_SEXO',
+    'DT_CO_SOR', 'DT_COLETA', 'DT_ENTUTI', 'DT_EVOLUCA', 'DT_INTERNA',
+    'DT_NOTIFIC', 'DT_PCR', 'DT_RAIOX', 'DT_RES_AN', 'DT_RES', 'DT_SAIDUTI',
+    'DT_SIN_PRI', 'DT_TOMO', 'EVOLUCAO', 'NU_IDADE_N', 'SG_UF', 'TP_IDADE'
+]
 CASE_STATE_SRAG_BR = {
     'dt_sin_pri': 'symptom_onset',
     'dt_coleta': 'tested',
@@ -686,17 +692,10 @@ def update_brazil_srag():
                 datase_url,
                 error_bad_lines=False,
                 warn_bad_lines=False,
-                sep=';'
+                sep=';',
+                usecols=BRASIL_COL
             )
             dataset_df.columns = [format_column(_) for _ in dataset_df.columns]
-
-            dataset_df = dataset_df.drop(columns=[
-                'sg_uf_not', 'id_pais', 'id_regiona', 'id_municip',
-                'id_unidade', 'id_rg_resi', 'id_mn_resi', 'obes_imc',
-                'out_antiv', 'fluasu_out', 'flubli_out', 'classi_out',
-                'lo_ps_vgm', 'sg_uf_inte', 'out_anim', 'id_rg_inte',
-                'ds_an_out', 'id_mn_inte', 'pais_vgm'
-            ])
 
             # Format date
             dataset_df_date_columns = dataset_df.columns[
