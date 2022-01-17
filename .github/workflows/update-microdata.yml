@@ -39,6 +39,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          git pull
           git add -A
           git commit -m "[ci] actualización microdatos"
           git push -q "https://$GH_TOKEN@github.com/pr0nstar/covid19-data.git" master
