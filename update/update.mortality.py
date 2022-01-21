@@ -589,7 +589,6 @@ def update_paraguay():
     })
     df = df[np.roll(df.columns, 1)]
 
-
     df_deaths = df.groupby(['adm1_name', 'date']).sum()
     df_deaths = df_deaths.sort_index()
     df_deaths = storage_format(
@@ -695,6 +694,7 @@ def do_merge(df, path):
 
     df = df.reset_index()
     df = df[order_cols]
+    df['date'] = pd.to_datetime(df['date']).dt.date
 
     df.to_csv(file_name, index=False)
 
