@@ -662,9 +662,9 @@ def do_update(fn):
         traceback.print_exc()
         df_objs = {}
 
-    # >= 2021
+    # >= 2021-07-31
     for key, df in df_objs.items():
-        df = df[df['date'] > '2020-12-31'].copy()
+        df = df[df['date'] > '2021-07-31'].copy()
 
         df['deaths'] = df['deaths'].astype(int)
         df['date'] = pd.to_datetime(df['date'])
