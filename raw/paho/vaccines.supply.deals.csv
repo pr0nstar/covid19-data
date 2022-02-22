@@ -54,7 +54,7 @@ ReiThera,European Commission,CAN,https://www.reuters.com/article/health-coronavi
 --,Costa Rica,CRI,https://ticotimes.net/2021/01/06/costa-rica-purchased-pfizer-vaccines-for-36-million,1970-01-01 00:26:41.510400,--,36000000,3000000,--,--,--,Bilateral,Fosun Biotech
 Instituto Butantan,Brazil,BRA,https://agenciabrasil.ebc.com.br/en/saude/noticia/2021-02/brazil-buys-another-54-mi-doses-vaccine-against-covid-19,1970-01-01 00:26:41.769600,Coronavac,438714375,100000000,--,--,Sinovac,Bilateral,T&T PHARMA
 --,European Commission,COL,https://www.reuters.com/article/health-coronavirus-eu-jj/eu-snubs-extra-300-mln-jj-astra-shots-in-bet-on-pfizer-source-idUSL1N2MD1HT,1970-01-01 00:26:42.115200,--,--,200000000,--,--,--,Multilateral,--
---,New Zealand,NZL,https://www.reuters.com/article/us-health-coronavirus-newzealand/new-zealand-to-buy-enough-pfizer-covid-19-vaccines-for-entire-population-idUSKBN2B008J,1970-01-01 00:26:42.374400,--,--,10000000,--,Formalized,--,Bilateral,Fosun Pharma
+--,New Zealand,NZL,https://www.reuters.com/article/us-health-coronavirus-newzealand/new-zealand-to-buy-enough-pfizer-covid-19-vaccines-for-entire-population-idUSKBN2B008J,1970-01-01 00:26:42.374400,--,--,10000000,--,Formalized,--,--,Fosun Pharma
 --,Taiwan,TWN,https://www.bloomberg.com/news/articles/2021-05-27/taiwan-faces-more-pressure-to-work-with-china-to-secure-vaccines,1970-01-01 00:26:42.460800,--,--,30000000,7000000,Cancelled,--,Licensing deal,TTY Biopharm
 AstraZeneca/Laboratorios Liomont,Mexico,MEX,https://www.gob.mx/sre/prensa/mexico-asegura-vacuna-para-mas-de-100-millones-de-mexicanos-ebrard,1970-01-01 00:26:42.547200,--,--,77400000,--,--,--,--,Vietnam Vaccine JSC
 --,Indonesia,IDN,https://www.kemkes.go.id/article/view/21010200001/1-8-juta-vaksin-covid-19-tambahan-tiba-di-tanah-air-bukti-nyata-komitmen-pemerintah-lindungi-masyara.html,1970-01-01 00:26:42.633600,--,--,50000000,50000000,Formalized,--,Bilateral,--
@@ -76,7 +76,7 @@ Arcturus Therapeutics,Singapore,SGP,https://ir.arcturusrx.com/news-releases/news
 --,Kuwait,KWT,https://gulfnews.com/world/gulf/kuwait/covid-19-kuwait-to-get-1-million-pfizer-vaccines-doses-by-end-of-2020-1.75190616,1970-01-01 00:26:44.966400,--,--,1000000,--,Formalized,--,--,Fosun Pharma
 IRBM,Italy,ITA,https://www.reuters.com/article/health-coronavirus-italy-vaccine/italy-set-for-16-million-astrazeneca-covid-19-shots-in-early-2021-source-idUSKBN2841KG,1970-01-01 00:26:44.966400,Vaxzevria,438714375,70000000,--,Formalized,AstraZeneca,Bilateral,T&T PHARMA
 --,Morocco,MAR,https://www.reuters.com/article/idUSKBN29R1O0,1970-01-01 00:26:44.966400,--,--,41000000,--,--,--,--,SK-Pharmacy
---,Mexico,MEX,https://www.reuters.com/article/health-coronavirus-mexico/mexico-signs-deal-with-pfizer-for-344-million-doses-of-covid-19-vaccine-idUSE1N2H7010,1970-01-01 00:26:45.052800,--,--,34400000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Mexico,MEX,https://www.reuters.com/article/health-coronavirus-mexico/mexico-signs-deal-with-pfizer-for-344-million-doses-of-covid-19-vaccine-idUSE1N2H7010,1970-01-01 00:26:45.052800,--,--,34400000,--,Formalized,--,--,Fosun Pharma
 --,--,--,https://www.bag.admin.ch/bag/en/home/das-bag/aktuell/medienmitteilungen.msg-id-82627.html,1970-01-01 00:26:45.052800,--,--,6000000,7000000,--,--,--,--
 --,--,--,https://www.reuters.com/world/europe/eu-secures-additional-100-mln-covid-19-doses-pfizerbiontech-2021-04-19/,1970-01-01 00:26:45.052800,--,--,600000000,720000000,--,--,--,--
 --,Costa Rica,CRI,https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1982-costa-rica-firma-acuerdo-con-astrazeneca-para-suministro-de-vacuna-candidata-contra-el-sars-cov-2,1970-01-01 00:26:45.139200,--,59904000,1000000,--,--,--,--,--
@@ -92,10 +92,10 @@ CureVac,European Commission,AUS,https://www.curevac.com/en/2021/10/12/curevac-to
 --,Turkey,TUR,https://asia.nikkei.com/Spotlight/Coronavirus/Coronavirus-Free-to-read/Coronavirus-latest-Biden-seeks-all-the-facts-on-China-s-initial-response,1970-01-01 00:26:46.262400,--,187126833,100000000,--,--,--,--,--
 Vaxxinity,"Brazil, Ecuador, Peru and others",GBR,https://covaxx.reportablenews.com/pr/covaxx-to-deliver-2-8-billion-in-vaccine-advance-purchase-commitments-110-million-doses-to-emerging-countries,1970-01-01 00:26:46.262400,UB-612,2800000000,140000000,90000000,Formalized,Vaxxinity,--,--
 --,El Salvador,SLV,https://vozdeladiasporanews.com/en/el-salvador-acuerda-con-la-farmaceutica-astrazeneca-el-suministro-de-vacuna-contra-covid-19/,1970-01-01 00:26:46.262400,--,40000000,2000000,--,--,--,--,--
---,Panama,PAN,https://www.reuters.com/world/americas/panama-buy-2-million-more-doses-pfizers-covid-19-vaccine-2021-04-21/,1970-01-01 00:26:46.262400,--,--,7000000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Panama,PAN,https://www.reuters.com/world/americas/panama-buy-2-million-more-doses-pfizers-covid-19-vaccine-2021-04-21/,1970-01-01 00:26:46.262400,--,--,7000000,--,Formalized,--,--,Fosun Pharma
 --,--,--,https://www.reuters.com/article/us-health-coronavirus-thailand-vaccine-idUKKBN2990O2,1970-01-01 00:26:46.348800,--,187126833,2000000,--,--,--,--,--
 Siam Bioscience,Thailand,THA,https://www.reuters.com/article/health-coronavirus-thailand/update-1-thailand-on-track-to-distribute-locally-made-covid-19-vaccines-in-june-idUSL1N2K40FF,1970-01-01 00:26:46.348800,Vaxzevria,198000000,61000000,--,--,AstraZeneca,--,Faberco Life Sciences
---,Malaysia,MYS,https://www.reuters.com/article/health-coronavirus-malaysia-vaccines/malaysia-to-procure-128-mln-more-doses-of-pfizer-biontech-vaccine-idUSK7N2JI00X,1970-01-01 00:26:46.435200,--,--,44800000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Malaysia,MYS,https://www.reuters.com/article/health-coronavirus-malaysia-vaccines/malaysia-to-procure-128-mln-more-doses-of-pfizer-biontech-vaccine-idUSK7N2JI00X,1970-01-01 00:26:46.435200,--,--,44800000,--,Formalized,--,--,Fosun Pharma
 --,South Korea,KOR,http://ncov.mohw.go.kr/tcmBoardView.do?brdId=3&brdGubun=31&dataGubun=&ncvContSeq=4516&contSeq=4516&board_id=312&gubun=ALL,1970-01-01 00:26:47.299200,--,--,6000000,20000000,--,--,--,--
 --,South Korea,KOR,http://ncov.mohw.go.kr/tcmBoardView.do?brdId=3&brdGubun=31&dataGubun=&ncvContSeq=4516&contSeq=4516&board_id=312&gubun=ALL,1970-01-01 00:26:47.299200,--,4300000,20000000,--,--,--,--,--
 --,South Korea,KOR,http://www.xinhuanet.com/english/2021-02/16/c_139745682.htm,1970-01-01 00:26:47.299200,--,--,26000000,--,--,--,--,--
@@ -121,7 +121,7 @@ AstraZeneca,Chile,CHL,https://www.bloomberg.com/news/articles/2020-12-22/chile-h
 --,Chile,CHL,https://www.bloomberg.com/news/articles/2020-12-22/chile-has-more-than-enough-vaccine-doses-but-it-wants-more,1970-01-01 00:26:48.163200,--,--,4000000,180000000,--,--,Bilateral,--
 AstraZeneca,Colombia,COL,https://www.eltiempo.com/justicia/cortes/lo-precios-que-colombia-pago-por-las-vacunas-contra-el-covid-19-609690,1970-01-01 00:26:48.249600,Vaxzevria,59904000,9984000,--,--,AstraZeneca,--,--
 --,Colombia,COL,https://www.nodal.am/wp-content/uploads/2021/08/DOCUMENTO.pdf,1970-01-01 00:26:48.249600,--,19999980,9999990,--,--,--,Bilateral,Fosun Biotech
---,Oman,OMN,https://www.arabianbusiness.com/healthcare/463184-oman-to-vaccinate-15m-against-covid-19-by-the-end-of-june,1970-01-01 00:26:48.422400,--,--,4370000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Oman,OMN,https://www.arabianbusiness.com/healthcare/463184-oman-to-vaccinate-15m-against-covid-19-by-the-end-of-june,1970-01-01 00:26:48.422400,--,--,4370000,--,Formalized,--,--,Fosun Pharma
 --,Iraq,IRQ,https://www.reuters.com/article/idUSKBN28V2FU,1970-01-01 00:26:48.508800,--,--,1500000,--,Formalized,--,--,Fosun Pharma
 Pharmaniaga,Malaysia,MYS,http://pharmaniaga.com/wp-content/uploads/2021/05/2.-Press-Release-Pharma-MOH-20210126-f2-2.pdf,1970-01-01 00:26:48.508800,Coronavac,--,12000000,--,Formalized,Sinovac,--,--
 --,Kazakhstan,KAZ,https://sputnikvaccine.com/newsroom/pressreleases/production-of-russian-sputnik-v-vaccine-against-coronavirus-launched-in-kazakhstan/,1970-01-01 00:26:48.508800,--,--,2000000,--,--,--,Bilateral,Dr. Reddy's
@@ -145,7 +145,7 @@ SK Bioscience,Taiwan,TWN,https://www.cdc.gov.tw/En/Bulletin/Detail/dyGaFbJOfhghS
 Pfizer/BioNTech,Albania,ALB,https://seenews.com/news/albania-strikes-deal-with-pfizer-for-500000-covid-19-vaccines-726604,1970-01-01 00:26:49.718400,Comirnaty,--,500000,--,Formalized,Pfizer BioNTech,Bilateral,--
 --,UAE,ARE,https://www.reuters.com/article/health-coronavirus-vaccine-cnbg/chinas-cnbg-has-supplied-3-million-covid-19-vaccine-doses-to-uae-idUSL4N2JG231,1970-01-01 00:26:49.804800,--,--,3000000,--,--,--,--,Thai Royal Academy
 --,Serbia,SRB,https://rdif.ru/Eng_fullNews/6273/,1970-01-01 00:26:49.804800,--,--,2000000,--,Formalized,--,Bilateral,Saudi Chemicals
---,Macedonia,MKD,http://zdravstvo.gov.mk/severna-makedonija-dobiva-800-iljadi-dozi-od-fajzer-5-850-stigaat-vo-fevruari/,1970-01-01 00:26:49.804800,--,--,800000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Macedonia,MKD,http://zdravstvo.gov.mk/severna-makedonija-dobiva-800-iljadi-dozi-od-fajzer-5-850-stigaat-vo-fevruari/,1970-01-01 00:26:49.804800,--,--,800000,--,Formalized,--,--,Fosun Pharma
 --,Peru,PER,https://cdn.www.gob.pe/uploads/document/file/1616529/informacion-general-de-acuerdos-y-contratos-para-la-provision-de-vacunas-contra-la-covid-19.pdf.pdf,1970-01-01 00:26:49.891200,--,4300000,14040000,--,--,--,--,--
 --,Peru,PER,https://www.reuters.com/article/idUSKBN29H2MA,1970-01-01 00:26:49.891200,--,26000000,1000000,--,--,--,--,SK-Pharmacy
 --,Kenya,KEN,https://www.reuters.com/article/uk-health-coronavirus-kenya/kenya-expects-24-million-covid-19-vaccine-doses-to-start-arriving-next-month-idUSKBN29C1GS,1970-01-01 00:26:49.977600,--,--,24000000,50000000,Unconfirmed,--,--,--
@@ -256,7 +256,7 @@ Sinopharm (Beijing),Argentina,ARG,https://www.argentina.gob.ar/sites/default/fil
 --,--,--,https://www.reuters.com/article/health-coronavirus-biden/update-5-biden-prepares-for-challenges-with-extra-100-mln-doses-of-jj-covid-19-vaccine-idUSL1N2L814X,1970-01-01 00:26:55.334400,--,1000000000,--,200000000,In discussion,--,--,--
 Instituto Butantan,Peru,PER,https://andina.pe/ingles/noticia-peru-covid19-vaccine-agreements-signed-and-under-negotiation-837058.aspx,1970-01-01 00:26:55.420800,Coronavac,438714375,7000000,--,In discussion,Sinovac,Bilateral,T&T PHARMA
 --,Peru,PER,https://andina.pe/ingles/noticia-peru-covid19-vaccine-agreements-signed-and-under-negotiation-837058.aspx,1970-01-01 00:26:55.420800,--,--,5000000,3000000,In discussion,--,--,--
---,Mongolia,MNG,https://montsame.mn/en/read/268676,1970-01-01 00:26:55.420800,--,--,2350000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Mongolia,MNG,https://montsame.mn/en/read/268676,1970-01-01 00:26:55.420800,--,--,2350000,--,Formalized,--,--,Fosun Pharma
 --,Peru,PER,https://andina.pe/ingles/noticia-peru-covid19-vaccine-agreements-signed-and-under-negotiation-837058.aspx,1970-01-01 00:26:55.420800,Sputnik V,--,20000000,--,In discussion,--,Bilateral,Landsteiner Scientific
 Gamaleya Research Institute,Azerbaijan,AZE,https://news.az/news/azerbaijan-to-receive-300000-doses-of-russias-sputnik-v-vaccine,1970-01-01 00:26:55.420800,Sputnik V,--,300000,--,Formalized,Gamaleya Research Institute,Bilateral,--
 --,Philippines,PHL,https://www.pna.gov.ph/articles/1138167,1970-01-01 00:26:55.420800,--,--,8000000,--,Formalized,--,Bilateral,Emerald Pharma
@@ -269,45 +269,45 @@ Sinopharm (Beijing),Bahrain,BHR,https://www.bahrainmirror.com/en/news/58773.html
 --,--,--,https://ticotimes.net/2021/03/15/costa-rica-purchases-1-million-more-pfizer-vaccines,1970-01-01 00:26:55.766400,--,36000000,1000000,--,--,--,--,--
 --,Georgia,GEO,https://agenda.ge/en/news/2021/891,1970-01-01 00:26:55.766400,--,--,100000,51000000,--,--,Bilateral,--
 --,Cambodia,KHM,http://www.akp.gov.kh/post/detail/237385,1970-01-01 00:26:55.766400,--,3000000,16500000,--,--,--,--,--
---,El Salvador,SLV,https://www.reuters.com/article/health-coronavirus-el-salvador-china/el-salvador-acquires-two-million-covid-19-vaccines-from-china-idINKBN2BK02Z,1970-01-01 00:26:55.766400,--,--,2000000,247000000,--,--,Bilateral,--
+--,Kazakhstan,KAZ,https://tengrinews.kz/kazakhstan_news/kitay-otpravit-kazahstan-3-milliona-doz-vaktsin-koronavirusa-432774/,1970-01-01 00:26:55.766400,Sputnik Light,--,1000000,--,--,--,Bilateral,Dr. Reddy's
 Ocugen,--,--,https://www.reuters.com/article/us-health-coronavirus-india-vaccine/ocugen-seeks-to-sell-100-million-indian-vaccine-doses-in-u-s-in-2021-idUSKBN2B72GH,1970-01-01 00:26:55.766400,Covaxin,1600000000,--,560000000,In discussion,Bharat Biotech,Licensing deal,--
+--,Libya,LBY,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/libya_covid_update_30.pdf,1970-01-01 00:26:55.766400,Sputnik V,--,860000,--,Formalized,--,Bilateral,Dr. Reddy's
+--,El Salvador,SLV,https://www.reuters.com/article/health-coronavirus-el-salvador-china/el-salvador-acquires-two-million-covid-19-vaccines-from-china-idINKBN2BK02Z,1970-01-01 00:26:55.766400,--,--,2000000,247000000,--,--,Bilateral,--
 Gamaleya Research Institute,Armenia,ARM,https://www.reuters.com/article/us-health-coronavirus-russia-vaccine-arm/armenia-to-receive-1-million-doses-of-russias-sputnik-v-shot-tass-idUKKBN2C11O8,1970-01-01 00:26:55.766400,Sputnik V,--,1000000,--,Formalized,Gamaleya Research Institute,Bilateral,--
 --,Zimbabwe,ZWE,https://www.bloomberg.com/news/articles/2021-04-06/zimbabwe-to-buy-one-million-covid-19-vaccines-each-month,1970-01-01 00:26:55.766400,--,12000000,1200000,--,--,--,Bilateral,Lekhim
---,Libya,LBY,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/libya_covid_update_30.pdf,1970-01-01 00:26:55.766400,Sputnik V,--,860000,--,Formalized,--,Bilateral,Dr. Reddy's
---,Kazakhstan,KAZ,https://tengrinews.kz/kazakhstan_news/kitay-otpravit-kazahstan-3-milliona-doz-vaktsin-koronavirusa-432774/,1970-01-01 00:26:55.766400,--,--,3000000,247000000,--,--,Bilateral,--
 --,Mauritius,MUS,https://www.mea.gov.in/vaccine-supply.htm,1970-01-01 00:26:55.766400,--,--,200000,--,Formalized,--,Bilateral,--
---,Kazakhstan,KAZ,https://tengrinews.kz/kazakhstan_news/kitay-otpravit-kazahstan-3-milliona-doz-vaktsin-koronavirusa-432774/,1970-01-01 00:26:55.766400,Sputnik Light,--,1000000,--,--,--,Bilateral,Dr. Reddy's
+--,Kazakhstan,KAZ,https://tengrinews.kz/kazakhstan_news/kitay-otpravit-kazahstan-3-milliona-doz-vaktsin-koronavirusa-432774/,1970-01-01 00:26:55.766400,--,--,3000000,247000000,--,--,Bilateral,--
 --,Cyprus,CYP,https://www.reuters.com/article/health-coronavirus-cyprus-vaccine/cyprus-will-buy-russias-sputnik-jab-if-approved-by-eu-regulator-idUSL8N2LE2FO,1970-01-01 00:26:55.852800,--,--,50000,--,In discussion,--,--,União Química
 Gamaleya Research Institute,Bosnia,BIH,https://www.reuters.com/article/health-coronavirus-bosnia-vaccine-idCNL8N2LF368,1970-01-01 00:26:55.939200,Sputnik V,--,500000,--,Formalized,Gamaleya Research Institute,Bilateral,--
---,Pakistan,PAK,https://www.thenews.com.pk/latest/805728-first-shipment-of-privately-imported-russian-vaccine-sputnik-arrives-in-karachi,1970-01-01 00:26:55.939200,Sputnik V,--,200000,--,--,--,Private Purchase,Landsteiner Scientific
 --,Sri Lanka,LKA,https://abcnews.go.com/Health/wireStory/latest-india-adds-368000-virus-cases-3417-deaths-77457259,1970-01-01 00:26:55.939200,--,--,13000000,--,Formalized,--,Bilateral,Saudi Chemicals
+--,Pakistan,PAK,https://www.thenews.com.pk/latest/805728-first-shipment-of-privately-imported-russian-vaccine-sputnik-arrives-in-karachi,1970-01-01 00:26:55.939200,Sputnik V,--,200000,--,--,--,Private Purchase,Landsteiner Scientific
 --,--,--,https://aurores.org/wp-content/uploads/2021/08/Brazil-Pfizer.pdf,1970-01-01 00:26:56.025600,--,--,100001070,50000000,--,--,--,--
---,Thailand,THA,https://www.bangkokpost.com/thailand/general/2085835/business-group-orders-100-000-sinovac-shots,1970-01-01 00:26:56.025600,--,--,100000,247000000,Formalized,--,Private Purchase,--
 --,Serbia,SRB,https://news.cgtn.com/news/2021-03-18/Serbia-purchases-2-million-more-doses-of-Sinopharm-vaccine--YJDYMuni8w/index.html,1970-01-01 00:26:56.025600,--,3720000,2000000,--,--,--,--,--
---,Jordan,JOR,https://www.arabnews.com/node/1828091/middle-east,1970-01-01 00:26:56.112000,--,--,2000000,--,--,--,Bilateral,Dr. Reddy's
---,Jordan,JOR,https://www.arabnews.com/node/1828091/middle-east,1970-01-01 00:26:56.112000,--,--,2000000,50000000,--,--,--,--
---,Jordan,JOR,https://www.arabnews.com/node/1828091/middle-east,1970-01-01 00:26:56.112000,--,--,2000000,--,--,--,--,Danubia Pharma
+--,Thailand,THA,https://www.bangkokpost.com/thailand/general/2085835/business-group-orders-100-000-sinovac-shots,1970-01-01 00:26:56.025600,--,--,100000,247000000,Formalized,--,Private Purchase,--
 --,Jordan,JOR,https://documents1.worldbank.org/curated/en/943551624319924194/pdf/Jordan-COVID-19-Emergency-Response-Project-Additional-Financing.pdf,1970-01-01 00:26:56.112000,--,--,5500000,--,Formalized,--,--,Fosun Pharma
+--,Jordan,JOR,https://www.arabnews.com/node/1828091/middle-east,1970-01-01 00:26:56.112000,--,--,2000000,--,--,--,Bilateral,Dr. Reddy's
+--,Jordan,JOR,https://www.arabnews.com/node/1828091/middle-east,1970-01-01 00:26:56.112000,--,--,2000000,--,--,--,--,Danubia Pharma
+--,Jordan,JOR,https://www.arabnews.com/node/1828091/middle-east,1970-01-01 00:26:56.112000,--,--,2000000,50000000,--,--,--,--
 --,Guyana,GUY,https://guyanachronicle.com/2021/03/20/guyana-to-get-205000-doses-of-russian-vaccines/,1970-01-01 00:26:56.198400,--,79600000,200000,--,--,--,--,--
 --,Benin,BEN,https://www.gouv.bj/actualite/1226/lutte-contre-pandemie-coronavirus--covid-19-benin-recu-203.000-doses-vaccins-chine/,1970-01-01 00:26:56.371200,--,--,103000,500000,--,--,--,Keymen Ilac Sanayi ve Ticaret
 --,Philippines,PHL,https://www.pna.gov.ph/articles/1134482,1970-01-01 00:26:56.371200,Covavax,--,600000,80000000,--,--,Bilateral,Faberco Life Sciences
---,Mongolia,MNG,https://montsame.mn/en/read/258285,1970-01-01 00:26:56.630400,--,--,1000000,--,--,--,--,Landsteiner Scientific
 Sinovac,Albania,ALB,https://www.reuters.com/article/us-health-coronavirus-albania-vaccines/albania-gets-192000-doses-of-chinese-sinovac-vaccine-idUSKBN2BH2N9,1970-01-01 00:26:56.630400,Coronavac,--,500000,500000,--,Sinovac,--,Keymen Ilac Sanayi ve Ticaret
 --,Lebanon,LBN,https://www.moph.gov.lb/en/Pages/127/48209/,1970-01-01 00:26:56.630400,Sputnik V,--,1000000,--,In discussion,--,Bilateral,Dr. Reddy's
 R-Pharm,Lebanon,LBN,https://www.moph.gov.lb/en/Pages/127/48209/,1970-01-01 00:26:56.630400,Vaxzevria,--,1500000,--,In discussion,AstraZeneca,Bilateral,--
---,Thailand,THA,https://www.bangkokpost.com/thailand/general/2145683/ddc-defends-sinovac-jab-purchase,1970-01-01 00:26:56.716800,--,187126833,10900000,247000000,Formalized,--,Bilateral,--
+--,Mongolia,MNG,https://montsame.mn/en/read/258285,1970-01-01 00:26:56.630400,--,--,1000000,--,--,--,--,Landsteiner Scientific
 --,Lebanon,LBN,https://apnews.com/article/lebanon-coronavirus-pandemic-russia-financial-markets-coronavirus-vaccine-b81a58fa49d276315c5b6fed0ef8fe53,1970-01-01 00:26:56.716800,Sputnik V,--,1000000,--,--,--,Private Purchase,Dr. Reddy's
+--,Thailand,THA,https://www.bangkokpost.com/thailand/general/2145683/ddc-defends-sinovac-jab-purchase,1970-01-01 00:26:56.716800,--,187126833,10900000,247000000,Formalized,--,Bilateral,--
 --,--,--,https://www.reuters.com/article/us-health-coronavirus-thailand-tourism/thailand-approves-quarantine-waiver-for-tourists-orders-more-vaccines-idUSKBN2BI1AA,1970-01-01 00:26:56.716800,--,198000000,5000000,--,Removed,--,--,--
 --,Uzbekistan,UZB,https://tashkenttimes.uz/national/7347-vaccination-with-second-and-third-doses-of-zf-uz-vac-2001-suspended,1970-01-01 00:26:56.889600,--,--,10500000,--,--,--,Bilateral,
---,Guatemala,GTM,https://www.france24.com/en/live-news/20210728-guatemala-cancels-order-for-russian-vaccines,1970-01-01 00:26:57.062400,--,79600000,8000000,--,Formalized,--,Bilateral,Pharco
 Gamaleya Research Institute,Austria,AUT,https://www.reuters.com/article/us-health-coronavirus-austria-sputnik/austria-in-talks-to-buy-a-million-doses-of-russias-sputnik-v-vaccine-idUSKBN2BM1HV,1970-01-01 00:26:57.062400,Sputnik V,--,1000000,--,In discussion,Gamaleya Research Institute,Bilateral,--
-National Institute of Health,Pakistan,PAK,https://twitter.com/Asad_Umar/status/1376831442479644682?s=20,1970-01-01 00:26:57.062400,Ad5-nCOV,3191598000,3000000,300000000,Formalized,CanSino Biologicals,--,--
+--,Guatemala,GTM,https://www.france24.com/en/live-news/20210728-guatemala-cancels-order-for-russian-vaccines,1970-01-01 00:26:57.062400,--,79600000,8000000,--,Formalized,--,Bilateral,Pharco
 --,Chile,CHL,https://www.reuters.com/article/us-health-coronavirus-chile-vaccine/chile-inks-deal-for-1-8-million-doses-of-cansino-covid-19-vaccine-as-inoculation-drive-plows-ahead-idUSKBN2BM2HM,1970-01-01 00:26:57.062400,--,--,1800000,--,Formalized,--,--,Belcher Farmaceutica do Brasil
+National Institute of Health,Pakistan,PAK,https://twitter.com/Asad_Umar/status/1376831442479644682?s=20,1970-01-01 00:26:57.062400,Ad5-nCOV,3191598000,3000000,300000000,Formalized,CanSino Biologicals,--,--
 Belmedpreparaty,Belarus,BLR,https://eng.belta.by/society/view/belarus-to-roll-out-first-commercial-batch-of-sputnik-v-in-mid-april-138660-2021/,1970-01-01 00:26:57.148800,Sputnik V,--,100000,--,--,Gamaleya Research Institute,--,Vietnam Vaccine JSC
 --,Nepal,NPL,https://kathmandupost.com/health/2021/03/31/private-firm-seeks-permit-to-import-sell-indian-vaccine,1970-01-01 00:26:57.148800,--,--,500000,--,In discussion,--,Private Purchase,Emerald Pharma
---,Turkmenistan,TKM,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkmenistan-among-one-of-1st-countries-registering-russian-sputnik-light-vaccine/2457424,1970-01-01 00:26:57.235200,--,--,600000,--,Formalized,--,Bilateral,Saudi Chemicals
 --,Mauritius,MUS,https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-procures-COVID-19-vaccines-through-diplomatic-and-pooled-procurement-channels.aspx,1970-01-01 00:26:57.235200,--,--,500000,247000000,In discussion,--,Bilateral,--
 --,European Commission,SLV,https://www.reuters.com/article/us-health-coronavirus-india-eu-exclusive/exclusive-eu-seeks-10-million-astrazeneca-vaccines-from-india-to-meet-shortfall-indian-source-idUSKBN2BO5H4,1970-01-01 00:26:57.235200,--,--,10000000,--,In discussion,--,Multilateral,--
+--,Turkmenistan,TKM,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkmenistan-among-one-of-1st-countries-registering-russian-sputnik-light-vaccine/2457424,1970-01-01 00:26:57.235200,--,--,600000,--,Formalized,--,Bilateral,Saudi Chemicals
 --,Pakistan,PAK,https://www.dawn.com/news/1620410/,1970-01-01 00:26:57.321600,--,--,10000000,--,Unconfirmed,--,--,Solution Group
 --,Azerbaijan,AZE,https://caspiannews.com/news-detail/azerbaijan-gets-first-batch-of-covid-19-vaccine-directly-from-china-2021-4-2-0/,1970-01-01 00:26:57.321600,--,--,5000000,500000,--,--,--,Keymen Ilac Sanayi ve Ticaret
 --,Mongolia,MNG,https://www.montsame.mn/en/read/262799,1970-01-01 00:26:57.408000,--,--,2000000,--,--,--,--,SK-Pharmacy
@@ -315,104 +315,103 @@ Belmedpreparaty,Belarus,BLR,https://eng.belta.by/society/view/belarus-to-roll-ou
 --,South Africa,ZAF,https://www.sanews.gov.za/south-africa/sa-signs-deal-pfizer-20-million-vaccines,1970-01-01 00:26:57.753600,--,--,20000000,--,--,--,--,--
 --,Mauritius,MUS,https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-procures-COVID-19-vaccines-through-diplomatic-and-pooled-procurement-channels.aspx,1970-01-01 00:26:57.753600,--,--,1250000,--,--,--,--,Duopharma
 --,Mauritius,MUS,https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-procures-COVID-19-vaccines-through-diplomatic-and-pooled-procurement-channels.aspx,1970-01-01 00:26:57.753600,Covishield,--,200000,80000000,--,--,Bilateral,--
+--,Moldova,MDA,https://vaccinare.gov.md/procese-de-achizitie,1970-01-01 00:26:57.926400,--,--,100000,247000000,Formalized,--,Bilateral,--
 Pfizer/BioNTech,Australia,AUS,https://www.pm.gov.au/media/press-conference-australian-parliament-house-act-09april21,1970-01-01 00:26:57.926400,Comirnaty,--,20000000,--,Formalized,Pfizer BioNTech,Bilateral,--
 --,European Commission,SLV,https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2548,1970-01-01 00:26:57.926400,--,--,900000000,720000000,--,--,Multilateral,--
---,Moldova,MDA,https://vaccinare.gov.md/procese-de-achizitie,1970-01-01 00:26:57.926400,--,--,100000,247000000,Formalized,--,Bilateral,--
 R-Pharm,West Bank and Gaza,PSE,https://www.ochaopt.org/content/covid-19-emergency-situation-report-30-april-2021,1970-01-01 00:26:58.272000,Covishield,--,2000000,--,Formalized,Serum Institute of India,Bilateral,--
 --,South Africa,ZAF,https://www.sanews.gov.za/south-africa/more-pfizer-vaccines-sa,1970-01-01 00:26:58.358400,--,--,10000000,--,--,--,--,--
 Gamaleya Research Institute,Albania,ALB,http://en.ata.gov.al/2021/04/14/manastirliu-contract-on-50-thousand-sputnik-v-vaccines-first-doses-to-arrive-within-april/,1970-01-01 00:26:58.358400,Sputnik V,--,50000,--,Formalized,Gamaleya Research Institute,Bilateral,--
 --,Iran,IRN,https://apnews.com/article/world-news-iran-coronavirus-pandemic-russia-a621235653a9a2fa2b7a8584fbb575a5,1970-01-01 00:26:58.444800,--,--,60000000,--,--,--,Bilateral,Dr. Reddy's
 --,Pakistan,PAK,https://twitter.com/DevelopmentPk/status/1386350840781410308?s=20,1970-01-01 00:26:58.704000,--,--,5000000,247000000,Formalized,--,Bilateral,--
+--,Israel,ISR,https://investors.modernatx.com/static-files/c43de312-8273-4394-9a58-a7fc7d5ed098,1970-01-01 00:26:58.790400,--,--,5200000,17000000,--,--,Bilateral,--
 --,Peru,PER,https://cdn.www.gob.pe/uploads/document/file/1616529/informacion-general-de-acuerdos-y-contratos-para-la-provision-de-vacunas-contra-la-covid-19.pdf.pdf,1970-01-01 00:26:58.790400,--,45000000,500760,--,--,--,--,--
 --,Guinea,GIN,https://von.gov.ng/2021/04/19/guinea-receives-300000-shipment-of-sinovac-covid-19-vaccines/,1970-01-01 00:26:58.790400,--,--,300000,247000000,--,--,Bilateral,--
---,Israel,ISR,https://investors.modernatx.com/static-files/c43de312-8273-4394-9a58-a7fc7d5ed098,1970-01-01 00:26:58.790400,--,--,5200000,17000000,--,--,Bilateral,--
 --,Israel,ISR,https://www.jpost.com/health-science/israel-to-sign-agreement-for-millions-more-pfizer-vaccines-665621,1970-01-01 00:26:58.876800,--,--,9000000,--,Formalized,--,--,Fosun Pharma
 --,Germany,DEU,https://www.reuters.com/world/europe/germany-wants-buy-up-30-million-doses-sputnik-v-vaccine-2021-04-22/,1970-01-01 00:26:59.049600,--,--,30000000,--,Unconfirmed,--,Bilateral,Pharco
---,--,--,https://www.reuters.com/article/brief-canada-signs-booster-deal-with-pfi/brief-canada-signs-booster-deal-with-pfizer-for-35-mln-doses-in-2022-30-mln-in-2023-pm-trudeau-idUST5N2L7001,1970-01-01 00:26:59.136000,--,--,35000000,30000000,--,--,--,--
 VACSERA,Egypt,EGY,https://www.egyptindependent.com/egypt-to-produce-40-million-doses-of-sinovac-vaccine-in-2021/,1970-01-01 00:26:59.136000,Coronavac,--,40000000,--,--,Sinovac,Bilateral,--
 --,--,--,https://www.reuters.com/article/brief-canada-signs-booster-deal-with-pfi/brief-canada-signs-booster-deal-with-pfizer-for-35-mln-doses-in-2022-30-mln-in-2023-pm-trudeau-idUST5N2L7001,1970-01-01 00:26:59.136000,--,--,48000000,60000000,--,--,--,--
 --,--,--,https://www.reuters.com/article/brief-canada-signs-booster-deal-with-pfi/brief-canada-signs-booster-deal-with-pfizer-for-35-mln-doses-in-2022-30-mln-in-2023-pm-trudeau-idUST5N2L7001,1970-01-01 00:26:59.136000,--,--,30000000,30000000,--,--,--,--
+--,--,--,https://www.reuters.com/article/brief-canada-signs-booster-deal-with-pfi/brief-canada-signs-booster-deal-with-pfizer-for-35-mln-doses-in-2022-30-mln-in-2023-pm-trudeau-idUST5N2L7001,1970-01-01 00:26:59.136000,--,--,35000000,30000000,--,--,--,--
 --,South Korea,KOR,https://www.reuters.com/business/healthcare-pharmaceuticals/skorea-signs-with-pfizer-extra-40-mln-covid-19-vaccine-doses-2021-04-24/,1970-01-01 00:26:59.222400,--,--,40000000,--,--,--,--,--
 --,Paraguay,PRY,https://www.efe.com/efe/america/sociedad/la-china-sinopharm-rescinde-contrato-de-un-millon-dosis-con-paraguay/20000013-4599501,1970-01-01 00:26:59.395200,--,--,250000,--,--,--,Bilateral,Kanger International
+Gamaleya Research Institute,Bangladesh,BGD,https://www.bangladeshpost.net/posts/sputnik-v-jab-approved-58974,1970-01-01 00:26:59.481600,Sputnik V,--,4000000,--,In discussion,Gamaleya Research Institute,Bilateral,--
 Gulf Pharmaceutical Industries,Kazakhstan,KAZ,https://www.kazpravda.kz/en/news/society/kazakhstan-bought-one-million-doses-of-chinese-vaccine-against-covid-19,1970-01-01 00:26:59.481600,BBIBP-CorV,--,1000000,--,--,Sinopharm (Beijing),Bilateral,SK-Pharmacy
 Genexine,Indonesia,IDN,https://www.koreabiomed.com/news/articleView.html?idxno=11024,1970-01-01 00:26:59.481600,GX-19,--,10000000,--,Formalized,Genexine,Private Purchase,Kalbe Farma
-Gamaleya Research Institute,Bangladesh,BGD,https://www.bangladeshpost.net/posts/sputnik-v-jab-approved-58974,1970-01-01 00:26:59.481600,Sputnik V,--,4000000,--,In discussion,Gamaleya Research Institute,Bilateral,--
 Moderna,Botswana,BWA,https://www.reuters.com/world/africa/botswana-pays-equivalent-15-dose-sinovacs-covid-19-vaccine-2021-07-30/,1970-01-01 00:26:59.481600,Spikevax,14440000,500000,--,--,Moderna,Bilateral,--
 --,Kazakhstan,KAZ,https://www.gov.kz/memleket/entities/dsm/press/news/details/239983?lang=kk,1970-01-01 00:26:59.481600,--,--,4000000,--,--,--,--,SK-Pharmacy
---,Turkey,TUR,https://www.reuters.com/world/middle-east/turkey-signs-deal-50-million-sputnik-v-coronavirus-vaccines-minister-2021-04-28/,1970-01-01 00:26:59.568000,--,--,50000000,--,Formalized,--,Bilateral,Saudi Chemicals
---,South Africa,ZAF,https://www.bloomberg.com/news/articles/2021-04-28/south-africa-to-add-sputnik-sinopharm-shots-to-vaccine-arsenal,1970-01-01 00:26:59.568000,--,3720000,10000000,--,In discussion,--,--,--
 --,South Africa,ZAF,https://www.bloomberg.com/news/articles/2021-04-28/south-africa-to-add-sputnik-sinopharm-shots-to-vaccine-arsenal,1970-01-01 00:26:59.568000,--,--,10000000,--,In discussion,--,Bilateral,Saudi Chemicals
+--,South Africa,ZAF,https://www.bloomberg.com/news/articles/2021-04-28/south-africa-to-add-sputnik-sinopharm-shots-to-vaccine-arsenal,1970-01-01 00:26:59.568000,--,3720000,10000000,--,In discussion,--,--,--
 --,UK,GBR,https://www.reuters.com/world/uk/britain-agrees-deal-60-million-more-pfizer-covid-19-vaccines-2021-04-28/,1970-01-01 00:26:59.568000,--,--,60000000,30000000,--,--,--,--
---,Lesotho,LSO,https://www.gov.ls/health-receives-sinopharm-vaccine/,1970-01-01 00:26:59.654400,--,--,60000,--,Formalized,--,Private Purchase,Fosun Pharma
+--,Turkey,TUR,https://www.reuters.com/world/middle-east/turkey-signs-deal-50-million-sputnik-v-coronavirus-vaccines-minister-2021-04-28/,1970-01-01 00:26:59.568000,--,--,50000000,--,Formalized,--,Bilateral,Saudi Chemicals
 --,Lesotho,LSO,https://sesiu.org.ls/sesiu-secures-astrazeneca-and-moderna-vaccines-for-basotho/,1970-01-01 00:26:59.654400,--,--,100000,17000000,--,--,Private Purchase,--
 --,Lesotho,LSO,https://sesiu.org.ls/sesiu-secures-astrazeneca-and-moderna-vaccines-for-basotho/,1970-01-01 00:26:59.654400,--,--,100000,50000000,Formalized,--,Private Purchase,--
 --,Montenegro,MNE,https://www.portalanalitika.me/clanak/kineske-vakcine-stigle-u-crnu-goru,1970-01-01 00:26:59.740800,--,--,201200,--,--,--,--,SK-Pharmacy
 --,--,--,https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/2914EBACF6647C9D0525872700671F20/$FILE/acuerdos-suscritos-para-la-provision-de-vacunas-contra-la-COVID-19-actualizado.pdf.pdf,1970-01-01 00:26:59.740800,--,26000000,500000,--,--,--,--,--
 --,Egypt,EGY,https://www.egypttoday.com/Article/1/105333/Egypt-receives-210K-doses-of-Russia-s-Sputnik-V-anti,1970-01-01 00:26:59.827200,--,--,10000000,--,Formalized,--,--,União Química
---,Brunei,BRN,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/05/04/moderna-vaccine-on-the-way-to-brunei,1970-01-01 00:26:59.827200,--,14440000,200000,--,Formalized,--,--,--
 --,Mongolia,MNG,https://montsame.mn/en/read/262502,1970-01-01 00:26:59.827200,--,--,20000,--,--,--,Private Purchase,Landsteiner Scientific
 --,Brunei,BRN,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/08/second-batch-of-pfizer-vaccine-arrives,1970-01-01 00:26:59.827200,--,--,300690,50000000,--,--,--,--
+--,Brunei,BRN,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/05/04/moderna-vaccine-on-the-way-to-brunei,1970-01-01 00:26:59.827200,--,14440000,200000,--,Formalized,--,--,--
 --,Ukraine,UKR,https://www.reuters.com/world/europe/ukraine-buy-extra-10-mln-doses-pfizers-coronavirus-vaccine-2021-05-01/,1970-01-01 00:26:59.827200,--,--,100000,30000000,--,--,--,--
 --,--,--,https://www.businesstoday.in/current/economy-politics/received-order-for-26-crore-covid-19-vaccine-doses-from-centre-serums-adar-poonawalla/story/438152.html,1970-01-01 00:27:00.000000,--,320359790,110000000,--,--,--,--,--
 --,India,IND,https://twitter.com/ianuragthakur/status/1391434875496960000?s=20,1970-01-01 00:27:00.000000,--,320359790,266000000,--,Formalized,--,Bilateral,--
 --,--,--,https://www.gavi.org/news/media-room/gavi-signs-agreement-moderna-secure-doses-behalf-covax-facility,1970-01-01 00:27:00.000000,--,--,34000000,116500000,--,--,--,--
 --,El Salvador,SLV,https://twitter.com/nayibbukele/status/1389756153593274368?s=20,1970-01-01 00:27:00.086400,--,24001380,4400000,--,--,--,--,--
---,Peru,PER,https://cdn.www.gob.pe/uploads/document/file/1616529/informacion-general-de-acuerdos-y-contratos-para-la-provision-de-vacunas-contra-la-covid-19.pdf.pdf,1970-01-01 00:27:00.172800,--,45000000,12000690,--,--,--,--,--
 --,Trinidad,TTO,https://www.mediainstituteofthecaribbean.com/trinidad-and-tobago,1970-01-01 00:27:00.172800,--,--,1500000,--,--,--,--,Thai Royal Academy
+--,Peru,PER,https://cdn.www.gob.pe/uploads/document/file/1616529/informacion-general-de-acuerdos-y-contratos-para-la-provision-de-vacunas-contra-la-covid-19.pdf.pdf,1970-01-01 00:27:00.172800,--,45000000,12000690,--,--,--,--,--
 --,COVAX,CAN,https://www.gavi.org/news/media-room/gavi-signs-agreement-novavax-secure-doses-behalf-covax-facility,1970-01-01 00:27:00.259200,--,--,350000000,24000000,--,--,Multilateral,--
 --,--,--,https://www.reuters.com/business/healthcare-pharmaceuticals/brazil-buys-100-million-more-doses-pfizers-covid-19-vaccine-2021-05-12/,1970-01-01 00:27:00.259200,--,--,100000000,50000000,--,--,--,--
 --,Switzerland,CHE,https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-new-supply-agreement-switzerland-7-million,1970-01-01 00:27:00.259200,--,--,7000000,--,--,--,--,GC Pharma
 Gamaleya Research Institute,Algeria,DZA,https://themaghrebtimes.com/sputnik-v-vaccine-algeria-will-receive-500000-doses-in-may-and-june/,1970-01-01 00:27:00.432000,Sputnik V,--,500000,--,Formalized,Gamaleya Research Institute,Bilateral,--
 --,Venezuela,VEN,https://tass.com/society/1374263,1970-01-01 00:27:00.604800,Sputnik Light,--,7000000,--,--,--,Bilateral,Laxisam
 --,Turkmenistan,TKM,https://www.fmprc.gov.cn/mfa_eng/wjbxw/202105/t20210511_9134100.html,1970-01-01 00:27:00.604800,--,187126833,500000,--,--,--,--,--
---,Dominican Rep.,DOM,https://presidencia.gob.do/noticias/rd-ratifica-acuerdo-con-pfizer-y-agrega-dos-millones-mas-de-vacunas-contra-covid-19,1970-01-01 00:27:00.691200,--,24001380,2000115,--,--,--,Bilateral,--
 Biolyse Pharma,Bolivia,BOL,https://www.reuters.com/world/americas/bolivia-signs-jj-vaccine-deal-with-twist-someone-else-would-make-it-2021-05-11/,1970-01-01 00:27:00.691200,Ad26.COV 2.S,--,15000000,--,Unconfirmed,Janssen Pharmaceuticals,Bilateral,Emerald Pharma
---,Cambodia,KHM,https://www.khmertimeskh.com/50855065/cambodia-orders-additional-5-million-vaccine-doses-from-china/,1970-01-01 00:27:00.777600,--,3000000,5000000,--,--,--,--,--
-Sinopharm (Beijing),Bangladesh,BGD,https://www.tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/govt-buy-75-crore-doses-sinopharm-vaccines-minister-284053,1970-01-01 00:27:00.777600,BBIBP-CorV,198000000,75000000,--,Formalized,Sinopharm (Beijing),--,--
+--,Dominican Rep.,DOM,https://presidencia.gob.do/noticias/rd-ratifica-acuerdo-con-pfizer-y-agrega-dos-millones-mas-de-vacunas-contra-covid-19,1970-01-01 00:27:00.691200,--,24001380,2000115,--,--,--,Bilateral,--
 Gamaleya Research Institute,Angola,AGO,https://www.angop.ao/en/noticias/saude/covid-19-angola-recebe-40-mil-doses-da-vacina-sputnik/,1970-01-01 00:27:00.777600,Sputnik V,--,12000000,--,Formalized,Gamaleya Research Institute,Bilateral,--
+--,Cambodia,KHM,https://www.khmertimeskh.com/50855065/cambodia-orders-additional-5-million-vaccine-doses-from-china/,1970-01-01 00:27:00.777600,--,3000000,5000000,--,--,--,--,--
 Moderna,Australia,AUS,https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-new-supply-agreement-australia-25-million,1970-01-01 00:27:00.777600,Spikevax,--,15000000,--,--,Moderna,Bilateral,--
 Moderna,Australia,AUS,https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-new-supply-agreement-australia-25-million,1970-01-01 00:27:00.777600,Spikevax,--,10000000,--,--,Moderna,Bilateral,--
+Sinopharm (Beijing),Bangladesh,BGD,https://www.tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/govt-buy-75-crore-doses-sinopharm-vaccines-minister-284053,1970-01-01 00:27:00.777600,BBIBP-CorV,198000000,75000000,--,Formalized,Sinopharm (Beijing),--,--
 Sinopharm (Beijing),Bolivia,BOL,https://cnnespanol.cnn.com/2021/07/01/bolivia-arce-anuncia-la-compra-de-seis-millones-de-vacunas-de-sinopharm-orix/,1970-01-01 00:27:00.864000,BBIBP-CorV,198000000,6000000,--,Formalized,Sinopharm (Beijing),--,--
 --,Japan,JPN,https://www.mhlw.go.jp/stf/newpage_18648.html,1970-01-01 00:27:00.950400,--,--,50000000,--,Formalized,--,--,Fosun Pharma
---,Ukraine,UKR,https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-14052021--942-pro-vvezennja-nezareestrovanogo-likarskogo-zasobu-medichnogo-imunobiologichnogo-preparatu-janssen-covid-19-vaccine,1970-01-01 00:27:00.950400,--,--,500,22000000,--,--,--,--
---,Philippines,PHL,https://cnnphilippines.com/news/2021/5/14/Philippines-term-sheet-Pfizer-40-million-doses-Galvez.html,1970-01-01 00:27:00.950400,--,45000000,40000000,--,--,--,--,--
 --,Viet Nam,VNM,https://www.bloomberg.com/news/articles/2021-06-03/vietnam-will-have-120-million-virus-vaccine-doses-this-year,1970-01-01 00:27:00.950400,--,--,31000000,--,Formalized,--,--,--
---,Sri Lanka,LKA,http://www.presidentsoffice.gov.lk/.Documents/Concept%20Paper-COVID%2019_Vaccination-Sri_Lankan_Approach.pdf,1970-01-01 00:27:01.036800,--,3720000,13000000,--,Formalized,--,--,--
+--,Philippines,PHL,https://cnnphilippines.com/news/2021/5/14/Philippines-term-sheet-Pfizer-40-million-doses-Galvez.html,1970-01-01 00:27:00.950400,--,45000000,40000000,--,--,--,--,--
+--,Ukraine,UKR,https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-14052021--942-pro-vvezennja-nezareestrovanogo-likarskogo-zasobu-medichnogo-imunobiologichnogo-preparatu-janssen-covid-19-vaccine,1970-01-01 00:27:00.950400,--,--,500,22000000,--,--,--,--
 --,Guyana,GUY,https://www.stabroeknews.com/2021/05/17/news/guyana/guyana-has-sourced-enough-covid-19-vaccines-for-herd-immunity-anthony/,1970-01-01 00:27:01.036800,--,79600000,600000,--,--,--,--,--
+--,Sri Lanka,LKA,http://www.presidentsoffice.gov.lk/.Documents/Concept%20Paper-COVID%2019_Vaccination-Sri_Lankan_Approach.pdf,1970-01-01 00:27:01.036800,--,3720000,13000000,--,Formalized,--,--,--
 --,Georgia,GEO,https://report.ge/en/society/georgia-to-receive-600-000-sinopharm-jabs/,1970-01-01 00:27:01.123200,--,--,500000,51000000,--,--,Bilateral,--
 --,--,--,https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/2914EBACF6647C9D0525872700671F20/$FILE/acuerdos-suscritos-para-la-provision-de-vacunas-contra-la-COVID-19-actualizado.pdf.pdf,1970-01-01 00:27:01.382400,--,26000000,1000000,--,--,--,--,--
 --,Georgia,GEO,https://georgiatoday.ge/pfizer-georgia-to-receive-1-million-doses-of-vaccine/,1970-01-01 00:27:01.468800,--,--,1000000,720000000,--,--,Bilateral,--
 --,UNICEF,TKM,https://www.unicef.org/press-releases/unicef-signs-supply-agreement-sputnik-v-covid-19-vaccine,1970-01-01 00:27:02.073600,--,--,220000000,--,--,--,Multilateral,--
---,Kosovo,XKX,https://www.reuters.com/business/healthcare-pharmaceuticals/kosovo-buys-first-coronavirus-vaccines-it-speeds-up-rollout-2021-05-28/,1970-01-01 00:27:02.160000,--,--,1200000,--,Formalized,--,--,Fosun Pharma
 --,Thailand,THA,https://www.nationthailand.com/in-focus/40003626,1970-01-01 00:27:02.160000,--,3720000,9000000,--,Formalized,--,--,Thai Royal Academy
---,Taiwan,TWN,https://www.reuters.com/world/asia-pacific/taiwan-reports-further-rise-domestic-covid-19-cases-2021-05-30/,1970-01-01 00:27:02.332800,--,2800000000,5000000,5000000,--,--,--,--
+--,Kosovo,XKX,https://www.reuters.com/business/healthcare-pharmaceuticals/kosovo-buys-first-coronavirus-vaccines-it-speeds-up-rollout-2021-05-28/,1970-01-01 00:27:02.160000,--,--,1200000,--,Formalized,--,--,Fosun Pharma
 Medigen,Taiwan,TWN,https://www.reuters.com/world/asia-pacific/taiwan-reports-further-rise-domestic-covid-19-cases-2021-05-30/,1970-01-01 00:27:02.332800,MVC-COV1901,1000000000,5000000,5000000,Formalized,Medigen Vaccine Biologics,--,--
+--,Taiwan,TWN,https://www.reuters.com/world/asia-pacific/taiwan-reports-further-rise-domestic-covid-19-cases-2021-05-30/,1970-01-01 00:27:02.332800,--,2800000000,5000000,5000000,--,--,--,--
 --,Algeria,DZA,https://news.cgtn.com/news/2021-09-30/Algeria-inaugurates-production-of-Sinovac-COVID-19-vaccines-13YgNdhO6Ag/index.html,1970-01-01 00:27:02.505600,--,--,15000000,500000,--,--,--,Keymen Ilac Sanayi ve Ticaret
 --,Kyrgyzstan,KGZ,https://eurasianet.org/dashboard-vaccinating-eurasia-june,1970-01-01 00:27:02.505600,Sputnik V,--,80000,--,--,--,Bilateral,Dr. Reddy's
 --,Congo,COG,https://documents1.worldbank.org/curated/en/637721623329801754/pdf/Congo-Republic-of-COVID-19-Emergency-Response-Project-Additional-Financing.pdf,1970-01-01 00:27:02.592000,--,--,1100000,--,Formalized,--,--,União Química
 Sinopharm (Beijing),Congo,COG,https://documents1.worldbank.org/curated/en/637721623329801754/pdf/Congo-Republic-of-COVID-19-Emergency-Response-Project-Additional-Financing.pdf,1970-01-01 00:27:02.592000,BBIBP-CorV,198000000,141000,--,Formalized,Sinopharm (Beijing),--,--
-CanSino Biologicals,Brazil,BRA,https://www.reuters.com/world/americas/brazil-buy-single-shot-chinese-covid-19-vaccine-2021-06-15/,1970-01-01 00:27:02.764800,Ad5-nCOV,--,60000000,--,In discussion,CanSino Biologicals,Bilateral,Belcher Farmaceutica do Brasil
---,--,--,https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/2914EBACF6647C9D0525872700671F20/$FILE/acuerdos-suscritos-para-la-provision-de-vacunas-contra-la-COVID-19-actualizado.pdf.pdf,1970-01-01 00:27:02.764800,--,26000000,1000000,--,--,--,--,--
 --,--,--,https://www.reuters.com/business/healthcare-pharmaceuticals/canada-negotiates-option-an-extra-3-million-pfizer-covid-19-doses-trudeau-2021-06-04/,1970-01-01 00:27:02.764800,--,--,3000000,30000000,--,--,--,--
+--,--,--,https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/2914EBACF6647C9D0525872700671F20/$FILE/acuerdos-suscritos-para-la-provision-de-vacunas-contra-la-COVID-19-actualizado.pdf.pdf,1970-01-01 00:27:02.764800,--,26000000,1000000,--,--,--,--,--
+CanSino Biologicals,Brazil,BRA,https://www.reuters.com/world/americas/brazil-buy-single-shot-chinese-covid-19-vaccine-2021-06-15/,1970-01-01 00:27:02.764800,Ad5-nCOV,--,60000000,--,In discussion,CanSino Biologicals,Bilateral,Belcher Farmaceutica do Brasil
 --,--,--,https://www.pib.gov.in/PressReleasePage.aspx?PRID=1725339,1970-01-01 00:27:03.110400,--,320359790,250000000,--,--,--,--,--
 --,India,IND,https://www.pib.gov.in/PressReleasePage.aspx?PRID=1725339,1970-01-01 00:27:03.110400,--,--,190000000,--,Formalized,--,Bilateral,--
 --,Turkmenistan,TKM,https://business.com.tm/post/7248/turkmenistan-to-buy-15-million-doses-of-sinopharm-covid19-vaccine,1970-01-01 00:27:03.110400,--,--,15000000,--,--,--,--,Thai Royal Academy
 --,Guyana,GUY,https://www.stabroeknews.com/2021/06/09/news/guyana/govt-purchases-100000-sinopharm-vaccines/,1970-01-01 00:27:03.196800,--,--,100000,51000000,--,--,Bilateral,--
---,COVAX,CIV,https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-provide-500-million-doses-covid-19-vaccine,1970-01-01 00:27:03.283200,--,--,300000000,--,--,--,--,--
 --,USA for COVAX,USA,https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-provide-500-million-doses-covid-19-vaccine,1970-01-01 00:27:03.283200,--,--,200000000,--,--,--,--,--
+--,COVAX,CIV,https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-provide-500-million-doses-covid-19-vaccine,1970-01-01 00:27:03.283200,--,--,300000000,--,--,--,--,--
 --,Ecuador,ECU,https://www.controlsanitario.gob.ec/arcsa-autoriza-el-ingreso-de-la-vacuna-cansino-a-ecuador/,1970-01-01 00:27:03.369600,--,--,6000000,--,Formalized,--,--,Belcher Farmaceutica do Brasil
 CanSino Biologicals,Argentina,ARG,https://twitter.com/carlavizzotti/status/1403720352069468161?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1403720352069468161%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fbrazilian.report%2Fliveblog%2F2021%2F06%2F15%2Fargentina-cansino-vaccine%2F,1970-01-01 00:27:03.456000,Ad5-nCOV,--,5400000,--,Formalized,CanSino Biologicals,Bilateral,Emerald Pharma
 --,West Bank and Gaza,PSE,https://www.ochaopt.org/content/response-escalation-opt-situation-report-no-10-september-2021,1970-01-01 00:27:03.456000,Sputnik Light,--,470000,--,Formalized,--,--,T&T Pharma LLC
---,Thailand,THA,https://www.reuters.com/business/healthcare-pharmaceuticals/thailand-books-20-mln-doses-pfizer-biontech-covid-19-vaccines-2021-06-11/,1970-01-01 00:27:03.542400,--,--,20000000,--,Formalized,--,Bilateral,TTY Biopharm
 --,Thailand,THA,https://www.reuters.com/world/asia-pacific/thailand-reports-new-daily-record-53-coronavirus-deaths-2021-06-30/,1970-01-01 00:27:03.542400,--,--,5000000,20000000,--,--,--,--
+--,Thailand,THA,https://www.reuters.com/business/healthcare-pharmaceuticals/thailand-books-20-mln-doses-pfizer-biontech-covid-19-vaccines-2021-06-11/,1970-01-01 00:27:03.542400,--,--,20000000,--,Formalized,--,Bilateral,TTY Biopharm
+--,Nepal,NPL,https://kathmandupost.com/national/2021/06/16/nepal-to-purchase-4-million-doses-of-sinopharm-vaccine-from-china,1970-01-01 00:27:03.715200,--,--,4000000,--,--,--,--,SK-Pharmacy
+--,Ghana,GHA,https://www.bbc.com/pidgin/tori-57432831,1970-01-01 00:27:03.715200,--,--,300000,--,Formalized,--,Bilateral,Pharco
 --,Djibouti,DJI,https://twitter.com/dpfza/status/1372529603588235267?s=20,1970-01-01 00:27:03.715200,--,--,100000,247000000,--,--,Bilateral,--
 --,Philippines,PHL,https://www.cnn.ph/news/2021/6/22/Sinovac-doses-Manila.html,1970-01-01 00:27:03.715200,--,--,400000,247000000,Formalized,--,Bilateral,--
---,Ghana,GHA,https://www.bbc.com/pidgin/tori-57432831,1970-01-01 00:27:03.715200,--,--,300000,--,Formalized,--,Bilateral,Pharco
---,Nepal,NPL,https://kathmandupost.com/national/2021/06/16/nepal-to-purchase-4-million-doses-of-sinopharm-vaccine-from-china,1970-01-01 00:27:03.715200,--,--,4000000,--,--,--,--,SK-Pharmacy
---,USA,USA,https://investors.modernatx.com/news-releases/news-release-details/us-government-purchases-additional-200-million-doses-modernas,1970-01-01 00:27:03.801600,--,--,200000000,--,--,--,--,Zuellig Pharma
 --,Equatorial Guinea,GNQ,https://www.reuters.com/article/health-coronavirus-equatorial/equatorial-guinea-buys-500000-sinopharm-covid-19-vaccines-idUSL5N2NY2X2,1970-01-01 00:27:03.801600,--,--,500000,51000000,--,--,Bilateral,--
+--,USA,USA,https://investors.modernatx.com/news-releases/news-release-details/us-government-purchases-additional-200-million-doses-modernas,1970-01-01 00:27:03.801600,--,--,200000000,--,--,--,--,Zuellig Pharma
 Sinopharm (Beijing),Comoros,COM,https://documents1.worldbank.org/curated/en/953921625726841435/pdf/Comoros-Support-to-COVID-19-Vaccine-Purchase-and-Health-System-Strengthening-Project.pdf,1970-01-01 00:27:03.888000,BBIBP-CorV,198000000,200000,--,Formalized,Sinopharm (Beijing),--,--
---,Pakistan,PAK,https://www.reuters.com/world/asia-pacific/pakistan-receive-13-mln-doses-pfizer-vaccine-minister-2021-06-22/,1970-01-01 00:27:04.233600,--,--,13000000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Pakistan,PAK,https://www.reuters.com/world/asia-pacific/pakistan-receive-13-mln-doses-pfizer-vaccine-minister-2021-06-22/,1970-01-01 00:27:04.233600,--,--,13000000,--,Formalized,--,--,Fosun Pharma
 --,Paraguay,PRY,https://www.businesswire.com/news/home/20210621005250/en/Vaxxinity-Signs-Purchase-Order-with-the-Government-of-Paraguay-for-1-Million-Doses-of-Vaxxinity%E2%80%99s-UB-612-COVID-19-Vaccine/,1970-01-01 00:27:04.233600,--,2800000000,1000000,--,--,--,--,--
 --,European Commission,--,https://investors.modernatx.com/news-releases/news-release-details/european-commission-purchases-additional-150-million-doses,1970-01-01 00:27:04.320000,--,--,150000000,116500000,--,--,--,--
 --,Colombia,COL,http://www.andi.com.co/Home/Noticia/15989-las-primeras-15-millones-de-vacunas-con,1970-01-01 00:27:04.406400,--,3000000,2500000,--,--,--,Private Purchase,--
@@ -475,11 +474,11 @@ Pfizer/BioNTech,Armenia,ARM,https://armenpress.am/eng/news/1057826.html,1970-01-
 Bharat Biotech,Botswana,BWA,https://www.reuters.com/world/africa/botswana-pays-equivalent-15-dose-sinovacs-covid-19-vaccine-2021-07-30/,1970-01-01 00:27:07.603200,Covaxin,1600000,100000,--,--,Bharat Biotech,--,Vietnam Vaccine JSC
 --,Thailand,THA,https://www.bangkokpost.com/thailand/general/2166799/b9bn-injection-for-pfizer-shots,1970-01-01 00:27:07.603200,--,--,10000000,--,Formalized,--,Bilateral,TTY Biopharm
 --,Nepal,NPL,https://kathmandupost.com/health/2021/09/07/4-4-million-vero-cell-doses-expected-to-arrive-from-china-within-a-week,1970-01-01 00:27:07.776000,--,--,6000000,--,--,--,--,SK-Pharmacy
---,Moldova,MDA,https://vaccinare.gov.md/news/116-alte-5-850-doze-de-vaccin-pfizer-biontech-achizi-ionate-de-stat-au-ajuns-in-ar-,1970-01-01 00:27:07.776000,--,--,700830,--,Formalized,--,Bilateral,Fosun Pharma
+--,Moldova,MDA,https://vaccinare.gov.md/news/116-alte-5-850-doze-de-vaccin-pfizer-biontech-achizi-ionate-de-stat-au-ajuns-in-ar-,1970-01-01 00:27:07.776000,--,--,700830,--,Formalized,--,--,Fosun Pharma
 --,Libya,LBY,https://www.africanews.com/2021/08/02/libya-gets-2-million-sinopharm-doses-with-more-expected//,1970-01-01 00:27:07.776000,--,--,3500000,--,--,--,--,SK-Pharmacy
 --,El Salvador,SLV,https://www.salud.gob.sv/gobierno-recibe-vigesimo-cuarto-lote-de-vacunas-contra-el-covid-19/,1970-01-01 00:27:07.862400,--,--,1000000,51000000,--,--,Bilateral,--
 --,Saudi Arabia,SAU,https://investors.modernatx.com/static-files/c43de312-8273-4394-9a58-a7fc7d5ed098,1970-01-01 00:27:08.121600,--,--,10000000,15000000,--,--,--,--
---,Morocco,MAR,https://www.moroccoworldnews.com/2021/08/343970/morocco-receives-new-pfizer-shipment-today,1970-01-01 00:27:08.121600,--,--,2507000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Morocco,MAR,https://www.moroccoworldnews.com/2021/08/343970/morocco-receives-new-pfizer-shipment-today,1970-01-01 00:27:08.121600,--,--,2507000,--,Formalized,--,--,Fosun Pharma
 --,Mauritius,MUS,https://allafrica.com/stories/202104080106.html,1970-01-01 00:27:08.121600,--,--,1250000,--,--,--,--,Duopharma
 --,Zimbabwe,ZWE,https://www.chronicle.co.zw/zim-awaits-delivery-of-15-million-sinopharm-covid-19-vaccine-doses/,1970-01-01 00:27:08.553600,--,--,1500000,--,--,--,--,Saigon Pharmaceutical Company Limited
 --,Kuwait,KWT,https://gulfnews.com/world/gulf/kuwait/covid-19-kuwait-to-buy-one-million-more-moderna-vaccine-doses-1.81513001,1970-01-01 00:27:08.640000,--,--,2000000,17000000,--,--,--,--
@@ -502,7 +501,7 @@ Gamaleya Research Institute,Belarus,BLR,https://eng.belta.by/society/view/batch-
 Takeda,Japan,JPN,https://www.takeda.com/newsroom/newsreleases/2021/takeda-to-manufacture-and-provide-150-million-doses-of-novavax-covid-19-vaccine-candidate-to-the-government-of-japan/,1970-01-01 00:27:10.972800,Nuvaxovid,12000000,150000000,--,--,Novavax,--,--
 --,--,--,https://www.livemint.com/news/india/centre-places-purchase-order-with-sii-for-66-cr-covishield-doses-to-be-supplied-by-dec-report-11631194096663.html,1970-01-01 00:27:11.145600,--,320359790,660000000,--,--,--,--,--
 --,--,--,https://www.manilatimes.net/2021/09/17/news/first-batch-of-one-shot-sputnik-light-vaccine-to-arrive-this-sept/1815108,1970-01-01 00:27:11.232000,Sputnik Light,--,1000000,10000000,--,--,--,--
-HIPRA,Viet Nam,VNM,https://vietnamnet.vn/en/society/vietnam-to-purchase-spain-s-hipra-covid-19-vaccine-774171.html,1970-01-01 00:27:11.404800,HIPRA SARS-CoV-2,438714375,50000000,--,--,HIPRA,Private Purchase,T&T PHARMA
+HIPRA,--,--,https://vietnamnet.vn/en/society/vietnam-to-purchase-spain-s-hipra-covid-19-vaccine-774171.html,1970-01-01 00:27:11.404800,--,438714375,50000000,--,--,HIPRA,Private Purchase,T&T PHARMA
 --,Peru,PER,https://www.gob.pe/institucion/minsa/noticias/523446-peru-formaliza-acuerdos-para-adquirir-55-millones-de-dosis-adicionales-de-vacuna-contra-covid-19-para-el-2022,1970-01-01 00:27:11.923200,--,45000000,35000000,--,--,--,--,--
 --,Peru,PER,https://www.gob.pe/institucion/minsa/noticias/523480-ministro-cevallos-anuncia-firma-de-contratos-por-63-millones-de-dosis-adicionales-de-vacunas-contra-covid-19,1970-01-01 00:27:11.923200,--,--,8000000,--,--,--,--,SK-Pharmacy
 --,Viet Nam,VNM,https://baoquangninh.com.vn/8-trieu-lieu-vac-xin-vero-cell-duoc-phan-bo-toi-ha-noi-va-24-tinh-thanh-2941236.html,1970-01-01 00:27:12.009600,--,--,8000000,--,--,--,--,Thai Royal Academy
@@ -518,7 +517,7 @@ Siam Bioscience,Thailand,THA,https://www.astrazeneca.com/country-sites/thailand/
 --,Gibraltar,GIB,https://www.gbc.gi/news/5000-doses-covid-vaccines-landed-gibraltar-thursday-night,1970-01-01 00:27:13.046400,--,--,12000,720000000,--,--,Bilateral,--
 Sinopharm (Beijing),Angola,AGO,http://k.sina.com.cn/article_7517400647_1c0126e4705901ifes.html,1970-01-01 00:27:13.392000,BBIBP-CorV,198000000,10000000,--,Formalized,Sinopharm (Beijing),--,--
 --,Kazakhstan,KAZ,https://astanatimes.com/2021/11/first-batch-of-pfizer-vaccine-delivered-to-kazakhstan/,1970-01-01 00:27:13.478400,--,--,4230000,--,Formalized,--,--,Fosun Pharma
---,Panama,PAN,https://www.reuters.com/world/americas/panama-purchase-3-million-more-covid-19-vaccines-2021-10-08/,1970-01-01 00:27:13.564800,--,45000000,3000000,--,Formalized,--,Bilateral,Fosun Pharma
+--,Panama,PAN,https://www.reuters.com/world/americas/panama-purchase-3-million-more-covid-19-vaccines-2021-10-08/,1970-01-01 00:27:13.564800,--,45000000,3000000,--,Formalized,--,--,Fosun Pharma
 --,Japan,JPN,https://www.reuters.com/world/asia-pacific/japan-secures-120-mln-more-pfizer-covid-19-vaccine-doses-next-year-2021-10-08/,1970-01-01 00:27:13.651200,--,--,120000000,--,Formalized,--,--,Fosun Pharma
 --,--,--,https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-additional-supply-q2-2022-vaccine-covax-help,1970-01-01 00:27:13.996800,--,--,116500000,30000000,--,--,--,--
 --,--,--,https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-covax-exercises-option-purchase-1765-million,1970-01-01 00:27:13.996800,--,--,116500000,116500000,--,--,--,--
@@ -536,7 +535,7 @@ Moderna,African Union,MMR,https://investors.modernatx.com/news-releases/news-rel
 --,--,--,https://www.livemint.com/news/india/indias-covid-19-vaccination-coverage-crosses-105-crore-mark-says-govt-11635517305490.html,1970-01-01 00:27:15.465600,--,320359790,220000000,--,--,--,--,--
 Sinopharm (Beijing),Belarus,BLR,https://eng.belta.by/society/view/belarus-to-get-another-batch-of-chinese-covid-19-vaccine-144815-2021/,1970-01-01 00:27:15.724800,BBIBP-CorV,198000000,1000000,--,Formalized,Sinopharm (Beijing),--,--
 Sinopharm (Beijing),Armenia,ARM,https://www.panarmenian.net/eng/news/296510/Armenia_buys_400000_Sinopharm_vaccine_doses,1970-01-01 00:27:15.724800,BBIBP-CorV,198000000,400000,--,Formalized,Sinopharm (Beijing),--,--
---,New Zealand,NZL,https://www.beehive.govt.nz/release/additional-pfizer-covid-19-vaccines-purchased,1970-01-01 00:27:15.897600,--,--,4700000,--,Formalized,--,Bilateral,Fosun Pharma
+--,New Zealand,NZL,https://www.beehive.govt.nz/release/additional-pfizer-covid-19-vaccines-purchased,1970-01-01 00:27:15.897600,--,--,4700000,--,Formalized,--,--,Fosun Pharma
 --,Paraguay,PRY,https://www.lanacion.com.py/pais/2021/11/12/llegaron-400000-dosis-de-la-vacuna-india-covaxin/,1970-01-01 00:27:16.243200,--,--,2000000,--,Formalized,--,Bilateral,Emerald Pharma
 Zydus Cadila,India,IND,https://www.zyduscadila.com/public/pdf/pressrelease/Press-Release-Cadila-Healthcare-Ltd-to-supply-1-crore-doses-of-ZyCoV-D.pdf,1970-01-01 00:27:16.329600,ZyCov-D,--,10000000,5000000,--,Zydus Cadila,--,--
 --,Hong Kong,HKG,https://www.news.gov.hk/eng/2021/11/20211119/20211119_131423_372.html,1970-01-01 00:27:16.502400,--,--,1000000,720000000,--,--,Bilateral,Fosun Pharma
