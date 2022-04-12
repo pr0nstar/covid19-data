@@ -110,13 +110,13 @@ Brunei,BRN,BBIBP-CorV,Sinopharm (Beijing),https://thescoop.co/2021/04/02/covid-1
 Georgia,GEO,Coronavac,Sinovac,https://agenda.ge/en/news/2021/891,Sinovac,China,CHN,2021-04-05,100000.0
 Ecuador,ECU,Coronavac,Sinovac,https://github.com/andrab/ecuacovid/blob/master/datos_crudos/vacunas/fabricantes.csv,Sinovac,China,CHN,2021-04-05,500000.0
 Zimbabwe,ZWE,Covaxin,Bharat Biotech,https://www.mea.gov.in/vaccine-supply.htm,Bharat Biotech,India,IND,2021-04-08,35000.0
-Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,204000.0
+Nepal,NPL,BBIBP-CorV,Sinopharm (Beijing),https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,Sinopharm (Beijing),China,CHN,2021-04-08,800000.0
 Nauru,NRU,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,10000.0
 Niger,NER,Covishield,Serum Institute of India,https://www.mea.gov.in/vaccine-supply.htm,Serum Institute of India,India,IND,2021-04-08,25000.0
 Libya,LBY,Sputnik V,Gamaleya Research Institute,http://www.xinhuanet.com/english/africa/2021-04/05/c_139858648.htm,Gamaleya Research Institute,UAE,ARE,2021-04-08,101250.0
 Syria,SYR,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/article/health-coronavirus-vaccine-syria-int/china-says-it-will-send-150000-coronavirus-vaccines-to-syria-idUSKBN2A4243,Sinopharm (Beijing),China,CHN,2021-04-08,150000.0
 Montenegro,MNE,BBIBP-CorV,Sinopharm (Beijing),https://www.gov.me/en/article/30000-doses-of-chinese-vaccine-arrive-in-montenegro,Sinopharm (Beijing),China,CHN,2021-04-08,30000.0
-Nepal,NPL,BBIBP-CorV,Sinopharm (Beijing),https://www.livemint.com/news/world/nepal-to-restart-covid-19-vaccinations-after-china-donates-shots-11617103028081.html,Sinopharm (Beijing),China,CHN,2021-04-08,800000.0
+Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/search?lang=en&q=Romania%20(from%3AEUinMoldova)&src=typed_query,AstraZeneca,Romania,ROU,2021-04-08,204000.0
 Egypt,EGY,BBIBP-CorV,Sinopharm (Beijing),https://apnews.com/article/health-care-reform-cairo-coronavirus-pandemic-health-covid-19-pandemic-62e56e073391f206479d4724693d53d0,Sinopharm (Beijing),China,CHN,2021-04-08,600000.0
 Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,Sinopharm (Beijing),China,CHN,2021-04-14,800000.0
 Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/02/2nd-batch-of-china-donated-covid-19-vaccines-handed-over-to-laos,Sinopharm (Beijing),China,CHN,2021-04-14,300000.0
@@ -166,29 +166,29 @@ Trinidad,TTO,Vaxzevria,AstraZeneca,https://foreign.gov.tt/resources/news/trinida
 Serbia,SRB,BBIBP-CorV,Sinopharm (Beijing),http://www.mod.gov.rs/eng/tekst/17397/kina-donirala-200-000-vakcina-dokaz-celicnog-prijateljstva-17397,Sinopharm (Beijing),China,CHN,2021-06-03,200000.0
 Trinidad,TTO,Vaxzevria,AstraZeneca,https://newsday.co.tt/2021/05/20/st-vincent-bermuda-donate-covid19-vaccines-to-trinidad-and-tobago/,AstraZeneca,Saint Vincent,VCT,2021-06-03,16000.0
 Timor-Leste,TLS,Coronavac,Sinovac,https://www.wfp.org/news/wfp-helps-transport-covid-19-vaccine-donated-china-timor-leste,Sinovac,China,CHN,2021-06-07,100000.0
-Belarus,BLR,BBIBP-CorV,Sinopharm (Beijing),https://www.belarus.by/en/press-center/humanitarian-cooperation/uae-donates-about-10000-covid-19-vaccine-doses-to-belarus_i_0000130808.html,Sinopharm (Beijing),UAE,ARE,2021-06-09,10000.0
 --,--,Coronavac,Sinovac,https://www.aa.com.tr/en/europe/north-macedonia-receives-30-000-vaccine-doses-donated-by-turkey/2268553,Sinovac,Turkey,TUR,2021-06-09,30000.0
-Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.voanews.com/covid-19-pandemic/japan-donates-more-1-million-astrazeneca-jabs-taiwan,AstraZeneca,Japan,JPN,2021-06-09,1240000.0
+Belarus,BLR,BBIBP-CorV,Sinopharm (Beijing),https://www.belarus.by/en/press-center/humanitarian-cooperation/uae-donates-about-10000-covid-19-vaccine-doses-to-belarus_i_0000130808.html,Sinopharm (Beijing),UAE,ARE,2021-06-09,10000.0
 Mozambique,MOZ,BBIBP-CorV,Sinopharm (Beijing),https://www.peacefmonline.com/pages/local/news/202106/446096.php,Sinopharm (Beijing),China,CHN,2021-06-09,60000.0
+Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.voanews.com/covid-19-pandemic/japan-donates-more-1-million-astrazeneca-jabs-taiwan,AstraZeneca,Japan,JPN,2021-06-09,1240000.0
 Afghanistan,AFG,BBIBP-CorV,Sinopharm (Beijing),https://www.nytimes.com/2021/06/10/world/afghanistan-sinopharm-covid-vaccine.html,Sinopharm (Beijing),China,CHN,2021-06-14,700000.0
 Cambodia,KHM,BBIBP-CorV,Sinopharm (Beijing),https://www.khmertimeskh.com/50870323/cambodia-moves-closer-to-herd-immunity-with-receipt-of-one-million-doses-of-covid-19-vaccines/,Sinopharm (Beijing),China,CHN,2021-06-14,500000.0
 Solomon Islands,SLB,BBIBP-CorV,Sinopharm (Beijing),https://solomons.gov.sb/transfer-certificate-for-the-50000-sinopharm-vaccines-signed/,Sinopharm (Beijing),China,CHN,2021-06-14,50000.0
 --,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-zim-donates-sputnik-v-vaccines-to-zimbabwe/,Gamaleya Research Institute,Alrosa Group,IND,2021-06-14,50000.0
 Moldova,MDA,Vaxzevria,AstraZeneca,https://twitter.com/EUinMoldova/status/1403411714285080576?s=20,AstraZeneca,Romania,ROU,2021-06-14,100800.0
+Mauritius,MUS,BBIBP-CorV,Sinopharm (Beijing),https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,Sinopharm (Beijing),China,CHN,2021-06-16,100000.0
 Guinea,GIN,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/business/healthcare-pharmaceuticals/guinea-receives-purchase-300000-sinovac-covid-19-vaccines-2021-04-18/,Sinopharm (Beijing),China,CHN,2021-06-16,200000.0
 Guinea,GIN,BBIBP-CorV,Sinopharm (Beijing),https://twitter.com/shen_shiwei/status/1367277932272492547?s=20,Sinopharm (Beijing),China,CHN,2021-06-16,200000.0
-Mauritius,MUS,BBIBP-CorV,Sinopharm (Beijing),https://govmu.org/EN/Pages/NewsDetails.aspx?n=Mauritius-receives-100-000-doses-of-Sinopharm-vaccine.aspx,Sinopharm (Beijing),China,CHN,2021-06-16,100000.0
 --,--,Sputnik V,Gamaleya Research Institute,http://eng.alrosa.ru/alrosa-together-with-russias-embassy-donated-sputnik-v-vaccines-to-angola/,Gamaleya Research Institute,Alrosa Group,CHN,2021-06-16,50000.0
 Mexico,MEX,Ad26.COV 2.S,Janssen,https://www.gob.mx/sre/prensa/mexico-receives-a-shipment-of-1-35-million-johnson-johnson-vaccine-doses?idiom=en,Janssen Pharmaceuticals,USA,USA,2021-06-18,1350000.0
 Bangladesh,BGD,BBIBP-CorV,Sinopharm (Beijing),https://thefinancialexpress.com.bd/national/another-2-million-sinopharm-vaccine-doses-arrive-in-bangladesh-1626593708,Sinopharm (Beijing),China,CHN,2021-06-19,2000000.0
-Malaysia,MYS,Coronavac,Sinovac,https://www.reuters.com/world/asia-pacific/malaysia-says-china-contribute-500000-doses-sinovac-vaccines-2021-06-16/,Sinovac,China,CHN,2021-06-20,500000.0
+Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/40-000-doses-of-virus-vaccine-arrives-in-ncyprus/2141569,Sinovac,Turkey,TUR,2021-06-20,40000.0
+Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2164568,Sinovac,Turkey,TUR,2021-06-20,20000.0
+Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-40-000-more-vaccine-doses-to-north-cyprus/2214127,Sinovac,Turkey,TUR,2021-06-20,40000.0
+Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-50-000-more-vaccine-doses-to-northern-cyprus/2267885,Sinovac,Turkey,TUR,2021-06-20,50000.0
 Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-26-000-addition-covid-19-vaccine-doses-to-northern-cyprus/2277728,Sinovac,Turkey,TUR,2021-06-20,26000.0
 Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2126160,Sinovac,Turkey,TUR,2021-06-20,20000.0
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/turkey/turkey-sends-50-000-more-vaccine-doses-to-northern-cyprus/2267885,Sinovac,Turkey,TUR,2021-06-20,50000.0
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/40-000-doses-of-virus-vaccine-arrives-in-ncyprus/2141569,Sinovac,Turkey,TUR,2021-06-20,40000.0
+Malaysia,MYS,Coronavac,Sinovac,https://www.reuters.com/world/asia-pacific/malaysia-says-china-contribute-500000-doses-sinovac-vaccines-2021-06-16/,Sinovac,China,CHN,2021-06-20,500000.0
 Ukraine,UKR,Vaxzevria,AstraZeneca,https://www.theguardian.com/world/live/2021/jun/16/coronavirus-live-news-new-york-hits-70-vaccination-target-japan-considering-10000-fans-at-olympics?page=with%3Ablock-60ca2f848f08bfe0ccb13b6e,AstraZeneca,Romania,ROU,2021-06-20,108000.0
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/turkey-sends-40-000-more-vaccine-doses-to-north-cyprus/2214127,Sinovac,Turkey,TUR,2021-06-20,40000.0
-Cyprus,CYP,Coronavac,Sinovac,https://www.aa.com.tr/en/health/turkey-sends-20-000-more-vaccine-doses-to-ncyprus/2164568,Sinovac,Turkey,TUR,2021-06-20,20000.0
 Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.thestar.com.my/aseanplus/aseanplus-news/2021/06/15/laos-receives-500000-doses-of-sinopharm-vaccine-from-china,Sinopharm (Beijing),China,CHN,2021-06-21,500000.0
 Viet Nam,VNM,Vaxzevria,AstraZeneca,https://english.kyodonews.net/news/2021/06/8f512fecd4bf-breaking-news-japan-to-donate-1-mil-covid-19-vaccine-doses-to-vietnam-on-wed.html,AstraZeneca,Japan,JPN,2021-06-23,1000000.0
 Kenya,KEN,Vaxzevria,AstraZeneca,https://www.unicef.org/kenya/press-releases/over-350000-covid-19-vaccine-doses-arrive-kenya-donated-denmark,AstraZeneca,Denmark,DNK,2021-06-23,358700.0
@@ -204,10 +204,10 @@ Barbados,BRB,BBIBP-CorV,Sinopharm (Beijing),https://www.nationnews.com/2021/06/3
 Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.cdc.gov.tw/En/Bulletin/Detail/CRhVW0MnumfWzkvE8IiaWw?typeid=158,AstraZeneca,Japan,JPN,2021-07-06,1130000.0
 Brazil,BRA,Ad26.COV 2.S,Janssen,https://br.usembassy.gov/the-united-states-donates-3-million-doses-of-johnson-johnson-vaccine-to-brazil/,Janssen Pharmaceuticals,USA,USA,2021-07-11,3000000.0
 Peru,PER,Comirnaty,Pfizer/BioNTech,https://andina.pe/ingles/noticia-peru-receives-over-1-million-of-pfizer-vaccine-doses-donated-by-us-851223.aspx,Pfizer BioNTech,USA,USA,2021-07-12,2000000.0
-Canada,CAN,Spikevax,Moderna,https://ca.usembassy.gov/the-united-states-donates-one-million-covid-19-vaccine-doses-to-canada/,Moderna,USA,USA,2021-07-12,1000000.0
-Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/us-donation-of-one-million-pfizer-covid-19-vaccines-arrives-in-malaysia,Pfizer BioNTech,USA,USA,2021-07-12,1000000.0
 Colombia,COL,Ad26.COV 2.S,Janssen,"https://www.reuters.com/business/healthcare-pharmaceuticals/colombia-says-get-25-mln-janssen-covid-shot-donation-us-2021-06-28/#:~:text=Colombia%20says%20to%20get%202.5%20mln%20Janssen%20COVID%20shot%20donation%20from%20U.S.,-Reuters&text=BOGOTA%2C%20June%2028%20(Reuters),of%20Johnson%20%26%20Johnson%20(JNJ.",Janssen Pharmaceuticals,USA,USA,2021-07-12,2500000.0
+Canada,CAN,Spikevax,Moderna,https://ca.usembassy.gov/the-united-states-donates-one-million-covid-19-vaccine-doses-to-canada/,Moderna,USA,USA,2021-07-12,1000000.0
 Trinidad,TTO,Comirnaty,Pfizer/BioNTech,https://www.reuters.com/business/healthcare-pharmaceuticals/chinese-media-mocks-us-donation-80-vaccine-vials-trinidad-tobago-2021-06-16/,Pfizer BioNTech,USA,USA,2021-07-12,480.0
+Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/us-donation-of-one-million-pfizer-covid-19-vaccines-arrives-in-malaysia,Pfizer BioNTech,USA,USA,2021-07-12,1000000.0
 Bosnia,BIH,Comirnaty,Pfizer/BioNTech,https://ba.n1info.com/english/news/us-sending-half-a-million-pfizer-doses-to-bosnia/,Pfizer BioNTech,USA,USA,2021-07-12,500000.0
 Costa Rica,CRI,Comirnaty,Pfizer/BioNTech,https://twitter.com/StateDept/status/1415292331205480449?s=20,Pfizer BioNTech,USA,USA,2021-07-14,500000.0
 Viet Nam,VNM,Sputnik V,Gamaleya Research Institute,https://tuoitrenews.vn/news/society/20210713/japan-donates-one-million-more-covid19-vaccine-shots-to-vietnam/62050.html,Gamaleya Research Institute,Russia,RUS,2021-07-16,2000.0
@@ -222,8 +222,8 @@ Uruguay,URY,Comirnaty,Pfizer/BioNTech,https://riotimesonline.com/brazil-news/cov
 Tunisia,TUN,Coronavac,Sinovac,https://www.facebook.com/Presidence.tn/photos/pcb.4425600504164639/4425597597498263/,Sinovac,Turkey,TUR,2021-07-16,50000.0
 Taiwan,TWN,Vaxzevria,AstraZeneca,https://www.taiwannews.com.tw/en/news/4249126,AstraZeneca,Japan,JPN,2021-07-16,970000.0
 Mozambique,MOZ,Vaxzevria,AstraZeneca,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-disponibiliza-vacinas-contra-a-covid-19-a-mocambique,AstraZeneca,Portugal,PRT,2021-07-18,50000.0
-Cabo Verde,CPV,BBIBP-CorV,Sinopharm (Beijing),https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-disponibiliza-mais-vacinas-contra-a-covid-19-a-cabo-verde,Sinopharm (Beijing),Portugal,PRT,2021-07-18,24000.0
-Sao Tome,STP,Vaxzevria,CSL,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-apoia-sao-tome-e-principe-na-vacinacao-contra-a-covid-19,AstraZeneca,Portugal,PRT,2021-07-18,12000.0
+Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://www.moveaveiro.pt/en/les-vaccins-donnes-par-le-portugal-permettent-de-maintenir-la-vaccination-au-cap-vert-o-jornal-economico,AstraZeneca,Portugal,PRT,2021-07-18,24000.0
+Sao Tome,STP,Vaxzevria,AstraZeneca,https://www.telanon.info/sociedade/2021/09/27/35267/covid-19-stp-com-614-doentes-activos-e-a-variante-delta-em-alta/,AstraZeneca,Portugal,PRT,2021-07-18,12000.0
 --,--,Vaxzevria,AstraZeneca,https://www.portaldiplomatico.mne.gov.pt/comunicacao-e-media/comunciados-de-imprensa/portugal-envia-vacinas-contra-a-covid-19-para-a-guine-bissauportugal-envia-vacinas-contra-a-covid-19-para-a-guine-bissau,AstraZeneca,Portugal,PRT,2021-07-18,24000.0
 Guatemala,GTM,Spikevax,Moderna,https://gt.usembassy.gov/u-s-government-aid-of-3-million-vaccines-arrives-in-la-aurora/,Moderna,USA,USA,2021-07-21,3000000.0
 Uzbekistan,UZB,Vaxzevria,AstraZeneca,https://tashkenttimes.uz/national/7248-azerbaijan-donates-50-thousand-doses-of-astrazeneca-vaccine-to-uzbekistan,AstraZeneca,Azerbaijan,AZE,2021-07-21,50000.0
@@ -284,19 +284,19 @@ Honduras,HND,Vaxzevria,AstraZeneca,http://www.salud.gob.hn/site/index.php/compon
 Sri Lanka,LKA,BBIBP-CorV,Sinopharm (Beijing),http://www.news.cn/english/2021-08/28/c_1310154646.htm,Sinopharm (Beijing),China,CHN,2021-08-30,300000.0
 Albania,ALB,Vaxzevria,AstraZeneca,http://en.ata.gov.al/2021/08/30/latvia-donates-30-thousand-doses-of-astrazeneca-vaccine-over-1-9-mln-vaccines-secured-in-the-country/,AstraZeneca,Latvia,LVA,2021-08-30,30000.0
 Ecuador,ECU,Vaxzevria,AstraZeneca,https://www.salud.gob.ec/394-950-mil-nuevas-dosis-de-astrazeneca-donadas-por-canada-iran-a-zonas-de-frontera/,AstraZeneca,Canada,CAN,2021-08-31,394950.0
-Jamaica,JAM,Vaxzevria,AstraZeneca,https://jis.gov.jm/jamaica-receives-200000-doses-of-astrazeneca-covid-19-vaccines-from-canada/,AstraZeneca,Canada,CAN,2021-09-01,200000.0
-Sao Tome,STP,Vaxzevria,AstraZeneca,https://www.theportugalnews.com/news/2021-08-11/portugal-donates-37-000-vaccines-to-sao-tome-and-principe/61646,AstraZeneca,Portugal,PRT,2021-09-01,37000.0
-Bangladesh,BGD,BBIBP-CorV,Sinopharm (Beijing),https://www.dhakatribune.com/bangladesh/military-affairs/2021/08/29/baf-aircraft-returns-with-300-000-covid-vaccines-as-gift-from-china,Sinopharm (Beijing),China,CHN,2021-09-01,300000.0
-Taiwan,TWN,Spikevax,Moderna,https://www.taiwannews.com.tw/en/news/4279275,Moderna,Czech Rep.,CZE,2021-09-01,30000.0
---,--,--,--,https://vietnamnews.vn/society/1022258/czech-republic-donates-250000-doses-of-covid-19-vaccines-to-viet-nam.html,--,Czech Rep.,CZE,2021-09-01,210000.0
 Viet Nam,VNM,Spikevax,Moderna,https://vietnamnews.vn/society/1022258/czech-republic-donates-250000-doses-of-covid-19-vaccines-to-viet-nam.html,Moderna,Czech Rep.,CZE,2021-09-01,40800.0
-Syria,SYR,Sputnik Light,Gamaleya Research Institute,https://tass.com/world/1317383,Gamaleya Research Institute,Russia,RUS,2021-09-03,250000.0
+--,--,--,--,https://vietnamnews.vn/society/1022258/czech-republic-donates-250000-doses-of-covid-19-vaccines-to-viet-nam.html,--,Czech Rep.,CZE,2021-09-01,210000.0
+Taiwan,TWN,Spikevax,Moderna,https://www.taiwannews.com.tw/en/news/4279275,Moderna,Czech Rep.,CZE,2021-09-01,30000.0
+Bangladesh,BGD,BBIBP-CorV,Sinopharm (Beijing),https://www.dhakatribune.com/bangladesh/military-affairs/2021/08/29/baf-aircraft-returns-with-300-000-covid-vaccines-as-gift-from-china,Sinopharm (Beijing),China,CHN,2021-09-01,300000.0
+Sao Tome,STP,Vaxzevria,AstraZeneca,https://www.theportugalnews.com/news/2021-08-11/portugal-donates-37-000-vaccines-to-sao-tome-and-principe/61646,AstraZeneca,Portugal,PRT,2021-09-01,37000.0
+Jamaica,JAM,Vaxzevria,AstraZeneca,https://jis.gov.jm/jamaica-receives-200000-doses-of-astrazeneca-covid-19-vaccines-from-canada/,AstraZeneca,Canada,CAN,2021-09-01,200000.0
 Fiji,FJI,Vaxzevria,AstraZeneca,https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-support-fiji%E2%80%99s-covid-19-response-continues-vaccine-delivery-operational,AstraZeneca,New Zealand,NZL,2021-09-03,100000.0
+Syria,SYR,Sputnik Light,Gamaleya Research Institute,https://tass.com/world/1317383,Gamaleya Research Institute,Russia,RUS,2021-09-03,250000.0
 St. Kitts and Nevis,KNA,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,11700.0
-Jamaica,JAM,Comirnaty,Pfizer/BioNTech,https://www.moh.gov.jm/children-teens-to-get-priority-with-pfizer-vaccine/,Pfizer BioNTech,USA,USA,2021-09-06,608000.0
 Suriname,SUR,Comirnaty,Pfizer/BioNTech,https://www.jamaicaobserver.com/latestnews/US_shipping_vaccines_to_Suriname,Pfizer BioNTech,USA,USA,2021-09-06,140400.0
 South Korea,KOR,Ad26.COV 2.S,Janssen,http://www.koreaherald.com/view.php?ud=20210814000065,Janssen Pharmaceuticals,USA,USA,2021-09-06,400000.0
 Guyana,GUY,Comirnaty,Pfizer/BioNTech,https://gy.usembassy.gov/u-s-donates-146250-pfizer-vaccine-doses-to-guyana/,Pfizer BioNTech,USA,USA,2021-09-06,146250.0
+Jamaica,JAM,Comirnaty,Pfizer/BioNTech,https://www.moh.gov.jm/children-teens-to-get-priority-with-pfizer-vaccine/,Pfizer BioNTech,USA,USA,2021-09-06,608000.0
 --,--,Spikevax,Moderna,https://www.directrelief.org/2021/08/first-moderna-covid-19-vaccines-delivered-to-mexico/,Moderna,USA,USA,2021-09-06,1750000.0
 Saint Vincent,VCT,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,35100.0
 Saint Lucia,LCA,Comirnaty,Pfizer/BioNTech,https://bb.usembassy.gov/united-states-donates-29250-pfizer-vaccines-to-grenada/,Pfizer BioNTech,USA,USA,2021-09-06,52650.0
@@ -640,8 +640,8 @@ Philippines,PHL,Vaxzevria,AstraZeneca,https://newsinfo.inquirer.net/1530588/5000
 Moldova,MDA,Vaxzevria,AstraZeneca,https://www.zdg.md/en/?p=8455,AstraZeneca,Austria,AUT,2021-12-28,100000.0
 Jamaica,JAM,BBIBP-CorV,Sinopharm (Beijing),"https://www.jamaicaobserver.com/latestnews/Jamaica_receives_200,000_Sinopharm_vaccines_from_China",Sinopharm (Beijing),China,CHN,2021-12-29,200000.0
 Myanmar,MMR,Covaxin,Bharat Biotech,https://www.mea.gov.in/vaccine-supply.htm,Bharat Biotech,India,IND,2021-12-29,500000.0
-South Sudan,SSD,BBIBP-CorV,Sinopharm (Beijing),http://en.people.cn/n3/2021/0828/c90000-9889253.html,Sinopharm (Beijing),China,CHN,2021-12-29,100000.0
 DRC,COD,Coronavac,Sinovac,https://news.cgtn.com/news/2021-10-01/China-donates-400-000-Sinovac-vaccine-doses-to-DRC-1401GFkeOas/index.html,Sinovac,China,CHN,2021-12-29,400000.0
+South Sudan,SSD,BBIBP-CorV,Sinopharm (Beijing),http://en.people.cn/n3/2021/0828/c90000-9889253.html,Sinopharm (Beijing),China,CHN,2021-12-29,100000.0
 Burkina Faso,BFA,BBIBP-CorV,Sinopharm (Beijing),https://www.panapress.com/Coronavirus-China-offers-400000--a_630701531-lang2.html,Sinopharm (Beijing),China,CHN,2021-12-29,400000.0
 Afghanistan,AFG,Covaxin,Bharat Biotech,https://www.mea.gov.in/vaccine-supply.htm,Bharat Biotech,India,IND,2022-01-03,500000.0
 --,--,Vaxzevria,AstraZeneca,https://www.portaldiplomatico.mne.gov.pt/en/communication-and-media/press-releases/portugal-sends-a-further-76-000-vaccines-to-guinea-bissau,AstraZeneca,Portugal,PRT,2022-01-03,76000.0
@@ -655,10 +655,10 @@ Bosnia,BIH,Comirnaty,Pfizer/BioNTech,https://twitter.com/civilniposlovi/status/1
 Gabon,GAB,Sputnik V,Gamaleya Research Institute,https://documents1.worldbank.org/curated/en/551171635172379620/pdf/Gabon-COVID-19-Strategic-Preparedness-and-Response-Project-Additional-Financing.pdf,Gamaleya Research Institute,Russia,RUS,2022-01-04,10000.0
 Botswana,BWA,Coronavac,Sinovac,http://www.xinhuanet.com/africa/20220102/8458d1b2885e4df78377abca11532a6e/c.html,Sinovac,China,CHN,2022-01-04,2000000.0
 Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://www.facebook.com/watch/?v=184835990202960,AstraZeneca,Hungary,HUN,2022-01-04,100000.0
+Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://www.rijksoverheid.nl/actueel/nieuws/2021/07/01/miljoenen-vaccins-voor-kaapverdie-indonesie-en-covax-programma,AstraZeneca,Netherlands,NLD,2022-01-04,150150.0
 Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://twitter.com/AndrejBabis/status/1399301604881408002?s=20,Pfizer BioNTech,Serbia,SRB,2022-01-04,100620.0
 Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://twitter.com/AndrejBabis/status/1377981491158876161?s=20,Pfizer BioNTech,Austria,AUT,2022-01-04,30000.0
 Rwanda,RWA,Comirnaty,Pfizer/BioNTech,https://rw.usembassy.gov/u-s-donation-of-covid-19-vaccines-reaches-3-2-million/,Pfizer BioNTech,USA,USA,2022-01-04,999180.0
-Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://www.rijksoverheid.nl/actueel/nieuws/2021/07/01/miljoenen-vaccins-voor-kaapverdie-indonesie-en-covax-programma,AstraZeneca,Netherlands,NLD,2022-01-04,150150.0
 Viet Nam,VNM,Sputnik Light,Gamaleya Research Institute,https://english.thesaigontimes.vn/russia-presents-100000-sputnik-light-doses-to-vietnam/,Gamaleya Research Institute,Russia,RUS,2022-01-04,100000.0
 --,--,Vaxzevria,AstraZeneca,https://vlada.gov.hr/news/croatia-donates-30-000-doses-of-astrazeneca-vaccine-to-bosnia/32278,AstraZeneca,Croatia,HRV,2022-01-04,30000.0
 Bosnia,BIH,Comirnaty,Pfizer/BioNTech,https://twitter.com/civilniposlovi/status/1474294170407907330?s=20,Pfizer BioNTech,France,FRA,2022-01-04,117000.0
@@ -675,8 +675,8 @@ Myanmar,MMR,Coronavac,Sinovac,http://www.xinhuanet.com/asiapacific/20211223/f2f9
 --,--,Spikevax,Moderna,https://birmex.gob.mx/news/mexico-recibe-2-7-millones-de-vacunas-moderna-contra-covid-19-para-personal-del-sector-educativo/,Moderna,Moderna,USA,2022-01-10,2772000.0
 Taiwan,TWN,Comirnaty,Fosun Pharma,https://www.cdc.gov.tw/En/Bulletin/Detail/vwAhEgvHA0pS-qNXdtFbWA?typeid=158,Pfizer BioNTech,"TSMC, Hon Hai Yonglin, and Tzu Chi",RUS,2022-01-10,15000000.0
 Tunisia,TUN,Vaxzevria,AstraZeneca,https://hellenicaid.mfa.gr/en/epikairotita/anakoinoseis/dorea-100000-doseon-embolion-sten-tunesia.html,AstraZeneca,Greece,GRC,2022-01-11,100000.0
-Thailand,THA,BBIBP-CorV,Sinopharm (Beijing),https://www.thephuketnews.com/china-donates-500k-covid-19-jabs-82667.php,Sinopharm (Beijing),China,CHN,2022-01-11,500000.0
 Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://chronicle.lu/category/abroad/37701-luxembourg-sends-56k-covid-19-vaccine-doses-to-cape-verde,AstraZeneca,Luxembourg,LUX,2022-01-11,56000.0
+Thailand,THA,BBIBP-CorV,Sinopharm (Beijing),https://www.thephuketnews.com/china-donates-500k-covid-19-jabs-82667.php,Sinopharm (Beijing),China,CHN,2022-01-11,500000.0
 Gabon,GAB,Sputnik V,Gamaleya Research Institute,https://humangle.org/covid19-gabon-receives-10000-doses-of-sputnik-v-vaccines-from-russia/,Gamaleya Research Institute,Russia,RUS,2022-01-11,10000.0
 --,--,Vaxzevria,AstraZeneca,https://hungarytoday.hu/coronavirus-hungary-donating-vaccines-to-ghana-rwanda-africa-peter-szijjarto-covid-19-doses-jabs/,AstraZeneca,Hungary,HUN,2022-01-11,800000.0
 --,--,Vaxzevria,AstraZeneca,https://greekreporter.com/2021/11/26/greece-donates-150000-doses-covid-vaccine-ghana/,AstraZeneca,Greece,GRC,2022-01-11,150000.0
@@ -684,60 +684,60 @@ Laos,LAO,Vaxzevria,AstraZeneca,https://www.thestar.com.my/aseanplus/aseanplus-ne
 Tunisia,TUN,Vaxzevria,AstraZeneca,https://english.alarabiya.net/coronavirus/2021/08/01/Crisis-hit-Tunisia-receives-1-5-mln-COVID-19-vaccines-from-Italy,AstraZeneca,Italy,ITA,2022-01-11,1500000.0
 Syria,SYR,BBIBP-CorV,Sinopharm (Beijing),https://news.cgtn.com/news/2022-01-04/Syria-receives-1-million-COVID-19-vaccine-doses-donated-by-China-16ykrGnK6L6/index.html,Sinopharm (Beijing),China,CHN,2022-01-11,1000000.0
 Latvia,LVA,Comirnaty,Pfizer/BioNTech,https://baltics.news/2021/11/12/latvia-has-received-201240-doses-of-pfizer-covid-19-vaccine-donated-by-lithuania/,Pfizer BioNTech,Lithuania,LTU,2022-01-11,201240.0
-Iran,IRN,BBIBP-CorV,Sinopharm (Beijing),https://en.irna.ir/news/84481147/Iran-Hungary-underscore-expansion-of-ties,Sinopharm (Beijing),Hungary,HUN,2022-01-11,100000.0
-Ukraine,UKR,Vaxzevria,AstraZeneca,https://112.international/ukraine-top-news/greece-to-provide-ukraine-100000-doses-of-astrazeneca-vaccine-63945.html,AstraZeneca,Greece,GRC,2022-01-11,100000.0
 --,--,--,--,https://vietnamnews.vn/politics-laws/1071485/viet-nam-greece-seek-measures-to-boost-bilateral-ties.html,--,Greece,GRC,2022-01-11,250000.0
-Tajikistan,TJK,Vaxzevria,AstraZeneca,"https://lrv.lt/en/news/lithuania-to-donate-60-000-doses-of-vaxzevria-vaccine-to-tajikistan#:~:text=Continuing%20to%20support%20third%20countries,Vaxzevria%20vaccine%20manufactured%20by%20AstraZeneca.",AstraZeneca,Lithuania,LTU,2022-01-11,60000.0
 Jordan,JOR,Vaxzevria,AstraZeneca,https://www.mfa.gr/en/current-affairs/news-announcements/secretary-general-for-international-economic-relations-and-openness-ioannis-smyrlis-meets-with-the-ambassador-of-jordan-ahed-ali-sweidat-donation-of-150000-vaccines-26082021.html,AstraZeneca,Greece,GRC,2022-01-11,150000.0
+Ukraine,UKR,Vaxzevria,AstraZeneca,https://112.international/ukraine-top-news/greece-to-provide-ukraine-100000-doses-of-astrazeneca-vaccine-63945.html,AstraZeneca,Greece,GRC,2022-01-11,100000.0
+Tajikistan,TJK,Vaxzevria,AstraZeneca,"https://lrv.lt/en/news/lithuania-to-donate-60-000-doses-of-vaxzevria-vaccine-to-tajikistan#:~:text=Continuing%20to%20support%20third%20countries,Vaxzevria%20vaccine%20manufactured%20by%20AstraZeneca.",AstraZeneca,Lithuania,LTU,2022-01-11,60000.0
+Iran,IRN,BBIBP-CorV,Sinopharm (Beijing),https://en.irna.ir/news/84481147/Iran-Hungary-underscore-expansion-of-ties,Sinopharm (Beijing),Hungary,HUN,2022-01-11,100000.0
 Ecuador,ECU,Vaxzevria,Laboratorios Liomont,https://www.salud.gob.ec/mexico-dona-un-millon-de-dosis-de-astrazeneca-para-refuerzos-contra-covid-19/,AstraZeneca,Mexico,MEX,2022-01-14,1000000.0
-Tonga,TON,Comirnaty,Pfizer/BioNTech,https://www.looptonga.com/tonga-news/new-zealand-donates-pfizer-vaccines-tonga-106030,Pfizer BioNTech,New Zealand,NZL,2022-01-18,31600.0
-Timor-Leste,TLS,Vaxzevria,AstraZeneca,https://luanda.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-provides-vaccines-against-covid-19-to-timor-leste,AstraZeneca,Portugal,PRT,2022-01-18,12000.0
-Uzbekistan,UZB,Vaxzevria,AstraZeneca,https://uzdaily.uz/en/post/68041,AstraZeneca,Poland,POL,2022-01-18,252000.0
-Kosovo,XKX,Comirnaty,Pfizer/BioNTech,https://www.gazetaexpress.com/poland-donates-100-thousand-pfizer-vaccines-to-kosovo-president-osmani-says/,Pfizer BioNTech,Poland,POL,2022-01-18,100000.0
 Rwanda,RWA,Vaxzevria,AstraZeneca,https://www.gov.pl/web/tanzania-en/rwanda-received-300000-doses-of-the-covid-19-vaccine-from-poland,AstraZeneca,Poland,POL,2022-01-18,300000.0
+Kosovo,XKX,Comirnaty,Pfizer/BioNTech,https://www.gazetaexpress.com/poland-donates-100-thousand-pfizer-vaccines-to-kosovo-president-osmani-says/,Pfizer BioNTech,Poland,POL,2022-01-18,100000.0
+Uzbekistan,UZB,Vaxzevria,AstraZeneca,https://uzdaily.uz/en/post/68041,AstraZeneca,Poland,POL,2022-01-18,252000.0
+Tonga,TON,Comirnaty,Pfizer/BioNTech,https://www.looptonga.com/tonga-news/new-zealand-donates-pfizer-vaccines-tonga-106030,Pfizer BioNTech,New Zealand,NZL,2022-01-18,31600.0
 Armenia,ARM,Spikevax,Moderna,https://euneighbourseast.eu/news-and-stories/latest-news/norway-donates-moderna-vaccines-to-armenia-under-team-europe-initiative/,Moderna,Norway,NOR,2022-01-18,620000.0
-Moldova,MDA,Comirnaty,Pfizer/BioNTech,https://www.moldpres.md/en/news/2021/07/23/21005326,Pfizer BioNTech,Romania,ROU,2022-01-19,100620.0
-Lebanon,LBN,Comirnaty,Pfizer/BioNTech,https://www.rmoljawatengah.id/lebanon-dapat-31250-dosis-vaksin-pfizer-biontech-dari-qatar,Pfizer BioNTech,Qatar,QAT,2022-01-19,31250.0
+Timor-Leste,TLS,Vaxzevria,AstraZeneca,https://luanda.embaixadaportugal.mne.gov.pt/en/the-embassy/news/portugal-provides-vaccines-against-covid-19-to-timor-leste,AstraZeneca,Portugal,PRT,2022-01-18,12000.0
+Georgia,GEO,Vaxzevria,AstraZeneca,https://1tv.ge/en/news/romania-to-donate-10-000-az-shots-to-georgia/,AstraZeneca,Romania,ROU,2022-01-19,10000.0
 Zimbabwe,ZWE,Coronavac,Sinovac,https://www.reuters.com/world/africa/zimbabwe-says-china-donate-10-mln-doses-covid-vaccine-2022-2022-01-12/,Sinovac,China,CHN,2022-01-19,6000000.0
 Bangladesh,BGD,Comirnaty,Pfizer/BioNTech,https://bd.usembassy.gov/the-united-states-donates-additional-9-6-million-pfizer-vaccines-to-bangladesh-u-s-donated-doses-now-exceed-28-million/,Pfizer BioNTech,USA,USA,2022-01-19,9600000.0
---,--,Spikevax,Moderna,https://www.state.gov/countries-areas/bosnia-and-herzegovina/,Moderna,USA,USA,2022-01-19,96000.0
---,--,Vaxzevria,AstraZeneca,https://en.antaranews.com/news/210701/indonesia-receives-astrazeneca-vaccine-doses-donated-by-japan,AstraZeneca,Japan,JPN,2022-01-19,2720000.0
---,--,Vaxzevria,AstraZeneca,https://en.tempo.co/read/1550572/indonesia-receives-more-covid-19-vaccine-doses-from-japan,AstraZeneca,Japan,JPN,2022-01-19,448000.0
-Georgia,GEO,Vaxzevria,AstraZeneca,https://1tv.ge/en/news/romania-to-donate-10-000-az-shots-to-georgia/,AstraZeneca,Romania,ROU,2022-01-19,10000.0
+Lebanon,LBN,Comirnaty,Pfizer/BioNTech,https://www.rmoljawatengah.id/lebanon-dapat-31250-dosis-vaksin-pfizer-biontech-dari-qatar,Pfizer BioNTech,Qatar,QAT,2022-01-19,31250.0
 Zimbabwe,ZWE,BBIBP-CorV,Sinopharm (Beijing),https://www.reuters.com/world/africa/zimbabwe-says-china-donate-10-mln-doses-covid-vaccine-2022-2022-01-12/,Sinopharm (Beijing),China,CHN,2022-01-19,4000000.0
-Seychelles,SYC,Sputnik V,Gamaleya Research Institute,https://www.bnnbloomberg.ca/most-vaccinated-nation-seychelles-in-talks-to-buy-sputnik-shot-1.1602649,Gamaleya Research Institute,Russia,RUS,2022-01-20,1000.0
-Tunisia,TUN,Sputnik V,Gamaleya Research Institute,https://www.mfa.gov.rs/en/press-service/activities/covid-19-vaccines-serbia-arrived-tunisia,Gamaleya Research Institute,Serbia,SRB,2022-01-20,40000.0
-Sri Lanka,SLA,Sputnik V,Gamaleya Research Institute,https://www.newsfirst.lk/2021/03/04/russia-to-provide-300000-sputnik-v-jabs-to-sl-state-ministry/,Gamaleya Research Institute,Russia,RUS,2022-01-20,300000.0
+--,--,Spikevax,Moderna,https://www.state.gov/countries-areas/bosnia-and-herzegovina/,Moderna,USA,USA,2022-01-19,96000.0
+--,--,Vaxzevria,AstraZeneca,https://en.tempo.co/read/1550572/indonesia-receives-more-covid-19-vaccine-doses-from-japan,AstraZeneca,Japan,JPN,2022-01-19,448000.0
+Moldova,MDA,Comirnaty,Pfizer/BioNTech,https://www.moldpres.md/en/news/2021/07/23/21005326,Pfizer BioNTech,Romania,ROU,2022-01-19,100620.0
+--,--,Vaxzevria,AstraZeneca,https://en.antaranews.com/news/210701/indonesia-receives-astrazeneca-vaccine-doses-donated-by-japan,AstraZeneca,Japan,JPN,2022-01-19,2720000.0
 --,--,Sputnik V,Gamaleya Research Institute,https://www.interfax.ru/russia/772642,Gamaleya Research Institute,Rostec,CHN,2022-01-20,8000.0
---,MYS,Covishield,Serum Institute of India,https://unb.com.bd/category/Bangladesh/france-to-donate-2mn-doses-of-covid-19-vaccine-to-bangladesh-fm/82025,Serum Institute of India,Saudi Arabia,SAU,2022-01-20,1500000.0
 Antigua,ATG,Sputnik V,Gamaleya Research Institute,https://writeups24.com/antigua-and-barbuda-receive-1000-jabs-of-sputnik-v-from-russia/,Gamaleya Research Institute,Russia,RUS,2022-01-20,2000.0
+Grenada,GRD,Vaxzevria,AstraZeneca,https://www.sknvibes.com/news/newsdetails.cfm/114652,AstraZeneca,St. Kitts and Nevis,KNA,2022-01-20,2000.0
+Sri Lanka,SLA,Sputnik V,Gamaleya Research Institute,https://www.newsfirst.lk/2021/03/04/russia-to-provide-300000-sputnik-v-jabs-to-sl-state-ministry/,Gamaleya Research Institute,Russia,RUS,2022-01-20,300000.0
+Tunisia,TUN,Sputnik V,Gamaleya Research Institute,https://www.mfa.gov.rs/en/press-service/activities/covid-19-vaccines-serbia-arrived-tunisia,Gamaleya Research Institute,Serbia,SRB,2022-01-20,40000.0
+Seychelles,SYC,Sputnik V,Gamaleya Research Institute,https://www.bnnbloomberg.ca/most-vaccinated-nation-seychelles-in-talks-to-buy-sputnik-shot-1.1602649,Gamaleya Research Institute,Russia,RUS,2022-01-20,1000.0
+--,MYS,Covishield,Serum Institute of India,https://unb.com.bd/category/Bangladesh/france-to-donate-2mn-doses-of-covid-19-vaccine-to-bangladesh-fm/82025,Serum Institute of India,Saudi Arabia,SAU,2022-01-20,1500000.0
 --,--,Sputnik V,Gamaleya Research Institute,https://tass.com/world/1290517,Gamaleya Research Institute,Russia,RUS,2022-01-20,10000.0
 Tajikistan,TJK,Sputnik V,Gamaleya Research Institute,https://tass.ru/obschestvo/12119379,Gamaleya Research Institute,Russia,RUS,2022-01-20,50000.0
-Grenada,GRD,Vaxzevria,AstraZeneca,https://www.sknvibes.com/news/newsdetails.cfm/114652,AstraZeneca,St. Kitts and Nevis,KNA,2022-01-20,2000.0
-West Bank and Gaza,PSE,Ad26.COV 2.S,Janssen,http://english.wafa.ps/Pages/Details/126790,Janssen Pharmaceuticals,Slovakia,SVK,2022-01-21,200000.0
 Czech Rep.,CZE,Comirnaty,Pfizer/BioNTech,https://www.expats.cz/czech-news/article/slovenia-to-give-10-530-pfizer-vaccines-to-the-czech-republic,Pfizer BioNTech,Slovenia,SVN,2022-01-21,10530.0
-El Salvador,SLV,BBIBP-CorV,Sinopharm (Beijing),https://www.salud.gob.sv/arriba-a-el-salvador-el-quincuagesimo-lote-de-vacunas-de-las-farmaceuticas-sinovac-y-sinopharm/,Sinopharm (Beijing),China,CHN,2022-01-21,100000.0
-El Salvador,SLV,Coronavac,Sinovac,https://www.salud.gob.sv/arriba-a-el-salvador-el-quincuagesimo-lote-de-vacunas-de-las-farmaceuticas-sinovac-y-sinopharm/,Sinovac,China,CHN,2022-01-21,500000.0
-Mauritius,MUS,BBIBP-CorV,Sinopharm (Beijing),https://www.linfo.re/ocean-indien/ile-maurice-rodrigues/covid-19-les-emirats-arabes-unis-font-un-don-de-5-000-doses-de-vaccin-sinopharm-a-l-ile-maurice,Sinopharm (Beijing),UAE,ARE,2022-01-21,5000.0
-Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/johor-to-receive-over-400000-covid-19-vaccine-doses-donated-by-singapore-uae,Pfizer BioNTech,Singapore,SGP,2022-01-21,100640.0
-Dominica,DMA,Vaxzevria,AstraZeneca,https://twitter.com/SkerritR/status/1423947920739487745?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1423947920739487745%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwicnews.com%2Fcaribbean%2Fuk-donates-52000-astrazeneca-vaccines-to-dominica-svg-grenada-and-ab-330036632%2F,AstraZeneca,UK,GBR,2022-01-21,12000.0
 Philippines,PHL,Vaxzevria,AstraZeneca,https://en.yna.co.kr/view/AEN20211130007700325,AstraZeneca,South Korea,KOR,2022-01-21,539430.0
+El Salvador,SLV,BBIBP-CorV,Sinopharm (Beijing),https://www.salud.gob.sv/arriba-a-el-salvador-el-quincuagesimo-lote-de-vacunas-de-las-farmaceuticas-sinovac-y-sinopharm/,Sinopharm (Beijing),China,CHN,2022-01-21,100000.0
+Mauritius,MUS,BBIBP-CorV,Sinopharm (Beijing),https://www.linfo.re/ocean-indien/ile-maurice-rodrigues/covid-19-les-emirats-arabes-unis-font-un-don-de-5-000-doses-de-vaccin-sinopharm-a-l-ile-maurice,Sinopharm (Beijing),UAE,ARE,2022-01-21,5000.0
+El Salvador,SLV,Coronavac,Sinovac,https://www.salud.gob.sv/arriba-a-el-salvador-el-quincuagesimo-lote-de-vacunas-de-las-farmaceuticas-sinovac-y-sinopharm/,Sinovac,China,CHN,2022-01-21,500000.0
+Malaysia,MYS,Comirnaty,Pfizer/BioNTech,https://www.straitstimes.com/asia/se-asia/johor-to-receive-over-400000-covid-19-vaccine-doses-donated-by-singapore-uae,Pfizer BioNTech,Singapore,SGP,2022-01-21,100640.0
 Rwanda,RWA,Spikevax,Moderna,https://www.newtimes.co.rw/news/rwanda-receives-million-covid-19-jabs-sweden,Moderna,Sweden,SWE,2022-01-21,1000000.0
+Dominica,DMA,Vaxzevria,AstraZeneca,https://twitter.com/SkerritR/status/1423947920739487745?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1423947920739487745%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwicnews.com%2Fcaribbean%2Fuk-donates-52000-astrazeneca-vaccines-to-dominica-svg-grenada-and-ab-330036632%2F,AstraZeneca,UK,GBR,2022-01-21,12000.0
+West Bank and Gaza,PSE,Ad26.COV 2.S,Janssen,http://english.wafa.ps/Pages/Details/126790,Janssen Pharmaceuticals,Slovakia,SVK,2022-01-21,200000.0
 Iran,IRN,Vaxzevria,AstraZeneca,https://www.tehrantimes.com/news/466330/S-Korea-to-provide-Iran-with-1m-doses-of-COVID-vaccine,AstraZeneca,South Korea,KOR,2022-01-21,1000000.0
 Paraguay,PRY,Vaxzevria,AstraZeneca,https://www.swissinfo.ch/spa/coronavirus-uruguay_uruguay-dona-12.000-dosis-de-vacunas-de-astrazeneca-a-paraguay/46717798,AstraZeneca,Uruguay,URY,2022-01-21,12000.0
 Laos,LAO,Vaxzevria,AstraZeneca,https://m.facebook.com/Lao-National-Television-English-News-Program-159023380915975/videos/laos-on-thursday-receives-415000-doses-of-the-astrazeneca-covid-19-vaccine-provi/266238564900098/?locale=ne_NP,AstraZeneca,UK,GBR,2022-01-21,415000.0
 Botswana,BWA,Ad26.COV 2.S,Janssen,https://www.mmegi.bw/features/whos-listening-to-who/news,Janssen Pharmaceuticals,South Africa,ZAF,2022-01-21,50400.0
 Thailand,THA,Vaxzevria,AstraZeneca,https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/09/20210927-SG-asst-Thailand,AstraZeneca,Singapore,SGP,2022-01-21,122400.0
 --,--,Vaxzevria,AstraZeneca,https://www.zaobao.com.sg/realtime/singapore/story20210928-1198203,AstraZeneca,Singapore,SGP,2022-01-21,122400.0
-Bahamas,BHS,Ad26.COV 2.S,Janssen,https://znsbahamas.com/bahamas-receives-pfizer-and-johnson-johnson-covid-19-vaccines-from-the-us/?fbclid=IwAR391pLdWchCLzwfpeERNYrqseGngh-B2dLcR4qEgjg3froVrzRAXnNwQA8,Janssen Pharmaceuticals,USA,USA,2022-01-21,200.0
+Albania,ALB,Comirnaty,Pfizer/BioNTech,https://ca.news.yahoo.com/albania-gets-7-020-more-113626922.html,Pfizer BioNTech,European Union,IND,2022-01-21,975.0
 Indonesia,IDN,BBIBP-CorV,Sinopharm (Beijing),https://kemlu.go.id/abudhabi/en/news/12736/indonesia-receives-gift-of-500000-doses-of-covid-19-vaccines-from-the-united-arab-emirates,Sinopharm (Beijing),UAE,ARE,2022-01-21,500000.0
---,--,Vaxzevria,AstraZeneca,https://jakartaglobe.id/news/uk-donates-healthcare-equipment-to-help-covid-patients-in-indonesia,AstraZeneca,UK,GBR,2022-01-21,620000.0
+Bahamas,BHS,Ad26.COV 2.S,Janssen,https://znsbahamas.com/bahamas-receives-pfizer-and-johnson-johnson-covid-19-vaccines-from-the-us/?fbclid=IwAR391pLdWchCLzwfpeERNYrqseGngh-B2dLcR4qEgjg3froVrzRAXnNwQA8,Janssen Pharmaceuticals,USA,USA,2022-01-21,200.0
 Namibia,NAM,Ad26.COV 2.S,Janssen,https://allafrica.com/view/group/main/main/id/00078777.html,Janssen Pharmaceuticals,USA,USA,2022-01-21,168000.0
 Grenada,GRD,Vaxzevria,AstraZeneca,https://wicnews.com/caribbean/uk-donates-52000-astrazeneca-vaccines-to-dominica-svg-grenada-and-ab-330036632/,AstraZeneca,UK,GBR,2022-01-21,14000.0
 Saint Vincent,VCT,Vaxzevria,AstraZeneca,https://wicnews.com/caribbean/uk-donates-52000-astrazeneca-vaccines-to-dominica-svg-grenada-and-ab-330036632/,AstraZeneca,UK,GBR,2022-01-21,14000.0
 Grenada,GRD,Comirnaty,Pfizer/BioNTech,https://writeups24.com/grenada-receives-donation-of-pfizer-vaccine-from-trinidad-and-tobago/,Pfizer BioNTech,Trinidad,TTO,2022-01-21,2000.0
 Armenia,ARM,Spikevax,Moderna,https://euneighbourseast.eu/news-and-stories/latest-news/team-europe-slovakia-donates-over-60000-doses-of-moderna-vaccines-to-armenia/,Moderna,Slovakia,SVK,2022-01-21,60700.0
-Albania,ALB,Comirnaty,Pfizer/BioNTech,https://ca.news.yahoo.com/albania-gets-7-020-more-113626922.html,Pfizer BioNTech,European Union,IND,2022-01-21,975.0
+--,--,Vaxzevria,AstraZeneca,https://jakartaglobe.id/news/uk-donates-healthcare-equipment-to-help-covid-patients-in-indonesia,AstraZeneca,UK,GBR,2022-01-21,620000.0
 Iran,IRN,Vaxzevria,AstraZeneca,https://www.reuters.com/business/healthcare-pharmaceuticals/poland-donates-million-covid-19-shots-iran-2021-10-14/,AstraZeneca,Poland,POL,2022-01-22,1000000.0
 Mozambique,MOZ,Vaxzevria,AstraZeneca,https://portaldiplomatico.mne.gov.pt/en/communication-and-media/press-releases/portugal-provides-mozambique-with-more-vaccines-against-covid-19,AstraZeneca,Portugal,PRT,2022-01-22,110000.0
 Iran,IRN,Vaxzevria,AstraZeneca,https://en.mehrnews.com/news/183307/Iran-receives-2nd-shipment-of-COVID-19-vaccines-from-Poland,AstraZeneca,Poland,POL,2022-01-22,1000000.0
@@ -747,28 +747,28 @@ Cabo Verde,CPV,Vaxzevria,AstraZeneca,https://europe-cities.com/2021/11/29/portug
 Timor-Leste,TLS,Vaxzevria,AstraZeneca,https://dili.embaixadaportugal.mne.gov.pt/pt/a-embaixada/noticias/portugal-entrega-130-000-vacinas-contra-a-covid-19-ao-ministerio-da-saude-de-timor-leste,AstraZeneca,Portugal,PRT,2022-01-22,130000.0
 --,--,Vaxzevria,AstraZeneca,https://www.verangola.net/va/en/112021/Health/28332/Portugal-donates-200000-doses-of-AstraZeneca-vaccine-against-covid-19-to-Angola.htm,AstraZeneca,Portugal,PRT,2022-01-22,200000.0
 Sao Tome,STP,Vaxzevria,AstraZeneca,https://www.portugal.gov.pt/pt/gc22/comunicacao/comunicado?i=portugal-envia-novo-lote-de-vacinas-contra-a-covid-19-para-sao-tome-e-principe,AstraZeneca,Portugal,PRT,2022-01-22,37000.0
---,--,Vaxzevria,AstraZeneca,https://twitter.com/nestrangeiro_pt/status/1481558278836572161,AstraZeneca,Portugal,PRT,2022-01-22,800000.0
+--,--,Vaxzevria,AstraZeneca,https://twitter.com/nestrangeiro_pt/status/1481558278836572161,AstraZeneca,Portugal,PRT,2022-01-22,799640.0
 Mozambique,MOZ,Vaxzevria,AstraZeneca,https://www.portugal.gov.pt/pt/gc22/comunicacao/comunicado?i=portugal-disponibiliza-a-mocambique-mais-de-meio-milhao-de-vacinas-contra-a-covid-19,AstraZeneca,Portugal,PRT,2022-01-22,187200.0
 Bahamas,BHS,Comirnaty,Pfizer/BioNTech,"https://bs.usembassy.gov/u-s-embassy-delivers-32400-pfizer-covid-19-vaccine-doses-to-the-bahamas/#:~:text=The%20United%20States%20has%20delivered,to%20The%20Bahamas%20in%202021.",Pfizer BioNTech,USA,USA,2022-01-22,32400.0
 Belarus,BLR,BBIBP-CorV,Sinopharm (Beijing),https://www.tvr.by/eng/news/obshchestvo/o_novoy_partii_vaktsiny_iz_kitaya_budut_li_privivat_detey_v_shkolakh_i_ob_epidsituatsii_v_tselom_v_i/,Sinopharm (Beijing),China,CHN,2022-01-24,1500000.0
 Zambia,ZMB,BBIBP-CorV,Sinopharm (Beijing),https://www.znbc.co.zm/news/covid-19-400000-sinopharm-vaccine-doses-delivered/,Sinopharm (Beijing),China,CHN,2022-01-24,1000000.0
 --,--,--,--,https://www.pna.gov.ph/articles/1127356,--,A Dose of Hope,ARG,2022-01-24,16520000.0
-Iran,IRN,Vaxzevria,AstraZeneca,https://greekcitytimes.com/2022/01/14/greece-donates-200000-astrazeneca/,AstraZeneca,Greece,GRC,2022-01-24,200000.0
 Iran,IRN,Vaxzevria,AstraZeneca,https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2022/20220119_vaccine-donation.aspx,AstraZeneca,Spain,ESP,2022-01-24,2204000.0
+Iran,IRN,Vaxzevria,AstraZeneca,https://greekcitytimes.com/2022/01/14/greece-donates-200000-astrazeneca/,AstraZeneca,Greece,GRC,2022-01-24,200000.0
 Ethiopia,ETH,BBIBP-CorV,Sinopharm (Beijing),http://www.news.cn/english/20220121/b79b261e6ff1451da083b95bdc3ab847/c.html,Sinopharm (Beijing),China,CHN,2022-01-24,2200000.0
 --,--,Vaxzevria,AstraZeneca,https://enterprise.press/wp-content/uploads/2022/01/Argentina-donates-covid19-vaccines-English.pdf,AstraZeneca,Argentina,ARG,2022-01-27,1000000.0
 Malaysia,MYS,BBIBP-CorV,Sinopharm (Beijing),https://www.straitstimes.com/asia/se-asia/johor-to-receive-over-400000-covid-19-vaccine-doses-donated-by-singapore-uae,Sinopharm (Beijing),UAE,ARE,2022-01-30,300000.0
-Malaysia,MYS,BBIBP-CorV,Sinopharm (Beijing),https://www.nst.com.my/news/nation/2022/01/766051/uae-give-one-million-sinopharm-covid-19-vaccine-doses-malaysia,Sinopharm (Beijing),UAE,ARE,2022-01-31,1000000.0
+Mali,MLI,Coronavac,Sinovac,https://www.fourals.com/2022/01/24/algeria-donates-400000-doses-of-sinovac-vaccine-to-mali/,Sinovac,Algeria,DZA,2022-01-31,400000.0
 West Bank and Gaza,PSE,Sputnik V,Gamaleya Research Institute,https://www.france24.com/en/live-news/20220126-abbas-rival-delivers-one-million-vaccine-doses-to-gaza,Gamaleya Research Institute,UAE,ARE,2022-01-31,1000000.0
 Solomon Islands,SLB,Vaxzevria,CSL,https://www.sbs.com.au/news/australia-sends-medical-team-to-solomon-islands-to-help-contain-covid-19-outbreak/d83f306c-4862-4807-a625-6585b16ff8f7,AstraZeneca,Australia,AUS,2022-01-31,37800.0
 Mali,MLI,Coronavac,Sinovac,https://www.fourals.com/2022/01/24/algeria-donates-400000-doses-of-sinovac-vaccine-to-mali/,Sinovac,Algeria,DZA,2022-01-31,300000.0
+Malaysia,MYS,BBIBP-CorV,Sinopharm (Beijing),https://www.nst.com.my/news/nation/2022/01/766051/uae-give-one-million-sinopharm-covid-19-vaccine-doses-malaysia,Sinopharm (Beijing),UAE,ARE,2022-01-31,1000000.0
 Tanzania,TZA,BBIBP-CorV,Sinopharm (Beijing),http://www.china.org.cn/world/2022-01/30/content_78020382.htm,Sinopharm (Beijing),China,CHN,2022-01-31,200000.0
-Mali,MLI,Coronavac,Sinovac,https://www.fourals.com/2022/01/24/algeria-donates-400000-doses-of-sinovac-vaccine-to-mali/,Sinovac,Algeria,DZA,2022-01-31,400000.0
-Tanzania,TZA,BBIBP-CorV,Sinopharm (Beijing),http://www.news.cn/english/20220127/04e6e16455784c5fab2ffeb8c128535b/c.html,Sinopharm (Beijing),China,CHN,2022-02-01,800000.0
-Egypt,EGY,Comirnaty,Pfizer/BioNTech,"https://english.ahram.org.eg/NewsContent/1/1236/457201/Egypt/Health/Egypt-receives-,-AstraZeneca-coronavirus-vaccines-.aspx",Pfizer BioNTech,Latvia,LVA,2022-02-01,115000.0
 Benin,BEN,Sputnik Light,Gamaleya Research Institute,https://tass.com/society/1392925,Gamaleya Research Institute,Russia,RUS,2022-02-01,100000.0
-Somalia,SOM,MVC-COV1901,Medigen,https://www.taipeitimes.com/News/taiwan/archives/2022/02/01/2003772423,Medigen Vaccine Biologics,Taiwan,TWN,2022-02-01,150000.0
+Egypt,EGY,Comirnaty,Pfizer/BioNTech,"https://english.ahram.org.eg/NewsContent/1/1236/457201/Egypt/Health/Egypt-receives-,-AstraZeneca-coronavirus-vaccines-.aspx",Pfizer BioNTech,Latvia,LVA,2022-02-01,115000.0
 Laos,LAO,BBIBP-CorV,Sinopharm (Beijing),https://www.csis.org/programs/southeast-asia-program/projects/southeast-asia-covid-19-tracker,Sinopharm (Beijing),China,CHN,2022-02-01,1500000.0
+Somalia,SOM,MVC-COV1901,Medigen,https://www.taipeitimes.com/News/taiwan/archives/2022/02/01/2003772423,Medigen Vaccine Biologics,Taiwan,TWN,2022-02-01,150000.0
+Tanzania,TZA,BBIBP-CorV,Sinopharm (Beijing),http://www.news.cn/english/20220127/04e6e16455784c5fab2ffeb8c128535b/c.html,Sinopharm (Beijing),China,CHN,2022-02-01,800000.0
 --,--,Spikevax,Moderna,https://www.gov.me/en/article/slovenia-donates-42000-doses-of-moderna-covid-19-vaccine-to-montenegro,Moderna,Slovenia,SVN,2022-02-02,42000.0
 Kenya,KEN,Vaxzevria,AstraZeneca,https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-30TH-DECEMBER-2021-1.pdf,AstraZeneca,Argentina,ARG,2022-02-02,400000.0
 Thailand,THA,BBIBP-CorV,Sinopharm (Beijing),https://www.nationthailand.com/in-focus/40011978,Sinopharm (Beijing),China,CHN,2022-02-08,100000.0
@@ -777,10 +777,10 @@ Viet Nam,VNM,BBIBP-CorV,Sinopharm (Beijing),https://vietnamnews.vn/politics-laws
 Lesotho,LSO,BBIBP-CorV,Sinopharm (Beijing),https://www.gov.ls/health-receives-sinopharm-vaccine/,Sinopharm (Beijing),Sesiu Sa Letšoele Le Beta Poho,AUT,2022-02-17,60000.0
 West Bank and Gaza,PSE,Coronavac,VACSERA,https://english.ahram.org.eg/News/461404.aspx,Sinovac,China,CHN,2022-02-21,250000.0
 West Bank and Gaza,PSE,Coronavac,VACSERA,https://english.ahram.org.eg/News/461404.aspx,Sinovac,Egypt,EGY,2022-02-21,250000.0
+Antigua,ATG,Comirnaty,Pfizer/BioNTech,"https://bb.usembassy.gov/united-states-donates-additional-32400-pfizer-vaccines-to-antigua-and-barbuda/#:~:text=United%20States%20Donates%20Additional%2032%2C400%20Pfizer%20Vaccines%20to%20Antigua%20and%20Barbuda,-Home%20%7C%20News%20%26%20Events&text=In%20three%20separate%20tranches%20this,against%20the%20COVID%2D19%20pandemic.",Pfizer BioNTech,USA,USA,2022-02-22,32400.0
 Aruba,ABW,Comirnaty,Pfizer/BioNTech,https://www.government.aw/news/news_47033/item/aruba-receives-another-shipment-of-pfizer-vaccines-on-august-4-2021_57804.html,Pfizer BioNTech,Netherlands,NLD,2022-02-22,12285.0
 Pakistan,PAK,Comirnaty,Pfizer/BioNTech,https://pk.usembassy.gov/the-united-states-has-donated-over-50-million-covid-19-vaccines-to-pakistan/,Pfizer BioNTech,USA,USA,2022-02-22,4700000.0
 Philippines,PHL,Comirnaty,Pfizer/BioNTech,https://newsinfo.inquirer.net/1557851/pfizer-covid-19-vaccine-doses-donated-by-australia-arrive-in-ph,Pfizer BioNTech,Australia,AUS,2022-02-22,300000.0
-Antigua,ATG,Comirnaty,Pfizer/BioNTech,"https://bb.usembassy.gov/united-states-donates-additional-32400-pfizer-vaccines-to-antigua-and-barbuda/#:~:text=United%20States%20Donates%20Additional%2032%2C400%20Pfizer%20Vaccines%20to%20Antigua%20and%20Barbuda,-Home%20%7C%20News%20%26%20Events&text=In%20three%20separate%20tranches%20this,against%20the%20COVID%2D19%20pandemic.",Pfizer BioNTech,USA,USA,2022-02-22,32400.0
 --,--,Vaxzevria,AstraZeneca,https://hungarytoday.hu/hungary-deliver-6000-vaccine-doses-north-macedonia/,AstraZeneca,Hungary,HUN,2022-02-22,6000.0
 --,--,Vaxzevria,CSL,https://www.theguardian.com/world/2021/jul/07/australia-to-send-25m-astrazeneca-vaccine-doses-to-indonesia-as-covid-infections-soar,AstraZeneca,Australia,AUS,2022-03-01,2500000.0
 Suriname,SUR,Comirnaty,Pfizer/BioNTech,https://twitter.com/StateDept/status/1492453436461309954,Pfizer BioNTech,USA,USA,2022-03-02,226800.0
@@ -793,36 +793,37 @@ Burkina Faso,BFA,Coronavac,Sinovac,https://www.azernews.az/news.php?news_id=1865
 Colombia,COL,Comirnaty,Pfizer/BioNTech,https://twitter.com/IvanDuque/status/1489631446859980806,Pfizer BioNTech,Spain,ESP,2022-03-14,6500000.0
 --,--,Spikevax,Moderna,https://www.cne.go.cr/covid/ADQUISICION_VACUNAS.aspx?fbclid=IwAR22gzo1TSlhXpzwIb9mW-K4J-ekGfpGuPnEsJQTE3S8woPhqp_satHY2Yk,Moderna,Spain,ESP,2022-03-16,500000.0
 Eswatini,SWZ,Vaxzevria,AstraZeneca,https://twitter.com/EswatiniGovern1/status/1413142294908211209,AstraZeneca,UK,GBR,2022-03-16,500000.0
-Kazakhstan,KAZ,Sputnik Light,Gamaleya Research Institute,https://tass.com/world/1386339?utm_source=google.com&utm_medium=organic&utm_campaign=google.com&utm_referrer=google.com,Gamaleya Research Institute,Russia,RUS,2022-03-17,150000.0
 Honduras,HND,Vaxzevria,Laboratorios Liomont,https://www.salud.gob.hn/site/index.php/component/k2/item/2403-secretaria-de-salud-recibe-150-mil-dosis-de-vacuna-contra-la-covid-19-de-astrazeneca,AstraZeneca,Mexico,MEX,2022-03-17,150000.0
+Kazakhstan,KAZ,Sputnik Light,Gamaleya Research Institute,https://tass.com/world/1386339?utm_source=google.com&utm_medium=organic&utm_campaign=google.com&utm_referrer=google.com,Gamaleya Research Institute,Russia,RUS,2022-03-17,150000.0
 Honduras,HND,Vaxzevria,AstraZeneca,https://us.as.com/us/2021/06/11/actualidad/1623364617_994152.html,AstraZeneca,El Salvador,SLV,2022-03-17,78000.0
 Morocco,MAR,Soberana 2,Finlay,https://en.granma.cu/mundo/2022-03-07/cuba-donates-thousands-of-sovereign-02-vaccines-to-the-saharawi-people,Finlay,Cuba,CUB,2022-03-21,458000.0
-Armenia,ARM,Comirnaty,Pfizer/BioNTech,https://arka.am/en/news/society/portugal_donates_400_140_dozes_of_biontech_pfizer_vaccines_to_armenia_/,Pfizer BioNTech,Portugal,PRT,2022-03-21,400140.0
+Armenia,ARM,Comirnaty,Pfizer/BioNTech,https://www.portugal.gov.pt/en/gc22/communication/news-item?i=portugal-sends-400-thousand-covid-19-vaccines-to-armenia,Pfizer BioNTech,Portugal,PRT,2022-03-21,400140.0
+Tonga,TON,Comirnaty,Pfizer/BioNTech,https://www.beehive.govt.nz/release/new-zealand-donate-further-covid-19-vaccines-tonga-and-samoa,Pfizer BioNTech,New Zealand,NZL,2022-03-22,9300.0
 Samoa,WSM,Comirnaty,Pfizer/BioNTech,https://www.beehive.govt.nz/release/new-zealand-donate-further-covid-19-vaccines-tonga-and-samoa,Pfizer BioNTech,New Zealand,NZL,2022-03-22,10000.0
 Myanmar,MMR,Vaxzevria,Siam Bioscience,https://thethaiger.com/news/national/thailand-to-donate-1-million-doses-of-astrazeneca-vaccine-to-myanmar,AstraZeneca,Thailand,THA,2022-03-22,1000000.0
-Tonga,TON,Comirnaty,Pfizer/BioNTech,https://www.beehive.govt.nz/release/new-zealand-donate-further-covid-19-vaccines-tonga-and-samoa,Pfizer BioNTech,New Zealand,NZL,2022-03-22,9300.0
 Philippines,PHL,Comirnaty,Pfizer/BioNTech,https://www.pna.gov.ph/articles/1168134,Pfizer BioNTech,Australia,AUS,2022-03-23,1138410.0
 Indonesia,IDN,Coronavac,Sinovac,https://en.antaranews.com/news/205669/indonesia-receives-2-million-sinovac-vaccines-from-china,Sinovac,China,CHN,2022-03-24,2000000.0
 --,--,Vaxzevria,AstraZeneca,https://www.gov.uk/government/news/uk-donates-1-million-more-doses-of-oxford-astrazeneca-vaccine-to-bangladesh,AstraZeneca,UK,GBR,2022-03-25,1000000.0
---,--,Vaxzevria,AstraZeneca,https://www.facebook.com/szijjarto.peter.official/posts/493802365546395,AstraZeneca,Hungary,HUN,2022-03-28,523000.0
---,--,Vaxzevria,AstraZeneca,https://documents1.worldbank.org/curated/en/707991641310382716/pdf/Guinea-Bissau-COVID-19-Emergency-Preparedness-and-Response-Project.pdf,AstraZeneca,Senegal,SEN,2022-03-28,4000.0
-Zimbabwe,ZWE,BBIBP-CorV,Sinopharm (Beijing),https://ionnews.mu/maurice-offre-des-vaccins-spoutnik-et-sinopharm-au-rwanda-et-au-zimbabwe/,Sinopharm (Beijing),Mauritius,MUS,2022-03-28,60000.0
-Guinea-Bissau,GNB,BBIBP-CorV,Sinopharm (Beijing),https://www.forumchinaplp.org.mo/senegal-giving-guinea-bissau-chinese-made-covid-19-vaccine/,Sinopharm (Beijing),Senegal,SEN,2022-03-28,10000.0
-Albania,ALB,Vaxzevria,AstraZeneca,https://twitter.com/AlEmbCroatia/status/1393581235906220032?s=20&t=Uwh5C30UIyPuG4MfYGmdjA,AstraZeneca,Croatia,HRV,2022-03-28,10000.0
-Gambia,GMB,BBIBP-CorV,Sinopharm (Beijing),https://hungarytoday.hu/coronavirus-hungary-donating-vaccines-to-ghana-rwanda-africa-peter-szijjarto-covid-19-doses-jabs/,Sinopharm (Beijing),Hungary,HUN,2022-03-28,105600.0
-Albania,ALB,Vaxzevria,AstraZeneca,https://www.total-croatia-news.com/lifestyle/57989-croatia-donates-490-000-doses-of-vaccine,AstraZeneca,Croatia,HRV,2022-03-28,20000.0
-Kosovo,XKX,Vaxzevria,AstraZeneca,https://euronews.al/en/kosovo/2021/05/06/croatia-offers-10000-vaccine-doses-to-kosovo/,AstraZeneca,Croatia,HRV,2022-03-28,10000.0
-Comoros,COM,BBIBP-CorV,Sinopharm (Beijing),https://www.comoresinfos.net/vaccin-sinopharm-les-emirats-arabes-unis-ont-livre-300-000-doses/,Sinopharm (Beijing),UAE,ARE,2022-03-28,600000.0
---,--,--,--,https://www.facebook.com/szijjarto.peter.official/posts/498323361760962,--,Hungary,HUN,2022-03-28,156000.0
-Tanzania,TZA,Coronavac,Sinovac,https://allafrica.com/stories/202203240491.html,Sinovac,Turkey,TUR,2022-03-28,1000000.0
-Ecuador,ECU,Vaxzevria,AstraZeneca,https://koronavirus.gov.hu/cikkek/szijjarto-magyarorszag-150-ezer-adag-vakcinat-adomanyoz-ecuadornak,AstraZeneca,Hungary,HUN,2022-03-28,150000.0
-Tunisia,TUN,Vaxzevria,AstraZeneca,https://www.tap.info.tn/en/Portal-Society/14685173-tunisia-takes,AstraZeneca,Hungary,HUN,2022-03-28,150000.0
 Rwanda,RWA,Vaxzevria,AstraZeneca,https://www.total-croatia-news.com/lifestyle/57989-croatia-donates-490-000-doses-of-vaccine,AstraZeneca,Croatia,HRV,2022-03-28,100000.0
+Comoros,COM,BBIBP-CorV,Sinopharm (Beijing),https://www.comoresinfos.net/vaccin-sinopharm-les-emirats-arabes-unis-ont-livre-300-000-doses/,Sinopharm (Beijing),UAE,ARE,2022-03-28,600000.0
+Albania,ALB,Vaxzevria,AstraZeneca,https://twitter.com/AlEmbCroatia/status/1393581235906220032?s=20&t=Uwh5C30UIyPuG4MfYGmdjA,AstraZeneca,Croatia,HRV,2022-03-28,10000.0
+--,--,Vaxzevria,AstraZeneca,https://www.facebook.com/szijjarto.peter.official/posts/493802365546395,AstraZeneca,Hungary,HUN,2022-03-28,523000.0
+Albania,ALB,Vaxzevria,AstraZeneca,https://www.total-croatia-news.com/lifestyle/57989-croatia-donates-490-000-doses-of-vaccine,AstraZeneca,Croatia,HRV,2022-03-28,20000.0
+Zimbabwe,ZWE,BBIBP-CorV,Sinopharm (Beijing),https://ionnews.mu/maurice-offre-des-vaccins-spoutnik-et-sinopharm-au-rwanda-et-au-zimbabwe/,Sinopharm (Beijing),Mauritius,MUS,2022-03-28,60000.0
+Tunisia,TUN,Vaxzevria,AstraZeneca,https://www.tap.info.tn/en/Portal-Society/14685173-tunisia-takes,AstraZeneca,Hungary,HUN,2022-03-28,150000.0
+Ecuador,ECU,Vaxzevria,AstraZeneca,https://koronavirus.gov.hu/cikkek/szijjarto-magyarorszag-150-ezer-adag-vakcinat-adomanyoz-ecuadornak,AstraZeneca,Hungary,HUN,2022-03-28,150000.0
+Gambia,GMB,BBIBP-CorV,Sinopharm (Beijing),https://hungarytoday.hu/coronavirus-hungary-donating-vaccines-to-ghana-rwanda-africa-peter-szijjarto-covid-19-doses-jabs/,Sinopharm (Beijing),Hungary,HUN,2022-03-28,105600.0
 Sudan,SDN,Vaxzevria,AstraZeneca,https://koronavirus.gov.hu/cikkek/szijjarto-200-ezer-vakcinat-adomanyoz-szudannak-magyarorszag,AstraZeneca,Hungary,HUN,2022-03-28,200000.0
+--,--,--,--,https://www.facebook.com/szijjarto.peter.official/posts/498323361760962,--,Hungary,HUN,2022-03-28,156000.0
+Guinea-Bissau,GNB,BBIBP-CorV,Sinopharm (Beijing),https://www.forumchinaplp.org.mo/senegal-giving-guinea-bissau-chinese-made-covid-19-vaccine/,Sinopharm (Beijing),Senegal,SEN,2022-03-28,10000.0
+--,--,Vaxzevria,AstraZeneca,https://documents1.worldbank.org/curated/en/707991641310382716/pdf/Guinea-Bissau-COVID-19-Emergency-Preparedness-and-Response-Project.pdf,AstraZeneca,Senegal,SEN,2022-03-28,4000.0
+Kosovo,XKX,Vaxzevria,AstraZeneca,https://euronews.al/en/kosovo/2021/05/06/croatia-offers-10000-vaccine-doses-to-kosovo/,AstraZeneca,Croatia,HRV,2022-03-28,10000.0
+Tanzania,TZA,Coronavac,Sinovac,https://allafrica.com/stories/202203240491.html,Sinovac,Turkey,TUR,2022-03-28,1000000.0
 Cambodia,KHM,Comirnaty,Pfizer/BioNTech,https://www.ucanews.com/news/australia-offers-cambodia-23-million-doses-of-pfizer-vaccine/95477#,Pfizer BioNTech,Australia,AUS,2022-03-30,2300000.0
+Moldova,MDA,Vaxzevria,AstraZeneca,https://www.digi24.ro/stiri/externe/maia-sandu-s-a-vaccinat-anti-covid-cu-serul-astrazeneca-am-primit-vestea-din-partea-romaniei-ca-vom-avea-mai-mult-vaccin-1520567,AstraZeneca,Romania,ROU,2022-03-31,100800.0
+Tajikistan,TJK,Vaxzevria,AstraZeneca,https://www.facebook.com/szijjarto.peter.official/posts/430912011835431,AstraZeneca,Hungary,HUN,2022-03-31,150000.0
 Colombia,COL,Comirnaty,Pfizer/BioNTech,https://www.minsalud.gov.co/English/Paginas/Colombia-Received-1%2C170%2C000-Doses-of-Pfizer-Vaccines-.aspx,Pfizer BioNTech,Germany,DEU,2022-03-31,2400000.0
 --,--,Vaxzevria,AstraZeneca,https://mandiner.hu/cikk/20220112_magyarorszag_ujabb_400_ezer_vakcinaval_segit_ghananak,AstraZeneca,Hungary,HUN,2022-03-31,400000.0
 Czech Rep.,CZE,Vaxzevria,AstraZeneca,https://www.facebook.com/permalink.php?story_fbid=301303841362173&id=107420310750528,AstraZeneca,Hungary,HUN,2022-03-31,40000.0
-Tajikistan,TJK,Vaxzevria,AstraZeneca,https://www.facebook.com/szijjarto.peter.official/posts/430912011835431,AstraZeneca,Hungary,HUN,2022-03-31,150000.0
-Moldova,MDA,Vaxzevria,AstraZeneca,https://www.digi24.ro/stiri/externe/maia-sandu-s-a-vaccinat-anti-covid-cu-serul-astrazeneca-am-primit-vestea-din-partea-romaniei-ca-vom-avea-mai-mult-vaccin-1520567,AstraZeneca,Romania,ROU,2022-03-31,100800.0
+Tunisia,TUN,Vaxzevria,AstraZeneca,https://nuoi.missaoportugal.mne.gov.pt/en/the-mission/news/portugal-in-the-international-fight-against-covid-19,AstraZeneca,Portugal,PRT,2022-04-01,110200.0
 Cayman Islands,CYM,Comirnaty,Pfizer/BioNTech,https://www.gov.ky/news/press-release-details/statement-on-vaccines-for-5-11-year-olds2,Pfizer BioNTech,UK,GBR,2022-04-01,2000.0
