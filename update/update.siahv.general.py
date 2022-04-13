@@ -108,13 +108,13 @@ if __name__ == '__main__':
             '__CALLBACKPARAM': '|'.join(['c0:D', col_add, col_order, 'false'])
         }, proxy)
 
-    # Selecciona 2021
+    # Selecciona 2022
     soup = process_request(URL, soup, cookies, {
         '__EVENTTARGET': 'ctl00$ContenidoPrincipal$ddl_gestion',
         'ctl00$ContenidoPrincipal$ScriptManager1': (
             'ctl00$ContenidoPrincipal$UpdatePanel1|ctl00$ContenidoPrincipal$ddl_gestion'
         ),
-        'ctl00$ContenidoPrincipal$ddl_gestion': 7,
+        'ctl00$ContenidoPrincipal$ddl_gestion': 8,
     }, proxy)
 
     death_df = pd.DataFrame([])
