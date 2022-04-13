@@ -123,8 +123,10 @@ def unpickle_data():
 if __name__ == '__main__':
     COUNTRIES = pd.read_csv('./update/geocodes.csv', index_col=['country', 'geoName'])
     country_data = unpickle_data()
+    country_names = COUNTRIES.index.get_level_values(0).to_frame()
+    country_names = country_names.drop_duplicates().sample(frac=1).index
 
-    for country in COUNTRIES.index.get_level_values(0).unique():
+    for country in country_names:
         print(country)
         country_params = COUNTRIES.loc[country]
 
