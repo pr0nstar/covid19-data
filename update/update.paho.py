@@ -146,7 +146,7 @@ def format_df_py(df):
     return df
 
 
-PARAGUAY_URL = 'https://public.tableau.com/workbooks/COVID19PY-Registros.twbx'
+PARAGUAY_URL = 'https://public.tableau.com/workbooks/6COVIDDatosDescarga-TBPublic-Descarga.twbx'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)'}
 def fetch_py():
     req = requests.get(PARAGUAY_URL, headers=HEADERS)
