@@ -14,7 +14,7 @@ from itertools import chain, product
 from update_utils import *
 
 
-BASE_URL = 'http://reportes-siahv.minsalud.gob.bo/'
+BASE_URL = 'https://reportes-siahv.minsalud.gob.bo/'
 URL = BASE_URL + 'Reporte_Dinamico_DG.aspx'
 
 COL_GROUP_ID = 'ctl00$ContenidoPrincipal$pivotReporteDG'
